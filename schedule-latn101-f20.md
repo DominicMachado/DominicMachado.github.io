@@ -54,24 +54,25 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Review
 - **Homework (due before class)**: Read sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives). Study noun-adjective agreement and the corresponding [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/) section for quiz #1.
 
-
-
 [Back to top.](#top)
 
 ***
 
 ## Week 3
 
-### Monday, September 16 [(slides)](https://docs.google.com/presentation/d/1CC86HD6_Mx2YzdIRCSBHECP0mLriod5Zttrcay_ZDLg/edit?usp=sharing)
-- Verbs: Person, Number, Tense, Voice, Mood, Principal Parts, Conjugations, Perfect Tense Active and Passive Indicative
+### Monday, September 14
+- Composition workshop
+- Homework (due before class): Translation #1 Due.
+
+### Wednesday, September 16
+- Verbs
+* Person, number, tense, voice, mood
+* Principal parts
+* Conjugations
+- Perfect active and passive indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
-- **Homework (due before class)**: Read and study the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/), the [perfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-perfect-tense), and on [intransitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#intransitive-sentences) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) and begin familiarizing yourself with [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-ind/) verb forms for quiz #4, [Composition #1 Due](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit?usp=sharing)
-
-### Wednesday, September 18 [(slides)](https://docs.google.com/presentation/d/1qr8V7OkJ76iTnPCyMocob8qLds65I2GMsVWq0lP_xwA/edit?usp=sharing)
-- Verbs: Imperfect Tense Active and Passive Indicative
-- Sentence Type 3: Passive + Ablative of Agent
-- **Homework (due before class)**: Review the section on [verbs](https://dlibatique.github.io/LATN101-F19/notes/2-verb-overview/) and [passive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#passive-sentences) with the slides from last class and read the section on the [imperfect tense](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-imperfect-tense) and its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-ind/) for quiz #5
+Homework (due before class): Composition #1 due. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
 
 ### Friday, September 20 [(slides)](https://docs.google.com/presentation/d/1of4iuO9jFATW22_MZN-8CI9h_qwFJm10E8cUZXSVYMM/edit?usp=sharing)
 - Verbs: Sum
