@@ -24,11 +24,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Introduction to CBL
 - **Homework (due before class)**: Read the [expectations](https://dominicmachado.github.io/details-expectations-tips-latn-101), grading, and schedule pages carefully.
 
-### Friday, September 6 [(slides)](https://docs.google.com/presentation/d/1JGxMywV0_CBtz7ko1ojRckGYVypL39CnDjTWUIXeW5E/edit?usp=sharing)
-- Nouns: Gender, Case, and Number; 1st, 2nd, and 3rd Declensions; Nominative, Genitive
-- Adjectives: Noun-Adjective Agreement, Demonstrative, Possessives
-- *Est*, *Sunt*
-- **Homework (due before class)**: Read and study the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and begin to familiarize yourself with [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts
+### Friday, September 4
+- Nouns (1st, 2nd, and 3rd declensions)
+- Usages of the nominative and genitive
+- Sentences with *est*, *sunt*
+- **Homework (due before class)**: Read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/).
 
 [Back to top.](#top)
 
@@ -36,9 +36,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 2
 
-### Monday, September 9 [(slides)](https://docs.google.com/presentation/d/1zsvQleKr6Atyk7mPHeuQ6gvJcStTsr-D2AoB6qHIPCU/edit?usp=sharing)
-- Adjectives: Noun-Adjective Agreement, 1st-2nd and 3rd Declensions, -ius Adjectives
-- **Homework (due before class)**: Review the slides from Friday as well as the notes on [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/) and study the [noun](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) and [adjective](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/) charts for quiz #1
+### Monday, September 7
+- Adjectives (2-1-2, 3rd declension adjectives)
+- Noun-adjective agreement
+- **Homework (due before class)**: Read and study notes on [2-1-2 adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2-adjectives) and [three termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#three-termination-adjectives), [two termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#two-termination-adjectives), and [one termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#one-termination-adjectives). Begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/).
+
 
 ### Wednesday, September 11 [(slides)](https://docs.google.com/presentation/d/1ExJ4nHLfm9eiPTsh3WpReeZI94W4A2PCbMqqrepSpuo/edit?usp=sharing)
 - Adjectives: Intensifying Adjectives, Substantives
