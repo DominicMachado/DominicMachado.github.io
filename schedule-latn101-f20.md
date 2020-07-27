@@ -39,17 +39,22 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 7
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
-- **Homework (due before class)**: Read and study notes on [2-1-2 adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2-adjectives) and [three termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#three-termination-adjectives), [two termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#two-termination-adjectives), and [one termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#one-termination-adjectives). Begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/).
+- **Homework (due before class)**: Read and study notes on [2-1-2 adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2-adjectives) and [three termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#three-termination-adjectives), [two termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#two-termination-adjectives), and [one termination](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#one-termination-adjectives) adjectives. Begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/).
 
 
-### Wednesday, September 11 [(slides)](https://docs.google.com/presentation/d/1ExJ4nHLfm9eiPTsh3WpReeZI94W4A2PCbMqqrepSpuo/edit?usp=sharing)
-- Adjectives: Intensifying Adjectives, Substantives
-- **Homework (due before class)**: Read the section on [substantives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#substantives) and review the section on [adjectives](https://dlibatique.github.io/LATN101-F19/notes/1-nouns-adjs/#adjectives) as well as the slides from Monday for quiz #2
+### Wednesday, September 9
+- *is, ea, id*
+- Demonstrative pronouns
+- Intensifying pronouns
+- **Homework (due before class)**: Read the section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) and begin to familiarize yourself with their forms in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms).
 
-### Friday, September 13
+### Friday, September 11
+- -ius adjectives
+- Substantives
 - Review
-- Composition Workshop
-- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/1/) for quiz #3 and prepare [Composition #1](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit?usp=sharing) for workshop, [Translation #1 Due](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit?usp=sharing)
+- **Homework (due before class)**: Read sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives). Study noun-adjective agreement and the corresponding [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/) section for quiz #1.
+
+
 
 [Back to top.](#top)
 
