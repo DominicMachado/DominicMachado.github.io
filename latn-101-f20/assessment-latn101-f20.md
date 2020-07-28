@@ -29,7 +29,7 @@ We will have five quizzes that test you on basic grammatical concepts and vocabu
 
 ## Competency Quizzes - 150 points
 
-We will have three "competency" quizzes that test you on basic grammatical concepts and vocabulary.
+We will have three "competency" quizzes that test you on basic grammatical concepts and vocabulary. You will three chances to make changes.
 
 ***
 
