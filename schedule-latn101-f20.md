@@ -65,7 +65,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Translation #1 Due.
 
 ### Wednesday, September 16
-- Verbs
+- Verbal forms
   - Person, number, tense, voice, mood
   - Principal parts
   - Conjugations
