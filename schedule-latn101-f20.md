@@ -52,7 +52,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - -ius adjectives
 - Substantives
 - Review
-- **Homework (due before class)**: Read sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives). Study noun-adjective agreement and the corresponding [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/) section for quiz #1.
+- **Homework (due before class)**: Read sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives). Study noun-adjective agreement and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/) for module 1 for quiz #1.
 
 [Back to top.](#top)
 
@@ -99,7 +99,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 25
 - Review
 - Reading practice
-- **Homework (due before class)**: Study for quiz #2 on the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for this module.
+- **Homework (due before class)**: Study for quiz #2 on the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2.
 
 [Back to top.](#top)
 
@@ -147,23 +147,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Fall Break: 10/12-20
-
-***
-
 ## Week 7
 
-### Monday, October 21 [(slides)](https://docs.google.com/presentation/d/1Xm5a-Y7H8UYHhQYQM1sn3kmlrN6fJgs2m72wvGbVusI/edit?usp=sharing)
-- Gerunds and GRGs
-- **Homework (due before class)**: Read the sections on [gerunds](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#gerunds) and [GRGs](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#grgs-gerund-replacing-gerundives) for quiz #16, [**Composition #3 due**](https://docs.google.com/document/d/1Cz74dEZiG8N_1LzSYcWbbvw5QPFifi2J9HaWyw2Il-0/edit?usp=sharing)
+### Monday, October 12
+- Competency Quiz #1 (third attempt)
+- Expressions of place and time
+- **Homework (due before class)**: Read the sections on expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time). Study noun-adjective agreement and verbs, if you have not passed your competency quiz yet.
 
-### Wednesday, October 23 [(slides)](https://docs.google.com/presentation/d/1aMXSI9eE_4WllQDUVHBXlWLgc1WFK2aieMo2PGtQt-Q/edit?usp=sharing)
-- Gerundives
-- **Homework (due before class)**: Read the section on gerundives and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/4/) for quiz #17
+### Wednesday, October 14
+- Gerunds and gerundives
+- **Homework (due before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/), begin studying vocabulary modules [3](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) and [4](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) for quiz #3 on Friday.
 
-### Friday, October 25 [(slides)](https://docs.google.com/presentation/d/1AXTGspFTUufiDqEJB3OXVDuuG1IVmYvmU--HuYR-hVA/edit?usp=sharing)
-- Questions: Interrogative Adjectives and Pronouns, Particles
-- **Homework (due before class)**: Read and study the sections on [questions](https://dlibatique.github.io/LATN101-F19/notes/5-questions) with a particular focus on the [interrogative pronoun](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-pronoun) and [adjective](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#interrogative-adjective) for quiz #18
+### Friday, October 16
+- Gerunds and gerundives (cont'd)
+- **Homework (due before class)**: Study vocabulary for modules [3](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) and [4](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) for quiz #3.
 
 [Back to top.](#top)
 
