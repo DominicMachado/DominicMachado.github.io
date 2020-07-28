@@ -168,24 +168,43 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 8
 
-### Monday, October 28 [(slides)](https://docs.google.com/presentation/d/1Q1hSCl54Ijf-_Hhngbj10LX5PsZMN3uYHrUF6qHD_C0/edit?usp=sharing)
-- Verbs: Present Active and Passive Indicative
-- **Homework (due before class)**: Read the section on the [present indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-present-tense) and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-ind/) for quiz #19
+### Monday, October 19
+- Interrogative adjectives and pronouns
+- **Homework (due before class)**: **Translation #3 due**. Read and study the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) with a particular focus on the parts on the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective).
 
-### Wednesday, October 30 [(slides)](https://docs.google.com/presentation/d/1VUcNUxcjzDSdOLQjTK9H3jVYXYCte2RRtx8nZekFOO0/edit?usp=sharing)
-- Verbs: Future Active and Passive Indicative
-- **Homework (due before class)**: Read the section on the [future indicative](https://dlibatique.github.io/LATN101-F19/notes/2-tenses/#the-future-tense) and familiarize yourself with its [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-fut-ind/) for quiz #20
+### Wednesday, October 21
+- Present indicative
+- Composition workshop
+- **Homework (due before class)**: **Translation #3 due**. Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and familiarize yourself with its morphology. Prepare for the composition workshop.
 
-### Friday, November 1 [(slides)](https://docs.google.com/presentation/d/1Ci6njnd3XuSEParXQOveob7Gh86AjpA9yYbqWd1kV7Q/edit?usp=sharing)
-- Verbs: Imperfect Active and Passive Subjunctive
-- Questions: Deliberative Subjunctive
-- **Homework (due before class)**: Read the section on the [deliberative subjunctive](https://dlibatique.github.io/LATN101-F19/notes/5-questions/#deliberative-subjunctive) and familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-impf-subj/) of the imperfect subjunctive for quiz #21, [**Translation #4 due**](https://docs.google.com/document/d/1O3O-t1sUjHgMHYU7ApNfVPd7DAGZOUvvnyK-6A1vt5Q/edit?usp=sharing)
+### Friday, October 23
+- Future indicative
+- **Homework (due before class)**: **Composition #3 due**. Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) and familiarize yourself with its morphology.
 
 [Back to top.](#top)
 
 ***
 
 ## Week 9
+
+### Monday, October 26
+- Imperfect active and passive subjunctive
+- Deliberative subjunctive
+- **Homework (due before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive) and familiarize yourself with the morphology of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive).
+
+### Wednesday, October 28
+- Present active and passive subjunctive
+- **Homework (due before class)**: Familiarize yourself with the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
+
+### Friday, October 30
+- Verb review
+- **Homework (due before class)**: Study for quiz #4 on the vocabulary for Modules [5](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [6](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/). Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the dark side of the subjunctive.
+
+[Back to top.](#top)
+
+***
+
+## Week 10
 
 ### Monday, November 4 [(slides)](https://docs.google.com/presentation/d/1AjG7fkRSJ9qICLJBJGuKBi-IosdDl1xaQenH3FboGGA/edit?usp=sharing)
 - Verbs: Present Active and Passive Subjunctive
@@ -200,11 +219,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - CBL Prep Time
 - **Homework (due before class)**: Review verb principal parts up to Module 5 for quiz #24
 
-[Back to top.](#top)
-
-***
-
-## Week 10
 
 ### Monday, November 11 [(slides)](https://docs.google.com/presentation/d/1Vd01bFMJTT6CbGOMKEyBblMFYObzjydXKmUC80n_YEU/edit?usp=sharing)
 - Pronouns: Personal pronouns and reflexives
