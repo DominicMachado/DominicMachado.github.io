@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Details, Expectations, and Tips - LATN 101
-permalink: details-expectations-tips-latn-101
+permalink: details-expectations-tips-latn-101-F20
 ---
 
 ***
