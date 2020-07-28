@@ -175,7 +175,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, October 21
 - Present indicative
 - Composition workshop
-- **Homework (due before class)**: **Translation #3 due**. Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and familiarize yourself with its morphology. Prepare for the composition workshop.
+- **Homework (due before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and familiarize yourself with its morphology. Prepare for the composition workshop.
 
 ### Friday, October 23
 - Future indicative
@@ -206,32 +206,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 10
 
-### Monday, November 4 [(slides)](https://docs.google.com/presentation/d/1AjG7fkRSJ9qICLJBJGuKBi-IosdDl1xaQenH3FboGGA/edit?usp=sharing)
-- Verbs: Present Active and Passive Subjunctive
-- Composition Workshop
-- **Homework (due before class)**: Familiarize yourself with the [morphology](https://dlibatique.github.io/LATN101-F19/charts/2-pres-subj/) of the present subjunctive for quiz #22, and prepare composition for workshop
+### Monday, November 2
+- Verb competency quiz #2 (first attempt)
+- Reading practice
+- **Homework (due before class)**: **Translation #4 due**. Study for verb competency quiz.
 
-### Wednesday, November 6
-- CBL Visit
-- **Homework (due before class)**: Review verb endings for a synopsis quiz #23, [**Composition #4 due**](https://docs.google.com/document/d/1AYPHettPVrqRLhCGTZl-VFkaAZPV4kaX1fHby_fu7hk/edit?usp=sharing)
+### Wednesday, November 4
+- Verb competency quiz #2 (second attempt)
+- Composition workshop
+- **Homework (due before class)**: Prepare your composition for the workshop and study for the verbal competency quiz, if you have not passed yet.
 
-### Friday, November 8
-- CBL Prep Time
-- **Homework (due before class)**: Review verb principal parts up to Module 5 for quiz #24
-
-
-### Monday, November 11 [(slides)](https://docs.google.com/presentation/d/1Vd01bFMJTT6CbGOMKEyBblMFYObzjydXKmUC80n_YEU/edit?usp=sharing)
-- Pronouns: Personal pronouns and reflexives
-- CBL Prep Time
-- **Homework (due before class)**: Read the section on [personal pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#reflexive-pronouns) and familiarize yourself with their morphology for quiz #25
-
-### Wednesday, November 13 [(slides)](https://docs.google.com/presentation/d/1L2WHnRQfbTukpqVmFFRcKWl7vIur02ycyHwRdi6S40M/edit?usp=sharing)
-- Indirect Statement
-- **Homework (due before class)**: Read the section on [indirect statement](https://dlibatique.github.io/LATN101-F19/notes/6-indirect-statement/#indirect-statement) and the formation of [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives) for quiz #26, **Group CBL Materials Due**
-
-### Friday, November 15 [(slides)](https://docs.google.com/presentation/d/1lCkrHfMU80jhi2p75CM1ZDUyuT2ym_pz_MqRYfVElog/edit?usp=sharing)
-- Review
-- **Homework (due before class)**: Review the section on indirect statement and the formation of infinitives for quiz #27;
+### Friday, November 6
+- Verbal competency quiz #2 (third attempt)
+- Indirect statement
+- **Homework (due before class)**: **Composition #4 due**. Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/). Study for the verbal competency quiz, if you have not passed it yet.
 
 [Back to top.](#top)
 
@@ -239,79 +227,79 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 11
 
-### Monday, November 18 [(slides)](https://docs.google.com/presentation/d/15ixgFJIBc7xrgh5ld8hT5rUY_SuwZ3iUpg910uWiiKo/edit?usp=sharing)
-- Review of indirect statement
+### Monday, November 9
 - Deponent verbs
-- **Homework (due before class)**: Read the section on [deponent verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/#deponent-verbs) for quiz #28
+- Indirect statement
+- **Homework (due before class)**: Review [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/). Please also read the section on [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
 
+### Wednesday, November 11
+- Personal pronouns and reflexives
+- Reading practice
+- **Homework (due before class)**: Read the section on [personal pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) and familiarize yourself with their morphology.
 
-### Wednesday, November 20 [(slides)](https://docs.google.com/presentation/d/1gLHQ6R6QA1JkGSLooyGUdLMX19KY5G4eYYY2QwoL8UI/edit?usp=sharing)
+### Friday, November 13
 - Temporal clauses
-- Verbs: Pluperfect Active and Passive Indicatve
-- **Homework (due before class)**: Read the section on [temporal clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/) and familiarize yourself with the morphology of the [pluperfect indicative](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-ind/) for quiz #29; [**Translation #5 due**](https://docs.google.com/document/d/1z5BShFRh2AxsZuRWmymWaa0mgoeSZZTkoErZ6zZ5soI/edit?usp=sharing)
+- Pluperfect active and passive indicative
+- **Homework (due before class)**: Read the section on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) and familiarize yourself with the morphology of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense).
 
-### Friday, November 22 [(slides)](https://docs.google.com/presentation/d/1jqFyl7yUiPWRMQPlMauPqqdca7j2Xev1o9EOeLGL5nU/edit?usp=sharing)
+[Back to top.](#top)
+
+***
+
+## Week 12
+
+### Monday, November 16
 - Temporal clauses
-- Verbs: Perfect and Pluperfect Active and Passive Subjunctive
-- Composition workshop
-- **Homework (due before class)**: Review the section on [temporal clauses](https://dlibatique.github.io/LATN101-F19/notes/7-temporal-clauses/) and familiarize yourself with the morphology of the [perfect](https://dlibatique.github.io/LATN101-F19/charts/2-perf-subj/) and [pluperfect](https://dlibatique.github.io/LATN101-F19/charts/2-plupf-subj/) subjunctive for quiz #30
+- Perfect and pluperfect subjunctive
+- **Homework (due before class)**: Review the section on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) and familiarize yourself with the morphology of the perfect and pluperfect subjunctive.
+
+
+### Wednesday, November 18
+- Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/).
+
+### Friday, November 20
+- Irregular Verbs: volō, nōlō, and mālō
+- **Homework (due before class)**: Review the morphology of these irregular verbs and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
 
 [Back to top.](#top)
 
 ***
 
-## Week 12.1
-
-### Monday, November 25 [(slides)](https://docs.google.com/presentation/d/1L9F8VpB-vDMNx9Kl-CYgv5Scm2yKJCJwuc1PSPfKBfI/edit?usp=sharing)
-- Review
-- **Homework (due before class)**: Review the morphology and grammar for temporal clauses quiz #31; [**Composition #5 due**](https://docs.google.com/document/d/12T_gs-7NT1A47SJlEYo9VkfW22hN0WQWpgsMqzuE2gw/edit?usp=sharing)
-
-[Back to top.](#top)
-
-***
-
-## Thanksgiving Break: 11/27-12/1
-
-***
-
-## Week 12.2
-
-### Monday, December 2
-- SNOW DAY!!!
-
-### Wednesday, December 4 [(slides)](https://docs.google.com/presentation/d/1dJDoO222pbpC9yxPzalJFo6_ij2tQ0DSM0BZ3EOqNOY/edit?usp=sharing)
-- Irregular Verbs: *ferō*, *ferre*, *tulī*, *lātus*; *eō*, *īre*, *iī*/*īvī*, *itūrus*
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #32, [**Translation #6 Due**](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit?usp=sharing)
-
-### Friday, December 6
-- Irregular Verbs: *volō*, *nōlō*, and *mālō*
-- Composition workshop
-- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #33
-
-[Back to top.](#top)
+## Thanksgiving Break: 11/23-11/29
 
 ***
 
 ## Week 13
 
-### Monday, December 9
-- CBL Visit
-- **Homework (due before class)**: Review the five new [irregular verbs](https://dlibatique.github.io/LATN101-F19/notes/8-pers-pron-dep-irreg/) for quiz #34; [**Composition #6 Due**](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit?usp=sharing)
+### Monday, November 30
+- Composition workshop.
+- **Homework (due before class)**: **Translation #5 due**. Prepare for the composition workshop.
 
-### Wednesday, December 11
-- CBL prep time
-- **Homework (due before class)**: Review vocabulary for quiz #35
+### Wednesday, December 2
+- Review
+- **Homework (due before class)**: **Composition #5 due**. Begin studying for grammatical competency quiz #3.
 
-### Friday, December 13
-- Looking ahead to Latin 102
-- **Homework (due before class)**: Review principal parts for quiz #36; **Group CBL Materials Due**
+### Friday, December 4
+- Grammatical competency quiz #3 (first attempt)
+- Reading practice
+- **Homework (due before class)**: Study for grammatical competency quiz and begin preparing CBL portfolio.
 
 [Back to top.](#top)
 
 ***
 
-## Study Period: December 14-16
+## Week 14
 
-***
+### Monday, December 7
+- Grammatical competency quiz #3 (second attempt)
+- CBL Debrief
+- **Homework (due before class)**: Study for your second attempt at the grammatical competency quiz and continue preparing CBL portfolio.
 
-## Exam Period: December 17-21
+### Wednesday, December 9
+- Grammatical competency quiz #3 (third attempt)
+- Looking ahead
+- **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz and continue preparing CBL portfolio for submission on December 18.
+
+
+[Back to top.](#top)
