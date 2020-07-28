@@ -25,7 +25,6 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, September 4
 - Ancient Greece in the 21st century: A Culture War
-- Sentences with *est*, *sunt*
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage or piece of evidence from her lecture and reflect on it in your commonplace book.
 
 [Back to top.](#top)
