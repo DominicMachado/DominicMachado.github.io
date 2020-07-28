@@ -86,20 +86,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 4
 
 ### Monday, September 21
-- *Sum, esse, fui*
+- *sum, esse, fui*
 - Sentence Type 1: Transitive
 - Sentence Type 4: Linking
 - **Homework (due before class)**: Read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences), [linking sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences), and consult the morphology charts for the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum*.
 
 ### Wednesday, September 23
-- Possum
+- *possum, posse, potui*
 - Infinitives
 - **Homework (due before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/) and consult the morphology charts for the verb *possum*.
 
 ### Friday, September 25
 - Review
 - Reading practice
-- Homework (due before class): Study for quiz #2 on the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for this module.
+- **Homework (due before class)**: Study for quiz #2 on the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for this module.
 
 [Back to top.](#top)
 
@@ -110,14 +110,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 28
 - Review
 - Reading practice
-- Homework (due before class): **Translation #2 Due**.
+- **Homework (due before class)**: **Translation #2 Due**.
 
 ### Wednesday, September 30 - NO CLASS!
 
-### Friday, October 4 [(slides)](https://docs.google.com/presentation/d/1OfAIjpB5zOzExo2T3ShcZcGVdntGmg49QAbspwE5DLk/edit?usp=sharing)
-- Review
-- Reading Practice
-- **Homework (due before class)**: Review for quiz #12 on verbs and sentence structures
+### Friday, October 2
+- Composition workshop
+- **Homework (due before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) for the composition workshop.
+
 
 [Back to top.](#top)
 
@@ -125,19 +125,23 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 6
 
-### Monday, October 7 [(slides)](https://docs.google.com/presentation/d/1Kr_PFDvx3cLKWlyLiX3DFQu8rmAGTzsjizjdaSK2gDE/edit?usp=sharing)
-- Reading Practice
-- **Homework (due before class)**: Review nouns and adjectives for quiz #13; **Group CBL Materials Due**
-
-### Wednesday, October 9 [(slides)](https://docs.google.com/presentation/d/1JiWpS8xWpB6xjQhl2SDPz3gn0N6jW2S_vmRtag9Nheo/edit?usp=sharing)
-- Adverbial Phrases: Expressions of Place and Time
-- Reading Practice
-**Homework (due before class)**: Read [expressions of place](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-place) and [expressions of time](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#expressions-of-time) and study for quiz #14
-
-### Friday, October 11 [(slides)](https://docs.google.com/presentation/d/1Sq3WgtMog9QgfISnN62QKeWfcQjLAGFMci5ocy7bllo/edit?usp=sharing)
+### Monday, October 5
 - Review
-- Composition Workshop
-- **Homework (due before class)**: Review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/3/) for quiz #15, [**Translation #3 due**](https://docs.google.com/document/d/17x4184wyZUzEkX3bf1oR2Hmpcnkhv_-kB1FLIAMvD9o/edit?usp=sharing)
+  - Noun-adjective agreement
+  - Verbal formation
+- **Homework (due before class)**: **Composition #2 due**.
+
+### Wednesday, October 7
+- Competency Quiz #1 (first attempt)
+- Reading practice
+- **Homework (due before class)**: Study noun-adjective agreement and verb formation for competency quiz.
+
+
+### Friday, October 9
+- Competency Quiz #1 (second attempt)
+- Prepositional phrases
+- **Homework (due before class)**: Read the section on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases). Study noun-adjective agreement and verbs, if you did not pass the competency quiz on your first attempt.
+
 
 [Back to top.](#top)
 
