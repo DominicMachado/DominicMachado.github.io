@@ -62,7 +62,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 14
 - Composition workshop
-- Homework (due before class): Translation #1 Due.
+- **Homework (due before class)**: Translation #1 Due.
 
 ### Wednesday, September 16
 - Verbs
