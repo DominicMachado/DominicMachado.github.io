@@ -91,14 +91,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Sentence Type 4: Linking
 - **Homework (due before class)**: Read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences), [linking sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences), and consult the morphology charts for the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum*.
 
-### Wednesday, September 25 [(slides)](https://docs.google.com/presentation/d/16VQjAiJZ16-84mAr_cIdyzemfqqihAP1tcz_o4wKk1I/edit?usp=sharing)
--  Adverbial Phrases: Prepositions
-- **Homework (due before class)**: Read the section of [prepositions](https://dlibatique.github.io/LATN101-F19/notes/3-place-and-time/#prepositional-phrases) and review the formation of the dative, accusative, and ablative cases for quiz #8, [**Translation #2 Due**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing)
+### Wednesday, September 23
+- Possum
+- Infinitives
+- **Homework (due before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/) and consult the morphology charts for the verb *possum*.
 
-### Friday, September 27 [(slides)](https://docs.google.com/presentation/d/1B0QgYYXTeSqymcuC6_22YJi4J8HyM9tueuFiPWqTATY/edit?usp=sharing)
+### Friday, September 25
 - Review
-- Composition Workshop
-- **Homework (due before class)**: Review the different types of sentence structures for quiz #9 and prepare composition for workshop
+- Reading practice
+- Homework (due before class): Study for quiz #2 on the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for this module.
 
 [Back to top.](#top)
 
@@ -106,15 +107,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 5
 
-### Monday, September 30
+### Monday, September 28
 - Review
-- CBL Visit
-- **Homework (due before class)**: Review vocabulary (i.e. be able to produce the full dictionary entry) from [Module #1](https://dlibatique.github.io/LATN101-F19/vocab/1/) and [Module #2](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #10, [**Composition #2 Due**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit)
+- Reading practice
+- Homework (due before class): **Translation #2 Due**.
 
-### Wednesday, October 2 [(slides)](https://docs.google.com/presentation/d/1jgCkGhJ78JAinZ4u0r4SXfHCOc1VUq-2EVlX6urgQFM/edit?usp=sharing)
-- Review
-- CBL Prep Time
-- **Homework (due before class)**: Review for quiz #11 on the declension of [nouns and adjectives](https://dlibatique.github.io/LATN101-F19/charts/1-adjectives/#adjsyn) and prepare CBL materials
+### Wednesday, September 30 - NO CLASS!
 
 ### Friday, October 4 [(slides)](https://docs.google.com/presentation/d/1OfAIjpB5zOzExo2T3ShcZcGVdntGmg49QAbspwE5DLk/edit?usp=sharing)
 - Review
