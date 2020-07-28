@@ -10,6 +10,7 @@ permalink: assessment-latn101-f20
 ***
 
 ## CBL Attendance and Participation - 150 points
+
 This section of Latin 101 has a CBL component. You will be teaching Latin at one of three local elementary once a week from early October onwards.
 
 Your participation in this essential part of the class will be graded based on attendance and preparation. CBL attendance will make up 7% of your grade and you will lose 1% for every unexcused absence from your CBL assignment. In order to achieve the remaining 9% for preparation, you and your group mates will turn in three portfolios with materials that you intend to use in your classroom visits.
