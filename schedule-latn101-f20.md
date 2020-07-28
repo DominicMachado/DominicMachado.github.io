@@ -75,7 +75,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: **Composition #1 due**. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
 
 ### Friday, September 18
-- Imperfect indicative active and passive
+- Imperfect active and passive
 - Ablative of agent
 - **Homework (due before class)**: Review the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences) with the slides from last class. Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation.
 
