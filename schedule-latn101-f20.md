@@ -66,13 +66,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 16
 - Verbs
-* Person, number, tense, voice, mood
-* Principal parts
-* Conjugations
+ - Person, number, tense, voice, mood
+ - Principal parts
+ - Conjugations
 - Perfect active and passive indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
-**Homework (due before class)**: Composition #1 due. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
+- **Homework (due before class)**: Composition #1 due. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
 
 ### Friday, September 20 [(slides)](https://docs.google.com/presentation/d/1of4iuO9jFATW22_MZN-8CI9h_qwFJm10E8cUZXSVYMM/edit?usp=sharing)
 - Verbs: Sum
