@@ -66,9 +66,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 16
 - Verbs
- - Person, number, tense, voice, mood
- - Principal parts
- - Conjugations
+  - Person, number, tense, voice, mood
+  - Principal parts
+  - Conjugations
 - Perfect active and passive indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
