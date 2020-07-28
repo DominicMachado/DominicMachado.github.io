@@ -5,7 +5,7 @@ permalink: assessment-latn101-f20
 ---
 ***
 
-[CBL Attendance and Participation](#cbl-attendance-and-participation-150) \|[Quizzes](#quizzes-150) \|[Competency Quizzes](#competency-quizzes-150) \|[Translations](#translations-300) \|[Compositions](#compositions-250) \| [Revisions](#revisions) \|
+[[CBL Attendance and Particpation](#cbl-attendance-participation) \| [Revisions](#revisions) \|
 
 ***
 
