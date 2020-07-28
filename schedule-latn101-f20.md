@@ -62,7 +62,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 14
 - Composition workshop
-- **Homework (due before class)**: Translation #1 Due.
+- **Homework (due before class)**: **Translation #1 Due**.
 
 ### Wednesday, September 16
 - Verbal forms
@@ -72,12 +72,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Perfect active and passive indicative
 - Sentence Type 2: Intransitive
 - Sentence Type 3: Passive
-- **Homework (due before class)**: Composition #1 due. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
+- **Homework (due before class)**: **Composition #1 due**. Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
 
-### Friday, September 20 [(slides)](https://docs.google.com/presentation/d/1of4iuO9jFATW22_MZN-8CI9h_qwFJm10E8cUZXSVYMM/edit?usp=sharing)
-- Verbs: Sum
-- Sentence Type 1: Transitive (plus Accusative Direct Object, Dative Indirect Object)
-- **Homework (due before class)**: Read the section on [transitive sentence structures](https://dlibatique.github.io/LATN101-F19/notes/2-sentence-structures/#transitive-sentences) and consult the morphology [charts](https://dlibatique.github.io/LATN101-F19/charts/1-nouns/) for the formation of the accusative and dative and the verb *sum* for quiz #6
+### Friday, September 18
+- Imperfect indicative active and passive
+- Ablative of agent
+- **Homework (due before class)**: Review the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences) with the slides from last class. Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation.
 
 [Back to top.](#top)
 
