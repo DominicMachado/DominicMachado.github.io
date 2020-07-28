@@ -5,7 +5,7 @@ permalink: schedule-latn101-f20
 ---
 ***
 
-This schedule links  to the notes and charts that you'll need throughout the semester. Your homework assignment for almost every class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to practice for the daily quiz.
+This schedule links  to the notes and charts that you'll need throughout the semester. Your homework assignment for almost every class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to improve your skills.
 
 ***
 
@@ -77,7 +77,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 18
 - Imperfect active and passive
 - Ablative of agent
-- **Homework (due before class)**: Review the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/) and [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences) with the slides from last class. Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation.
+- **Homework (due before class)**: Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation and review the section on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences). Additionally, please read this [article](https://medium.com/@journojoshua/the-importance-of-active-vs-passive-voice-in-protest-coverage-105b350cdb98) on why the active-passive distinction still matters today.
 
 [Back to top.](#top)
 
@@ -85,10 +85,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 4
 
-### Monday, September 23 [(slides)](https://docs.google.com/presentation/d/1P2QQ96a3EyJnWeaMIEeJ7s1uNSzekcYQAIn14h-NRZc/edit?usp=sharing)
-- Verbs: Possum, Infinitives
-- Sentence Type 4: Linking Sentence (review)
-- **Homework (due before class)**: Read the section on [infinitives](https://dlibatique.github.io/LATN101-F19/notes/4-verbal-nouns-and-adjs/#infinitives), consult the morphology charts for the verb *possum* and review [vocabulary](https://dlibatique.github.io/LATN101-F19/vocab/2/) for quiz #7
+### Monday, September 21
+- *Sum, esse, fui*
+- Sentence Type 1: Transitive
+- Sentence Type 4: Linking
+- **Homework (due before class)**: Read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences), [linking sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences), and consult the morphology charts for the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum*.
 
 ### Wednesday, September 25 [(slides)](https://docs.google.com/presentation/d/16VQjAiJZ16-84mAr_cIdyzemfqqihAP1tcz_o4wKk1I/edit?usp=sharing)
 -  Adverbial Phrases: Prepositions
