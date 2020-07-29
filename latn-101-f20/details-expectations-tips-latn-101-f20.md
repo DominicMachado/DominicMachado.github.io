@@ -18,7 +18,7 @@ The course will use a flipped classroom and active learning pedagogy. What that 
 
 All assessments will take place outside of class and will focus on developing the active skills necessary to understand Latin. The intent here is to give you time and space to engage with the material at your own pace. Further, you will have an opportunity to revise or redo all of your assignments since learning is best done iteratively (i.e. repetitively).
 
-This course is CBL (community-based learning) designate class. As such, outreach and community engagement will be required part of the course. In past iterations of this course, this has been realized through students teaching Latin
+This course is CBL (community-based learning) designate class. As such, outreach and community engagement will be required part of the course. In past iterations of this course, this has been realized through students teaching Latin to elementary school students at Worcester Public Schools. However, due to the COVID-19 pandemic, we are unsure at this moment what form our community engagement will take. Whatever form this does take, we will have a weekly recitation section, run by TA (a former 101/102 student), in which we will consider why we are taking on a community-based project in a Latin class, think about what we as Holy Cross students can stand to gain from engaging with a community different than our own, and plan for our engagement with WPS students.
 
 ***
 
