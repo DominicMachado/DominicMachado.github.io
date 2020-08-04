@@ -20,7 +20,8 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 1
 
 ### Wednesday, September 2
-- Syllabus overview
+- Syllabus Overview
+- Greek Misconceptions Quiz Released
 - **Homework (due before class)**: Read the expectations, grading, and schedule pages carefully. Watch this [short video](https://www.youtube.com/watch?v=6bDrYTXQLu8) and jot down some notes on what image of ancient Greece is presented in the video.
 
 ### Friday, September 4
@@ -43,7 +44,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, September 11
 - The Problem of Ancient Evidence, Part 1
-- **Homework (due before class)**: Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
+- **Homework (due before class)**: **Greek Misconceptions Quiz due.** Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
 
 [Back to top.](#top)
 
@@ -53,15 +54,16 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 14
 - The Problem of Ancient Evidence, Part 2
-- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another. What do you think might explain these differences?
+- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another and what you think might explain these differences.
 
 ### Wednesday, September 16
-- The Fundamental Divisions of Greek Society, Part 1
-- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, jot down all of the different social divisions that you see embedded in the legal code of Gortyn.
+- The Problem of Ancient Evidence, Part 3
+- Source Analysis Project Released
+- **Homework (due before class)**: Read the sources on the [Lelantine War](https://drive.google.com/file/d/1OL8DTs27ZWk3j3xCKSy7jaIhKAiec5dm/view?usp=sharing) and watch the video of me analyzing them. Jot down three questions about my analysis in your commonplace book for further discussion in class.
 
 ### Friday, September 18
-- The Fundamental Divisions of Greek Society, Part 2
-- **Homework (due before class)**: Assignment #1 due.
+- The Fundamental Divisions of Greek Society
+- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, jot down all of the different social divisions that you see embedded in the legal code of Gortyn.
 
 [Back to top.](#top)
 
@@ -70,9 +72,30 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 4
 
 ### Monday, September 21
-- Freedom and Slavery in the Greek world
-- **Homework (due before class)**: Read the following [passage](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) from Aristotle's poetics on slavery.
+- Freedom and Slavery in the Greek World
+- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from this document and jot down your reflections on it in your commonplace book.
+
+### Wednesday, September 23
+- Slavery and The Household
+- **Homework (due before class)**: No homework - Primary Source Analysis, due Friday.
+
+### Friday, September 25
+- Slavery, Trade, and Wealth
+- **Homework (due before class)**: **Primary Source Analysis due**.
 
 [Back to top.](#top)
 
 ***
+
+## Week 5
+
+### Monday, September 28
+- Slavery and the Greek State
+- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing). Select a passage from this document and jot down your reflections on it in your commonplace book.
+
+### Wednesday, September 30
+- NO CLASS!!!
+
+### Friday, October 2
+- Resistance and Freedom
+- **Homework (due before class)**: 
