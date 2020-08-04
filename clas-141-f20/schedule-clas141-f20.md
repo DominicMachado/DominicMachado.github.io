@@ -44,7 +44,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, September 11
 - The Problem of Ancient Evidence, Part 1
-- **Homework (due before class)**: **Greek Misconceptions Quiz due.** Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
+- **Homework (due before class)**: Submit **Greek Misconceptions Quiz** on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
 
 [Back to top.](#top)
 
@@ -77,11 +77,11 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 23
 - Slavery and The Household
-- **Homework (due before class)**: No homework - Primary Source Analysis, due Friday.
+- **Homework (due before class)**: No homework - spend the extra time working on your Primary Source Analysis.
 
 ### Friday, September 25
 - Slavery, Trade, and Wealth
-- **Homework (due before class)**: **Primary Source Analysis due**.
+- **Homework (due before class)**: Submit your **Primary Source Analysis** by email.
 
 [Back to top.](#top)
 
@@ -91,11 +91,11 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 28
 - Slavery and the Greek State
-- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing). Select a passage from this document and jot down your reflections on it in your commonplace book.
+- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document and jot down your reflections on it in your commonplace book.
 
 ### Wednesday, September 30
 - NO CLASS!!!
 
 ### Friday, October 2
 - Resistance and Freedom
-- **Homework (due before class)**: 
+- **Homework (due before class)**: Read about slave resistance and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
