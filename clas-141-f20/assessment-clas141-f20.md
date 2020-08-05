@@ -11,6 +11,8 @@ permalink: assessment-clas141-f20
 
 ## Commonplace Book
 
+Throughout the course, you will keep a commonplace book. A [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) is a type of journal that was popular in the early modern era in which individuals would make note of passages that they found interesting and reflect on them.
+
 The commonplace book will determine the details of your overall grade for the course.
 
 ***
