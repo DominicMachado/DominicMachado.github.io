@@ -31,6 +31,9 @@ Everything that you need to know about this course is on this website. You can f
 
 ### This Week at a Glance
 &nbsp;  
+
+![Polychromy][https://sarahemilybond.files.wordpress.com/2017/04/e2ce24df90a39c24443879e29fbaee99.jpg?w=1140&h=467]
+
 ### Wednesday, September 2
 - Syllabus Overview
 - Greek Misconceptions Assignment Released
