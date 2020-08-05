@@ -76,11 +76,11 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 23
 - Slavery and The Household
-- **Homework (due before class)**: No homework - spend the extra time working on your Primary Source Analysis (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing]).
+- **Homework (due before class)**: No homework - spend the extra time working on your [Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing)).
 
 ### Friday, September 25
 - Slavery, Trade, and Wealth
-- **Homework (due before class)**: Submit your **Primary Source Analysis** by email.
+- **Homework (due before class)**: Submit your **[Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20)** by email.
 
 [Back to top.](#top)
 
