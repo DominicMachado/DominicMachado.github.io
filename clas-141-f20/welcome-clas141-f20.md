@@ -7,7 +7,7 @@ permalink: clas141-f20
 
 ## Welcome to CLAS 141 - Fall 2020
 
-![Parthenon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lonelyplanet.com%2Fgreece%2Fathens%2Fattractions%2Fparthenon%2Fa%2Fpoi-sig%2F1289715%2F359421&psig=AOvVaw03AE_3pA90h5RpGphwZaGY&ust=1596737609879000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMju96LVhOsCFQAAAAAdAAAAABAD)
+![Image of Parthenon](https://lp-cms-production.imgix.net/2019-09/ab57ac3775d90a72da514d158401bd47-parthenon.jpg)
 
 ***
 
