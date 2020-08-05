@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Assessment - LATN 101 - F20
+title: Assessment
 permalink: assessment-latn101-f20
+parent: LATN 101 - F20
+nav_order: 2
 ---
+
+# Assessment - LATN 101 - F20
+
 ***
 
 [CBL Attendance and Participation](#cbl-attendance-participation) \| [Quizzes](#quizzes) \|  [Compentency Quizzes](#competency-quizzes) \| [Translations](#translations) \| [Compositions](#compositions) \| [Revisions](#revisions) \|
