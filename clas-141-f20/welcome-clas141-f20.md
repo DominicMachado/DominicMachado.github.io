@@ -7,7 +7,7 @@ permalink: clas141-f20
 
 ## Welcome to CLAS 141 - Fall 2020
 &nbsp;
- 
+
 ![Image of Parthenon](https://lp-cms-production.imgix.net/2019-09/ab57ac3775d90a72da514d158401bd47-parthenon.jpg)
 
 ***
@@ -33,7 +33,7 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Polychromy][https://sarahemilybond.files.wordpress.com/2017/04/e2ce24df90a39c24443879e29fbaee99.jpg]
+![Polychromy](https://sarahemilybond.files.wordpress.com/2017/04/e2ce24df90a39c24443879e29fbaee99.jpg)
 
 ### Wednesday, September 2
 - Syllabus Overview
