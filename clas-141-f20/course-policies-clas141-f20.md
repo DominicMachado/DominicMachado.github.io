@@ -5,9 +5,9 @@ permalink: course-policies-clas141-f20
 ---
 ***
 
-## Course policies
-
 [Absence Policy](#absence-policy) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \|
+
+## Course policies
 
 Below you will find all of my official policies as well as relevant links to the college's official policies on these matters.
 
