@@ -23,9 +23,9 @@ The Parthenon. Democracy. Philosophy. Mythology. Marble Statues. The memory of A
 
 ***
 
-### Key Details
+### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find the [goals and expectations] of the course, our [schedule and list of readings](https://dominicmachado.github.io/schedule-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis), as well as descriptions of individual assignments.
+Everything that you need to know about this course is on this website. You can find our [course objectives], [tips for doing well in the course], [course policies], our [schedule and list of readings](https://dominicmachado.github.io/schedule-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis), as well as descriptions of individual assignments.
 
 ***
 
