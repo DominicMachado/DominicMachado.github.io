@@ -29,7 +29,7 @@ Everything that you need to know about this course is on this website. You can f
 
 ***
 
-### This Week (9/2 - 9/4) at a Glance
+### This Week at a Glance
 &nbsp;  
 ### Wednesday, September 2
 - Syllabus Overview
