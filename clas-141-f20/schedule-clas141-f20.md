@@ -57,9 +57,8 @@ This schedule links to the readings and assignments that you will have throughou
 - **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another and what you think might explain these differences.
 
 ### Wednesday, September 16
-- The Problem of Ancient Evidence, Part 3
-- Source Analysis Project Released
-- **Homework (due before class)**: Read the sources on the [Lelantine War](https://drive.google.com/file/d/1OL8DTs27ZWk3j3xCKSy7jaIhKAiec5dm/view?usp=sharing) and watch the video of me analyzing them. Jot down three questions about my analysis in your commonplace book for further discussion in class.
+- Primary Source Analysis Release and Discussion
+- **Homework (due before class)**: Reflect on the primary source analysis we have done in the last two class periods and jot down what you think are the key features of the process of primary source analysis.
 
 ### Friday, September 18
 - The Fundamental Divisions of Greek Society
@@ -77,7 +76,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 23
 - Slavery and The Household
-- **Homework (due before class)**: No homework - spend the extra time working on your Primary Source Analysis.
+- **Homework (due before class)**: No homework - spend the extra time working on your Primary Source Analysis (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing]).
 
 ### Friday, September 25
 - Slavery, Trade, and Wealth
@@ -116,4 +115,4 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, October 9
 - Women at Home
-- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, note the characteristics that make a good wife in the speaker's eyes - be sure to refer to the parts of the text that you took your observations from 
+- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, note the characteristics that make a good wife in the speaker's eyes - be sure to refer to the parts of the text that you took your observations from
