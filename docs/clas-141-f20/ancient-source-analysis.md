@@ -2,8 +2,9 @@
 layout: page
 title: Ancient Source Analysis
 permalink: ancient-source-analysis-clas141-f20
-parent: CLAS 141 - F20
-nav_order: 4
+parent: Assessment
+grand_parent: CLAS 141 - F20
+nav_order: 1
 ---
 
 # Ancient Source Analysis - CLAS 141 - F20
