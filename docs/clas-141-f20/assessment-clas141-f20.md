@@ -4,6 +4,7 @@ title: Assessment
 permalink: assessment-clas141-f20
 parent: CLAS 141 - F20
 nav_order: 2
+has_children: true
 ---
 
 # Assessment - CLAS 141 - F20
