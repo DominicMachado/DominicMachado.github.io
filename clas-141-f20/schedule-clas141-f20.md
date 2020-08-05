@@ -73,7 +73,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 21
 - Freedom and Slavery in the Greek World
-- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from this document and jot down your reflections on it in your commonplace book.
+- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery and watch my short lecture on [ancient slavery]. Select a passage from Aristotle and jot down your reflections on it in your commonplace book.
 
 ### Wednesday, September 23
 - Slavery and The Household
@@ -91,11 +91,29 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 28
 - Slavery and the Greek State
-- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document and jot down your reflections on it in your commonplace book.
+- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document and jot down your reflections on it in your commonplace book.
 
 ### Wednesday, September 30
 - NO CLASS!!!
 
 ### Friday, October 2
 - Resistance and Freedom
-- **Homework (due before class)**: Read about slave resistance and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
+- **Homework (due before class)**: Read through the following selection on the topics of [slave resistance](https://drive.google.com/file/d/1_VYNzjun6D-nQIOF4_nUnTEvvz9Upvc0/view?usp=sharing) (§211, 214, 217, 222-225) and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
+
+[Back to top.](#top)
+
+***
+
+## Week 6
+
+### Monday, October 5
+- Between Freedom and Slavery, part 1
+- **Homework (due before class)**: Read Luke Madson's [article](https://eidolon.pub/the-american-helot-eefb0475a5d3) on Spartan helots and treatment of Black people in America. Pick an ancient passage that stands out to you from Madson's article and jot down your thoughts about whether Helots were slaves or not.
+
+### Wednesday, October 7
+- Between Freedom and Slavery, part 2
+- **Homework (due before class)**: Read Hans van Wees' [article](https://chs.harvard.edu/CHS/article/display/5620.part-i-helotic-histories-chapter-3-hans-van-wees-conquerors-and-serfs-wars-of-conquest-and-forced-labour-in-archaic-greece#n.25) (§1-3) on various groups of non-free and non-enslaved people. Jot down all the different forms of serfdom that you can find in the relevant sections and reflect on what this tells us about Greek society.
+
+### Friday, October 9
+- Women at Home
+- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, note the characteristics that make a good wife in the speaker's eyes - be sure to refer to the parts of the text that you took your observations from 
