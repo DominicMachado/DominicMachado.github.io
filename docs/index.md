@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Homepage"
+title: Homepage
 permalink: /
 nav_order: 0
 ---
