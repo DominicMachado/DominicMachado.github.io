@@ -19,6 +19,8 @@ The commonplace book will determine the details of your overall grade for the co
 
 ## Greek Misconceptions Assignment
 
+One of the goals of this course 
+
 ***
 
 ## Ancient Source Analysis
