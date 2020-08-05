@@ -24,18 +24,18 @@ Your analysis will be broken up into three parts. The first part of your analysi
 The second part of your analysis will attempt to establish some basic facts about the Lelantine War. You will answer the following question in the second part of your analysis:
 
 - Can we establish definitely the participants in the war?
- -	Which sources explicitly speak about the war’s participants?
- - Does the answer to this question change over time?
- - Is there reason to think these sources that speak to it are accurate or inaccurate?
+  - Which sources explicitly speak about the war’s participants?
+  - Does the answer to this question change over time?
+  - Is there reason to think these sources that speak to it are accurate or inaccurate?
 
 - Can we establish definitely the cause of the war?
- - Which sources explicitly speak about the war’s causes?
- - Does the answer to this question change over time?
- - Is there reason to think these sources that speak to it are accurate or inaccurate?
+  - Which sources explicitly speak about the war’s causes?
+  - Does the answer to this question change over time?
+  - Is there reason to think these sources that speak to it are accurate or inaccurate?
 
 - Can we establish definitely the date of the war?
- - Which sources explicitly speak about the date of the war?
- - Does the answer to this question change over time?
- - Is there reason to think these sources that speak to it are accurate or inaccurate?
+  - Which sources explicitly speak about the date of the war?
+  - Does the answer to this question change over time?
+  - Is there reason to think these sources that speak to it are accurate or inaccurate?
 
 The third part of your analysis will synthesize your analysis from the first two parts of the project for the purpose of drawing conclusions about this particular set of documents and reflecting more broadly about the key features of primary source analysis more generally. To the end, you will address the following questions:
