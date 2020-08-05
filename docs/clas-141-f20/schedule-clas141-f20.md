@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Schedule - CLAS 141 - F20
+title: Schedule
 permalink: schedule-clas141-f20
+parent: CLAS 141 - F20
+nav_order: 3
 ---
+
+# Schedule - CLAS 141 - F20
+
 ***
 
 This schedule links to the readings and assignments that you will have throughout the semester.
@@ -94,7 +99,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 30
 - NO CLASS!!!
-- **Homework (due before class)**: Submit **Topic Choice Preferences** on Google Forms! 
+- **Homework (due before class)**: Submit **Topic Choice Preferences** on Google Forms!
 
 ### Friday, October 2
 - Resistance and Freedom
