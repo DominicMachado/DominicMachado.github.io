@@ -21,7 +21,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 2
 - Syllabus Overview
-- Greek Misconceptions Quiz Released
+- Greek Misconceptions Assignment Released
 - **Homework (due before class)**: Read the expectations, grading, and schedule pages carefully. Watch this [short video](https://www.youtube.com/watch?v=6bDrYTXQLu8) and jot down some notes on what image of ancient Greece is presented in the video.
 
 ### Friday, September 4
@@ -44,7 +44,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, September 11
 - The Problem of Ancient Evidence, Part 1
-- **Homework (due before class)**: Submit **Greek Misconceptions Quiz** on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
+- **Homework (due before class)**: Submit **Greek Misconceptions Assignment** on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
 
 [Back to top.](#top)
 
@@ -94,6 +94,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 30
 - NO CLASS!!!
+- **Homework (due before class)**: Submit **Topic Choice Preferences** on Google Forms! 
 
 ### Friday, October 2
 - Resistance and Freedom
@@ -133,7 +134,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, October 16
 - Women and Religion
-- **Homework (due before class)**: Read the following excerpts about  and
+- **Homework (due before class)**: Read Connolly's chapter on priestesses in the Greek world. In your commonplace, list your three key takeaways, two things that were unclear, and one question that you have for the author.
 
 [Back to top.](#top)
 
@@ -143,9 +144,22 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, October 19
 - Women in Power
+- Non-Elite History Assignment Released
 - **Homework (due before class)**: Read selections from Herodotus on [Artemisia](https://diotima-doctafemina.org/translations/greek/artemisia-in-herodotus/) and Plutarch on [Aspasia](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:24.1-26.4/). In your commonplace book, reflect on the nature of the power that these women have - what characteristics make them so powerful?
 
 ### Wednesday, October 21
 - Women in Their Own Words
 - **Homework (due before class)**:
 Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-1-voigt-1/), [4](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-4-voigt-16/), [8](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-8-voigt-31/) and selected [epigrams](https://diotima-doctafemina.org/translations/greek/epigrams-by-women-from-the-greek-anthology/) from female writers. In your commonplace book, discuss how the concerns and perspectives presented by women themselves is similar and different from what we have seen so in the course so far.
+
+### Friday, October 23
+- Immigrants in Greek Society (Metics)
+- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:2.1-2.7/). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
+
+[Back to top.](#top)
+
+## Week 9
+
+### Monday, October 26
+- Topic TBA
+- **Homework (due before class)**: Turn in your **Non-Elite History Assignment** on Google Forms.
