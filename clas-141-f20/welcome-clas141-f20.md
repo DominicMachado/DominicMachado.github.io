@@ -6,7 +6,8 @@ permalink: clas141-f20
 ***
 
 ## Welcome to CLAS 141 - Fall 2020
-&nbsp;  
+&nbsp;
+ 
 ![Image of Parthenon](https://lp-cms-production.imgix.net/2019-09/ab57ac3775d90a72da514d158401bd47-parthenon.jpg)
 
 ***
