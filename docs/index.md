@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Homepage"
+permalink: /
 nav_order: 0
 ---
 
