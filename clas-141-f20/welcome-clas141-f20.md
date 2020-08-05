@@ -6,13 +6,13 @@ permalink: clas141-f20
 ***
 
 ## Welcome to CLAS 141 - Fall 2020
-
+&nbsp;  
 ![Image of Parthenon](https://lp-cms-production.imgix.net/2019-09/ab57ac3775d90a72da514d158401bd47-parthenon.jpg)
 
 ***
 
 ### Course Information
-
+&nbsp;  
 - **Meeting Time:** MWF 2:15 - 3:05 PM
 - **Meeting Place:** [link]
 - **Instructor** Prof. Machado
@@ -24,13 +24,13 @@ The Parthenon. Democracy. Philosophy. Mythology. Marble Statues. The memory of A
 ***
 
 ### Key Details
-
+&nbsp;  
 Everything that you need to know about this course is on this website. You can find the [goals and expectations] of the course, our [schedule and list of readings](https://dominicmachado.github.io/schedule-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis), as well as descriptions of individual assignments.
 
 ***
 
 ### This Week (9/2 - 9/4) at a Glance
-
+&nbsp;  
 ### Wednesday, September 2
 - Syllabus Overview
 - Greek Misconceptions Assignment Released
