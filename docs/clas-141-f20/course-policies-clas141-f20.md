@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Course Policies - CLAS 141 - F20
+title: Course Policies
 permalink: course-policies-clas141-f20
+parent: CLAS 141 - F20
+nav_order: 1
 ---
+
+# Course Policies - CLAS 141 - F20
+
 ***
 
 [Absence Policy](#absence-policy) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \|

@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Assessment - CLAS 141 - F20
+title: Assessment
 permalink: assessment-clas141-f20
+parent: CLAS 141 - F20
+nav_order: 2
 ---
+
+# Assessment - CLAS 141 - F20
+
 ***
 
 [Commonplace Book](#commonplace-book) \| [Greek Misconceptions Assignment](#greek-misconceptions-assignment) \|  [Ancient Source Analysis](#ancient-source-analysis) \| [Non-Elite History Assignment](#non-elite-history-assignment) \| [Creative Project](#creative-project) \| [Podcast Project](#podcast-project) \|

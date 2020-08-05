@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Details, Expectations, and Tips - LATN 101
+title: Details, Expectations, and Tips
 permalink: details-expectations-tips-latn-101-f20
+parent: LATN 101 - F20
+nav_order: 1
 ---
+
+# Details, Expectations, and Tips - LATN 101 - F20
 
 ***
 
