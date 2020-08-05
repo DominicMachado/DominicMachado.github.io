@@ -7,6 +7,8 @@ permalink: ancient-source-analysis-clas141-f20
 
 ## Ancient Source Analysis
 
+***
+
 **Details**
 
 - Due: September 25, 2 PM (by email)
