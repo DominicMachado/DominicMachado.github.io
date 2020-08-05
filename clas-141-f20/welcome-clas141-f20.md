@@ -11,11 +11,11 @@ permalink: clas141-f20
 
 ### Course Information
 
-**Meeting Time:** MWF 2:15 - 3:05 PM
-**Meeting Place:** [link]
-**Instructor** Prof. Machado
-**Student Hours**: T, Th 1 - 3 PM [link to calendar]
-**E-mail**: dmachado@holycross.edu
+- **Meeting Time:** MWF 2:15 - 3:05 PM
+- **Meeting Place:** [link]
+- **Instructor** Prof. Machado
+- **Student Hours**: T, Th 1 - 3 PM [link to calendar]
+- **E-mail**: dmachado@holycross.edu
 
 The Parthenon. Democracy. Philosophy. Mythology. Marble Statues. The memory of Ancient Greece casts a long shadow on the world that we live in. In this class, we will explore this world, studying the structures, institutions, and peoples that shaped it. To do so, we will grapple with primary documents written from the ancient world, focusing particularly on the perspective of individuals and groups that have been traditionally deemed unimportant including slaves, women, and foreigners.
 
