@@ -5,11 +5,13 @@ permalink: ancient-source-analysis-clas141-f20
 ---
 ***
 
-## Ancient Source Analysis
+# Ancient Source Analysis
 
 - Due: September 25, 2 PM (by email)
 - Length: 1000 - 1500 words
 - Format: Double-spaced, 12-point font
+
+**Assignment**
 
 One of the key skills that I would like you to develop over the course of the semester is the ability read and analyze ancient sources closely. These skills will not only serve you as students of ancient history, but also as readers and consumers of texts more generally. This first project seeks to take you through this process in a detailed and rigorous manner.
 
@@ -39,3 +41,20 @@ The second part of your analysis will attempt to establish some basic facts abou
   - Is there reason to think these sources that speak to it are accurate or inaccurate?
 
 The third part of your analysis will synthesize your analysis from the first two parts of the project for the purpose of drawing conclusions about this particular set of documents and reflecting more broadly about the key features of primary source analysis more generally. To the end, you will address the following questions:
+
+- What can we say definitively about the Lelantine War as a historical event based on the sources provided?
+- What do think are the key things to consider in assessing the historical value of ancient sources more broadly?
+
+Please note that key to any good close reading is quotation and citation of the text. That means you should quote the text to help you answer the questions above and cite those quotations properly. You will use in-line citations, in the manner illustrated below:
+
+*Strabo explicitly claims that the conflict arose over a dispute over the ownership of the Lelantine plain (Strabo 10.1.12).*
+
+**Assessment**
+
+A satisfactory project will:
+
+- Describe the nature (date, authorship, genre, and scope) of each source in the document
+- Analyze what these sources as a composite tell us about the date, causes, and participants in the Lelantine War
+- Synthesize this analysis to draw broader conclusions about what we can say for certain about the Lelantine War
+- Reflect on what this analysis tells about the assessing the historical value of ancient sources
+- Quote the text in support of your key points and cite these references correctly
