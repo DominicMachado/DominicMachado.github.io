@@ -139,7 +139,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, October 16
 - Women and Religion
-- **Homework (due before class)**: Read Connolly's chapter on priestesses in the Greek world. In your commonplace, list your three key takeaways, two things that were unclear, and one question that you have for the author.
+- **Homework (due before class)**: Read Connolly's [chapter](https://drive.google.com/file/d/1Af8OoyE2_GpqIkQa4mEw4BRqxdwQABwX/view?usp=sharing) on priestesses in the Greek world. In your commonplace book, list your three key takeaways, two things that were unclear, and one question that you have for the author.
 
 [Back to top.](#top)
 
