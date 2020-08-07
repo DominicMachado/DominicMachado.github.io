@@ -17,9 +17,18 @@ has_children: true
 
 ## Commonplace Book
 &nbsp;  
-Throughout the course, you will keep a commonplace book. A [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) is a type of journal that was popular in the early modern era in which individuals would make note of passages that they found interesting and reflect on them.
+Throughout the entirety of the course, you will keep a type of journal, known as a commonplace book.
 
-The commonplace book will determine the details of your overall grade for the course.
+[Commonplace books](https://en.wikipedia.org/wiki/Commonplace_book) were very popular in the 17th and 18th century and offered individuals of that time period a place to make note of passages that they found interesting and reflect on their larger meaning.
+
+Keeping a commonplace book will help you to develop a number of skills that you will need in the course. Most importantly, it will help you to become a better close reader. It will also help you make connections between different readings
+
+- You will select a short sentence/passage (max. 3 sentences) related to the homework prompt and type (**do not copy**) it into your commonplace book.
+- You will write one short paragraph (4 to 6 sentences) explaining why the passage stood out to you.
+- You will write another short paragraph (4 to 6 sentences) connecting the passage to a different text that we met in an earlier class/reading.
+
+
+The commonplace book will serve three functions over the course of the semester. First, it will give you practice thinking carefully
 
 ***
 
