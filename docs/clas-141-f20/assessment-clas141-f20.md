@@ -23,27 +23,43 @@ Your grade on the commonplace book will be determined by the percentage of satis
 
 ***
 
-## Greek Misconceptions Assignment
+## Greek Misconceptions Quiz
 &nbsp;  
-The Greek Misconceptions Assignment
+The Greek Misconceptions quiz will assess your knowledge of certain foundational aspects of Greek culture and history that are frequently misunderstood by the average person. It will focus on explicitly on topics that we will cover in our first three class periods (e.g. the cultural, linguistic, geographical scope of the ancient Greek world).
+
+In terms of format, the quiz will be a mixture of short factual and longer open-ended responses. There are no restrictions on the resources you can use - the quiz is open-note and open-book.
+
+The quiz will be distributed via Google forms on September 2nd and your first attempt must be submitted by 2 PM EST on September 11. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Greek Misconceptions quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
 
 ***
 
 ## Ancient Source Analysis
 &nbsp;  
-In the Ancient Source Analysis (1000 - 1500 words), you will read a series of sources about an ancient event and assess the historicity of these sources, based on a series of specific criteria. The project is designed to give you practice reading ancient sources closely and evaluating their value as historical evidence in a detailed and rigorous manner.
+In the Ancient Source Analysis (1000 - 1500 words), you will read a series of sources about an ancient event and assess the historicity of these sources, based on a series of specific criteria. The project is designed to give you practice reading ancient sources closely and evaluating their value as historical evidence in a detailed and rigorous manner. Your first attempt at the analysis is due on September 25 at 2 PM EST by email.
 
-This project will be grading on a satisfactory/unsatisfactory basis. Passing the ancient source analysis is a prerequisite for passing this class. As such, you will be allowed to revise this project as many times as you want to earn satisfactory grade. Further details can be found on the Ancient Source Analysis [page](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20).
+This project will be graded on a satisfactory/unsatisfactory basis. Passing the ancient source analysis is a prerequisite for passing this class. As such, you will be allowed to revise this project as many times as you want to earn satisfactory grade. Further details can be found on the Ancient Source Analysis [page](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20).
 
 ***
 
-## Non-Elite History Assignment
+## Non-Elite History Quiz
 &nbsp;  
+The Non-Elite History quiz will assess your knowledge of individuals who rarely get their fair share of the limelight in Greek history. It will focus on the role that slaves, women, serfs, and foreigners played in the Greek world.
+
+In terms of format, the quiz, just like the Greek misconceptions quiz, will be a mixture of short factual and longer open-ended responses. Similarly, there are no restrictions on the resources you can use - the quiz is open-note and open-book.
+
+The quiz will be distributed via Google forms on October 19th and your first attempt must be submitted by 2 PM EST on October 26th. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Non-Elite History quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
+
 ***
 
 ## Creative Project
 &nbsp;  
+
+TBD!
+
 ***
 
 ## Podcast Project
 &nbsp;  
+The final project for this class is a podcast project. At the core of your podcast project will be your commonplace book.
+
+***
