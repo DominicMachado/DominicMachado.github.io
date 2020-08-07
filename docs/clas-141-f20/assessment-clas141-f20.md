@@ -17,34 +17,23 @@ has_children: true
 
 ## Commonplace Book
 &nbsp;  
-Throughout the entirety of the course, you will keep a type of journal, known as a commonplace book.
+Throughout the course, you will keep a type of journal, known as a commonplace book, in which you will record and reflect on passages in your readings that stand out to you. The hope is that keeping a commonplace will make you a more attentive reader, more reflective thinker, and more active class participant.
 
-[Commonplace books](https://en.wikipedia.org/wiki/Commonplace_book) were very popular in the 17th and 18th century and offered individuals of that time period a place to make note of passages that they found interesting and reflect on their larger meaning.
-
-Keeping a commonplace book will help you to develop a number of skills that you will need in the course. Most importantly, it will help you to become a better close reader. It will also help you make connections between different readings
-
-- You will select a short sentence/passage (max. 3 sentences) related to the homework prompt and type (**do not copy**) it into your commonplace book.
-- You will write one short paragraph (4 to 6 sentences) explaining why the passage stood out to you.
-- You will write another short paragraph (4 to 6 sentences) connecting the passage to a different text that we met in an earlier class/reading.
-
-
-The commonplace book will serve three functions over the course of the semester. First, it will give you practice thinking carefully
+Your grade on the commonplace book will be determined by the percentage of satisfactory entries that complete. Further details on the commonplace book assignment can be found [here](https://dominicmachado.github.io/commonplace-book-clas141-f20).
 
 ***
 
 ## Greek Misconceptions Assignment
 &nbsp;  
-One of the goals of this course
+The Greek Misconceptions Assignment
 
 ***
 
 ## Ancient Source Analysis
 &nbsp;  
-One of the key skills that I would like you to develop over the course of the semester is the ability read and analyze ancient sources closely. These skills will not only serve you as students of ancient history, but also as readers and consumers of texts more generally. This first project seeks to take you through this process in a detailed and rigorous manner.
+In the Ancient Source Analysis (1000 - 1500 words), you will read a series of sources about an ancient event and assess the historicity of these sources, based on a series of specific criteria. The project is designed to give you practice reading ancient sources closely and evaluating their value as historical evidence in a detailed and rigorous manner.
 
-The Ancient Source Analysis is designed to give you practice doing just that. You will read a series of sources about an ancient event and analyze the historicity of these sources, based on a series of criteria. For further specifics, go to the Ancient Source Analysis [page](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) on the site.
-
-This project will be grading on a satisfactory/unsatisfactory basis, according to the rubric outlined on the site. In order to pass this class, you will need to earn a satisfactory grade on this assignment. As such you will be allowed to revise this project until you earn a satisfactory grade.
+This project will be grading on a satisfactory/unsatisfactory basis. Passing the ancient source analysis is a prerequisite for passing this class. As such, you will be allowed to revise this project as many times as you want to earn satisfactory grade. Further details can be found on the Ancient Source Analysis [page](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20).
 
 ***
 
