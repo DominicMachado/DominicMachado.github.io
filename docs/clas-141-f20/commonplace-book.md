@@ -12,7 +12,7 @@ nav_order: 1
 ***
 
 ## Commonplace Book Assignment
-
+&nbsp; 
 ![Commonplace Book](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Commonplace_book_mid_17th_century.jpg/800px-Commonplace_book_mid_17th_century.jpg)
 
 ***
