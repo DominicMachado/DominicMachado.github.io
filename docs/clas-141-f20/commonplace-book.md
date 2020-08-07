@@ -36,7 +36,7 @@ Each of your commonplace book entries should have the following:
 
 ***
 
-**Grading**
+**Assessment**
 
 Each individual entry in your commonplace book will be grading on a satisfactory/unsatisfactory basis. A satisfactory will:
 
