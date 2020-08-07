@@ -9,11 +9,11 @@ nav_order: 1
 
 # Commonplace Book - CLAS 141 - F20
 
-![Commonplace Book](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Commonplace_book_mid_17th_century.jpg/800px-Commonplace_book_mid_17th_century.jpg)
-
 ***
 
-## Commonplace Book
+## Commonplace Book Assignment
+
+![Commonplace Book](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Commonplace_book_mid_17th_century.jpg/800px-Commonplace_book_mid_17th_century.jpg)
 
 ***
 
