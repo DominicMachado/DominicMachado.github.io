@@ -26,12 +26,12 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 2
 - Syllabus Overview
-- Greek Misconceptions Assignment Released
-- **Homework (due before class)**: Read the expectations, grading, and schedule pages carefully. Watch this [short video](https://www.youtube.com/watch?v=6bDrYTXQLu8) and jot down some notes on what image of ancient Greece is presented in the video.
+- Misconceptions Quiz Released
+- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) carefully. Jot down questions you have about the course setup to class.
 
 ### Friday, September 4
 - Ancient Greece in the 21st century: A Culture War
-- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage or piece of evidence from her lecture and reflect on it in your commonplace book.
+- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage from her lecture and reflect on it in your [commonplace book](https://dominicmachado.github.io/commonplace-book-clas141-f20).
 
 [Back to top.](#top)
 

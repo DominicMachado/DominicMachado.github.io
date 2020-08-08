@@ -24,11 +24,15 @@ has_children: true
 
 The Parthenon. Democracy. Philosophy. Mythology. Marble Statues. The memory of Ancient Greece casts a long shadow on the world that we live in. In this class, we will explore this world, studying the structures, institutions, and peoples that shaped it. To do so, we will grapple with primary documents written from the ancient world, focusing particularly on the perspective of individuals and groups that have been traditionally deemed unimportant including slaves, women, and foreigners.
 
+[Back to top.](#top)
+
 ***
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find our [course objectives], [tips for doing well in the course], [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), our [schedule and list of readings](https://dominicmachado.github.io/schedule-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis), as well as descriptions of individual assignments.
+Everything that you need to know about this course is on this website. You can find our [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), our [schedule and links to readings](https://dominicmachado.github.io/schedule-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20).
+
+[Back to top.](#top)
 
 ***
 
@@ -39,9 +43,11 @@ Everything that you need to know about this course is on this website. You can f
 
 ### Wednesday, September 2
 - Syllabus Overview
-- Greek Misconceptions Assignment Released
-- **Homework (due before class)**: Read the expectations, grading, and schedule pages carefully. Watch this [short video](https://www.youtube.com/watch?v=6bDrYTXQLu8) and jot down some notes on what image of ancient Greece is presented in the video.
+- Misconceptions Quiz Released
+- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) carefully. Jot down questions you have about the course setup to class.
 
 ### Friday, September 4
 - Ancient Greece in the 21st century: A Culture War
-- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage or piece of evidence from her lecture and reflect on it in your commonplace book.
+- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage from her lecture and reflect on it in your [commonplace book](https://dominicmachado.github.io/commonplace-book-clas141-f20).
+
+[Back to top.](#top)

@@ -25,6 +25,8 @@ Throughout the course, you will keep a type of journal, known as a commonplace b
 
 Your grade on the commonplace book will be determined by the percentage of satisfactory entries that complete. Further details on the commonplace book assignment can be found [here](https://dominicmachado.github.io/commonplace-book-clas141-f20).
 
+[Back to top.](#top)
+
 ***
 
 ## Misconceptions Quiz (first attempt due: September 11)
@@ -35,6 +37,8 @@ In terms of format, the quiz will be a mixture of short factual and longer open-
 
 The quiz will be distributed via Google forms on September 2nd and your first attempt must be submitted by 2 PM EST on September 11. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Greek Misconceptions quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
 
+[Back to top.](#top)
+
 ***
 
 ## Ancient Source Analysis (first attempt due: September 25)
@@ -42,6 +46,8 @@ The quiz will be distributed via Google forms on September 2nd and your first at
 In the Ancient Source Analysis (1000 - 1500 words), you will read a series of sources about an ancient event and assess the historicity of these sources, based on a series of specific criteria. The project is designed to give you practice reading ancient sources closely and evaluating their value as historical evidence in a detailed and rigorous manner. Your first attempt at the analysis is due on September 25 at 2 PM EST by email.
 
 This project will be graded on a satisfactory/unsatisfactory basis. Passing the ancient source analysis is a prerequisite for passing this class. As such, you will be allowed to revise this project as many times as you want to earn satisfactory grade. Further details can be found on the Ancient Source Analysis [page](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20).
+
+[Back to top.](#top)
 
 ***
 
@@ -53,12 +59,16 @@ In terms of format, the quiz, just like the Greek misconceptions quiz, will be a
 
 The quiz will be distributed via Google forms on October 19th and your first attempt must be submitted by 2 PM EST on October 26th. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Non-Elite History quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
 
+[Back to top.](#top)
+
 ***
 
 ## Creative Project
 &nbsp;  
 
 TBD!
+
+[Back to top.](#top)
 
 ***
 
@@ -67,5 +77,7 @@ TBD!
 For this project, you will record a 15 minute video podcast on Zoom/Google Meet/YouTube/your phone centering around three passages from your commonplace book. You will discuss these passages in detail, drawing attention to the important themes in Greek history that they bring out and reflecting on the value of reading these sources in the present day.
 
 The intended audience of your podcast project will be your friends and family, so be sure to provide adequate context for your discussion. Further details can be found on the Podcast project [page](https://dominicmachado.github.io/podcast-project-clas141-f20).
+
+[Back to top.](#top)
 
 ***
