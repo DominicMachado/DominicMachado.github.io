@@ -11,7 +11,7 @@ has_children: true
 
 ***
 
-## Course objectives
+## Course Objectives
 &nbsp;  
 By the end of this course, you will be able to:
 
