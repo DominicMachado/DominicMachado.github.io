@@ -23,9 +23,9 @@ Your grade on the commonplace book will be determined by the percentage of satis
 
 ***
 
-## Greek Misconceptions Quiz
+## Misconceptions Quiz
 &nbsp;  
-The Greek Misconceptions quiz will assess your knowledge of certain foundational aspects of Greek culture and history that are frequently misunderstood by the average person. It will focus on explicitly on topics that we will cover in our first three class periods (e.g. the cultural, linguistic, geographical scope of the ancient Greek world).
+The Misconceptions quiz will assess your knowledge of certain foundational aspects of Greek culture and history that are frequently misunderstood by the average person. It will focus on explicitly on topics that we will cover in our first three class periods (e.g. the cultural, linguistic, geographical scope of the ancient Greek world).
 
 In terms of format, the quiz will be a mixture of short factual and longer open-ended responses. There are no restrictions on the resources you can use - the quiz is open-note and open-book.
 
@@ -60,6 +60,6 @@ TBD!
 
 ## Podcast Project
 &nbsp;  
-The final project for this class is a podcast project. At the core of your podcast project will be your commonplace book.
+For the final project, you will record a 15 minute podcast. This podcast will be 
 
 ***
