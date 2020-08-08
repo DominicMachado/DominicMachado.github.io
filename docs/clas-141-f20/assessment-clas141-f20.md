@@ -27,7 +27,7 @@ Your grade on the commonplace book will be determined by the percentage of satis
 
 ***
 
-## Misconceptions Quiz
+## Misconceptions Quiz (first attempt due: September 11)
 &nbsp;  
 The Misconceptions quiz will assess your knowledge of certain foundational aspects of Greek culture and history that are frequently misunderstood by the average person. It will focus on explicitly on topics that we will cover in our first three class periods (e.g. the cultural, linguistic, geographical scope of the ancient Greek world).
 
@@ -37,7 +37,7 @@ The quiz will be distributed via Google forms on September 2nd and your first at
 
 ***
 
-## Ancient Source Analysis
+## Ancient Source Analysis (first attempt due: September 25)
 &nbsp;  
 In the Ancient Source Analysis (1000 - 1500 words), you will read a series of sources about an ancient event and assess the historicity of these sources, based on a series of specific criteria. The project is designed to give you practice reading ancient sources closely and evaluating their value as historical evidence in a detailed and rigorous manner. Your first attempt at the analysis is due on September 25 at 2 PM EST by email.
 
@@ -45,7 +45,7 @@ This project will be graded on a satisfactory/unsatisfactory basis. Passing the 
 
 ***
 
-## Non-Elite History Quiz
+## Non-Elite History Quiz (first attempt due: September 25)
 &nbsp;  
 The Non-Elite History quiz will assess your knowledge of individuals who rarely get their fair share of the limelight in Greek history. It will focus on the role that slaves, women, serfs, and foreigners played in the Greek world.
 
@@ -62,10 +62,10 @@ TBD!
 
 ***
 
-## Podcast Project
+## Podcast Project (due: December 18)
 &nbsp;  
 For this project, you will record a 15 minute video podcast on Zoom/Google Meet/YouTube/your phone centering around three passages from your commonplace book. You will discuss these passages in detail, drawing attention to the important themes in Greek history that they bring out and reflecting on the value of reading these sources in the present day.
 
-The intended audience of your podcast project will be your friends and family, so be sure to provide adequate context for your discussion. Further details can be found on the Podcast project [page].
+The intended audience of your podcast project will be your friends and family, so be sure to provide adequate context for your discussion. Further details can be found on the Podcast project [page](https://dominicmachado.github.io/podcast-project-clas141-f20).
 
 ***
