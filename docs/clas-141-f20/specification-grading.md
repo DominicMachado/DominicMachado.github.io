@@ -20,8 +20,9 @@ Below is the rubric for course grades:
 | Ancient Source Analysis    | X       | X       |X      |
 | Misconceptions Quiz  | X        | X  |X  |
 | Non-Elite History Quiz   | X       | X  |X |
-| Commonplace Book   | bonum        | bonam  |bonum  |
-| Ablative   | bonō        | bonā  |bonō  |
-
+| Commonplace Book   | > 90%       | 80% - 90%  | 70% - 80%  |
+| Attendance  | > 90%      | 80% - 90%  |70% - 80%  |
+| Creative Project  | X      | X  |X  |
+| Podcast Project  | X      | |  |
 
 To achieve a certain grade level, students must complete the listed number of satisfactory assignments from each of the five different categories (i.e. students who want to earn a B– must satisfactorily complete 14 responses, 3 projects, the final project, 25 in-class comments and have fewer than 3 absences). When students have completed the minimum number of satisfactory assignments for their desired final grade, they do not need to submit any more assignments of that type.
