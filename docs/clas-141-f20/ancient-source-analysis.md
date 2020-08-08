@@ -17,7 +17,7 @@ nav_order: 2
 
 **Details**
 
-- Due: September 25, 2 PM (by email)
+- Due: September 25, 2 PM EST (by email)
 - Length: 1000 - 1500 words
 - Format: Double-spaced, 12-point font
 

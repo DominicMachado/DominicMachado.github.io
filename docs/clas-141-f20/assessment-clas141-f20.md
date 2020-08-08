@@ -64,7 +64,7 @@ TBD!
 
 ## Podcast Project
 &nbsp;  
-For the final project, you will record a 15 minute podcast on Zoom/Google Meet/YouTube centering around three passages from your commonplace book. You will discuss these passages in detail, drawing attention to the important themes in Greek history that they bring out and reflecting on the value of reading these sources in the present day.
+For this project, you will record a 15 minute video podcast on Zoom/Google Meet/YouTube/your phone centering around three passages from your commonplace book. You will discuss these passages in detail, drawing attention to the important themes in Greek history that they bring out and reflecting on the value of reading these sources in the present day.
 
 The intended audience of your podcast project will be your friends and family, so be sure to provide adequate context for your discussion. Further details can be found on the Podcast project [page].
 
