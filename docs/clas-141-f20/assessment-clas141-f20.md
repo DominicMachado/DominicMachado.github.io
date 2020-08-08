@@ -15,6 +15,10 @@ has_children: true
 
 ***
 
+Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-clas141-f20) page.
+
+***
+
 ## Commonplace Book
 &nbsp;  
 Throughout the course, you will keep a type of journal, known as a commonplace book, in which you will record and reflect on passages in your readings that stand out to you. The hope is that keeping a commonplace will make you a more attentive reader, more reflective thinker, and more active class participant.
@@ -60,6 +64,8 @@ TBD!
 
 ## Podcast Project
 &nbsp;  
-For the final project, you will record a 15 minute podcast. This podcast will be 
+For the final project, you will record a 15 minute podcast on Zoom/Google Meet/YouTube centering around three passages from your commonplace book. You will discuss these passages in detail, drawing attention to the important themes in Greek history that they bring out and reflecting on the value of reading these sources in the present day.
+
+The intended audience of your podcast project will be your friends and family, so be sure to provide adequate context for your discussion. Further details can be found on the Podcast project [page].
 
 ***
