@@ -3,7 +3,7 @@ layout: page
 title: Course Policies
 permalink: course-policies-clas141-f20
 parent: CLAS 141 - F20
-nav_order: 1
+nav_order: 4
 ---
 
 # Course Policies - CLAS 141 - F20
