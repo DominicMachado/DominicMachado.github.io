@@ -19,4 +19,4 @@ By the end of this course, you will be able to:
 - Explain why the idea of ancient Greece continues to be important in the 21st century
 - Read ancient documents carefully so that you can analyze the biases and problems that ancient documents present for historical interpretation
 - Articulate the role played by non-elite individuals and their larger importance to Greek
-- Make broad connections to the past and present day and present them to the public in a digestible form
+- Make broad connections between the past and present day and present them to the public in a digestible form
