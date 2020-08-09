@@ -16,7 +16,7 @@ We will use not a conventional grading system in this course. Instead, we will a
 Below is the rubric for course grades:
 
 |      | A- | B- | C- | D- |
-| ----------- | ----------- | ----------- | ----------- || ----------- |
+| :---------: | :---------: | :---------: | :---------: || :---------: |
 | Ancient Source Analysis    | X | X | X | X |
 | Misconceptions Quiz  | X | X | X | X |
 | Non-Elite History Quiz   | X | X | X | X |
