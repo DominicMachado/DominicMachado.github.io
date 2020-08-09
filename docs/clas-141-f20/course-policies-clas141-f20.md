@@ -22,7 +22,7 @@ If you miss or are going to miss class, please e-mail me to let me know what is 
 
 ### Academic Integrity
 &nbsp;  
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on any assignment (for instance, using unauthorized notes to help answer questions, copying another student’s answers, or employing online translation programs) will result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
+You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://hccatalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Cheating on any assignment (for instance, using unauthorized notes to help answer questions, copying another student’s answers) will result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course.
 
 ### Accommodations
 &nbsp;  
