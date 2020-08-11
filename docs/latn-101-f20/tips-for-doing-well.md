@@ -25,8 +25,8 @@ This course is CBL (community-based learning) designate class. As such, outreach
 
 ***
 
-## Tips for Doing Well in the Course
-
+## What You Should Do
+&nbsp;  
 Below are list of best practices based on what students who have excelled in previous iterations of the course did:
 
 - Do not rely on class time to learn assigned material. Our discussions will build on the reading and exercises that I expect you to have completed for class.
