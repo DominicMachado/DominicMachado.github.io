@@ -10,7 +10,7 @@ nav_order: 2
 
 ***
 
-[What-To-Expect](#what-to-expect) \| [What-To-Do](#what-to-do) \|
+[What You Can Expect](#what-you-can-expect) \| [What You Should Do](#what-you-should-do) \|
 
 ***
 
