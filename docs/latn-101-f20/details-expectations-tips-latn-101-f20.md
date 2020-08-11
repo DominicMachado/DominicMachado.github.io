@@ -3,7 +3,7 @@ layout: page
 title: Details, Expectations, and Tips
 permalink: details-expectations-tips-latn-101-f20
 parent: LATN 101 - F20
-nav_order: 1
+nav_order: 2
 ---
 
 # Details, Expectations, and Tips - LATN 101 - F20
@@ -15,10 +15,10 @@ nav_order: 1
 ***
 
 ## Course Expectations
+&nbsp;  
+Latin 101 is the first course in a two-semester introduction to the Latin language. The goal is to read Classical Latin by the end of the year, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history and why it still matters today.
 
-Latin 101 is the first course in a two-semester introduction to the Latin language. The goal by the end of the year is to read Classical Latin, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history through examination of ancient coins, manuscripts, and inscriptions.
-
-The course will use a flipped classroom and active learning pedagogy. What that means is that you will be responsible for previewing the material that we will cover in class ahead of time. You will read the relevant grammatical overviews and familiarize yourself with basic morphology and vocabulary before coming to class. Class time will be spent employing your newly developed knowledge through a variety of activities that explore the finer points of the material and answering lingering questions about the material. My role is to facilitate your learning rather than to dictate how you do it.
+The course will use a flipped classroom and active learning pedagogy. What that means is that you will be responsible for studying the material that we will cover in class ahead of time. You will read the relevant grammatical overviews and watch the  and familiarize yourself with basic morphology and vocabulary before coming to class. Class time will be spent employing your newly developed knowledge through a variety of activities that explore the finer points of the material and answering lingering questions about key concepts. My role is to facilitate your learning rather than to dictate how you do it.
 
 All assessments will take place outside of class and will focus on developing the active skills necessary to understand Latin. The intent here is to give you time and space to engage with the material at your own pace. Further, you will have an opportunity to revise or redo all of your assignments since learning is best done iteratively (i.e. repetitively).
 

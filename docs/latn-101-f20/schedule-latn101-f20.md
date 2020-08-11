@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 permalink: schedule-latn101-f20
 parent: LATN 101 - F20
-nav_order: 3
+nav_order: 4
 ---
 
 # Schedule - LATN 101 - F20
