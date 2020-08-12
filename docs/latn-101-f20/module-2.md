@@ -31,7 +31,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
   - Conjugations
 - Perfect active and passive indicative
 - Sentence Type 2: Intransitive
-- **Homework (due before class)**: **Composition #1 due**. Watch Professor Smith's [short video] on verbal inflection. Then, read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: amaverunt, auditi sunt, and ductae sunt.
+- **Homework (due before class)**: **Composition #1 due**. Watch Professor Smith's [short video] on verbal inflection. Then, read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *amaverunt*, *auditi sunt*, and *ductae sunt*.
 
 ### Friday, September 18
 - Imperfect active and passive indicative
@@ -44,12 +44,12 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 
 ### Monday, September 21
 - Ablative of Agent
-- **Homework (due before class)**: Watch Prof. Joseph's [short video] on the ablative case and review the section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences), paying particular attention to the use of the ablative case. Please write down the nominative, genitive, and ablative singular and plural of magnus dux, haec terra, and id regnum and bring it to class.
+- **Homework (due before class)**: Watch Prof. Joseph's [short video] on the ablative case and review the section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences), paying particular attention to the use of the ablative case. Please write down the nominative, genitive, and ablative singular and plural of *magnus dux*, *haec terra*, and *id regnum* and bring it to class.
 
 ### Wednesday, September 23
 - Sentence Type 1: Transitive
 - Accusative and Dative Cases
-- **Homework (due before class)**: Watch Professor Smith's [short video] on the accusative and dative and read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences) Make charts that show all five cases for *magnus dux*, *haec terra*, and *id regnum* and bring it to class.
+- **Homework (due before class)**: Watch Professor Smith's [short video] on the accusative and dative and read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences). Make charts that show all five cases for *magnus dux*, *haec terra*, and *id regnum* and bring it to class.
 
 ### Friday, September 25
 - *sum, esse, fui*
