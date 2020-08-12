@@ -6,11 +6,7 @@ parent: LATN 101 - F20
 nav_order: 2
 ---
 
-# How To Do Well in this Course - LATN 101 - F20
-
-***
-
-[What You Can Expect](#what-you-can-expect) \| [What You Should Do](#what-you-should-do) \|
+# What You Need To Know To Do Well In This Course
 
 ***
 
@@ -25,9 +21,9 @@ This course is CBL (community-based learning) designate class. As such, outreach
 
 ***
 
-## What You Should Do
+## What Should You Be Doing
 &nbsp;  
-Below are list of best practices based on what students who have excelled in previous iterations of the course did:
+Below are list of best practices based on what students who have excelled in previous iterations of the course have done:
 
 - Do not rely on class time to learn assigned material. Our discussions will build on the reading and exercises that I expect you to have completed for class.
 - Read each the relevant material twice – once before class and once after. This will help to crystallize key concepts that we cover in class.
@@ -36,4 +32,5 @@ Below are list of best practices based on what students who have excelled in pre
 - "Visit" me during office hours! I am here to help you learn as much as possible and I am happy to do whatever is necessary to assist you in achieving that goal.
 - Take advantage of the resources available for you. You can also work through [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) to get more individually tailored support.
 
+NB: These are just suggestions - there are many ways to skin the proverbial Latin cat.
 ***
