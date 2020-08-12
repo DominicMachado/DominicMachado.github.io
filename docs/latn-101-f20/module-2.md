@@ -85,8 +85,8 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 - Review
   - Noun-adjective agreement
   - Verbal formation
-- **Homework (due before class)**: Study noun-adjective agreement and verb formation for competency quiz.
+- **Homework (due before class)**: Study noun-adjective agreement and verb formation for your competency quiz.
 
 ### Friday, October 9
 - Prepositional phrases
-- **Homework (due before class)**: Complete competency quiz #1. Read the section on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases) for discussion in class.
+- **Homework (due before class)**: Complete **competency quiz #1**. Read the section on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases) for discussion in class.
