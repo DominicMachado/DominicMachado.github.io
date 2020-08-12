@@ -54,7 +54,7 @@ Below are the dates on which your assessments are due:
 &nbsp;  
 Here are the important links for this unit:
 - Module 1 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-1)
-- Module 2 schedule
+- Module 2 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-2)
 - Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
 - Course readings on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/)
 - Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/)
