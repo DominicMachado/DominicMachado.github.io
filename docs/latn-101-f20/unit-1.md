@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unit 1
-permalink: unit-1
+permalink: schedule-latn101-f20-unit-1
 parent: Schedule
 grand_parent: LATN 101 - F20
 nav_order: 1
@@ -37,8 +37,9 @@ By the end of this unit, you will be able to:
 
 ***
 
-### Key Dates
+### Assessment
 &nbsp;  
+Below are the dates on which your assessments are due:
 - Friday, September 11 - Quiz #1 due
 - Monday, September 14 - Translation #1 due
 - Wednesday, September 16 - Composition #1 due
@@ -49,8 +50,9 @@ By the end of this unit, you will be able to:
 
 ***
 
-### Key links
+### Materials
 &nbsp;  
+Here are the important links for this unit:
 - Module 1 schedule
 - Module 2 schedule
 - Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
