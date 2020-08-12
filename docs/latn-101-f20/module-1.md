@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Module 1
-permalink: module-1
+permalink: schedule-latn101-f20-module-1
 parent: Unit 1
 grand_parent: Schedule
 great_grand_parent: LATN 101 - F20
@@ -21,7 +21,6 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 ***
 
 ## Key Links
-&nbsp;
 - Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
 - Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/)
 
