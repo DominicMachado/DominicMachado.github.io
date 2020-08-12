@@ -5,6 +5,7 @@ permalink: unit-1
 parent: Schedule
 grand_parent: LATN 101 - F20
 nav_order: 1
+has_children: true
 ---
 
 # Unit 1 - LATN 101 - F20
