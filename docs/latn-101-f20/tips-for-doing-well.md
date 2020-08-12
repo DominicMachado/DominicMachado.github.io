@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tips for Doing Well
-permalink: tips-latn-101-f20
+title: Expectations and Tips
+permalink: expectation-and-tips-latn-101-f20
 parent: LATN 101 - F20
 nav_order: 2
 ---
 
-# What You Need To Know To Do Well In This Course
+# Expectations and Tips
 
 ***
 
@@ -21,7 +21,7 @@ This course is CBL (community-based learning) designate class. As such, outreach
 
 ***
 
-## What Should You Be Doing
+## Tips for Success
 &nbsp;  
 Below are list of best practices based on what students who have excelled in previous iterations of the course have done:
 
