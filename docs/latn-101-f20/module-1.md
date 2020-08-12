@@ -16,15 +16,7 @@ nav_order: 1
 &nbsp;  
 [Substantive inflection video here]
 
-For the first two weeks, we will primarily focus on the inflection of substantive forms. We will study how nouns, pronouns, and adjectives change their form to produce meaning.
-
-***
-
-## Materials
-&nbsp;  
-Below are the essential links for this module:
-- Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
-- Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/)
+For the first two weeks, we will primarily focus on the inflection of substantive forms. We will study how nouns, pronouns, and adjectives change their form to produce meaning. We will also learn how to translate and form basic sentences.
 
 ***
 
