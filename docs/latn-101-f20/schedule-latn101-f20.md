@@ -25,15 +25,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 1
 
 ### Wednesday, September 2
-- Inflection, pronunciation, word order
+- Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: Read the [expectations](https://dominicmachado.github.io/details-expectations-tips-latn-101), grading, and schedule pages carefully.
+- **Homework (due before class)**: Read the on the website carefully. Watch my short video on inflection and come prepared to ask questions.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
 - Usages of the nominative and genitive
 - Sentences with *est*, *sunt*
-- **Homework (due before class)**: Read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/).
+- **Homework (due before class)**: Read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Watch my short video on noun declensions and come to class having figured out the declension of each of the nouns at the end belong to and form the nominative and genitive singular and plural for these nouns.
 
 [Back to top.](#top)
 
