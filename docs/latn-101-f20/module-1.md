@@ -20,7 +20,9 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 
 ***
 
-## Key Links
+## Materials
+&nbsp;  
+Below are the essential links for this module:
 - Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
 - Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/)
 
