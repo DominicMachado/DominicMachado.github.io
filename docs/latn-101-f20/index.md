@@ -30,7 +30,7 @@ Latin 101 is the first course in a two-semester introduction to the Latin langua
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about course objectives, policies, assessment and grading, schedule, and
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f20), [assessment](https://dominicmachado.github.io/assessment-latn101-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f20).
 
 We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here].
 
@@ -43,17 +43,17 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ![Declensions](https://i.redd.it/vd6ckvvkf6o31.png)
 
-## Week 1
+### Week 1
 
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: Read the on the website carefully. Watch my short video on inflection and come prepared to ask questions.
+- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video] on inflection and come prepared to ask questions.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
 - Usages of the nominative and genitive
 - Sentences with *est*, *sunt*
-- **Homework (due before class)**: Read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Watch my short video on noun declensions and come to class having figured out the declension of each of the nouns at the end belong to and form the nominative and genitive singular and plural for these nouns.
+- **Homework (due before class)**:  Watch my short video on [noun declensions] and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 
 [Back to top.](#top)
