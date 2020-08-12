@@ -16,7 +16,7 @@ nav_order: 1
 ***
 
 ### Introduction
-
+&nbsp;  
 [Inflection video here]
 
 Our first unit will introduce you to the topic of inflection in the Latin language. The unit will last roughly six weeks and be broken into two modules, with the [first] covering substantive (i.e. noun, pronoun, and adjective) inflection and the [second] covering verbal inflection.
@@ -24,7 +24,7 @@ Our first unit will introduce you to the topic of inflection in the Latin langua
 ***
 
 ### Unit Objectives
-
+&nbsp;  
 By the end of this unit, you will be able to:
 
 - Explain the basic principles of inflection in the Latin language as well as how it differs from English
@@ -37,7 +37,7 @@ By the end of this unit, you will be able to:
 ***
 
 ### Key Dates
-
+&nbsp;  
 - Friday, September 11 - Quiz #1 due
 - Monday, September 14 - Translation #1 due
 - Wednesday, September 16 - Composition #1 due
@@ -49,7 +49,7 @@ By the end of this unit, you will be able to:
 ***
 
 ### Key links
-
+&nbsp;  
 - Module 1 schedule
 - Module 2 schedule
 - Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
