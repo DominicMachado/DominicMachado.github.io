@@ -119,7 +119,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, October 2
 - Composition workshop
-- **Homework (due before class)**: **Translation #2 Due**. Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) to prepare for the composition workshop.
+- **Homework (due before class)**: **Translation #2 Due**. Spend some time reviewing the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) in advance of the composition workshop.
 
 
 [Back to top.](#top)
@@ -138,11 +138,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Review
   - Noun-adjective agreement
   - Verbal formation
-- **Homework (due before class)**: Study noun-adjective agreement and verb formation for competency quiz.
+- **Homework (due before class)**: Go over your notes on noun-adjective agreement and verbal formation and bring three questions that you have to class.
 
 ### Friday, October 9
-- Prepositional phrases
-- **Homework (due before class)**: Complete competency quiz #1. Read the section on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases) for discussion in class.
+- NO CLASS
+- **Homework (due before class)**: Complete **competency quiz #1**.
 
 
 [Back to top.](#top)
@@ -153,7 +153,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 12
 - Expressions of place and time
-- **Homework (due before class)**: Read the sections on expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time). 
+- Prepositional phrases
+- **Homework (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
 
 ### Wednesday, October 14
 - Gerunds and gerundives

@@ -69,7 +69,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 
 ### Friday, October 2
 - Composition workshop
-- **Homework (due before class)**: **Translation #2 Due**. Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) to prepare for the composition workshop.
+- **Homework (due before class)**: **Translation #2 Due**. Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) in advance of the composition workshop.
 
 ***
 
@@ -85,8 +85,8 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 - Review
   - Noun-adjective agreement
   - Verbal formation
-- **Homework (due before class)**: Study noun-adjective agreement and verb formation for your competency quiz.
+- **Homework (due before class)**: Go over your notes on noun-adjective agreement and verbal formation and bring three questions that you have to class.
 
 ### Friday, October 9
-- Prepositional phrases
-- **Homework (due before class)**: Complete **competency quiz #1**. Read the section on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases) for discussion in class.
+- NO CLASS
+- **Homework (due before class)**: Complete **competency quiz #1**. 
