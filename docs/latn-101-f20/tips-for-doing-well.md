@@ -33,4 +33,3 @@ Below are list of best practices based on what students who have excelled in pre
 - Take advantage of the resources available for you. You can also work through [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) to get more individually tailored support.
 
 NB: These are just suggestions - there are many ways to skin the proverbial Latin cat.
-***
