@@ -28,7 +28,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video] on inflection and come prepared to ask questions.
+- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)

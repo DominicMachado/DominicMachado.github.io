@@ -32,7 +32,7 @@ Latin 101 is the first course in a two-semester introduction to the Latin langua
 &nbsp;  
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f20), [assessment](https://dominicmachado.github.io/assessment-latn101-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f20).
 
-We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here].
+We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg).
 
 [Back to top.](#top)
 
@@ -48,7 +48,7 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video] on inflection and come prepared to ask questions.
+- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
