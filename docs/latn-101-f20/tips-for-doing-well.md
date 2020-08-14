@@ -6,6 +6,7 @@ parent: LATN 101 - F20
 nav_order: 2
 ---
 ***
+
 # Expectations and Tips
 
 ***
