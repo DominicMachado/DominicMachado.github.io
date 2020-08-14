@@ -28,7 +28,7 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video] on inflection and come prepared to ask questions.
+- **Homework (due before class)**: Explore our course website and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions related to both.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
