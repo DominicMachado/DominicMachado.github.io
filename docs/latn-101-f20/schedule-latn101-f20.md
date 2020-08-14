@@ -6,7 +6,7 @@ parent: LATN 101 - F20
 nav_order: 4
 has_children: true
 ---
-
+***
 # Schedule - LATN 101 - F20
 
 ***

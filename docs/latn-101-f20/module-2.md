@@ -7,7 +7,7 @@ grand_parent: Schedule
 great_grand_parent: LATN 101 - F20
 nav_order: 2
 ---
-
+***
 # Module 2 - Verbal Inflection
 
 ***
@@ -89,4 +89,4 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 
 ### Friday, October 9
 - NO CLASS
-- **Homework (due before class)**: Complete **competency quiz #1**. 
+- **Homework (due before class)**: Complete **competency quiz #1**.
