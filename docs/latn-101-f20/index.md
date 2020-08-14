@@ -22,6 +22,8 @@ has_children: true
 - **Student Hours**: T, Th 1 - 3 PM [link to calendar]
 - **E-mail**: dmachado@holycross.edu
 
+![Intro Video](http://img.youtube.com/vi/rm7NZqHxFNE/0.jpg)](http://www.youtube.com/watch?v=rm7NZqHxFNE "Intro Video")
+
 Latin 101 is the first course in a two-semester introduction to the Latin language. The goal is to read Classical Latin by the end of the year, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history and why it still matters today.
 
 [Back to top.](#top)
@@ -48,7 +50,7 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions.
+- **Homework (due before class)**: Explore our course website and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions related to both.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
