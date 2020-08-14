@@ -5,7 +5,7 @@ permalink: expectation-and-tips-latn-101-f20
 parent: LATN 101 - F20
 nav_order: 2
 ---
-
+***
 # Expectations and Tips
 
 ***
