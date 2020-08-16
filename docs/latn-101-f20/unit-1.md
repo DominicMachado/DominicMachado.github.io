@@ -47,7 +47,7 @@ Below are the dates on which your assessments are due:
 - Friday, September 25 - Quiz #2 due
 - Monday, September 28 - Translation #2 due
 - Monday, October 5 - Composition #2 due
-- Wednesday, October 7 - Competency Quiz #2 due
+- Wednesday, October 7 - Competency Quiz #1 due
 
 ***
 
