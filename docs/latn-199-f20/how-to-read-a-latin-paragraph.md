@@ -18,11 +18,12 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 - Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you
 - Read through the sentence a second time, underlining all the finite verbs
 - Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. cum, dum, si, usque, ut, ne, quod, quia, quamquam) or a relative pronoun (e.g. qui, quae, quod)
--
 
 ***
 ## Example - Ceres and Triptolemus
 &nbsp;
+
+Step 1: Read the sentence aloud
 
 > Cum Ceres Proserpinam filiam suam quaereret, devenit ad Eleusinum regem, cuius uxor Cothonea puerum Triptolemum pepererat, seque nutricem lactantem simulavit.
 
@@ -44,7 +45,7 @@ Step 4: Locate any stated subjects (in *italics*)
 
 - The two verbs in the dependent clauses do not have a stated subject - this implies that they share a subject with the first stated subject
 
-Step 5: Determine if each verb requires a direct object and locate the direct objects for those verbs
+Step 5: Determine if each verb requires a direct object and locate the direct objects for those verbs (in ***bold italics***)
 
 > (Cum *Ceres* ***Proserpinam filiam suam*** **quaereret**), **devenit** ad Eleusinum regem, (cuius *uxor Cothonea* ***puerum Triptolemum*** **pepererat**), ***seque nutricem lactantem*** **simulavit**.
 
