@@ -15,23 +15,37 @@ nav_order: 2
 
 When reading Latin texts, it can be helpful to approach them with a regular method. Below you will find my suggested method for doing so (with links to more detail for certain steps):
 
-- Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you
-- Read through the sentence a second time, underlining all the finite verbs
-- Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. cum, dum, si, usque, ut, ne, quod, quia, quamquam) or a relative pronoun (e.g. qui, quae, quod)
-
+- Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you.
+- Read through the sentence a second time, mark all the finite verbs.
+- Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. cum, dum, si, usque, ut, ne, quod, quia, quamquam) or a relative pronoun (e.g. qui, quae, quod) and mark out the full subordinate clause using parentheses:
+  - Open parenthesis whenever you see one of these words.
+  - Close parenthesis when you get to the verb.
+  - If you see another subordinating conjugation before you get to the verb, open parentheses again. Once you get to the next verb, you will close the parenthesis - this will represent the subordinate clause within the larger subordinate clause. The next verb will be the main verb in the first subordinate clause:
+    - E.g.: (Si regina, (quae terram rexit), laeta erat)....
+- Mark any stated subjects in the sentence.
+- Determine if the finites verb requires anything to complete their meaning.  
+  - If there is an active transitive verb, this will be a direct object.
+  - If there is a linking verb, this will be a predicate nominative.
+  - If there is a passive verb, there may be an ablative of agent.
+    - Terra **ab reginā** recta est.
+  - If there is a verb of the head (i.e. a verb of speaking, seeing, hearing, perceiving), there will be an indirect statement.
+    - An indirect statement will feature an accusative and an infinitive.
+    - E.g. Dixit **terram ab reginā rectam esse**.
+- Bracket any prepositional phrases or ablative absolutes.
+- Now you are
 ***
 ## Example - Ceres and Triptolemus
 &nbsp;
 
-Step 1: Read the sentence aloud
+Step 1: Read the sentence aloud.
 
 > Cum Ceres Proserpinam filiam suam quaereret, devenit ad Eleusinum regem, cuius uxor Cothonea puerum Triptolemum pepererat, seque nutricem lactantem simulavit.
 
-Step 2: Find the finite verbs (in **bold**)
+Step 2: Find the finite verbs (in **bold** here).
 
 > Cum Ceres Proserpinam filiam suam **quaereret**, **devenit** ad Eleusinum regem, cuius uxor Cothonea puerum Triptolemum **pepererat**, seque nutricem lactantem **simulavit**.
 
-Step 3: Determine the subordinate clauses
+Step 3: Determine the subordinate clauses and mark them with parentheses.
 
 > (Cum Ceres Proserpinam filiam suam **quaereret**), **devenit** ad Eleusinum regem, (cuius uxor Cothonea puerum Triptolemum **pepererat**), seque nutricem lactantem **simulavit**.
 
@@ -39,17 +53,18 @@ Step 3: Determine the subordinate clauses
 - Cuius introduces the second dependent clauses
 - The sentence of two independent clauses and joined by -que: "**devenit** ad Eleusinum regem seque nutricem lactantem **simulavit**."
 
-Step 4: Locate any stated subjects (in *italics*)
+Step 4: Locate any stated subjects (in *italics* here).
 
 > (Cum *Ceres* Proserpinam filiam suam **quaereret**), **devenit** ad Eleusinum regem, (cuius *uxor Cothonea* puerum Triptolemum **pepererat**), seque nutricem lactantem **simulavit**.
 
 - The two verbs in the dependent clauses do not have a stated subject - this implies that they share a subject with the first stated subject
 
-Step 5: Determine if each verb requires a direct object and locate the direct objects for those verbs (in ***bold italics***)
+Step 5: Determine what is required to complete the meaning of the sentence with the particular verb.
 
 > (Cum *Ceres* ***Proserpinam filiam suam*** **quaereret**), **devenit** ad Eleusinum regem, (cuius *uxor Cothonea* ***puerum Triptolemum*** **pepererat**), ***seque nutricem lactantem*** **simulavit**.
 
-- Notice that **devenit** as an intransitive verb does not have a direct object
+- Three out of the four verbs here are transitive verbs and require a direct object (marked with in ***bolded italics***)
+- Notice that **devenit** as an intransitive verb does not need anything to complete the meaning
 
 Step 6: Put brackets around any prepositional phrases or ablative absolutes.
 
