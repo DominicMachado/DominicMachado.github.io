@@ -7,7 +7,7 @@ nav_order: 2
 ---
 ***
 
-# How to Read Complex Latin Sentences - LATN 199 - F20
+# A Guide to Complex Latin Sentences - LATN 199 - F20
 
 ***
 ## How to Read Complex Latin Sentences
