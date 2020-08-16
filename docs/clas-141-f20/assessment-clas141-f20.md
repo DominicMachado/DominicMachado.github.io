@@ -51,7 +51,7 @@ This project will be graded on a satisfactory/unsatisfactory basis. Passing the 
 
 ***
 
-## Non-Elite History Quiz (first attempt due: September 25)
+## Non-Elite History Quiz (first attempt due: October 26)
 &nbsp;  
 The Non-Elite History quiz will assess your knowledge of individuals who rarely get their fair share of the limelight in Greek history. It will focus on the role that slaves, women, serfs, and foreigners played in the Greek world.
 
