@@ -57,7 +57,7 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 - *Cuius* introduces the second dependent clauses
 - The sentence of two independent clauses and joined by *-que*: "**devenit** ad Eleusinum regem seque nutricem lactantem **simulavit**."
 
-Step 4: Locate any stated subjects (in *italics* here).
+**Step 4**: Locate any stated subjects (in *italics* here).
 
 > (Cum *Ceres* Proserpinam filiam suam **quaereret**), **devenit** ad Eleusinum regem, (cuius *uxor Cothonea* puerum Triptolemum **pepererat**), seque nutricem lactantem **simulavit**.
 
