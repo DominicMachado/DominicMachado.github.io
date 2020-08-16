@@ -17,7 +17,7 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 
 - Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you.
 - Read through the sentence a second time, mark all the finite verbs.
-- Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. cum, dum, si, usque, ut, ne, quod, quia, quamquam) or a relative pronoun (e.g. qui, quae, quod) and mark out the full subordinate clause using parentheses (NB: All clauses must feature a verb).
+- Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. *cum*, *dum*, *si*, *usque*, *ut*, *ne*, *quod*, *quia*, *quamquam*) or a relative pronoun (e.g. *qui*, *quae*, *quod*) and mark out the full subordinate clause using parentheses (NB: All clauses must feature a verb).
   - Open parenthesis whenever you see a subordinating conjunction or relative pronoun.
   - Close parenthesis when you get to the verb.
   - If you see another subordinating conjugation before you get to the verb, open parentheses again. Once you get to the next verb, you will close the parenthesis - this will represent the subordinate clause within the larger subordinate clause. The next verb will be the main verb in the first subordinate clause:
@@ -34,7 +34,7 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 - Bracket any prepositional phrases or ablative absolutes.
 - Now you are ready to translate:
   - Start by translating the sentence's independent clauses.
-  - Then, move on to filling in the rest of the dependent clause in order and translating them to add further detail to the
+  - Then, move on to filling in the rest of the dependent clause in order and translating them to add further detail to the independent clause.
 
 ***
 
