@@ -7,10 +7,10 @@ nav_order: 2
 ---
 ***
 
-# A Guide to Complex Latin Sentences - LATN 199 - F20
+# How to Read a Latin Sentence - LATN 199 - F20
 
 ***
-## How to Read Complex Latin Sentences
+## How to Read a Latin Sentence
 &nbsp;
 
 When reading Latin texts, it can be helpful to approach them with a regular method. Below you will find my suggested method for doing so, but please note that there are many other ways of reading Latin sentences as well:
@@ -38,7 +38,7 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 
 ***
 
-## Example - Ceres and Triptolemus
+## Sample Sentence
 &nbsp;
 
 **Step 1**: Read the sentence aloud.
