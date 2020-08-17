@@ -9,7 +9,7 @@ has_children: true
 ## Welcome to LATN 199 - Fall 2020
 &nbsp;
 
-![Hyginus](https://study.com/cimages/multimages/16/poeticon_astronomicon_cassiopeia_andromeda.jpg)
+![Hannibal](https://www.ancienthistorylists.com/wp-content/uploads/2014/09/Hannibal-Barca.jpg)
 
 ***
 
@@ -22,7 +22,9 @@ has_children: true
 - **E-mail**: dmachado@holycross.edu
 
 Latin 199 is meant to serve as an introduction to the reading of Latin at the college level. 	
-This course is specifically designed for students who have studied Latin at the high school level for multiple years, but do not yet feel comfortable with reading advanced poetry and prose. The aim of the course to give students the opportunity to improve their knowledge of Latin grammar and syntax, with a view towards enabling reading facility of real Latin texts. As such, the course will be a mix of grammar review and reading practice.
+The course is specifically designed for students who have studied Latin at the high school level for multiple years, but do not yet feel comfortable with reading advanced poetry and prose. The aim of the course to give students the opportunity to improve their knowledge of Latin grammar and syntax, with a view towards enabling reading facility of real Latin texts. As such, the course will be a mix of grammar review and reading practice.
+
+The readings for the course will thematically organized around the character of Hannibal, arguably Rome's greatest enemy. To that end, we will read all of Cornelius Nepos' biography of Hannibal and selections from Book 21 of Livy's Roman history.
 
 [Back to top.](#top)
 
@@ -30,9 +32,9 @@ This course is specifically designed for students who have studied Latin at the 
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives], [course policies], [assessment], and our [full course schedule].
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn199-f20), [course policies](https://dominicmachado.github.io/course-policies-latn199-f20), [assessment](https://dominicmachado.github.io/course-policies-latn199-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn199-f20). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn199-f20).
 
-[BOOKS]
+In terms of books, you will not need any physical books. We will use an online [textbook](https://lingualatina.github.io/textbook/), designed by myself and other Holy Cross professors, for grammar and we will use an online text and commentary for [Nepos](http://dcc.dickinson.edu/nepos-hannibal/chapter-1) and [Livy](https://arcane-cliffs-02027.herokuapp.com/).
 
 [Back to top.](#top)
 
@@ -41,7 +43,7 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Hyginus](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Firenze%2C_igino%2C_de_astronomia%2C_1450-1500_ca.%2C_pluteo_89_sup_43%2C_01.JPG/1200px-Firenze%2C_igino%2C_de_astronomia%2C_1450-1500_ca.%2C_pluteo_89_sup_43%2C_01.JPG)
+![Hyginus](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
 
 ### Week 1
 
@@ -51,6 +53,6 @@ Everything that you need to know about this course is on this website. You can f
 
 ### Friday, September 4
 - Diagnostic review
-- **Homework (due before class)**: Read and translate section [X] in Hyginus' *Fabulae*. Take note of the words and constructions that were most confusing for you.
+- **Homework (due before class)**: Read and translate [Chapter 1](http://dcc.dickinson.edu/nepos-hannibal/chapter-1) in Nepos' Life of Hannibal. Take note of the words and constructions that were most confusing for you.
 
 [Back to top.](#top)
