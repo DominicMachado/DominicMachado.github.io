@@ -45,6 +45,8 @@ In terms of books, you will not need any physical books. We will use an online [
 
 ![Hyginus](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
 
+For the first couple weeks, we will be in diagnostic mode to see what things would be useful for us to target throughout the semester. As such, the schedule will be very flexible at first.
+
 ### Week 1
 
 ### Wednesday, September 2
