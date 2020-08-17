@@ -13,7 +13,7 @@ nav_order: 2
 ## How to Read a Latin Sentence
 &nbsp;
 
-When reading Latin texts, it can be helpful to approach them with a regular method. Below you will find my suggested method for doing so, but please note that there are many other ways of reading Latin sentences as well:
+When reading Latin texts, it can be helpful to approach them with a regular method. Below you will find my suggested method for doing so, but please note that there are many other ways of reading Latin sentences as well.
 
 **Step 1**: Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you.
 
