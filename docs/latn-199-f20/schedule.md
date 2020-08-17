@@ -24,7 +24,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, September 4
 - Diagnostic review
-- **Homework (due before class)**: Read and translate section [X] in Hyginus' *Fabulae*. Take note of the words and constructions that were most confusing for you.
+- **Homework (due before class)**: ### Wednesday, September 2
+- Initial diagnostic due
+- **Homework (due before class)**: Complete a short diagnostic assessment and take quick look through our course website.
+
+### Friday, September 4
+- Diagnostic review
+- **Homework (due before class)**: Read and translate [Chapter 1](http://dcc.dickinson.edu/nepos-hannibal/chapter-1) in Nepos' Life of Hannibal. Take note of the words and constructions that were most confusing for you.
 
 ## Week 2
 
