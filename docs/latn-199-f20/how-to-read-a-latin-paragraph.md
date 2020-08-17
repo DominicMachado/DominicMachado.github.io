@@ -38,9 +38,9 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
 
 **Step 6**: Bracket any prepositional phrases or ablative absolutes.
 
-**Step 7**: Now you are ready to translate:
-  - Start by translating the sentence's independent clauses.
-  - Then, move on to filling in the rest of the dependent clause in order and translating them to add further detail to the independent clause.
+**Step 7**: Now you are ready to translate. Start by translating the sentence's independent clauses.
+
+**Step 8**: Finally, move on to filling in the rest of the dependent clause in order and translating them to add further detail to the independent clause.
 
 ***
 
