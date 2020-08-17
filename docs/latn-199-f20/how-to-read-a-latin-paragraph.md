@@ -15,15 +15,19 @@ nav_order: 2
 
 When reading Latin texts, it can be helpful to approach them with a regular method. Below you will find my suggested method for doing so, but please note that there are many other ways of reading Latin sentences as well:
 
-- Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you.
-- Read through the sentence a second time, mark all the finite verbs.
-- Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. *cum*, *dum*, *si*, *usque*, *ut*, *ne*, *quod*, *quia*, *quamquam*) or a relative pronoun (e.g. *qui*, *quae*, *quod*) and mark out the full subordinate clause using parentheses (NB: All clauses must feature a verb).
+**Step 1**: Begin by reading the whole sentence aloud in Latin, taking mental note of any words that stand out to you.
+
+**Step 2**: Read through the sentence a second time, mark all the finite verbs.
+
+**Step 3**: Once you have found the finite verbs, look to see which of these verbs are introduced by a subordinating conjunction (e.g. *cum*, *dum*, *si*, *usque*, *ut*, *ne*, *quod*, *quia*, *quamquam*) or a relative pronoun (e.g. *qui*, *quae*, *quod*) and mark out the full subordinate clause using parentheses (NB: All clauses must feature a verb).
   - Open parenthesis whenever you see a subordinating conjunction or relative pronoun.
   - Close parenthesis when you get to the verb.
   - If you see another subordinating conjugation before you get to the verb, open parentheses again. Once you get to the next verb, you will close the parenthesis - this will represent the subordinate clause within the larger subordinate clause. The next verb will be the main verb in the first subordinate clause:
     - E.g. (Si regina, (quae terram rexit), laeta erat)....
-- Mark any stated subjects in the sentence.
-- Determine if the finite verb requires anything to complete their meaning.  
+
+**Step 4**: Mark any stated subjects in the sentence.
+
+**Step 5**: Determine if the finite verb requires anything to complete their meaning.  
   - If there is an active transitive verb, this will be a direct object.
   - If there is a linking verb, this will be a predicate nominative.
   - If there is a passive verb, there may be an ablative of agent.
@@ -31,8 +35,10 @@ When reading Latin texts, it can be helpful to approach them with a regular meth
   - If there is a verb of the head (i.e. a verb of speaking, seeing, hearing, perceiving), there will be an indirect statement.
     - An indirect statement will feature an accusative and an infinitive.
     - Dixit **terram ab reginā rectam esse**.
-- Bracket any prepositional phrases or ablative absolutes.
-- Now you are ready to translate:
+
+**Step 6**: Bracket any prepositional phrases or ablative absolutes.
+
+**Step 7**: Now you are ready to translate:
   - Start by translating the sentence's independent clauses.
   - Then, move on to filling in the rest of the dependent clause in order and translating them to add further detail to the independent clause.
 
