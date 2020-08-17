@@ -18,4 +18,5 @@ By the end of this course, you will be able to:
 -	Translate complex Latin sentences into clear English
 - Analyze sentence structure in Latin and English and explain how these structures create meaning
 - Use basic resources such as a dictionary and commentary to enhance your understanding of the passage
-- Articulate how close attention to language can produce interesting readings of literary texts 
+- Articulate how close attention to language can produce interesting readings of literary texts
+- Talk about the ancient sources on the Carthaginian general, Hannibal 
