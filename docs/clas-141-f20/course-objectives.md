@@ -6,6 +6,7 @@ parent: CLAS 141 - F20
 nav_order: 1
 has_children: true
 ---
+***
 
 # Course Objectives - CLAS 141 - F20
 

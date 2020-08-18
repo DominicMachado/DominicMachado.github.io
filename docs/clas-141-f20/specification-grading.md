@@ -6,6 +6,7 @@ parent: Assessment
 grand_parent: CLAS 141 - F20
 nav_order: 5
 ---
+***
 
 # Specifications Grading - CLAS 141 - F20
 

@@ -5,6 +5,7 @@ permalink: schedule-clas141-f20
 parent: CLAS 141 - F20
 nav_order: 3
 ---
+***
 
 # Schedule - CLAS 141 - F20
 
