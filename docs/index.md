@@ -4,8 +4,11 @@ title: Homepage
 permalink: /
 nav_order: 0
 ---
+***
 
 # Prof. Machado's Homepage
+
+***
 
 Hi! My name is Dominic Machado and I am currently an Assistant Professor at the College of the Holy Cross.
 
