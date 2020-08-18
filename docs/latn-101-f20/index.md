@@ -56,6 +56,6 @@ We will not but using a physical textbook, but rather an online [textbook](https
 - Nouns (1st, 2nd, and 3rd declensions)
 - Usages of the nominative and genitive
 - Sentences with *est*, *sunt*
-- **Homework (due before class)**:  Watch my short video on [noun declensions] and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+- **Homework (due before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 
 [Back to top.](#top)

@@ -29,13 +29,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: [Explore the website carefully]. Watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions.
+- **Homework (due before class)**: Explore our course website and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions related to both.
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
 - Usages of the nominative and genitive
 - Sentences with *est*, *sunt*
-- **Homework (due before class)**:  Watch my short video on [noun declensions] and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+- **Homework (due before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 
 [Back to top.](#top)
 
