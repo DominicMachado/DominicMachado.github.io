@@ -20,7 +20,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 2
 - Initial diagnostic due
-- **Homework (due before class)**: Complete a short diagnostic assessment and take quick look through our course website.
+- **Homework (due before class)**: Complete a short [diagnostic assessment](https://docs.google.com/forms/d/e/1FAIpQLSeA5zstKdGp-8h3xsW2cIw-Ydayk_YD977nAaKCbvb4bWs7Sw/viewform?usp=sf_link) and take quick look through our course website.
 
 ### Friday, September 4
 - Diagnostic review
