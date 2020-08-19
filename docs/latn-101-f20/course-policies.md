@@ -44,7 +44,7 @@ Because our course has a CBL component, it will also be incumbent on you to main
 ***
 
 ### Remote Access and Recording of Class Sessions
-&nbsp;
+&nbsp;  
 I do not plan on recording class sessions, but please note that, consistent with applicable federal and state law, this course may
 be video/audio recorded as an accommodation only with permission from the Office of Accessibility Services.
 
