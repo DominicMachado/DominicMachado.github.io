@@ -15,7 +15,7 @@ nav_order: 1
 
 ## Introduction
 &nbsp;  
-[Substantive inflection video here]
+[![Substantive inflection](http://img.youtube.com/vi/D-x9X1v3170/0.jpg)](http://www.youtube.com/watch?v=D-x9X1v3170 "Substantive inflection")
 
 For the first two weeks, we will primarily focus on the inflection of substantive forms. We will study how nouns, pronouns, and adjectives change their form to produce meaning. We will also learn how to translate and form basic sentences.
 
