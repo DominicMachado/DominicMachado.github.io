@@ -41,7 +41,7 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 ### Monday, September 7
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
-- **Homework (due before class)**: Watch Prof. Joseph's [short video] about noun-adjective agreement. Then, read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/). Additionally, attempt to write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: sapiens regina; horribilis pater; mea soror.
+- **Homework (due before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Then, read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/). Additionally, attempt to write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
 
 ### Wednesday, September 9
 - *is, ea, id*
