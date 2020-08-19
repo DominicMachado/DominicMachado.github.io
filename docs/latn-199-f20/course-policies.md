@@ -41,7 +41,7 @@ It is my intent that students from all backgrounds and perspectives be well-serv
 ***
 
 ### Remote Access and Recording of Class Sessions
-&nbsp;
+&nbsp;  
 I do not plan on recording class sessions, but please note that, consistent with applicable federal and state law, this course may
 be video/audio recorded as an accommodation only with permission from the Office of Accessibility Services.
 
