@@ -73,7 +73,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 14
 - Composition workshop
-- **Homework (due before class)**: **Translation #1 Due**.  
+- **Homework (due before class)**: [**Translation #1](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit) Due**.  
 
 ### Wednesday, September 16
 - Verbal forms
