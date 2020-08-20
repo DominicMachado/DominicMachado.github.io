@@ -43,7 +43,7 @@ Everything that you need to know about this course is on this website. You can f
 
 ### Wednesday, September 2
 - Syllabus Overview
-- Misconceptions Quiz Released
+- [Misconceptions Quiz](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) Released
 - **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) carefully. Jot down questions you have about the course setup to class.
 
 ### Friday, September 4
