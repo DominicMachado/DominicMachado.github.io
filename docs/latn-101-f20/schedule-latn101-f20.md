@@ -36,7 +36,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Usages of the nominative and genitive
 - Sentences with *est*, *sunt*
 - **Homework (due before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
-- **Further Practice**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
+- **Further Practice**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
 
 [Back to top.](#top)
 
@@ -48,7 +48,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
 - **Homework (due before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Then, read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and begin to familiarize yourself with their forms in the relevant [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/). Additionally, attempt to write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
-- **Further Practice**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
+- **Further Practice**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
 
 
 ### Wednesday, September 9
@@ -56,7 +56,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Demonstrative pronouns
 - Intensifying pronouns
 - **Homework (due before class)**: Watch my short video on [pronouns]. Then, read the section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) and begin to familiarize yourself with their forms in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms). In addition, write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
-- **Further Practice**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
+- **Further Practice**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
 
 ### Friday, September 11
 - -ius adjectives
