@@ -64,4 +64,4 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 
 ### Monday, September 14
 - Composition workshop
-- **Homework (due before class)**: **Translation #1 Due**.  
+- **Homework (due before class)**: [**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).  
