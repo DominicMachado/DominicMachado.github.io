@@ -29,3 +29,5 @@ I live in Shrewsbury, MA with my wife, Janice, and three-year old son, William. 
 - [LATN 101: Introduction to Latin 1](https://dominicmachado.github.io/latn101-f20)
 - [LATN 199: First Readings in College Latin](https://dominicmachado.github.io/latn-199-f20/)
 - [CLAS 141: Ancient Greece: Freedom and Slavery](https://dominicmachado.github.io/clas141-f20)
+
+***
