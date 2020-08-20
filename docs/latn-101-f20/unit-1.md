@@ -41,7 +41,7 @@ By the end of this unit, you will be able to:
 ### Assessment
 &nbsp;  
 Below are the dates on which your assessments are due:
-- Friday, September 11 - Quiz #1 due
+- Friday, September 11 - [Quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/edit) due
 - Monday, September 14 - Translation #1 due
 - Wednesday, September 16 - Composition #1 due
 - Friday, September 25 - Quiz #2 due
