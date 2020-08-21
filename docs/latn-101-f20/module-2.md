@@ -50,7 +50,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 ### Wednesday, September 23
 - Sentence Type 1: Transitive
 - Accusative and Dative Cases
-- **Homework (due before class)**: Watch Professor Smith's [short video] on the accusative and dative and read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences). Make charts that show all five cases for *magnus dux*, *haec terra*, and *id regnum* and bring it to class.
+- **Homework (due before class)**: Watch Professor Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative and read the sections on [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences). Make charts that show all five cases for *magnus dux*, *haec terra*, and *id regnum* and bring it to class.
 
 ### Friday, September 25
 - *sum, esse, fui*
