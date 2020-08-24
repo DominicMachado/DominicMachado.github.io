@@ -17,9 +17,9 @@ has_children: true
 ### Course Information
 &nbsp;  
 - **Meeting Time:** MWF 11:45 - 12:35 PM
-- **Meeting Place:** [link]
+- **Meeting Place:** [Standing Zoom link](https://holycross.zoom.us/j/91362143430)
 - **Instructor** Prof. Machado
-- **Student Hours**: T, Th 1 - 3 PM [link to calendar]
+- **Student Hours**: [T, Th 1 - 3 PM](https://holycross.zoom.us/j/92203871368); click [here](https://calendar.google.com/calendar/selfsched?sstoken=UVBpQWdjNHJvdW1CfGRlZmF1bHR8NzVjMTgxMGMxY2NlMDA4NGI3OGIxZTEyNDM0MzQwZjQ) to schedule a specific time
 - **E-mail**: dmachado@holycross.edu
 
 [![Intro Video](http://img.youtube.com/vi/rm7NZqHxFNE/0.jpg)](http://www.youtube.com/watch?v=rm7NZqHxFNE "Intro Video")
