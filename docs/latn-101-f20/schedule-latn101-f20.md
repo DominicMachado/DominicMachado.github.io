@@ -82,7 +82,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   - Conjugations
 - Perfect active and passive indicative
 - Sentence Type 2: Intransitive
-- **Homework (due before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**. Watch Professor Smith's [short video] on verbal inflection. Then, read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: amaverunt, auditi sunt, and ductae sunt.
+- **Homework (due before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**. Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection. Then, read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: amaverunt, auditi sunt, and ductae sunt.
 
 ### Friday, September 18
 - Imperfect active and passive indicative
