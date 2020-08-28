@@ -37,7 +37,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 ### Friday, September 18
 - Imperfect active and passive indicative
 - Sentence Type 3: Passive sentences
-- **Homework (due before class)**: Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation as well as the section on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences). Additionally, please read this [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) by Prof. Libatique on why the active-passive distinction still matters today.
+- **Homework (due before class)**: Read the section on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) and its formation as well as the section on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences). Additionally, please watch Prof. Joseph's [short video](https://holycross.zoom.us/j/94670392978) on the active and passive and read this [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) by Prof. Libatique on why the active-passive distinction still matters today.
 
 ***
 
