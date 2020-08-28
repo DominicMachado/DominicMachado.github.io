@@ -15,7 +15,7 @@ nav_order: 2
 
 ## Introduction
 &nbsp;  
-[Verbal inflection video here]
+[![Verbal Inflection](http://img.youtube.com/vi/3W-s_L82MLc/0.jpg)](http://www.youtube.com/watch?v=3W-s_L82MLc "Verbal Inflection")
 
 Over the next four weeks, we will begin to explore Latin's verbal system. We will study how verb forms change to reflect changes in function. We will also consider how verbal forms set expectations when it comes to translating sentences.
 
