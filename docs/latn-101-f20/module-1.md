@@ -28,7 +28,7 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: Explore our course website and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection and come prepared to ask questions related to both.
+- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, fill out the [getting to know you](https://docs.google.com/forms/d/1p9c4UTwGb9wvHT5VZUPOT_Anie4sLlHGPr5DTQsBsso/) survey and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
