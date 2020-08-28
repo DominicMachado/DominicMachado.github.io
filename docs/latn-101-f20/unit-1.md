@@ -21,7 +21,7 @@ has_children: true
 &nbsp;  
 [![Inflection Video](http://img.youtube.com/vi/5g1sz9qRNJ0/0.jpg)](http://www.youtube.com/watch?v=5g1sz9qRNJ0 "Inflection Video")
 
-Our first unit will introduce you to the topic of inflection in the Latin language. The unit will last roughly six weeks and be broken into two modules, with the [first](https://dominicmachado.github.io/schedule-latn101-f20-module-1) covering [substantive](https://dominicmachado.github.io/schedule-latn101-f20-module-2) (i.e. noun, pronoun, and adjective) inflection and the [second] covering verbal inflection.
+Our first unit will introduce you to the topic of inflection in the Latin language. The unit will last roughly six weeks and be broken into two modules, with the [first](https://dominicmachado.github.io/schedule-latn101-f20-module-1) covering (i.e. noun, pronoun, and adjective) inflection and the [second](https://dominicmachado.github.io/schedule-latn101-f20-module-2) covering verbal inflection.
 
 ***
 
