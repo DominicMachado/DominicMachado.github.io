@@ -28,7 +28,7 @@ This schedule links to the readings and assignments that you will have throughou
 ### Wednesday, September 2
 - Syllabus Overview
 - [Misconceptions Quiz](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) Released
-- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), [course policies](https://dominicmachado.github.io/course-policies-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) carefully. Jot down questions you have about the course setup to class.
+- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) pages carefully. Jot down questions you have about the course setup and bring them to class. Fill out the [getting to know you](https://docs.google.com/forms/d/12_iGPxRkyChBkdx7oIYyferVMlZ61gx6il9P54Gu2aM/) survey!
 
 ### Friday, September 4
 - Ancient Greece in the 21st century: A Culture War
