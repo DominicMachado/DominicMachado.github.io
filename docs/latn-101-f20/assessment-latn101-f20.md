@@ -11,13 +11,13 @@ nav_order: 3
 
 ***
 
-[CBL Attendance and Participation](#cbl-attendance-participation---150-points) \| [Quizzes](#quizzes---150-points) \|  [Compentency Quizzes](#competency-quizzes---150-points) \| [Translations](#translations---300-points) \| [Compositions](#compositions---250-points) \|
+[CBL Attendance and Participation](#cbl-attendance-participation---200-points) \| [Quizzes](#quizzes---150-points) \|  [Compentency Quizzes](#competency-quizzes---150-points) \| [Translations](#translations---250-points) \| [Compositions](#compositions---250-points) \|
 
 ***
 
-## CBL Attendance and Participation - 150 points
+## CBL Attendance and Participation - 200 points
 &nbsp;  
-[TBD]
+As a part of the community-based learning portion of the course, you will participate in weekly practicum sessions. You can earn up to 50 points by attending these practica and another 50 points by completing two short reflections related to these sessions (to be assigned in October and December). You will also have the opportunity to participate a group project in which you will get the chance to design a lesson to be used in your future Latin tutoring sessions (100 points available).
 
 ***
 
@@ -39,9 +39,9 @@ The quizzes will be sent out via Google Forms one week before they are due. Thes
 
 ***
 
-## Translations - 300 points
+## Translations - 250 points
 &nbsp;  
-Instead of more traditional assessments, you will have a series of ten take-home assignments. Five of these will be translations (60 points possible). These assignment will assess your ability to analyze a Latin passage grammatically and syntactically and then translate that passage from Latin into English.
+Instead of more traditional assessments, you will have a series of ten take-home assignments. Five of these will be translations (50 points possible). These assignment will assess your ability to analyze a Latin passage grammatically and syntactically and then translate that passage from Latin into English.
 
 These translations will be made available to you via Google Docs roughly two weeks before the due date. You will submit these assignments by sharing them with me as a Google Doc by 11:45 AM EST on the day designated by the syllabus.
 
