@@ -86,13 +86,10 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).   
 
 ### Wednesday, September 16
-- Verbal forms
-  - Person, number, tense, voice, mood
-  - Principal parts
-  - Conjugations
-- Perfect active and passive indicative
-- Sentence Type 2: Intransitive
-- **Homework (due before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**. Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection. Then, read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: amaverunt, auditi sunt, and ductae sunt.
+- The dative, accusative, and ablative cases
+- **Assessment (to be completed before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**.
+- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases and Prof. Joseph's [short video] on the ablative case.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms (all five cases) for [first](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#nouns---paradigms), [second masculine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), [second neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-neuter), [third masculine/feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine), and [third neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-neuter) declensions.
 
 ### Friday, September 18
 - Imperfect active and passive indicative
