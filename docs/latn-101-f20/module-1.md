@@ -64,11 +64,14 @@ Come to class having written out the declension that the list of nouns in my vid
 - -ius adjectives
 - Substantives
 - Review
-- **Homework (due before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/) and complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/edit). In addition, read the very short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
+- **Assessment (to be completed before class)**: Complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/).
+- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.  In addition,
 - **Further Practice**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.
 
 ### Week 3
 
 ### Monday, September 14
 - Composition workshop
-- **Homework (due before class)**: [**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).  
+- - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
+- **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).  
