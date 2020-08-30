@@ -37,7 +37,7 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 - **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, memorize the dictionary entries and definitions for the [nouns](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#nouns) in Module 1's vocabulary list.
 - **Practice (to be completed before class)**:
-Come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
 
 ## Week 2
@@ -66,7 +66,7 @@ Come to class having written out the declension that the list of nouns in my vid
 - Review
 - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
 - **Assessment (to be completed before class)**: Complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/).
-- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.  In addition,
+- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
 - **Further Practice**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.
 
 ### Week 3
