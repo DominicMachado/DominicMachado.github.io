@@ -28,14 +28,17 @@ For the first two weeks, we will primarily focus on the inflection of substantiv
 ### Wednesday, September 2
 - Inflection and pronunciation
 - Introduction to CBL
-- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, fill out the [getting to know you](https://docs.google.com/forms/d/1p9c4UTwGb9wvHT5VZUPOT_Anie4sLlHGPr5DTQsBsso/) survey and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
+- **Reading (to be completed before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, fill out the [getting to know you](https://docs.google.com/forms/d/1p9c4UTwGb9wvHT5VZUPOT_Anie4sLlHGPr5DTQsBsso/) survey and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 ### Friday, September 4
 - Nouns (1st, 2nd, and 3rd declensions)
 - Usages of the nominative and genitive
-- Sentences with *est*, *sunt*
-- **Homework (due before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and, then, read and study the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/) and begin to familiarize yourself with [noun charts](https://lingualatina.github.io/textbook/reference/nouns-paradigms/). Also, come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
-- **Further Practice**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
+- Sentences with the verb "to be"
+- **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, memorize the dictionary entries and definitions for the [nouns](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#nouns) in Module 1's vocabulary list.
+- **Practice (to be completed before class)**:
+Come to class having written out the declension that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+- **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
 
 ## Week 2
 
