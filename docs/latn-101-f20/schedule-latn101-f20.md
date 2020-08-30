@@ -61,7 +61,7 @@ Come to class having written out the declension that the list of nouns in my vid
 - Demonstrative pronouns
 - Intensifying pronouns
 - **Reading (to be completed before class)**: Watch my short video on [pronouns] and read the section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id*, *ille, illa, illud*, *hic, haec, hoc*, and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms). Memorize the [verbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#verbs), [conjunctions](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#conjunctions.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id*; *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms). Memorize the [verbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#verbs), [conjunctions](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#conjunctions), and [adverbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adverbs).
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
 
