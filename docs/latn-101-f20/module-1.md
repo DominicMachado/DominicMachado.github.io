@@ -73,5 +73,5 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, September 14
 - Composition workshop
-- - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
+- **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
 - **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).  
