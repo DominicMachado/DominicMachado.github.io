@@ -17,7 +17,7 @@ To be completed by September 16, 8 AM
 ## Readings
 &nbsp;  
 Read through these short selections on the different types and usages of participles in Latin:
- - [A Broad Overview of Participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/)
+ - [Overview](https://lingualatina.github.io/textbook/presentation/10-participles/overview/)
  - [Present Active Participles](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/)
  - [Perfect Passive Participles](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/)
  - [Future Participles](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/)
