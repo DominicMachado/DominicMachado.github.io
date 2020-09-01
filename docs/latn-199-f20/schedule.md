@@ -93,7 +93,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, October 2
 - Ut/ne clauses
-- **Homework (due before class)**: **Competency Quizzes Due**. Read through the links and translate the sentences in [Handout #11].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
 
 [Back to top.](#top)
 
@@ -107,7 +107,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, October 7
 - Nepos, Prologue
-- **Homework (due before class)**: Read through Nepos' Prologue. Jot down three things that were confusing to you in the passage.
+- **Homework (due before class)**: Read through Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
 
 ### Friday, October 9
 - NO CLASS!
