@@ -14,7 +14,7 @@ To be completed by September 14, 8 AM
 ***
 
 ## Readings
-&nbsp;
+&nbsp;  
 Read through these selections on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/), [indirect question](https://lingualatina.github.io/textbook/presentation/16-indirect-questions/), [indirect command](https://lingualatina.github.io/textbook/presentation/18-orders/indirect-command/), and [subordinate clauses](http://dcc.dickinson.edu/grammar/latin/subordinate-clauses-indirect-discourse) in indirect discourse.
 
 Take note of any questions you have and bring them to class.
@@ -22,8 +22,7 @@ Take note of any questions you have and bring them to class.
 ***
 
 ## Sentences
-&nbsp;
-
+&nbsp;  
 Translate these sentences in advance of class and identify the type of indirect discourse in each sentence.
 
 1. *Prol. 1*: Nōn dubitō fore plērōsque, Attice, quī hoc genus scrīptūrae leve et nōn satis dīgnum summōrum virōrum persōnīs iūdicent, cum relātum legent, quis mūsicam docuerit Epamīnōndam, aut in ēius virtūtibus commemorārī saltāsse eum commodē scienterque tībiīs cantāsse. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/prologus)
