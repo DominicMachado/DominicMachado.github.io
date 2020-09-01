@@ -10,13 +10,13 @@ nav_order: 4
 
 ## Grammar Handouts #4 - Indirect Discourse
 &nbsp;
-
 ***
 
 ## Readings
 &nbsp;
+Read through these selections on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/), [indirect question](https://lingualatina.github.io/textbook/presentation/16-indirect-questions/), [indirect command](https://lingualatina.github.io/textbook/presentation/18-orders/indirect-command/), and [subordinate clauses](http://dcc.dickinson.edu/grammar/latin/subordinate-clauses-indirect-discourse) in indirect discourse.
 
-Have a read through these selections on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/), [indirect question](https://lingualatina.github.io/textbook/presentation/16-indirect-questions/), [indirect command](https://lingualatina.github.io/textbook/presentation/18-orders/indirect-command/), and [subordinate clauses](http://dcc.dickinson.edu/grammar/latin/subordinate-clauses-indirect-discourse) in indirect course.
+Take note of any questions you have and bring them to class.
 
 ***
 
