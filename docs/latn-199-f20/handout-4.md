@@ -9,7 +9,7 @@ nav_order: 4
 ***
 
 ## Grammar Handouts #4 - Indirect Discourse
-&nbsp;
+&nbsp;  
 To be completed by September 14, 8 AM
 ***
 
