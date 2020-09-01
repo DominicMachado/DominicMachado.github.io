@@ -31,6 +31,6 @@ Translate these sentences in advance of class and identify the type of indirect 
 
 3. *Hann. 1.1*: Sī vērum est, quod nēmō dubitat, ut populus Rōmānus omnēs gentēs virtūte superārit, nōn est īnfitiandum Hannibalem tantō praestitisse cēterōs imperātōrēs prūdentiā, quantō populus Rōmānus antecēdat fortitūdine cūnctās nātiōnēs. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
 
-4.*Hann. 2.4*: Quae dīvīna rēs dum cōnficiēbātur, quaesīvit ā mē, vellemne sēcum in castra proficīscī. Id cum libenter accēpissem atque ab eō petere coepissem, nē dubitāret dūcere, tum ille ‘Faciam’, inquit ‘sī mihi fidem, quam postulō, dederis.’ [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+4. *Hann. 2.4*: Quae dīvīna rēs dum cōnficiēbātur, quaesīvit ā mē, vellemne sēcum in castra proficīscī. Id cum libenter accēpissem atque ab eō petere coepissem, nē dubitāret dūcere, tum ille ‘Faciam’, inquit ‘sī mihi fidem, quam postulō, dederis.’ [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
 
 5. *Hann. 7.3*: Hīs ex senātūs cōnsultō respōnsum est: mūnus eōrum grātum acceptumque esse; obsidēs, quō locō rogārent, futūrōs; captīvōs nōn remissūrōs, quod Hannibalem, cuius operā susceptum bellum foret, inimīcissimum nōminī Rōmānō, etiam nunc cum imperiō apud exercitum habērent itemque frātrem ēius Māgōnem. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
