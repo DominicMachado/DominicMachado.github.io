@@ -10,8 +10,7 @@ nav_order: 4
 
 ## Grammar Handouts #4 - Indirect Discourse
 &nbsp;
-Due Date: 9/14, 8 AM
-
+To be completed by September 14, 8 AM
 ***
 
 ## Readings
