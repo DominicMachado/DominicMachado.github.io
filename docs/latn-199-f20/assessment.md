@@ -17,11 +17,11 @@ nav_order: 3
 
 ## Competency Quizzes - 150 points
 &nbsp;  
-We will have three "competency" quizzes (50 points each) early on in the semester that test you comprehensively on your knowledge of Latin's morphological systems. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language.
+We will have three "competency" quizzes (50 points each) that will test you comprehensively on your knowledge of Latin's morphological systems. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language.
 
 Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis. Additionally, you will have unlimited opportunities to revise your quizzes until you earn a pass.
 
-The quizzes will be sent out via Google Forms one week before they are due. These quizzes must be submitted by 11:45 AM EST on the day designated on the syllabus. Your first attempt at revisions must be submitted to me within a week of receiving your grade.
+These three quizzes will be made available to you on September 11 and must be submitted by 11:45 AM EST on September 25. Your first attempt at revisions must be submitted to me within a week of receiving your grade.
 
 ***
 
