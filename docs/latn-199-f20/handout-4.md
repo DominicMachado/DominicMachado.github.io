@@ -16,7 +16,11 @@ To be completed by September 14, 8 AM
 
 ## Readings
 &nbsp;  
-Read through these selections on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/), [indirect question](https://lingualatina.github.io/textbook/presentation/16-indirect-questions/), [indirect command](https://lingualatina.github.io/textbook/presentation/18-orders/indirect-command/), and [subordinate clauses](http://dcc.dickinson.edu/grammar/latin/subordinate-clauses-indirect-discourse) in indirect discourse.
+Read through these short selections on the different aspects of indirect discourse:
+ - [Indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/)
+ - [Indirect question](https://lingualatina.github.io/textbook/presentation/16-indirect-questions/)
+ - [Indirect command](https://lingualatina.github.io/textbook/presentation/18-orders/indirect-command/)
+ - [Subordinate clauses](http://dcc.dickinson.edu/grammar/latin/subordinate-clauses-indirect-discourse) in indirect discourse.
 
 Take note of any questions you have and bring them to class.
 
