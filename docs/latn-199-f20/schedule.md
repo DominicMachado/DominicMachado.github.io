@@ -31,12 +31,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 2
 
 ### Monday, September 7
-- Nouns and verbs
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #1].
+- Nouns, adjectives, and verbs
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn199-f20).
 
 ### Wednesday, September 9
 - Sentence structures
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2].
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
 
 ### Friday, September 11
 - Case usage
