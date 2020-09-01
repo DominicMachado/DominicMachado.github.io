@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grammatical Handout 4
-permalink: grammatical-handout-4-latn101-f20
+permalink: grammatical-handout-4-latn199-f20
 parent: Grammar Handouts
 grand_parent: LATN 199 - F20
 nav_order: 4
