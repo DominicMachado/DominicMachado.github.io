@@ -16,7 +16,7 @@ To be completed by September 18, 8 AM
 
 ## Readings
 &nbsp;  
-Read through this short introduction to the uses of [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) in Latin.
+Read through this short introduction to the different usages of [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) in Latin.
 
 Take note of any questions you have and bring them to class.
 
