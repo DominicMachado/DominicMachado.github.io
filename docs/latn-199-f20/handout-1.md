@@ -8,7 +8,7 @@ nav_order: 1
 ---
 ***
 
-## Grammar Handouts #1 - Nouns and Verbs
+## Grammar Handouts #1 - Nouns, Adjectives, and Verbs
 &nbsp;  
 To be completed by September 7, 8 AM
 
@@ -21,7 +21,7 @@ Read through these short selections on the key characteristics of nouns, adjecti
  - [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
  - [Verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/)
 
-If you feel the need to review morphology for any substantive or verbal forms, use the paradigm charts linked [here](https://lingualatina.github.io/textbook/reference/). 
+If you feel the need to review morphology for any substantive or verbal forms, use the paradigm charts linked [here](https://lingualatina.github.io/textbook/reference/).
 
 ***
 
