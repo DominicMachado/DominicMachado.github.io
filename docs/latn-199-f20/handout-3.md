@@ -16,7 +16,7 @@ To be completed by September 11, 8 AM
 
 ## Case Usage
 &nbsp;  
-Read through the following very brief primer on case usage in Latin.
+Read through the following very brief primer on the usage of the five major cases in Latin. Please jot down any questions that come to mind as you read through.
 
 ***
 
@@ -55,5 +55,27 @@ The genitive case can be thought of as the case of explanation. The genitive nev
  - **legendorum librorum** causa (for the sake of reading books)
 
 ***
+
+## Dative
+&nbsp;  
+The dative case can be thought as the winners and losers case. That is, the dative case generally specifies who is affected by the action or existential state of the sentence or clause (hence, the "to" or "for" translation). Thus, the dative frequently provides further context for verbal action, but it can be used adjectives as well. Below are some of the major usages of the dative.
+
+1. It can be used to indicate to whom or what something is given, granted, entrusted, or refused (the **indirect object**):
+ - Do **tibi** librum (I give the book to you).
+ - Commendo **tibi** eius omnia negotia (I entrust all his affairs to you).
+ - Interdixit **histrionibus** scaenam, (He forbade the actors the stage).
+
+2. It can be used to indicate the person/thing for whom the main idea of the sentence refers (**dative of reference or possession**):
+ - Erit ille **mihi** semper deus (That one will always be a god to me).
+ - Non **tibi** placet (It is not pleasing to you).
+ - Nomen **puellae** Iulia est (The name for the girl is Julia/The girl's name is Julia).
+
+
+3. It can be used to indicate the person/thing which an adjective applies to:
+ - Nihil est tam **naturae** aptum (Nothing is so fitted to nature).
+ - Sedes non importuna **nostro sermoni** (A place no unsuited to our conversation).
+
+***
+
 ## Exercises
 &nbsp;  
