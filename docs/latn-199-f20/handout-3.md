@@ -34,21 +34,25 @@ The nominative case is used to provide more information about the subject of a f
 
 ## Genitive
 &nbsp;  
-The genitive case can be thought of as the case of explanation. The genitive never appears on its own, it is always connected to another word whose meaning it clarifies. Words in the genitive case most commonly are used in conjunction with nouns, but can also appear with adjectives, prepositions, and verbs. It can almost always be translated by using the preposition "of". Below are some of the major usages of the genitive:
-- It can be used to specify the characteristics of another noun
+The genitive case can be thought of as the case of explanation. The genitive never appears on its own, it is always connected to another word whose meaning it clarifies. Words in the genitive case most commonly are used in conjunction with nouns, but can also appear with adjectives, prepositions, and verbs. It can almost always be translated by using the preposition "of". Below are some of the major usages of the genitive.
+
+1. It can be used to specify the characteristics of another noun:
  - coniuratio **Catilinae** (the conspiracy of Catiline)
  - desiderium **oti** (the desire of leisure)
  - unus **tribunorum** (one of the tribunes)
  - vir **summae virtutis** (a man of the highest courage)
-- It can be used to complete the meaning of adjectives that express desire, knowledge, memory, fullness, power, sharing, guilt
+
+2. It can be used to complete the meaning of adjectives that express strong emotions (desire, knowledge, memory, fullness, power, sharing, guilt):
  - avidi **laudis** (greedy of praise)
  - plenus **fidei** (full of faith)
  - participes **coniurationis** (sharing in the conspiracy)
-- It can be used to complete the meanings of verbs which express strong emotions (e.g. remembering, forgetting, reminding, accusation or charge, condemnation, pity)
-  - **Humanae infirmitatis** memini (I am mindful of human weakness).
-  - Miserescite **regis** (Pity the king).
-- It is used with the prepositions *causa* and *gratia*
-  - **legendorum librorum** causa (for the sake of reading books)
+
+3. It can be used to complete the meanings of verbs which express strong emotions (e.g. remembering, forgetting, reminding, accusation or charge, condemnation, pity):
+ - **Humanae infirmitatis** memini (I am mindful of human weakness).
+ - Miserescite **regis** (Pity the king).
+
+4. It is used with the prepositions *causa* and *gratia*
+ - **legendorum librorum** causa (for the sake of reading books)
 
 ***
 ## Exercises
