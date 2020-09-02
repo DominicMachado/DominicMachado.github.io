@@ -34,7 +34,12 @@ The readings for the course will thematically organized around the character of 
 &nbsp;  
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn199-f20), [course policies](https://dominicmachado.github.io/course-policies-latn199-f20), [assessment](https://dominicmachado.github.io/course-policies-latn199-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn199-f20). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn199-f20).
 
-In terms of books, you will not need any physical books. We will use an online [textbook](https://lingualatina.github.io/textbook/), designed by myself and other Holy Cross professors, for grammar and we will use an online text and commentary for [Nepos](http://dcc.dickinson.edu/nepos-hannibal/chapter-1) and [Livy](https://arcane-cliffs-02027.herokuapp.com/).
+In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
+ - [HC Latin Textbook](https://lingualatina.github.io/textbook/)
+ - [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
+ - [Text and commentary of Livy, Book 21](https://arcane-cliffs-02027.herokuapp.com/)
+ - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
+ - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
 
 [Back to top.](#top)
 
@@ -43,7 +48,7 @@ In terms of books, you will not need any physical books. We will use an online [
 ### This Week at a Glance
 &nbsp;  
 
-![Hyginus](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
+![Hannibal](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
 
 For the first couple weeks, we will be in diagnostic mode to see what things would be useful for us to target throughout the semester. As such, the schedule will be very flexible at first.
 
