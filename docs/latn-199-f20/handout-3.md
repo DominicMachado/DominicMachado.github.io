@@ -22,11 +22,13 @@ Read through the following very brief primer on case usage in Latin.
 
 ## Nominative
 &nbsp;  
-The nominative case is used to provide more information about the subject of a finite verb. There are two main usages of the nominative case in Latin:
-- It can be used to specify the **subject** of a finite verb
+The nominative case is used to provide more information about the subject of a finite verb. There are two main usages of the nominative case in Latin.
+
+1. It can be used to specify the **subject** of a finite verb:
  - **Caesar** Rhenum transire decreverat (Caesar had decided to cross the Rhine).
-- It can be used predicatively (the so-called **predicate nominative**) to in conjunction with a linking verb to define the subject
-  - Caesar **magnus dux** erat (Caesar was a great leader).
+
+2. It can be used predicatively (the so-called **predicate nominative**) to in conjunction with a linking verb to define the subject:
+ - Caesar **magnus dux** erat (Caesar was a great leader).
 
 ***
 
