@@ -16,7 +16,7 @@ To be completed by September 11, 8 AM
 
 ## Case Usage
 &nbsp;  
-Read through the following very brief primer on the usage of the five major cases in Latin. Please jot down any questions that come to mind as you read through.
+Read through the following very brief primer on the usage of the five major cases in Latin. Please jot down any questions that come to mind as you read through the sections below.
 
 ***
 
@@ -58,7 +58,7 @@ The genitive case can be thought of as the case of explanation. The genitive nev
 
 ## Dative
 &nbsp;  
-The dative case can be thought as the winners and losers case. That is, the dative case generally specifies who is affected by the action or existential state of the sentence or clause (hence, the "to" or "for" translation). Thus, the dative frequently provides further context for verbal action, but it can be used adjectives as well. Below are some of the major usages of the dative.
+The dative case can be thought as the winners and losers case. That is, the dative case generally specifies who is affected by the action or existential state of the sentence or clause (hence, the "to" or "for" translation). Thus, the dative frequently provides further context for verbal action, but it can be used with adjectives as well. Below are the four most frequent uses of the dative case.
 
 1. It can be used to indicate to whom or what something is given, granted, entrusted, or refused (the **indirect object**):
  - Do **tibi** librum (I give the book to you).
@@ -70,10 +70,36 @@ The dative case can be thought as the winners and losers case. That is, the dati
  - Non **tibi** placet (It is not pleasing to you).
  - Nomen **puellae** Iulia est (The name for the girl is Julia/The girl's name is Julia).
 
-
 3. It can be used to indicate the person/thing which an adjective applies to:
  - Nihil est tam **naturae** aptum (Nothing is so fitted to nature).
  - Sedes non importuna **nostro sermoni** (A place no unsuited to our conversation).
+
+4. It can be used with a [passive periphrastic](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/#passive-periphrastic) to clarify who must perform the action of the verb (**dative of agent**):
+ - Haec **vobis** provincial est defendenda (This province is to be defended by you).
+
+In addition to these four usages of dative, there are two less frequent but still note-worthy uses of the dative.
+
+1. It can be used to specify the purpose of the sentence's core idea (**dative of purpose**, translate "a source of [dative noun]"):
+ - Rei publicae **cladi** sunt, “They are a source of ruin to the state”
+
+2. It can be used to complete the meaning of a intransitive "compound" verb (a verb that contains a prepositional prefix like ad, ante, con, in, sub):
+ - Virtutes semper **voluptatibus** inhaerent (Virtues always cling to vices).
+ - Nec umquam succumbet **inimicis** (Never will he succumb to enemies).
+
+***
+
+## Accusative Case
+&nbsp;  
+The accusative can be thought of primarily as a "target" case - it is frequently used to indicate an aim or movement and/or action towards/against a particular person/place/or thing. Accusatives are used primarily with verbal constructions and prepositions, though we will see a couple other usages below.   
+
+1. It is most commonly used as the **direct object** of a transitive verb:
+ - Amo **meum puerum** (I love my son).
+ - Transivit **flumen** (He crossed the river).
+
+2. It functions as the object of certain prepositions (ad, ante, contra, in, trans, ob) to indicate motion towards, action against, or reason for
+ - Cucurrit **ad agrum** (He ran towards the field).
+ - **Ob id exemplum** laeta erat (She was happy on account of this example).
+ - **In Verrem** Cicero dixit (Cicero spoke against Verres).
 
 ***
 
