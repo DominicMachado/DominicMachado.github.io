@@ -74,11 +74,11 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Monday, September 14
 - Composition workshop
 - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
-- **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).
+- **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).   
 
 ### Wednesday, September 16
 - The dative, accusative, and ablative cases
 - **Assessment (to be completed before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**.
 - **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases and Prof. Joseph's [short video] on the ablative case.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms (all five cases) for [first](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#nouns---paradigms), [second masculine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), [second neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-neuter), [third masculine/feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine), and [third neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-neuter) declensions. Additionally, memorize the full paradigms for *hic*, *ille*, and *is*.
-- **Further Practice (optional)**: Check out the exercises in our textbook on the [accusative and dative](https://lingualatina.github.io/textbook/exercises/02-verbs/#accusative-and-dative) and [ablative](https://lingualatina.github.io/textbook/exercises/02-verbs/#ablative).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [full paradigms](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) all five cases. Additionally, memorize the full paradigms for *hic*, *ille*, and *is*.
+- **Further Practice (optional)**: Check out the exercises in our textbook on the [accusative and dative](https://lingualatina.github.io/textbook/exercises/02-verbs/#accusative-and-dative) and [ablative](https://lingualatina.github.io/textbook/exercises/02-verbs/#ablative) as well Prof. Smith's exercise on the function of [nouns](https://neelsmith.github.io/latin101/assignments/nouns2/exercise/).
