@@ -17,7 +17,7 @@ nav_order: 3
 
 ## Competency Quizzes - 150 points
 &nbsp;  
-We will have three "competency" quizzes (50 points each) - one on verbs, one on nouns, and one on core vocabulary - that will test you comprehensively on your knowledge of fundamental building blocks of the Latin language.
+We will have three "competency" quizzes (50 points each) - one on verbs, one on nouns, and one on [core vocabulary](http://ww3.haverford.edu/classics/DCC/Vocab/Full/pdf/Nepos-Hannibal-Vocabulary-Repeat3.pdf) - that will test you comprehensively on your knowledge of fundamental building blocks of the Latin language.
 
 Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis. Additionally, you will have unlimited opportunities to revise your quizzes until you earn a pass.
 
