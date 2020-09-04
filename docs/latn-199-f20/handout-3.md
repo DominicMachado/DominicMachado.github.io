@@ -116,7 +116,7 @@ The accusative can be thought of primarily as a "target" case - it is frequently
 ***
 
 ## Ablative
-&nbsp;
+&nbsp;  
 The ablative is often thought of as a do-it-all or the adverbial case in Latin. However, we can categorize all the different usages of the ablative in three major ways:
 
 1. The ablative can used to describe the relationship between people and things (usually translated with the word **from**). It can indicate from where something comes (e.g. the source, the cause) or can indicate a lack of something or distance from it (often with verbs of deprivation):
@@ -128,7 +128,7 @@ The ablative is often thought of as a do-it-all or the adverbial case in Latin. 
   - abstinere **iniuria** (to abstrain from harm)
   - **ab insula** ibat (He was going away from the island).
 
-2. The ablative can be used to explain how the main action/statement/state of the sentence is accomplished (usually translated as **with**). It can indicate who or what is aiding the completion of an action and 
+2. The ablative can be used to explain how the main action/statement/state of the sentence is accomplished (usually translated as **with**). It can indicate who or what is aiding the completion of an action and
   - Deus **bonis omnibus** explevit mundum (God filled the world with good things).
   - Mundus **ab deo** factus est (The world was made by God).
 
