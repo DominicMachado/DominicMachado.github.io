@@ -38,6 +38,7 @@ In terms of books, you will not need any physical books. Below are a list of res
  - [HC Latin Textbook](https://lingualatina.github.io/textbook/)
  - [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
  - [Text and commentary of Livy, Book 21](https://arcane-cliffs-02027.herokuapp.com/)
+ - [Core Vocabulary List](http://ww3.haverford.edu/classics/DCC/Vocab/Full/pdf/Nepos-Hannibal-Vocabulary-Repeat3.pdf)
  - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
  - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
 
@@ -52,14 +53,18 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 For the first couple weeks, we will be in diagnostic mode to see what things would be useful for us to target throughout the semester. As such, the schedule will be very flexible at first.
 
-### Week 1
+### Week 2
 
-### Wednesday, September 2
-- Initial diagnostic due
-- **Homework (due before class)**: Complete a short [diagnostic assessment](https://docs.google.com/forms/d/e/1FAIpQLSeA5zstKdGp-8h3xsW2cIw-Ydayk_YD977nAaKCbvb4bWs7Sw/viewform?usp=sf_link) and take quick look through our course website.
+### Monday, September 7
+- Nouns, adjectives, and verbs
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn199-f20).
 
-### Friday, September 4
-- Diagnostic review
-- **Homework (due before class)**: Read and translate [Chapter 1](http://dcc.dickinson.edu/nepos-hannibal/chapter-1) in Nepos' Life of Hannibal. Take note of the words and constructions that were most confusing for you. Fill out the [getting to know you](https://docs.google.com/forms/d/1NPF6ZKpHbcJjmcuc5bquutFprsWrQDjSIeqev4q41ZY) survey.
+### Wednesday, September 9
+- Sentence structures
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
+
+### Friday, September 11
+- Case usage
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
 
 [Back to top.](#top)
