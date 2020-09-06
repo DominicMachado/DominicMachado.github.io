@@ -35,12 +35,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn199-f20).
 
 ### Wednesday, September 9
-- Sentence structures
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
+- Hannibal, Classics, and Justice
+- **Homework (due before class)**: NO HOMEWORK! Take the extra time to review your forms and become more confident with identifying them.
 
 ### Friday, September 11
-- Case usage
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
+- Sentence structures
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
 
 [Back to top.](#top)
 
@@ -49,16 +49,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 3
 
 ### Monday, September 14
+- Case usage
+- Competency quizzes released
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
+
+### Wednesday, September 16
 - Indirect statement
 - **Homework (due before class)**:  Read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn199-f20).
 
-### Wednesday, September 16
+### Friday, September 18
 - Participles
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #5](https://dominicmachado.github.io/grammatical-handout-5-latn199-f20).
-
-### Friday, September 18
-- Gerunds and Gerundives
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #6](https://dominicmachado.github.io/grammatical-handout-6-latn199-f20).
 
 [Back to top.](#top)
 
@@ -67,16 +68,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 4
 
 ### Monday, September 21
+- Gerunds and Gerundives
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #6](https://dominicmachado.github.io/grammatical-handout-6-latn199-f20).
+
+### Wednesday, September 23
 - Relative clauses
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #7](https://dominicmachado.github.io/grammatical-handout-7-latn199-f20).
 
-### Wednesday, September 23
+### Friday, September 25
 - Temporal clauses
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #8](https://dominicmachado.github.io/grammatical-handout-8-latn199-f20).
-
-### Friday, September 25
-- Causal and concessive clauses
-- **Homework (due before class)**: **Competency Quizzes Due**. Additionally, read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn199-f20).
 
 [Back to top.](#top)
 
@@ -85,15 +86,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 5
 
 ### Monday, September 28
-- Conditions
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10].
+- Causal and concessive clauses
+- **Homework (due before class)**: **Competency Quizzes Due**. Additionally, read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn199-f20).
 
 ### Wednesday, September 30
 - NO CLASS!
 
 ### Friday, October 2
-- Ut/ne clauses
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
+- Conditions
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10].
 
 [Back to top.](#top)
 
@@ -102,12 +103,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 6
 
 ### Monday, October 5
-- Independent uses of the subjunctive
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12].
+- Ut/ne clauses
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
 
 ### Wednesday, October 7
-- Nepos, Prologue
-- **Homework (due before class)**: Read through Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
+- Independent uses of the subjunctive
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12].
 
 ### Friday, October 9
 - NO CLASS!
@@ -115,3 +116,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 [Back to top.](#top)
 
 ***
+
+## Week 7
+
+### Monday, October 12
+- Nepos, Prologue
+- **Homework (due before class)**: Read through Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.

@@ -21,7 +21,7 @@ We will have three "competency" quizzes (50 points each) - one on verbs, one on 
 
 Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis. Additionally, you will have unlimited opportunities to revise your quizzes until you earn a pass.
 
-These three quizzes will be made available to you on September 11 and must be submitted by 11:45 AM EST on September 25. Your first attempt at revisions must be submitted to me within a week of receiving your grade.
+These three quizzes will be made available to you on September 14 and must be submitted by 11:45 AM EST on September 28. Your first attempt at revisions must be submitted to me within a week of receiving your grade.
 
 ***
 
