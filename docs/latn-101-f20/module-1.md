@@ -46,12 +46,16 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
 - **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4) read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/).
-- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adjectives) in Module 1.
+- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these[charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adjectives) in Module 1.
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on differentiating adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
 
 
 ### Wednesday, September 9
+- Latin and CBL
+- **Homework**: Spend a few minutes thinking about why it might be important to do community in engagement in a Latin course.
+
+### Friday, September 11
 - *is, ea, id*
 - Demonstrative pronouns
 - Intensifying pronouns
@@ -60,23 +64,23 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
 
-### Friday, September 11
+### Week 3
+
+### Monday, September 14
 - -ius adjectives
 - Substantives
 - Review
 - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
 - **Assessment (to be completed before class)**: Complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/).
 - **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
-- **Further Practice (optional)**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.
-
-### Week 3
-
-### Monday, September 14
-- Composition workshop
-- **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
-- **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).   
+- **Further Practice (optional)**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.  
 
 ### Wednesday, September 16
+- Composition workshop
+- **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
+- **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).
+
+### Friday, September 18
 - The dative, accusative, and ablative cases
 - **Assessment (to be completed before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**.
 - **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases and Prof. Joseph's [short video] on the ablative case.

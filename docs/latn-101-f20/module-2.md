@@ -23,9 +23,9 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 
 ## Schedule
 
-### Week 3
+## Week 4
 
-### Friday, September 18
+### Monday, September 21
 - Verbal forms
   - Person, number, tense, voice, mood
   - Principal parts
@@ -36,18 +36,14 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the seven dictionary entries for the [verbs](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) in the vocabulary list for Module 2 (up to and including facio).
 - **Practice (to be completed before class)**: Complete the following exercises on [conjugation identification](https://lingualatina.github.io/textbook/exercises/02-verbs/#conjugation-identification) and the formation of the [perfect active](https://lingualatina.github.io/textbook/exercises/02-verbs/#perfect-active).
 
-***
-
-## Week 4
-
-### Monday, September 21
+### Wednesday, September 23
 - Perfect passive
 - Sentence Type 3: Passive sentences
 - **Reading (to be completed before class)**: Watch Prof. Joseph's [short video](https://holycross.zoom.us/j/94670392978) on the distinction between the active and passive voice and read Prof. Libatique's [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) on why the active-passive distinction still matters today. Additionally, read the short section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) in the 3rd person singular and plural as well the next seven dictionary entries for the [verbs](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) in the vocabulary list for Module 2 (up to and including video).
-- **Practice (to be completed before class)**: Complete the following exercises on the formation of the [perfect passive](https://lingualatina.github.io/textbook/exercises/02-verbs/#perfect-passive). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *amaverunt*, *auditi sunt*, and *ductae sunt*.
+- **Practice (to be completed before class)**: Complete the following exercises on the formation of the [perfect passive](https://lingualatina.github.io/textbook/exercises/02-verbs/#perfect-passive). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *amaverunt*, *auditi sunt*, and *ductae sunt*
 
-### Wednesday, September 23
+### Friday, September 25
 - Imperfect active and passive
 - Sentence Type 2: Intransitive sentences
 - **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
@@ -55,45 +51,38 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural as well the dictionary entries for the [nouns](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#nouns) in the vocabulary list for Module 2.
 - **Practice (to be completed before class)**: Complete the following exercises on the formation of the [imperfect](https://lingualatina.github.io/textbook/exercises/02-verbs/#imperfect-tense).
 
-### Friday, September 25
+***
+
+## Week 5
+
+### Monday, September 28
 - *sum, esse, fui*
 - Sentence Type 4: Linking sentences
 - **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural. In addition, memorize the dictionary entries  for the [adjectives](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#adjectives) and [conjunctions](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#conjunctions) in the vocabulary list for Module 2.
 - **Practice (to be completed before class)**: Complete the exercise from our textbook on [sentence structure](https://lingualatina.github.io/textbook/exercises/02-verbs/#sentence-structures) identification.
 
-***
+### Wednesday, September 30 - NO CLASS!
 
-## Week 5
-
-### Monday, September 28
+### Friday, October 2
 - *possum, posse, potui*
 - Reading Practice
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2 in preparation for quiz #2.
 - **Assessment (to be completed before class)**: Complete **Quiz #2**.
-
-### Wednesday, September 30 - NO CLASS!
-
-### Friday, October 2
-- Composition workshop
-- **Assessment (to be completed before class)**: Complete **Translation #2**.
-- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) to prepare for the composition workshop.
 
 ***
 
 ## Week 6
 
 ### Monday, October 5
-- Review
-  - Noun-adjective agreement
-- **Assessment (to be completed before class)**: Complete **Composition #2**.
-- **Morphology and Vocabulary (to be completed before class)**: Review noun, pronoun, and adjective declensions in preparation for the competency quiz. Bring three questions that you have about noun-adjective agreement to class.
+- Composition workshop
+- **Assessment (to be completed before class)**: Complete **Translation #2**.
+- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) to prepare for the composition workshop.
 
 ### Wednesday, October 7
 - Review
-  - Verbal formation
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of the imperfect and perfect indicative as well as *sum* and *possum* in preparation for the competency quiz. Bring three questions that you have about verbal formation to class.
+- **Assessment (to be completed before class)**: Complete **Composition #2**.
+- **Morphology and Vocabulary (to be completed before class)**: Review in preparation for the competency quiz. Bring three remaining questions that you have about substantive and verbal inflection.
 
 ### Friday, October 9
 - NO CLASS
-- **Assessment(to be completed before class)**: Complete **competency quiz #1**.
