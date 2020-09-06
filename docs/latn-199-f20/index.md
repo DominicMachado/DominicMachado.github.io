@@ -60,11 +60,11 @@ For the first couple weeks, we will be in diagnostic mode to see what things wou
 - **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn199-f20).
 
 ### Wednesday, September 9
-- Sentence structures
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
+- Hannibal, Classics, and Justice
+- **Homework (due before class)**: NO HOMEWORK! Take the extra time to review your forms and become more confident with identifying them.
 
 ### Friday, September 11
-- Case usage
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
+- Sentence structures
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
 
 [Back to top.](#top)
