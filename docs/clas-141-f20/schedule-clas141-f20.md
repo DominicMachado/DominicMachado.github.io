@@ -42,15 +42,15 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 7
 - The When and Where of Ancient Greece
-- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek” and what we mean when we use the term. Pick a passage or piece of evidence from her lecture and jot down the questions that it raises for you in your commonplace book.
+- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek.” Pick a passage or piece of evidence from her lecture that stands out to you and jot down the questions that it raises for you in your commonplace book.
 
 ### Wednesday, September 9
 - Ancient Greece in Color
-- **Homework (due before class)**: Read Margaret Talbot’s New Yorker [article](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) and Sarah Bond’s [thoughtpiece](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/) on polychromy and color in ancient statues. Select a passage from one of these two articles and reflect on how it intersects with what we have discussed in the class already
+- **Homework (due before class)**: Read Margaret Talbot’s New Yorker [article](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) and Sarah Bond’s [thoughtpiece](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/) on polychromy and color in ancient statues. Select a passage from one of these two articles and reflect on it in your commonplace book.
 
 ### Friday, September 11
 - The Problem of Ancient Evidence, Part 1
-- **Homework (due before class)**: Submit [**Greek Misconceptions Assignment**](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another.
+- **Homework (due before class)**: Submit [**Greek Misconceptions Assignment**](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading.
 
 [Back to top.](#top)
 
@@ -60,15 +60,15 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 14
 - The Problem of Ancient Evidence, Part 2
-- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. In your commonplace book, jot down three pieces of evidence that appear to conflict with one another and what you think might explain these differences.
+- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
 
 ### Wednesday, September 16
 - Primary Source Analysis Release and Discussion
-- **Homework (due before class)**: Reflect on the primary source analysis we have done in the last two class periods and jot down what you think are the key features of the process of primary source analysis.
+- **Homework (due before class)**: Instead of writing a standard entry in your commonplace book, reflect on what you have learned from the primary source analysis that we have done in the last two class periods and outline briefly a process for your own primary source analysis.
 
 ### Friday, September 18
 - The Fundamental Divisions of Greek Society
-- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, jot down all of the different social divisions that you see embedded in the legal code of Gortyn.
+- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, select a passage that stood out to you and reflect on it.
 
 [Back to top.](#top)
 
