@@ -55,8 +55,11 @@ We will not but using a physical textbook, but rather an online [textbook](https
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on differentiating adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
 
-
 ### Wednesday, September 9
+- Latin and CBL
+- **Homework**: Spend a few minutes thinking about why it might be important to do community in engagement in a Latin course.
+
+### Friday, September 11
 - *is, ea, id*
 - Demonstrative pronouns
 - Intensifying pronouns
@@ -64,14 +67,5 @@ We will not but using a physical textbook, but rather an online [textbook](https
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id*; *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms). Memorize the [verbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#verbs), [conjunctions](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#conjunctions), and [adverbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adverbs) in Module 1.
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
-
-### Friday, September 11
-- -ius adjectives
-- Substantives
-- Review
-- **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
-- **Assessment (to be completed before class)**: Complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/).
-- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
-- **Further Practice (optional)**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.
 
 [Back to top.](#top)
