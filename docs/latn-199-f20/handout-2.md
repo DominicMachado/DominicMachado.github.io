@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Grammar Handouts #2 - Clause Structures
 &nbsp;  
-To be completed by September 9, 8 AM
+To be completed by September 11, 8 AM
 
 ***
 
