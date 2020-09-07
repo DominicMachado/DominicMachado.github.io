@@ -117,9 +117,9 @@ The accusative can be thought of primarily as a "target" case - it is frequently
 
 ## Ablative
 &nbsp;  
-The ablative is often thought of as a do-it-all or the adverbial case in Latin. However, we can categorize all the different usages of the ablative in three major ways:
+The ablative is often thought of as a do-it-all or the adverbial case in Latin. However, we can categorize all the different usages of the ablative in four major ways:
 
-A. It can be used to  describe the relationship between people and things (usually translated with the word **from**):
+**A.** It can be used to  describe the relationship between people and things (usually translated with the word **from**):
 
 1. It can indicate from where something comes (e.g. the source, the cause):
   - Rhenus oritur **ex Lepontiis** (the Rhine rises from the country of the Lepontii)
@@ -130,17 +130,50 @@ A. It can be used to  describe the relationship between people and things (usual
   - **voluptātibus carere** (to lack enjoyments)
   - soluti **a cupiditatibus** (free from desires)
   - abstinere **iniuria** (to abstrain from harm)
-  - **ab insula** ibat (He was going away from the island).
+  - **Ab insula** ibat (He was going away from the island).
 
-B. The ablative can be used to explain how the main action/statement/state of the sentence is accomplished (usually translated as **with**).
+**B.** The ablative can be used to explain how the main action/statement/state of the sentence is accomplished (usually translated as **with**).
 
-1. It can indicate who or what is aiding the completion of an action and
+1. It can indicate who or what is aiding/participating the completion of an action:
   - Deus **bonis omnibus** explevit mundum (God filled the world with good things).
   - Mundus **ab deo** factus est (The world was made by God).
+  - Ambulabam **cum amico meo** (I was walking with my friend).
 
+2. It can be used to add further information about the circumstances of the action/state of the sentence:
+ - Dixit versum Graecum **eadem sententia** (He spoke a Greek verse with the same voice).
+ - **Virtute** praecedunt
+(They excel with respect to courage).
+ - Agrum vendidit **pecunia** (He sold land for money).
+ - **De virtute** dixit (She spoke about virtue).
 
+**C.** The ablative can be used to indicate a specific point when and when something happens (usually translated with **in**):
+
+1. The ablative can be used in conjunction with a preposition to indicate place where:
+ - Vivit **in urbe** (He lives in the city).
+
+2. The ablative is used without a preposition to indicate time when:
+ - **prima hora** vigilo (I awake at the first hour).
+ - **secunda die** Romam ibant (They were going to Rome on the second day).
+
+**D.** The ablative can be used to indicate a form of comparison.
+
+1. The ablative can be used in conjunction with a comparative adjective to denote what a particular noun is being compared to:
+ - Puella **puero** fortior erat (The girl was stronger than the boy).
+ - Populus Romanus felicior **Hannibale** fuerunt (The Roman people were luckier than Hannibal).
+
+2. An ablative can be used to indicate the difference between things being compared:
+ - Puella puero **multo** fortior erat (The girl was stronger than the boy by much).
 
 ***
 
 ## Exercises
 &nbsp;  
+Translate the following sentences and identify all the case usages in the following sentence.
+
+1. *Hann. 2.1*: Hunc tantā cupiditāte incendit bellandī, ut ūsque ā rubrō marī arma cōnātus sit īnferre Italiae. [Commentary and Vocabulary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+
+2. *Hann. 2.3*: Eīque cum multa dē fidē suā et odiō in Rōmānōs commemorāsset, hoc adiūnxit.... [Commentary and Vocabulary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+
+3. *Hann. 3.2*: Sīc Hannibal, minor quīnque et vīgintī annīs nātus imperātor factus, proximō trienniō omnēs gentēs Hispāniae bellō subēgit; Saguntum, foederātam cīvitātem, vī expugnāvit; trēs exercitūs maximōs comparāvit. [Commentary and Vocabulary](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
+
+4. *Hann. 4.3*: Hōc itinere adeō gravī morbō adficitur oculōrum, ut posteā numquam dextrō aequē bene ūsus sit. [Commentary and Vocabulary](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
