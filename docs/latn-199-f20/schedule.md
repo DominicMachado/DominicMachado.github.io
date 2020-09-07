@@ -51,7 +51,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 14
 - Case usage
 - Competency quizzes released
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
 
 ### Wednesday, September 16
 - Indirect statement
