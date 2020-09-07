@@ -10,7 +10,7 @@ nav_order: 6
 
 ## Grammar Handouts #6 - Gerunds and Gerundives
 &nbsp;  
-To be completed by September 18, 8 AM
+To be completed by September 21, 8 AM
 
 ***
 
