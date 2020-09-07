@@ -10,7 +10,7 @@ nav_order: 8
 
 ## Grammar Handouts #8 - Temporal Clauses
 &nbsp;  
-To be completed by September 23, 8 AM
+To be completed by September 25, 8 AM
 
 ***
 
