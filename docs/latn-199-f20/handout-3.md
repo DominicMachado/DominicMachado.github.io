@@ -168,7 +168,7 @@ The ablative is often thought of as a do-it-all or the adverbial case in Latin. 
 
 ## Exercises
 &nbsp;  
-Translate the following sentences and identify all the case usages in the following sentence.
+Translate the following sentences and identify all the case usages in the following sentences.
 
 1. *Hann. 2.1*: Hunc tantā cupiditāte incendit bellandī, ut ūsque ā rubrō marī arma cōnātus sit īnferre Italiae. [Commentary and Vocabulary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
 
