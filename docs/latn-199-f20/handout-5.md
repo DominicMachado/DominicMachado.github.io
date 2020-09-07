@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Grammar Handouts #5 - Participles
 &nbsp;  
-To be completed by September 16, 8 AM
+To be completed by September 18, 8 AM
 
 ***
 
