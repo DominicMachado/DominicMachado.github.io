@@ -10,7 +10,7 @@ nav_order: 9
 
 ## Grammar Handouts #9 - Causal and Concessive Clauses
 &nbsp;  
-To be completed by September 25, 8 AM
+To be completed by September 28, 8 AM
 
 ***
 
