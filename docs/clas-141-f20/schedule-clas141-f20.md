@@ -30,7 +30,7 @@ This schedule links to the readings and assignments that you will have throughou
 - [Misconceptions Quiz](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) Released
 - **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) pages carefully. Jot down questions you have about the course setup and bring them to class. Fill out the [getting to know you](https://docs.google.com/forms/d/12_iGPxRkyChBkdx7oIYyferVMlZ61gx6il9P54Gu2aM/) survey!
 
-### Friday, September 4
+### Friday, September 4 ([slides](https://docs.google.com/presentation/d/1SYDUs3L2-yVqHKG0INhb6KI0EbrvO34hApX7Ksgs4ds/edit?usp=sharing); [video](https://youtu.be/_WAfmlEYvJ0))
 - Ancient Greece in the 21st century: A Culture War
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage from her lecture and reflect on it in your [commonplace book](https://dominicmachado.github.io/commonplace-book-clas141-f20).
 
@@ -40,7 +40,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 2
 
-### Monday, September 7
+### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1OdZBLb2998p5xdezPsIbOkmnL__gXo2Xr0YlY1I2ecc/edit?usp=sharing))
 - The When and Where of Ancient Greece
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek.” Pick a passage or piece of evidence from her lecture that stands out to you and jot down the questions that it raises for you in your commonplace book.
 
