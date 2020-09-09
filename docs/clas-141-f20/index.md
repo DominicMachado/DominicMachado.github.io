@@ -41,13 +41,16 @@ Everything that you need to know about this course is on this website. You can f
 
 ![Polychromy](https://sarahemilybond.files.wordpress.com/2017/04/e2ce24df90a39c24443879e29fbaee99.jpg)
 
-### Wednesday, September 2
-- Syllabus Overview
-- [Misconceptions Quiz](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) Released
-- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas141-f20), the [assessment structure](https://dominicmachado.github.io/assessment-clas141-f20#ancient-source-analysis),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas141-f20) pages carefully. Jot down questions you have about the course setup and bring them to class. Fill out the [getting to know you](https://docs.google.com/forms/d/12_iGPxRkyChBkdx7oIYyferVMlZ61gx6il9P54Gu2aM/) survey!
+### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1OdZBLb2998p5xdezPsIbOkmnL__gXo2Xr0YlY1I2ecc/edit?usp=sharing); [video](https://youtu.be/73AcJnQQKD0))
+- The When and Where of Ancient Greece
+- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek.” Pick a passage or piece of evidence from her lecture that stands out to you and jot down the questions that it raises for you in your commonplace book.
 
-### Friday, September 4
-- Ancient Greece in the 21st century: A Culture War
-- **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage from her lecture and reflect on it in your [commonplace book](https://dominicmachado.github.io/commonplace-book-clas141-f20).
+### Wednesday, September 9
+- Ancient Greece in Color
+- **Homework (due before class)**: Read Margaret Talbot’s New Yorker [article](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) and Sarah Bond’s [thoughtpiece](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/) on polychromy and color in ancient statues. Select a passage from one of these two articles and reflect on it in your commonplace book.
+
+### Friday, September 11
+- The Problem of Ancient Evidence, Part 1
+- **Homework (due before class)**: Submit [**Greek Misconceptions Assignment**](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading.
 
 [Back to top.](#top)
