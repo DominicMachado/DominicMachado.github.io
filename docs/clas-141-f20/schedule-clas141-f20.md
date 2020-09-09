@@ -40,7 +40,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 2
 
-### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1OdZBLb2998p5xdezPsIbOkmnL__gXo2Xr0YlY1I2ecc/edit?usp=sharing))
+### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1OdZBLb2998p5xdezPsIbOkmnL__gXo2Xr0YlY1I2ecc/edit?usp=sharing); [video](https://youtu.be/73AcJnQQKD0))
 - The When and Where of Ancient Greece
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek.” Pick a passage or piece of evidence from her lecture that stands out to you and jot down the questions that it raises for you in your commonplace book.
 
