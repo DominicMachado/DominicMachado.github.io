@@ -15,13 +15,13 @@ nav_order: 5
 
 ### September 7/8
 &nbsp;  
-Monday #1 (4:30 - 5:20): [Zoom link](https://holycross.zoom.us/j/92621060716?pwd=OCtKTUR0RkRxbGNoLzZqUjNPTnlCUT09)
+- Monday #1 (4:30 - 5:20): [Zoom link](https://holycross.zoom.us/j/92621060716?pwd=OCtKTUR0RkRxbGNoLzZqUjNPTnlCUT09)
 
-Monday #2 (6:00 - 6:50): [Zoom link](https://holycross.zoom.us/j/96416650051?pwd=NGZCbmRrTjFEOTZXVDRoMWwwMkluQT09)
+- Monday #2 (6:00 - 6:50): [Zoom link](https://holycross.zoom.us/j/96416650051?pwd=NGZCbmRrTjFEOTZXVDRoMWwwMkluQT09)
 
-Tuesday (8:00 - 8:50): [Zoom link](https://holycross.zoom.us/j/92195904742?pwd=RTVxMkV3NkkyQ3h1a054UGROUSszUT09)
+- Tuesday (8:00 - 8:50): [Zoom link](https://holycross.zoom.us/j/92195904742?pwd=RTVxMkV3NkkyQ3h1a054UGROUSszUT09)
 
-**Topic of Discussion**: Introduction to Community-Based Learning with Michelle Sterk-Barrett ([slides](https://www.holycross.edu/sites/default/files/files/cbl/introduction_to_community-based_learning_17.pdf))
+- **Topic of Discussion**: Introduction to Community-Based Learning with Michelle Sterk-Barrett ([slides](https://www.holycross.edu/sites/default/files/files/cbl/introduction_to_community-based_learning_17.pdf))
 
 ***
 
