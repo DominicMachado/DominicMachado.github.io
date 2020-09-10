@@ -14,7 +14,7 @@ nav_order: 5
 ## Week 1
 
 ### September 7/8
-
+&nbsp;  
 Monday #1 (4:30 - 5:20): [Zoom link](https://holycross.zoom.us/j/92621060716?pwd=OCtKTUR0RkRxbGNoLzZqUjNPTnlCUT09)
 
 Monday #2 (6:00 - 6:50): [Zoom link](https://holycross.zoom.us/j/96416650051?pwd=NGZCbmRrTjFEOTZXVDRoMWwwMkluQT09)
@@ -28,7 +28,7 @@ Tuesday (8:00 - 8:50): [Zoom link](https://holycross.zoom.us/j/92195904742?pwd=R
 ## Week 2
 
 ### September 14/15
-
+&nbsp;  
 Monday #1 (4:30 - 5:20): [Zoom link]
 
 Monday #2 (6:00 - 6:50): [Zoom link]
@@ -44,7 +44,7 @@ Tuesday (8:00 - 8:50): [Zoom link]
 ## Week 3
 
 ### September 21/22
-
+&nbsp;  
 Monday #1 (4:30 - 5:20): [Zoom link]
 
 Monday #2 (6:00 - 6:50): [Zoom link]
