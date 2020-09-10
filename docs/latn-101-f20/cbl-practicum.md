@@ -42,7 +42,7 @@ nav_order: 5
 ***
 
 ## Week 3
-
+&nbsp;  
 ### September 21/22
 &nbsp;  
 - Monday #1 (4:30 - 5:20): [Zoom link]
