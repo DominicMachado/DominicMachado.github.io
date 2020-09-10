@@ -3,7 +3,7 @@ layout: page
 title: Course Policies
 permalink: schedule-course-policies-latn101-f20
 parent: LATN 101 - F20
-nav_order: 5
+nav_order: 6
 ---
 ***
 
