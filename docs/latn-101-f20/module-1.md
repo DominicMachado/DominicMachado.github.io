@@ -42,7 +42,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ## Week 2
 
-### Monday, September 7
+### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1rP5OZd_xOwharDsD1RV4EzmQgmFeOxDx0Xf8Ya05wNQ/edit?usp=sharing))
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
 - **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4) read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/).
@@ -51,11 +51,11 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on differentiating adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
 
 
-### Wednesday, September 9
+### Wednesday, September 9 ([slides](https://docs.google.com/presentation/d/1NC-emNMRJWDkCGRRdqFLADcNsBqICWJQBwEgc5B1NJ8/edit?usp=sharing))
 - Latin and CBL
 - **Homework**: Spend a few minutes thinking about why it might be important to do community in engagement in a Latin course.
 
-### Friday, September 11
+### Friday, September 11 ([slides](https://docs.google.com/presentation/d/1FmFKSPNMvtku2-Dr-Ys62iiMhqDZSxkJXZRsWuonT-8/edit?usp=sharing))
 - *is, ea, id*
 - Demonstrative pronouns
 - Intensifying pronouns
