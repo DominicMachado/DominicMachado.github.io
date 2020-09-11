@@ -82,7 +82,6 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
 - **Assessment (to be completed before class)**: Complete [quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/).
 - **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
-- **Further Practice (optional)**: Check out Prof. Smith's [exercises](https://neelsmith.github.io/latin101/assignments/adjectives-ius/exercise/) on -ius adjectives.  
 
 ### Wednesday, September 16
 - Composition workshop
@@ -92,7 +91,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Friday, September 18
 - The dative, accusative, and ablative cases
 - **Assessment (to be completed before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**.
-- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases and Prof. Joseph's [short video] on the ablative case.
+- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [full paradigms](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) all five cases. Additionally, memorize the full paradigms for *hic*, *ille*, and *is*.
 - **Further Practice (optional)**: Check out the exercises in our textbook on the [accusative and dative](https://lingualatina.github.io/textbook/exercises/02-verbs/#accusative-and-dative) and [ablative](https://lingualatina.github.io/textbook/exercises/02-verbs/#ablative) as well Prof. Smith's exercise on the function of [nouns](https://neelsmith.github.io/latin101/assignments/nouns2/exercise/).
 
