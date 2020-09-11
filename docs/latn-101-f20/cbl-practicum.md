@@ -33,7 +33,7 @@ nav_order: 5
 
 - Monday #2 (6:00 - 6:50 PM): [Zoom link](https://www.google.com/url?q=https://holycross.zoom.us/j/99154960265&sa=D&source=calendar&ust=1600263337829000&usg=AOvVaw1TuW56712AOKavAFXRb3Ft)
 
-- Tuesday (8:00 - 8:50 AM): [Zoom link]
+- Tuesday (8:00 - 8:50 AM): [Zoom link](https://holycross.zoom.us/j/95705401746)
 
 - **Topic of Discussion**: Verbal Voice and Racial Injustice
 
