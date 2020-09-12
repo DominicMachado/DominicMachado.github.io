@@ -53,18 +53,19 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 For the first couple weeks, we will be in diagnostic mode to see what things would be useful for us to target throughout the semester. As such, the schedule will be very flexible at first.
 
-### Week 2
+### Week 3
 
-### Monday, September 7
-- Nouns, adjectives, and verbs
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn199-f20).
+### Monday, September 14
+- Case usage
+- Competency quizzes released ([noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [vocabulary quiz]
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
 
-### Wednesday, September 9
-- Hannibal, Classics, and Justice
-- **Homework (due before class)**: NO HOMEWORK! Take the extra time to review your forms and become more confident with identifying them.
+### Wednesday, September 16
+- Indirect statement
+- **Homework (due before class)**:  Read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn199-f20).
 
-### Friday, September 11
-- Sentence structures
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
+### Friday, September 18
+- Participles
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #5](https://dominicmachado.github.io/grammatical-handout-5-latn199-f20).
 
 [Back to top.](#top)
