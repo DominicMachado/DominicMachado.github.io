@@ -50,10 +50,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 14
 - Case usage
-- Competency quizzes released
- - [Noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link)
- - [Verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link)
- - [Vocabulary quiz]
+- Competency quizzes released ([noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [vocabulary quiz]
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
 
 ### Wednesday, September 16
