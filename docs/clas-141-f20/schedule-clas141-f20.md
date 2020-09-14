@@ -48,7 +48,7 @@ This schedule links to the readings and assignments that you will have throughou
 - Ancient Greece in Color
 - **Homework (due before class)**: Read Margaret Talbot’s New Yorker [article](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) and Sarah Bond’s [thoughtpiece](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/) on polychromy and color in ancient statues. Select a passage from one of these two articles and reflect on it in your commonplace book.
 
-### Friday, September 11 ([slides](https://docs.google.com/presentation/d/1cdJxfGPahpOBlT_V6A06J-jXUHzAK2m3-QniB7efKL0/edit?usp=sharing);[video](https://youtu.be/OFNLpdOFO6Y))
+### Friday, September 11 ([slides](https://docs.google.com/presentation/d/1cdJxfGPahpOBlT_V6A06J-jXUHzAK2m3-QniB7efKL0/edit?usp=sharing); [video](https://youtu.be/OFNLpdOFO6Y))
 - The Problem of Ancient Evidence, Part 1
 - **Homework (due before class)**: Submit [**Greek Misconceptions Assignment**](https://docs.google.com/forms/d/18BcrpB6TTwN1bKfQw5ju_1ytftlwt7NsIEsb9YN9Ch4/edit) on Google forms. Read the following [compilation](https://www.csun.edu/~hcfll004/telesilla.html) of sources on the poet, Telesilla. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading.
 
