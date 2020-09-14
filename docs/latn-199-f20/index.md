@@ -57,7 +57,7 @@ For the first couple weeks, we will be in diagnostic mode to see what things wou
 
 ### Monday, September 14
 - Case usage
-- Competency quizzes released ([noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [vocabulary quiz](https://docs.google.com/forms/d/e/1FAIpQLSeZ36ZPj6K_lE_Z80a2iCwq23ebnMkR_iiGsHGZ7HBb67ZctA/viewform?usp=sf_link))
+- Competency quizzes released ([noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSdaq2a81tFApime9lQOvVtC_SA9dURgN7vjyp105upeAfeCQA/viewform?usp=sf_link); [vocabulary quiz](https://docs.google.com/forms/d/e/1FAIpQLSeZ36ZPj6K_lE_Z80a2iCwq23ebnMkR_iiGsHGZ7HBb67ZctA/viewform?usp=sf_link))
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
 
 ### Wednesday, September 16
