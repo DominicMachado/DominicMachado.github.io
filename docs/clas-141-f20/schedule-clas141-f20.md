@@ -44,7 +44,7 @@ This schedule links to the readings and assignments that you will have throughou
 - The When and Where of Ancient Greece
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html) on what it meant to be “Greek.” Pick a passage or piece of evidence from her lecture that stands out to you and jot down the questions that it raises for you in your commonplace book.
 
-### Wednesday, September 9
+### Wednesday, September 9 (; [video](https://youtu.be/K2KcPHnKTwU))
 - Ancient Greece in Color
 - **Homework (due before class)**: Read Margaret Talbot’s New Yorker [article](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture) and Sarah Bond’s [thoughtpiece](https://hyperallergic.com/383776/why-we-need-to-start-seeing-the-classical-world-in-color/) on polychromy and color in ancient statues. Select a passage from one of these two articles and reflect on it in your commonplace book.
 
@@ -60,7 +60,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 14
 - The Problem of Ancient Evidence, Part 2
-- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hippias. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
+- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hipparchus. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
 
 ### Wednesday, September 16
 - Primary Source Analysis Release and Discussion
