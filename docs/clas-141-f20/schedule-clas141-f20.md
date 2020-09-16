@@ -68,7 +68,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Friday, September 18
 - The Fundamental Divisions of Greek Society
-- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, select a passage that stood out to you and reflect on it.
+- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, select a passage that stood out to you and reflect on what it tells you about the culture and society of Gortyn.
 
 [Back to top.](#top)
 
