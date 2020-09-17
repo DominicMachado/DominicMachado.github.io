@@ -28,7 +28,7 @@ One of the key skills that I would like you to develop over the course of the se
 
 You will read a number of [passages](https://drive.google.com/file/d/1OL8DTs27ZWk3j3xCKSy7jaIhKAiec5dm/view) that historians have used to reconstruct an event often referred to as the Lelantine War. The event has attracted a lot of scholarly attention due to the nature of the sources involved.
 
-Your analysis will be broken up into three parts. The first part of your analysis will include a bit of basic research about the sources. You will look up the different sources and their authors in the [Oxford Classical Dictionary](https://drive.google.com/file/d/1OL8DTs27ZWk3j3xCKSy7jaIhKAiec5dm/view) and write up a brief two to three sentence summary of each source. Your summary should explain include the following pieces of information:
+Your analysis will be broken up into three parts. The first part of your analysis will include a bit of basic research about the sources. You will look up the different sources and their authors in the [Oxford Classical Dictionary](https://libguides.holycross.edu/az.php?a=o) and write up a brief two to three sentence summary of each source. Your summary should explain include the following pieces of information:
 
 -	When the author lived
 -	Where the author came from
