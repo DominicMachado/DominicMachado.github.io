@@ -45,12 +45,14 @@ nav_order: 5
 &nbsp;  
 ### September 21/22
 &nbsp;  
-- Monday #1 (4:45 - 5:35 PM): [Zoom link]
+- Monday #1 (4:45 - 5:35 PM): [Zoom link](https://holycross.zoom.us/j/92154243167?pwd=MkJSanh0bDRRcFJDNmFnaHozMFEwdz09) (ID 92154243167)
 
-- Monday #2 (6:00 - 6:50 PM): [Zoom link]
+- Monday #2 (6:00 - 6:50 PM): [Zoom link](https://holycross.zoom.us/j/93896666460?pwd=L0c4blViTmNjY25nYzVqN0RQMDgvZz09) (ID 93896666460)
 
-- Tuesday (8:00 - 8:50 AM): [Zoom link]
+- Tuesday (8:00 - 8:50 AM): [Zoom link](https://holycross.zoom.us/j/99974688128?pwd=eEtuRjEwSnEvdHBUU25qR3J1M2VuQT09) (ID 99974688128)
 
 - **Topic of Discussion**: Toxic Charity and the Pitfalls of CBL
+
+- **Homework**: In preparation of our discussion, please read this brief [article](https://neelsmith.github.io/latin101/practicum/Lupton-toxic-charity.pdf) on the concept of toxic charity.
 
 ***
