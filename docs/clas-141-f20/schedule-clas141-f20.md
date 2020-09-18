@@ -78,7 +78,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 21
 - Freedom and Slavery in the Greek World
-- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery and watch my short lecture on [ancient slavery]. Select a passage from Aristotle and jot down your reflections on it in your commonplace book.
+- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from Aristotle and reflect on what it tells us about the basis of slavery in the ancient world in your commonplace book.
 
 ### Wednesday, September 23
 - Slavery and The Household
