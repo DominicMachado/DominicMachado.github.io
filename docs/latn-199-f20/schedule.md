@@ -68,7 +68,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 4
 
 ### Monday, September 21
-- Gerunds and Gerundives
+- Gerunds and gerundives
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #6](https://dominicmachado.github.io/grammatical-handout-6-latn199-f20).
 
 ### Wednesday, September 23

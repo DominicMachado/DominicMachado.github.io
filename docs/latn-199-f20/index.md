@@ -55,17 +55,16 @@ For the first couple weeks, we will be in diagnostic mode to see what things wou
 
 ### Week 3
 
-### Monday, September 14
-- Case usage
-- Competency quizzes released ([noun quiz](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link); [verb quiz](https://docs.google.com/forms/d/e/1FAIpQLSdaq2a81tFApime9lQOvVtC_SA9dURgN7vjyp105upeAfeCQA/viewform?usp=sf_link); [vocabulary quiz](https://docs.google.com/forms/d/e/1FAIpQLSeZ36ZPj6K_lE_Z80a2iCwq23ebnMkR_iiGsHGZ7HBb67ZctA/viewform?usp=sf_link))
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn199-f20).
+### Monday, September 21
+- Gerunds and gerundives
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #6](https://dominicmachado.github.io/grammatical-handout-6-latn199-f20).
 
-### Wednesday, September 16
-- Indirect statement
-- **Homework (due before class)**:  Read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn199-f20).
+### Wednesday, September 23
+- Relative clauses
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #7](https://dominicmachado.github.io/grammatical-handout-7-latn199-f20).
 
-### Friday, September 18
-- Participles
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #5](https://dominicmachado.github.io/grammatical-handout-5-latn199-f20).
+### Friday, September 25
+- Temporal clauses
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #8](https://dominicmachado.github.io/grammatical-handout-8-latn199-f20).
 
 [Back to top.](#top)
