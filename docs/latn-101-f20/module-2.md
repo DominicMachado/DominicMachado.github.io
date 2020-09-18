@@ -46,7 +46,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 ### Friday, September 25
 - Imperfect active and passive
 - Sentence Type 2: Intransitive sentences
-- **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
+- **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect as well as my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
 as well as the section on [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural as well the dictionary entries for the [nouns](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#nouns) in the vocabulary list for Module 2.
 - **Practice (to be completed before class)**: Complete the following exercises on the formation of the [imperfect](https://lingualatina.github.io/textbook/exercises/02-verbs/#imperfect-tense).
@@ -77,7 +77,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Monday, October 5
 - Composition workshop
 - **Assessment (to be completed before class)**: Complete **Translation #2**.
-- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) to prepare for the composition workshop.
+- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) and rewatch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on the topic to prepare for the composition workshop.
 
 ### Wednesday, October 7
 - Review
