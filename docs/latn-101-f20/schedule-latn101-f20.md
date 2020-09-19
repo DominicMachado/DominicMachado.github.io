@@ -75,7 +75,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ## Week 3
 
-### Monday, September 14
+### Monday, September 14 ([slides](https://docs.google.com/presentation/d/1271RHruw79m-gQueJE6-ixSwxMViKWMOdVgKZ1WToZE/edit?usp=sharing))
 - -ius adjectives
 - Substantives
 - Review
@@ -88,7 +88,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Morphology and Vocabulary (to be completed before class)**: Review noun-adjective agreement and Module 1 [vocabulary](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/).
 - **Assessment (to be completed before class)**:[**Translation #1 Due**](https://docs.google.com/document/d/1K5MlRUVpuj5Bvg-q0KsB1H_nPBb4ARFoyCVjAC0vhJg/edit).
 
-### Friday, September 18
+### Friday, September 18 ([slides](https://docs.google.com/presentation/d/19jkdb-HSumajJ5EEQyJWmDRPH-rKXzaHS_hfrnAT5aY/edit?usp=sharing))
 - The dative, accusative, and ablative cases
 - **Assessment (to be completed before class)**: [**Composition #1**](https://docs.google.com/document/d/1ghK-6YbEoB5FkAviQDjK-cS8_ySvpg_gLI6nVKEiUG4/edit) **due**.
 - **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the accusative and dative cases.
