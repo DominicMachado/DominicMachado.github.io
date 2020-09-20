@@ -39,18 +39,18 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Polychromy](https://sarahemilybond.files.wordpress.com/2017/04/e2ce24df90a39c24443879e29fbaee99.jpg)
+![Polychromy](https://4.bp.blogspot.com/-oFL6n6JCuuE/W3I0gyjxlFI/AAAAAAAApGM/qn_qEMiRihsFxsfHfnW978F6-wtnIf7mACLcBGAs/s1600/2018-08-13_22-35-44%2BSlaves%2Bin%2BGreece.jpg)
 
-### Monday, September 14
-- The Problem of Ancient Evidence, Part 2
-- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hipparchus. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
+### Monday, September 21
+- Freedom and Slavery in the Greek World
+- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from Aristotle and reflect on what it tells us about the basis of slavery in the ancient world in your commonplace book.
 
-### Wednesday, September 16
-- Primary Source Analysis Release and Discussion
-- **Homework (due before class)**: Instead of writing a standard entry in your commonplace book, reflect on what you have learned from the primary source analysis that we have done in the last two class periods and outline briefly a process for your own primary source analysis.
+### Wednesday, September 23
+- Slavery and The Household
+- **Homework (due before class)**: No homework - spend the extra time working on your [Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing)).
 
-### Friday, September 18
-- The Fundamental Divisions of Greek Society
-- **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, select a passage that stood out to you and reflect on what it tells you about the culture and society of Gortyn.
+### Friday, September 25
+- Slavery, Trade, and Wealth
+- **Homework (due before class)**: Submit your **[Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20)** by email.
 
 [Back to top.](#top)
