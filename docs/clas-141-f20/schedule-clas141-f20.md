@@ -58,15 +58,15 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 3
 
-### Monday, September 14
+### Monday, September 14 ([slides](https://docs.google.com/presentation/d/1rkPhcpmo38-lp89wOH915vjsJnZUJAgWuKL2k_vb3VU/edit?usp=sharing); [video](https://youtu.be/iMxmc5pLz7k))
 - The Problem of Ancient Evidence, Part 2
 - **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hipparchus. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
 
-### Wednesday, September 16
+### Wednesday, September 16 ([slides](https://docs.google.com/presentation/d/1eTedy-Viu0YD5giRPtWJbDLGn0i3JbdPj8J2dsCOkYU/edit?usp=sharing); [video](https://youtu.be/oIkrSKpEJSA))
 - Primary Source Analysis Release and Discussion
 - **Homework (due before class)**: Instead of writing a standard entry in your commonplace book, reflect on what you have learned from the primary source analysis that we have done in the last two class periods and outline briefly a process for your own primary source analysis.
 
-### Friday, September 18
+### Friday, September 18 ([slides](https://docs.google.com/presentation/d/1VSLxB004Ap2uoPEXFTBvU--E1qBrPbc1EIE_DxBbaOk/edit?usp=sharing); [video](https://youtu.be/KuUyomdJJEk))
 - The Fundamental Divisions of Greek Society
 - **Homework (due before class)**: Read the [Gortyn code](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/76-laws-relating-to-women/) carefully. In your commonplace book, select a passage that stood out to you and reflect on what it tells you about the culture and society of Gortyn.
 
