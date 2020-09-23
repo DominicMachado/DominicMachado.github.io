@@ -145,8 +145,8 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Friday, October 2
 - *possum, posse, potui*
 - Reading Practice
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2 in preparation for quiz #2.
-- **Assessment (to be completed before class)**: Complete **Quiz #2**.
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2 in preparation for [quiz #2](https://forms.gle/sPTaoMQ6G7zSS8Aa7).
+- **Assessment (to be completed before class)**: Complete [**Quiz #2**](https://forms.gle/sPTaoMQ6G7zSS8Aa7).
 
 [Back to top.](#top)
 
