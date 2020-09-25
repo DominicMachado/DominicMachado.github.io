@@ -156,7 +156,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Monday, October 5
 - Composition workshop
-- **Assessment (to be completed before class)**: Complete **Translation #2**.
+- **Assessment (to be completed before class)**: Complete [**Translation #2**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing).
 - **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) and rewatch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on the topic to prepare for the composition workshop.
 
 
