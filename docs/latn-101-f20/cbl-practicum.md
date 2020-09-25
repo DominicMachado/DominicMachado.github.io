@@ -8,7 +8,7 @@ nav_order: 5
 ***
 
 # Community Based Learning - LATN 101 - F20
-&nbsp;
+&nbsp;  
 Standing links for Practicum:
 1. [Monday, 4:45 - 5:35](https://holycross.zoom.us/j/91016989642)
 2. [Monday, 6:00 - 6:50](https://holycross.zoom.us/j/95004081823)
