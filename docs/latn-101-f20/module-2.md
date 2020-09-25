@@ -36,7 +36,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the seven dictionary entries for the [verbs](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) in the vocabulary list for Module 2 (up to and including facio).
 - **Practice (to be completed before class)**: Complete the following exercises on [conjugation identification](https://lingualatina.github.io/textbook/exercises/02-verbs/#conjugation-identification) and the formation of the [perfect active](https://lingualatina.github.io/textbook/exercises/02-verbs/#perfect-active).
 
-### Wednesday, September 23
+### Wednesday, September 23 ([slides](https://docs.google.com/presentation/d/1QSw6M4GBOi7ZDx4NI6zFs26H0auMZiqNz4QjwDUyQ7E/edit?usp=sharing))
 - Perfect passive
 - Sentence Type 3: Passive sentences
 - **Reading (to be completed before class)**: Watch Prof. Joseph's [short video](https://www.youtube.com/watch?v=umIKSDePFm4) on the distinction between the active and passive voice and read Prof. Libatique's [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) on why the active-passive distinction still matters today. Additionally, read the short section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences).
