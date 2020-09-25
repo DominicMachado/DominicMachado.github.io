@@ -47,7 +47,7 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ## Week 4
 
-### Monday, September 21
+### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1PHpAWSx7EisNNmZOkr8JlYkXK__qZDJQW7Vi6Ojma9c/edit?usp=sharing))
 - Verbal forms
   - Person, number, tense, voice, mood
   - Principal parts

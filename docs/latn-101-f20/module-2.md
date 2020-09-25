@@ -25,7 +25,7 @@ Over the next four weeks, we will begin to explore Latin's verbal system. We wil
 
 ## Week 4
 
-### Monday, September 21
+### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1PHpAWSx7EisNNmZOkr8JlYkXK__qZDJQW7Vi6Ojma9c/edit?usp=sharing))
 - Verbal forms
   - Person, number, tense, voice, mood
   - Principal parts

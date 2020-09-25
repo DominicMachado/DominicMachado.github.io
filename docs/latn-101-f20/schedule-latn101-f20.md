@@ -101,7 +101,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ## Week 4
 
-### Monday, September 21
+### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1PHpAWSx7EisNNmZOkr8JlYkXK__qZDJQW7Vi6Ojma9c/edit?usp=sharing))
 - Verbal forms
   - Person, number, tense, voice, mood
   - Principal parts
