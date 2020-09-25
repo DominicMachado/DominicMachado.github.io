@@ -9,6 +9,11 @@ nav_order: 5
 
 # Community Based Learning - LATN 101 - F20
 
+Standing links for Practicum:
+1) [Monday, 4:45 - 5:35](https://holycross.zoom.us/j/91016989642)
+2) [Monday, 6:00 - 6:50](https://holycross.zoom.us/j/95004081823)
+3) [Tuesday, 8:00 - 8:50](https://holycross.zoom.us/j/93147508447)
+
 ***
 
 ## Week 1
@@ -56,3 +61,12 @@ nav_order: 5
 - **Homework**: In preparation of our discussion, please read this brief [article](https://neelsmith.github.io/latin101/practicum/Lupton-toxic-charity.pdf) on the concept of toxic charity.
 
 ***
+
+## Week 4
+&nbsp;  
+### September 28/29
+&nbsp;  
+
+- **Topic of Discussion**: The problems of grammatical gender
+
+- **Homework**: In preparation of our discussion, please read this brief [article](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8) on the concept of gender diversity in Latin.
