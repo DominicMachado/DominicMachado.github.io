@@ -81,7 +81,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Wednesday, October 7
 - Review
-- **Assessment (to be completed before class)**: Complete **Composition #2**.
+- **Assessment (to be completed before class)**: Complete [**Composition #2**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit?usp=sharing).
 - **Morphology and Vocabulary (to be completed before class)**: Review in preparation for the competency quiz. Bring three remaining questions that you have about substantive and verbal inflection.
 
 ### Friday, October 9
