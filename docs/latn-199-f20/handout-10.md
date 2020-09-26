@@ -34,4 +34,4 @@ Translate these sentences in advance of class and identify the type of condition
 
 3. *Hann. 9.1*:  Antiochō fugātō, verēns nē dēderētur, quod sine dubiō accidisset, sī suī fēcisset potestātem, Crētam ad Gortȳniōs vēnit, ut ibi, quō sē cōnferret, cōnsīderāret. [Vocabulary and commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-9)
 
-4. *Hann. 11.3*: Cuius etsī causam mīrābātur neque reperiēbat, tamen proelium statim committere nōn dubitāvit. [http://dcc.dickinson.edu/nepos-hannibal/chapter-11]
+4. *Hann. 11.3*: Cuius etsī causam mīrābātur neque reperiēbat, tamen proelium statim committere nōn dubitāvit. [Vocabulary and commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-11)
