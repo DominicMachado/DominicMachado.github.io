@@ -18,7 +18,7 @@ To be completed by September 28, 8 AM
 &nbsp;  
 Read through the following short selections on causal and concessive clauses in Latin:
  - [Causal clauses](https://lingualatina.github.io/textbook/presentation/14-causal-concessive/causal/)
- - [Concessive Clauses](https://lingualatina.github.io/textbook/presentation/14-causal-concessive/concessive/)
+ - [Concessive clauses](https://lingualatina.github.io/textbook/presentation/14-causal-concessive/concessive/)
 
 ***
 
