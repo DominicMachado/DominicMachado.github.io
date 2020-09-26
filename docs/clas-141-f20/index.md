@@ -39,18 +39,18 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Polychromy](https://4.bp.blogspot.com/-oFL6n6JCuuE/W3I0gyjxlFI/AAAAAAAApGM/qn_qEMiRihsFxsfHfnW978F6-wtnIf7mACLcBGAs/s1600/2018-08-13_22-35-44%2BSlaves%2Bin%2BGreece.jpg)
+![Mines](https://www.world-archaeology.com/wp-content/uploads/cwa11/400px/189.jpg)
 
-### Monday, September 21
-- Freedom and Slavery in the Greek World
-- **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from Aristotle and reflect on what it tells us about the basis of slavery in the ancient world in your commonplace book.
+### Monday, September 28
+- Slavery and the Greek State
+- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document that you found meaningful and reflect on it on your commonplace book.
 
-### Wednesday, September 23
-- Slavery and The Household
-- **Homework (due before class)**: No homework - spend the extra time working on your [Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing)).
+### Wednesday, September 30
+- NO CLASS!!!
+- **Homework (due before class)**: Submit [**Topic Choice Preferences**](https://docs.google.com/forms/d/e/1FAIpQLScu0vJ1K20CycuWcO4rZ3reUZBoR2uESSQ2O6g2Piqpky9Mpw/viewform?usp=sf_link) on Google Forms!
 
-### Friday, September 25
-- Slavery, Trade, and Wealth
-- **Homework (due before class)**: Submit your **[Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20)** by email.
+### Friday, October 2
+- Resistance and Freedom
+- **Homework (due before class)**: Read through the following selection on the topics of [slave resistance](https://drive.google.com/file/d/1_VYNzjun6D-nQIOF4_nUnTEvvz9Upvc0/view?usp=sharing) (§211, 214, 217, 222-225) and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
 
 [Back to top.](#top)

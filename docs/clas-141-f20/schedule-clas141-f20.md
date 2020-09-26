@@ -96,11 +96,11 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, September 28
 - Slavery and the Greek State
-- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document and jot down your reflections on it in your commonplace book.
+- **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document that you found meaningful and reflect on it on your commonplace book.
 
 ### Wednesday, September 30
 - NO CLASS!!!
-- **Homework (due before class)**: Submit **Topic Choice Preferences** on Google Forms!
+- **Homework (due before class)**: Submit [**Topic Choice Preferences**](https://docs.google.com/forms/d/e/1FAIpQLScu0vJ1K20CycuWcO4rZ3reUZBoR2uESSQ2O6g2Piqpky9Mpw/viewform?usp=sf_link) on Google Forms!
 
 ### Friday, October 2
 - Resistance and Freedom
