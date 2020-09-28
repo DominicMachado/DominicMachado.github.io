@@ -119,7 +119,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) in the 3rd person singular and plural as well the next seven dictionary entries for the [verbs](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) in the vocabulary list for Module 2 (up to and including video).
 - **Practice (to be completed before class)**: Complete the following exercises on the formation of the [perfect passive](https://lingualatina.github.io/textbook/exercises/02-verbs/#perfect-passive). Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *amaverunt*, *auditi sunt*, and *ductae sunt*
 
-### Friday, September 25
+### Friday, September 25 ([slides](https://docs.google.com/presentation/d/1PArqMh5KGk9r8RvH0C3lPc-dQBbJZxXBUmMf1zZwrvU/edit?usp=sharing))
 - Imperfect active and passive
 - Sentence Type 2: Intransitive sentences
 - **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect as well as my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
