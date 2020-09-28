@@ -94,7 +94,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, October 2
 - Conditions
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10](https://dominicmachado.github.io/grammatical-handout-10-latn199-f20).
 
 [Back to top.](#top)
 
