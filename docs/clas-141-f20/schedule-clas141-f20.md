@@ -76,15 +76,15 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 4
 
-### Monday, September 21
+### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1JXAO8VzCHCRC735fX29l4lSoGefkinbVZvVoHzoX5oU/edit?usp=sharing);[video](https://youtu.be/f1JxAfDPeq8))
 - Freedom and Slavery in the Greek World
 - **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from Aristotle and reflect on what it tells us about the basis of slavery in the ancient world in your commonplace book.
 
-### Wednesday, September 23
+### Wednesday, September 23 ([slides](https://docs.google.com/presentation/d/1YcsmBKRX2iks_kIuWvv76D3S9mR4xkES7we4KLeAa2s/edit?usp=sharing);[video](https://youtu.be/fynnDnxr6r4))
 - Slavery and The Household
 - **Homework (due before class)**: No homework - spend the extra time working on your [Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing)).
 
-### Friday, September 25
+### Friday, September 25 ([slides](https://docs.google.com/presentation/d/1NbIs3m_anWiZAqLOY1PNCpt9SlL49psTKPtQy1AKgUg/edit?usp=sharing);[video](https://youtu.be/1-pZ8ipP5Pk))
 - Slavery, Trade, and Wealth
 - **Homework (due before class)**: Submit your **[Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20)** by email.
 
