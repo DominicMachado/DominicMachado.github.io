@@ -45,21 +45,19 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ![Chart](https://www.researchgate.net/profile/Raphael_Finkel/publication/286467726/figure/tbl2/AS:613953168240656@1523389250173/Traditional-principal-parts-of-five-Latin-verbs.png)
 
-## Week 5
+## Week 6
 
-### Monday, September 28
-- *sum, esse, fui*
-- Sentence Type 4: Linking sentences
-- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural. In addition, memorize the dictionary entries  for the [adjectives](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#adjectives) and [conjunctions](https://lingualatina.github.io/textbook/vocabulary/02-verbs/#conjunctions) in the vocabulary list for Module 2.
-- **Practice (to be completed before class)**: Complete the exercise from our textbook on [sentence structure](https://lingualatina.github.io/textbook/exercises/02-verbs/#sentence-structures) identification.
+### Monday, October 5
+- Composition workshop
+- **Assessment (to be completed before class)**: Complete [**Translation #2**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing).
+- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) and rewatch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on the topic to prepare for the composition workshop.
 
-### Wednesday, September 30 - NO CLASS!
+### Wednesday, October 7
+- Review
+- **Assessment (to be completed before class)**: Complete [**Composition #2**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit?usp=sharing).
+- **Morphology and Vocabulary (to be completed before class)**: Review in preparation for the competency quiz. Bring three remaining questions that you have about substantive and verbal inflection.
 
-### Friday, October 2
-- *possum, posse, potui*
-- Reading Practice
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2 in preparation for [quiz #2](https://forms.gle/sPTaoMQ6G7zSS8Aa7).
-- **Assessment (to be completed before class)**: Complete [**Quiz #2**](https://forms.gle/sPTaoMQ6G7zSS8Aa7).
+### Friday, October 9
+- NO CLASS
 
 [Back to top.](#top)
