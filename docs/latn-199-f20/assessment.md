@@ -21,7 +21,9 @@ We will have three "competency" quizzes (50 points each) - one on verbs, one on 
 
 Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis. Additionally, you will have unlimited opportunities to revise your quizzes until you earn a pass.
 
-These three quizzes will be made available to you on September 14 and must be submitted by 11:45 AM EST on September 28. Your first attempt at revisions must be submitted to me within a week of receiving your grade.
+These three quizzes will be made available to you on September 14 and must be submitted by 8:00 AM EST on September 28.
+
+When you do your revisions, please compile all your incorrect answers in a Google Doc with an explanation of your mistake and how you would get to the right answer. What I want to see is that you understand why your answer was incorrect and that you understand why the answer given is the correct one. If, for instance, you wrote that the correct form of bonus, -a, -um to match with feminam is bonem, you would write that bonus, -a, -um is 2-1-2 adjective and that you declined it like a third declension adjective. You would also say that to get to the right answer you would need to find the feminine singular form of bonus, -a, -um, which is bonam. Your first round of revisions will be due on October 16 by 8:00 AM.
 
 ***
 
