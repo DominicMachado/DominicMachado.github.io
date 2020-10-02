@@ -51,21 +51,17 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
 
-For the first couple weeks, we will be in diagnostic mode to see what things would be useful for us to target throughout the semester. As such, the schedule will be very flexible at first.
+## Week 6
 
-### Week 3
+### Monday, October 5
+- Ut/ne clauses
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
 
-## Week 5
+### Wednesday, October 7
+- Independent uses of the subjunctive
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12].
 
-### Monday, September 28
-- Causal and concessive clauses
-- **Homework (due before class)**: **Competency Quizzes Due**. Additionally, read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn199-f20).
-
-### Wednesday, September 30
+### Friday, October 9
 - NO CLASS!
-
-### Friday, October 2
-- Conditions
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10](https://dominicmachado.github.io/grammatical-handout-10-latn199-f20).
 
 [Back to top.](#top)
