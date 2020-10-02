@@ -133,7 +133,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ## Week 5
 
-### Monday, September 28
+### Monday, September 28 ([slides](https://docs.google.com/presentation/d/1wqeEHbvYa6Xoix6E7UkOrLYzHNoCQvMnaqVMDGaNRng/edit?usp=sharing))
 - *sum, esse, fui*
 - Sentence Type 4: Linking sentences
 - **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
@@ -142,7 +142,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Wednesday, September 30 - NO CLASS!
 
-### Friday, October 2
+### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1dlSmGkw141UA3WWOxrUZqg_7Dq1xUXysv8CaXTjW57c/edit?usp=sharing))
 - *possum, posse, potui*
 - Reading Practice
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of imperfect and perfect active and passive forms and the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/02-verbs/) list for module 2 in preparation for [quiz #2](https://forms.gle/sPTaoMQ6G7zSS8Aa7).
