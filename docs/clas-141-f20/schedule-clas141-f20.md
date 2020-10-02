@@ -118,11 +118,10 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, October 7
 - Between Freedom and Slavery, part 2
-- **Homework (due before class)**: Read Hans van Wees' [article](https://chs.harvard.edu/CHS/article/display/5620.part-i-helotic-histories-chapter-3-hans-van-wees-conquerors-and-serfs-wars-of-conquest-and-forced-labour-in-archaic-greece#n.25) (§1-3) on various groups of non-free and non-enslaved people. Jot down all the different forms of serfdom that you can find in the relevant sections and reflect on what this tells us about Greek society.
+- **Homework (due before class)**: Read Hans van Wees' [article](https://chs.harvard.edu/CHS/article/display/5620.part-i-helotic-histories-chapter-3-hans-van-wees-conquerors-and-serfs-wars-of-conquest-and-forced-labour-in-archaic-greece#n.25) (§1-3) on various groups of non-free and non-enslaved people. Pick one passage from the article and reflect the blurring of the line between free and not free tells us about Greek society.
 
 ### Friday, October 9
-- Perceptions of Women in Ancient Greece
-- **Homework (due before class)**: Read Hesiod's story of [Pandora](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/) and Semonides' [poem](https://diotima-doctafemina.org/translations/greek/women-by-semonides-of-amorgos-poem-7/) on the nature of women. Select a few lines that stand out to you from these two poems and jot down in commonplace book what these lines tell you about how women were perceived in Greek culture.
+- NO CLASS
 
 [Back to top.](#top)
 
@@ -131,16 +130,16 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 7
 
 ### Monday, October 12
-- Women at Home
-- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, note the characteristics that make a good wife in the speaker's eyes and compare this to what we read in Hesiod and Semonides.
+- Perceptions of Women in Ancient Greece
+- **Homework (due before class)**: Read Hesiod's story of [Pandora](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/) and Semonides' [poem](https://diotima-doctafemina.org/translations/greek/women-by-semonides-of-amorgos-poem-7/) on the nature of women. Select a few lines that stand out to you from these two poems and jot down in commonplace book what these lines tell you about how women were perceived in Greek culture.
 
 ### Wednesday, October 14
-- Women at Work
-- **Homework (due before class)**: Read the following passages about female [wet nurses](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/250-hiring-a-wet-nurse/), [midwifery](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/ix-medicine-and-anatomy/356-childbirth-instructions-for-the-midwife/), [prostitutes](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/287-prostitutes/), [philosophers](https://diotima-doctafemina.org/translations/greek/the-life-of-hipparchia/), and [musicians](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/306-a-harpist/). Pick one selection from these passages and reflect in your commonplace book about the cultural values that women were expected to display in the workplace, comparing it to other documents that we have read.
+- Women at Home
+- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, select one passage and analyze the characteristics that make a good wife in the speaker's eyes and compare this to what we read in Hesiod and Semonides.
 
 ### Friday, October 16
-- Women and Religion
-- **Homework (due before class)**: Read Connolly's [chapter](https://drive.google.com/file/d/1Af8OoyE2_GpqIkQa4mEw4BRqxdwQABwX/view?usp=sharing) on priestesses in the Greek world. In your commonplace book, list your three key takeaways, two things that were unclear, and one question that you have for the author.
+- Women at Work
+- **Homework (due before class)**: Read the following passages about female [wet nurses](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/250-hiring-a-wet-nurse/), [midwifery](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/ix-medicine-and-anatomy/356-childbirth-instructions-for-the-midwife/), [prostitutes](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/287-prostitutes/), [philosophers](https://diotima-doctafemina.org/translations/greek/the-life-of-hipparchia/), and [musicians](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/306-a-harpist/). Pick one selection from these passages and reflect in your commonplace book about the cultural values that women were expected to display in the workplace, comparing it to other documents that we have read.
 
 [Back to top.](#top)
 
@@ -149,23 +148,27 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 8
 
 ### Monday, October 19
-- Women in Power
-- Non-Elite History Assignment Released
-- **Homework (due before class)**: Read selections from Herodotus on [Artemisia](https://diotima-doctafemina.org/translations/greek/artemisia-in-herodotus/) and Plutarch on [Aspasia](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:24.1-26.4/). In your commonplace book, reflect on the nature of the power that these women have - what characteristics make them so powerful?
+- Women and Religion
+- **Homework (due before class)**: Read Connolly's [chapter](https://drive.google.com/file/d/1Af8OoyE2_GpqIkQa4mEw4BRqxdwQABwX/view?usp=sharing) on priestesses in the Greek world. In your commonplace book, select one key passage from the reading and reflect on what it tells us about the types of power that women could hold in ancient Greece.
 
 ### Wednesday, October 21
-- Women in Their Own Words
-- **Homework (due before class)**:
-Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-1-voigt-1/), [4](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-4-voigt-16/), [8](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-8-voigt-31/) and selected [epigrams](https://diotima-doctafemina.org/translations/greek/epigrams-by-women-from-the-greek-anthology/) from female writers. In your commonplace book, discuss how the concerns and perspectives presented by women themselves is similar and different from what we have seen so in the course so far.
+- Women in Power
+- Non-Elite History Assignment Released
+- **Homework (due before class)**: Read selections from Herodotus on [Artemisia](https://diotima-doctafemina.org/translations/greek/artemisia-in-herodotus/) and Plutarch on [Aspasia](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:24.1-26.4/). In your commonplace book, select one passage to analyze and reflect on the characteristics make them so powerful.
 
 ### Friday, October 23
-- Immigrants in Greek Society (Metics)
-- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:2.1-2.7/). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
+- Women in Their Own Words
+- **Homework (due before class)**:
+Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-1-voigt-1/), [4](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-4-voigt-16/), [8](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-8-voigt-31/) and selected [epigrams](https://diotima-doctafemina.org/translations/greek/epigrams-by-women-from-the-greek-anthology/) from female writers. In your commonplace book, select one passage from the readings and reflect on how the concerns and perspectives presented by women themselves is similar and different from what we have seen so in the course so far.
 
 [Back to top.](#top)
 
 ## Week 9
 
 ### Monday, October 26
+- Immigrants in Greek society (metics)
+- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:2.1-2.7/). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
+
+### Wednesday, October 28
 - Topic TBA
 - **Homework (due before class)**: Turn in your **Non-Elite History Assignment** on Google Forms.

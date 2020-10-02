@@ -52,13 +52,13 @@ This project will be graded on a satisfactory/unsatisfactory basis. Passing the 
 
 ***
 
-## Non-Elite History Quiz (first attempt due: October 26)
+## Non-Elite History Quiz (first attempt due: October 28)
 &nbsp;  
 The Non-Elite History quiz will assess your knowledge of individuals who rarely get their fair share of the limelight in Greek history. It will focus on the role that slaves, women, serfs, and foreigners played in the Greek world.
 
 In terms of format, the quiz, just like the Greek misconceptions quiz, will be a mixture of short factual and longer open-ended responses. Similarly, there are no restrictions on the resources you can use - the quiz is open-note and open-book.
 
-The quiz will be distributed via Google forms on October 19th and your first attempt must be submitted by 2 PM EST on October 26th. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Non-Elite History quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
+The quiz will be distributed via Google forms on October 21st and your first attempt must be submitted by 2 PM EST on October 28th. Each question on the assignment will be graded on a satisfactory/unsatisfactory basis and you will have to earn satisfactories on every question to pass the quiz. Passing the Non-Elite History quiz is a prerequisite for passing this class. As such, you will be allowed to retake this quiz as many times as you want to earn satisfactory grade.
 
 [Back to top.](#top)
 
