@@ -23,7 +23,7 @@ Because the knowledge tested on these quizzes is essential to the course, they w
 
 These three quizzes will be made available to you on September 14 and must be submitted by 8:00 AM EST on September 28.
 
-When you do your revisions, please compile all your incorrect answers in a Google Doc with an explanation of your mistake and how you would get to the right answer. What I want to see is that you understand why your answer was incorrect and that you understand why the answer given is the correct one. If, for instance, you wrote that the correct form of bonus, -a, -um to match with feminam is bonem, you would write that bonus, -a, -um is 2-1-2 adjective and that you declined it like a third declension adjective. You would also say that to get to the right answer you would need to find the feminine singular form of bonus, -a, -um, which is bonam. Your first round of revisions will be due on October 16 by 8:00 AM.
+When you do your revisions, please compile all your incorrect answers in a Google Doc with an explanation of your mistake and how you would get to the right answer. What I want to see is that you understand why your answer was incorrect and that you understand why the answer given is the correct one. If, for instance, you wrote that the correct form of bonus, -a, -um to match with feminam is bonem, you would write that bonus, -a, -um is 2-1-2 adjective and that you declined it like a third declension adjective. You would also say that to get to the right answer you would need to find the feminine singular form of bonus, -a, -um, which is bonam. Your first round of revisions will be due on October 16 by 8:00 AM. You will submit your revisions by sharing your Google Doc with me.
 
 ***
 
