@@ -97,3 +97,13 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Friday, October 9
 - NO CLASS
+
+***
+
+## Week 7
+
+### Monday, October 12
+- Expressions of place and time
+- Prepositional phrases
+- **Assessment** (to be completed before class): Complete [**competency quiz #1**](https://docs.google.com/forms/d/e/1FAIpQLSd1cldpctwdJTJlC4eJqOiPe2hq6VhypLdo-yWyxUiVH4ml4g/viewform?usp=sf_link).
+- **Homework (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
