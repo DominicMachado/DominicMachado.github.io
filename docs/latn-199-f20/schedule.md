@@ -129,4 +129,4 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 19
 - Sight reading
-- **Homework (due before class)**: Complete [Grammatical Analysis #1](https://docs.google.com/document/d/1QQD3W0FiPriJOlJVa6hLTlHST5Xzeu5ek_I7CZ2XYko/edit?usp=sharing)
+- **Homework (due before class)**: Complete [Grammatical Analysis #1](https://docs.google.com/document/d/1QQD3W0FiPriJOlJVa6hLTlHST5Xzeu5ek_I7CZ2XYko/edit?usp=sharing).
