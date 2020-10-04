@@ -55,11 +55,11 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ### Monday, October 5
 - Ut/ne clauses
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn199-f20).
 
 ### Wednesday, October 7
 - Independent uses of the subjunctive
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12](https://dominicmachado.github.io/grammatical-handout-12-latn199-f20).
 
 ### Friday, October 9
 - NO CLASS!

@@ -104,11 +104,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 5
 - Ut/ne clauses
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn199-f20).
 
 ### Wednesday, October 7
 - Independent uses of the subjunctive
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12].
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12](https://dominicmachado.github.io/grammatical-handout-12-latn199-f20).
 
 ### Friday, October 9
 - NO CLASS!
@@ -122,3 +122,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, October 12
 - Nepos, Prologue
 - **Homework (due before class)**: Read through Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
+
+***
+
+## Week 8
+
+### Monday, October 19
+- Sight reading
+- **Homework (due before class)**: Complete [Grammatical Analysis #1](https://docs.google.com/document/d/1QQD3W0FiPriJOlJVa6hLTlHST5Xzeu5ek_I7CZ2XYko/edit?usp=sharing)
