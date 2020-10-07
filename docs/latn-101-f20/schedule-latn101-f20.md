@@ -179,15 +179,19 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Expressions of place and time
 - Prepositional phrases
 - **Assessment** (to be completed before class): Complete [**competency quiz #1**](https://docs.google.com/forms/d/e/1FAIpQLSd1cldpctwdJTJlC4eJqOiPe2hq6VhypLdo-yWyxUiVH4ml4g/viewform?usp=sf_link).
-- **Homework (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary]((https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3.
+- **Reading (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Further practice (optional)**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/03-place-and-time/) related to expressions of time and place.
 
 ### Wednesday, October 14
 - Gerunds and gerundives
-- **Homework (due before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/), begin studying vocabulary modules [3](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) and [4](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) for quiz #3 on Friday.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nouns in the [vocabulary]((https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and familiarize yourself with formation of different forms of gerunds(https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Reading (due before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 
 ### Friday, October 16
 - Gerunds and gerundives (cont'd)
-- **Homework (due before class)**: Study vocabulary for modules [3](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) and [4](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) for quiz #3.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary]((https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and review formation of different forms of gerunds(https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Practice (to be completed before class)**: Complete the exercises on gerunds, GRGs, and gerundives (https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/).
 
 [Back to top.](#top)
 
@@ -234,17 +238,15 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 10
 
 ### Monday, November 2
-- Verb competency quiz #2 (first attempt)
 - Reading practice
 - **Homework (due before class)**: **Translation #4 due**. Study for verb competency quiz.
 
 ### Wednesday, November 4
-- Verb competency quiz #2 (second attempt)
 - Composition workshop
 - **Homework (due before class)**: Prepare your composition for the workshop and study for the verbal competency quiz, if you have not passed yet.
 
 ### Friday, November 6
-- Verbal competency quiz #2 (third attempt)
+- Verbal competency quiz #2
 - Indirect statement
 - **Homework (due before class)**: **Composition #4 due**. Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/). Study for the verbal competency quiz, if you have not passed it yet.
 
@@ -324,7 +326,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Homework (due before class)**: Study for your second attempt at the grammatical competency quiz and continue preparing CBL portfolio.
 
 ### Wednesday, December 9
-- Grammatical competency quiz #3 (third attempt)
+- Grammatical competency quiz #3
 - Looking ahead
 - **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz and continue preparing CBL portfolio for submission on December 18.
 
