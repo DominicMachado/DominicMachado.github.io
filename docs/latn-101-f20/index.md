@@ -43,21 +43,26 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### This Week at a Glance
 &nbsp;  
 
-![Chart](https://www.researchgate.net/profile/Raphael_Finkel/publication/286467726/figure/tbl2/AS:613953168240656@1523389250173/Traditional-principal-parts-of-five-Latin-verbs.png)
+![Chart](https://images.squarespace-cdn.com/content/v1/55a8033ae4b07e2e8e936394/1507547653386-XZWLHOAHL7JBWZTMG7Y1/ke17ZwdGBToddI8pDm48kMA5qmFVBdzNvJQ1w88kovIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcI1fVI4bmhHODXw3Jyewe0MtubvgJv-HjXdPhl0Q7LWw4K6njYTsy7CcV86QzPEWK/Prepositions+with+the+Accusative+Case.jpg)
 
-## Week 6
+## Week 7
 
-### Monday, October 5
-- Composition workshop
-- **Assessment (to be completed before class)**: Complete [**Translation #2**](https://docs.google.com/document/d/1zHteyNqJldM14HESj9wExk7mt3PR3mMm5JwStH1FyFk/edit?usp=sharing).
-- **Reading (to be completed before class)**: Review the different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) and rewatch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on the topic to prepare for the composition workshop.
+### Monday, October 12
+- Expressions of place and time
+- Prepositional phrases
+- **Assessment (to be completed before class)**: Complete [**competency quiz #1**](https://docs.google.com/forms/d/e/1FAIpQLSd1cldpctwdJTJlC4eJqOiPe2hq6VhypLdo-yWyxUiVH4ml4g/viewform?usp=sf_link).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3.
+- **Reading (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Further practice (optional)**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/03-place-and-time/) related to expressions of time and place.
 
-### Wednesday, October 7
-- Review
-- **Assessment (to be completed before class)**: Complete [**Composition #2**](https://docs.google.com/document/d/1UToI-b8zckpjviKI-l3cgQ2OoQlxE2o3Yvet2YojWmo/edit?usp=sharing).
-- **Morphology and Vocabulary (to be completed before class)**: Review in preparation for the competency quiz. Bring three remaining questions that you have about substantive and verbal inflection.
+### Wednesday, October 14
+- Gerunds and gerundives
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nouns in the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and familiarize yourself with formation of different forms of [gerunds](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Reading (due before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 
-### Friday, October 9
-- NO CLASS
+### Friday, October 16
+- Gerunds and gerundives (cont'd)
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and review formation of different forms of [gerunds](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Practice (to be completed before class)**: Complete the exercises on [gerunds, GRGs, and gerundives](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/).
 
 [Back to top.](#top)
