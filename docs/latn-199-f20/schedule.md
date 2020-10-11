@@ -121,7 +121,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, October 12
 - Nepos, Prologue
-- **Homework (due before class)**: Read through Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
+- **Homework (due before class)**: Translate Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
 
 ***
 
