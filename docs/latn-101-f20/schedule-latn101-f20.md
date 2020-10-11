@@ -200,17 +200,22 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 8
 
 ### Monday, October 19
-- Interrogative adjectives and pronouns
-- **Homework (due before class)**: **Translation #3 due**. Read and study the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) with a particular focus on the parts on the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective).
+- Present indicative
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in the vocabulary list in Module 4 and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Practice (to be completed before class)**: Complete the exercises on the formation of the [present indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#present-tense).
 
 ### Wednesday, October 21
-- Present indicative
-- Composition workshop
-- **Homework (due before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and familiarize yourself with its morphology. Prepare for the composition workshop.
+- Future indicative
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [verbs](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/)(up to legō) in the vocabulary list in Module 4 and study the formation of [future active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Reading (to be completed before class)**: Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Practice (to be completed before class)**: Complete the exercises on the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#future-tense).
 
 ### Friday, October 23
-- Future indicative
-- **Homework (due before class)**: **Composition #3 due**. Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) and familiarize yourself with its morphology.
+- Verbal review
+- Reading practice
+- **Assessment (to be completed before class)**: **Vocabulary Quiz #3 due**.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in Module 4 in preparation for vocabulary quiz #3. Additionally, review and memorize the formation of the present and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
 
 [Back to top.](#top)
 
@@ -219,17 +224,22 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 9
 
 ### Monday, October 26
-- Imperfect active and passive subjunctive
-- Deliberative subjunctive
-- **Homework (due before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive) and familiarize yourself with the morphology of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive).
+- Composition workshop
+- **Assessment (to be completed before class)**: **Translation #3 due**
+- **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
 
 ### Wednesday, October 28
-- Present active and passive subjunctive
-- **Homework (due before class)**: Familiarize yourself with the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
+- Questions
+- Interrogative adverbs
+- **Assessment (to be completed before class)**: **Composition #3 due**.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adverbs](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [prepositions](https://lingualatina.github.io/textbook/vocabulary/05-questions/#prepositions) in Module 5.
+- **Reading (to be completed before class)**: Read the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) in the textbook.
 
 ### Friday, October 30
-- Verb review
-- **Homework (due before class)**: Study for quiz #4 on the vocabulary for Modules [5](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [6](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/). Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the dark side of the subjunctive.
+- Interrogative adjectives and pronouns
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective).
+- **Reading (to be completed before class)**: Review the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions).
+- **Practice (to be completed before class)**: Complete the following [exercises](https://lingualatina.github.io/textbook/exercises/05-questions/#enclitic--ne-and-question-words) on questions in advance of class.
 
 [Back to top.](#top)
 
@@ -238,18 +248,21 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 10
 
 ### Monday, November 2
-- Reading practice
-- **Homework (due before class)**: **Translation #4 due**. Study for verb competency quiz.
+- Deliberative subjunctive
+- Present active and passive subjunctive
+- Imperfect active and passive subjunctive
+- **Homework (due before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive). Familiarize yourself with the morphology of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
 
 ### Wednesday, November 4
-- Composition workshop
-- **Homework (due before class)**: Prepare your composition for the workshop and study for the verbal competency quiz, if you have not passed yet.
+- Verbal review
+- Reading practice
+- **Homework (due before class)**: Study for verb quiz!
 
 ### Friday, November 6
-- Verbal competency quiz #2
 - Indirect statement
-- **Homework (due before class)**: **Composition #4 due**. Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/). Study for the verbal competency quiz, if you have not passed it yet.
-
+- Infinitives
+- **Assessment (due before class)**: **Verb competency quiz #2 due**
+- **Homework (due before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
 [Back to top.](#top)
 
 ***
@@ -263,7 +276,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Wednesday, November 11
 - Personal pronouns and reflexives
-- Reading practice
+- **Assessment (due before class)**: Study for quiz #4 on the vocabulary for Modules [5](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [6](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/).
 - **Homework (due before class)**: Read the section on [personal pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) and familiarize yourself with their morphology.
 
 ### Friday, November 13
@@ -289,7 +302,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Friday, November 20
 - Irregular Verbs: volō, nōlō, and mālō
-- **Homework (due before class)**: Review the morphology of these irregular verbs and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
+- **Homework (due before class)**: Review the morphology of these [irregular verbs](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/).
 
 [Back to top.](#top)
 
@@ -302,17 +315,16 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 13
 
 ### Monday, November 30
-- Composition workshop.
-- **Homework (due before class)**: **Translation #5 due**. Prepare for the composition workshop.
+- Irregular verbs review
+- **Homework (due before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
 
 ### Wednesday, December 2
-- Review
-- **Homework (due before class)**: **Composition #5 due**. Begin studying for grammatical competency quiz #3.
+- Translation workshop
+- **Homework (due before class)**: **Quiz #5 due**.
 
 ### Friday, December 4
-- Grammatical competency quiz #3 (first attempt)
-- Reading practice
-- **Homework (due before class)**: Study for grammatical competency quiz and begin preparing CBL portfolio.
+- Composition workshop
+- **Homework (due before class)**: **Translation #4 due**. Prepare for the composition workshop.
 
 [Back to top.](#top)
 
@@ -321,12 +333,11 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 14
 
 ### Monday, December 7
-- Grammatical competency quiz #3 (second attempt)
-- CBL Debrief
-- **Homework (due before class)**: Study for your second attempt at the grammatical competency quiz and continue preparing CBL portfolio.
+- Review session
+- **Homework (due before class)**: **Composition #4 due**. Begin studying for grammatical competency quiz #3 and bring in questions for our grammar review.
 
 ### Wednesday, December 9
-- Grammatical competency quiz #3
+- Competency quiz #3
 - Looking ahead
 - **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz and continue preparing CBL portfolio for submission on December 18.
 
