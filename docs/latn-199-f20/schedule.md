@@ -123,6 +123,10 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Nepos, Prologue
 - **Homework (due before class)**: Translate Nepos' [Prologue](http://dcc.dickinson.edu/nepos-hannibal/prologus). Jot down three things that were confusing to you in this passage.
 
+### Wednesday, October 14
+- Nepos, Prologue
+- **Homework (due before class)**: Translate sentences 3-5 of the Prologue, marking out the clauses, both independent and dependent, and the main verbs within each. Be sure you can identify what type of clauses and can explain any subjunctive verbs in them. Additionally, write down at least three words or constructions that you found confusing in the passage.
+
 ***
 
 ## Week 8
