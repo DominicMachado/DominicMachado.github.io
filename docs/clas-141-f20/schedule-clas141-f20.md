@@ -94,7 +94,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 5
 
-### Monday, September 28 ([slides](https://docs.google.com/presentation/d/13nGYKgf5uORQmb7PzXKRg2NtivGV405DmbDXYJnPqCI/edit?usp=sharing);[video])
+### Monday, September 28 ([slides](https://docs.google.com/presentation/d/13nGYKgf5uORQmb7PzXKRg2NtivGV405DmbDXYJnPqCI/edit?usp=sharing);[video](https://youtu.be/MJF2Q8ESQT0))
 - Slavery and the Greek State
 - **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document that you found meaningful and reflect on it on your commonplace book.
 
