@@ -102,7 +102,7 @@ This schedule links to the readings and assignments that you will have throughou
 - NO CLASS!!!
 - **Homework (due before class)**: Submit [**Topic Choice Preferences**](https://docs.google.com/forms/d/e/1FAIpQLScu0vJ1K20CycuWcO4rZ3reUZBoR2uESSQ2O6g2Piqpky9Mpw/viewform?usp=sf_link) on Google Forms!
 
-### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1AolJITxdUWgVM9opZ6gVfhcVUP7HH2LqgsnJhztcLLk/edit?usp=sharing); [video](https://youtu.be/d56KRqAmxLg)
+### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1AolJITxdUWgVM9opZ6gVfhcVUP7HH2LqgsnJhztcLLk/edit?usp=sharing); [video](https://youtu.be/d56KRqAmxLg))
 - Resistance and Freedom
 - **Homework (due before class)**: Read through the following selection on the topics of [slave resistance](https://drive.google.com/file/d/1_VYNzjun6D-nQIOF4_nUnTEvvz9Upvc0/view?usp=sharing) (§211, 214, 217, 222-225) and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
 
