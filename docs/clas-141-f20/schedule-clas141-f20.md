@@ -76,15 +76,15 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 4
 
-### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1JXAO8VzCHCRC735fX29l4lSoGefkinbVZvVoHzoX5oU/edit?usp=sharing);[video](https://youtu.be/f1JxAfDPeq8))
+### Monday, September 21 ([slides](https://docs.google.com/presentation/d/1JXAO8VzCHCRC735fX29l4lSoGefkinbVZvVoHzoX5oU/edit?usp=sharing); [video](https://youtu.be/f1JxAfDPeq8))
 - Freedom and Slavery in the Greek World
 - **Homework (due before class)**: Read the passage from [Aristotle](https://drive.google.com/drive/folders/1oXvzf0sz8Rp1kkTTWX4YITnK4wPamaQP?usp=sharing) on slavery. Select a passage from Aristotle and reflect on what it tells us about the basis of slavery in the ancient world in your commonplace book.
 
-### Wednesday, September 23 ([slides](https://docs.google.com/presentation/d/1YcsmBKRX2iks_kIuWvv76D3S9mR4xkES7we4KLeAa2s/edit?usp=sharing);[video](https://youtu.be/fynnDnxr6r4))
+### Wednesday, September 23 ([slides](https://docs.google.com/presentation/d/1YcsmBKRX2iks_kIuWvv76D3S9mR4xkES7we4KLeAa2s/edit?usp=sharing); [video](https://youtu.be/fynnDnxr6r4))
 - Slavery and The Household
 - **Homework (due before class)**: No homework - spend the extra time working on your [Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20) (.doc file [here](https://drive.google.com/file/d/1cU8yVBWLeL1NP1Rqr_prY3LUDt_ANRmb/view?usp=sharing); .pdf file [here](https://drive.google.com/file/d/1w5nBunlooKEKA2QJwRnQJwEq1clzZUYr/view?usp=sharing)).
 
-### Friday, September 25 ([slides](https://docs.google.com/presentation/d/1NbIs3m_anWiZAqLOY1PNCpt9SlL49psTKPtQy1AKgUg/edit?usp=sharing);[video](https://youtu.be/1-pZ8ipP5Pk))
+### Friday, September 25 ([slides](https://docs.google.com/presentation/d/1NbIs3m_anWiZAqLOY1PNCpt9SlL49psTKPtQy1AKgUg/edit?usp=sharing); [video](https://youtu.be/1-pZ8ipP5Pk))
 - Slavery, Trade, and Wealth
 - **Homework (due before class)**: Submit your **[Ancient Source Analysis](https://dominicmachado.github.io/ancient-source-analysis-clas141-f20)** by email.
 
@@ -94,7 +94,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 5
 
-### Monday, September 28 ([slides](https://docs.google.com/presentation/d/13nGYKgf5uORQmb7PzXKRg2NtivGV405DmbDXYJnPqCI/edit?usp=sharing);[video](https://youtu.be/MJF2Q8ESQT0))
+### Monday, September 28 ([slides](https://docs.google.com/presentation/d/13nGYKgf5uORQmb7PzXKRg2NtivGV405DmbDXYJnPqCI/edit?usp=sharing); [video](https://youtu.be/MJF2Q8ESQT0))
 - Slavery and the Greek State
 - **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document that you found meaningful and reflect on it on your commonplace book.
 
@@ -102,7 +102,7 @@ This schedule links to the readings and assignments that you will have throughou
 - NO CLASS!!!
 - **Homework (due before class)**: Submit [**Topic Choice Preferences**](https://docs.google.com/forms/d/e/1FAIpQLScu0vJ1K20CycuWcO4rZ3reUZBoR2uESSQ2O6g2Piqpky9Mpw/viewform?usp=sf_link) on Google Forms!
 
-### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1AolJITxdUWgVM9opZ6gVfhcVUP7HH2LqgsnJhztcLLk/edit?usp=sharing);[video](https://youtu.be/d56KRqAmxLg)
+### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1AolJITxdUWgVM9opZ6gVfhcVUP7HH2LqgsnJhztcLLk/edit?usp=sharing); [video](https://youtu.be/d56KRqAmxLg)
 - Resistance and Freedom
 - **Homework (due before class)**: Read through the following selection on the topics of [slave resistance](https://drive.google.com/file/d/1_VYNzjun6D-nQIOF4_nUnTEvvz9Upvc0/view?usp=sharing) (§211, 214, 217, 222-225) and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
 
@@ -112,7 +112,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 6
 
-### Monday, October 5 ([slides](https://docs.google.com/presentation/d/1KT-3fQyRtVcX5y1jo5YnXWMuSfQQzYVy0SFslGY797o/edit?usp=sharing);[video](https://youtu.be/j4bJ4Wr0Fco))
+### Monday, October 5 ([slides](https://docs.google.com/presentation/d/1KT-3fQyRtVcX5y1jo5YnXWMuSfQQzYVy0SFslGY797o/edit?usp=sharing); [video](https://youtu.be/j4bJ4Wr0Fco))
 - Between Freedom and Slavery, part 1
 - **Homework (due before class)**: Read Luke Madson's [article](https://eidolon.pub/the-american-helot-eefb0475a5d3) on Spartan helots and treatment of Black people in America. Pick an ancient passage that stands out to you from Madson's article and jot down your thoughts about whether Helots were slaves or not.
 
