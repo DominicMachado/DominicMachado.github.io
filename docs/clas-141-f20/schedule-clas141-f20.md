@@ -94,7 +94,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 5
 
-### Monday, September 28
+### Monday, September 28 ([slides](https://docs.google.com/presentation/d/13nGYKgf5uORQmb7PzXKRg2NtivGV405DmbDXYJnPqCI/edit?usp=sharing);[video])
 - Slavery and the Greek State
 - **Homework (due before class)**: Read about the employment of enslaved people for a variety of [state jobs](https://drive.google.com/file/d/1V5US1Inf_TC13VQgM-_xWUhN6fctCkDo/view?usp=sharing) (§158-163) and in the [mines](https://drive.google.com/file/d/1tr2hgiavx75NI-SqzI7Wl1G2OTXbEZhH/view?usp=sharing) (§87). Select a passage from this document that you found meaningful and reflect on it on your commonplace book.
 
@@ -102,7 +102,7 @@ This schedule links to the readings and assignments that you will have throughou
 - NO CLASS!!!
 - **Homework (due before class)**: Submit [**Topic Choice Preferences**](https://docs.google.com/forms/d/e/1FAIpQLScu0vJ1K20CycuWcO4rZ3reUZBoR2uESSQ2O6g2Piqpky9Mpw/viewform?usp=sf_link) on Google Forms!
 
-### Friday, October 2
+### Friday, October 2 ([slides](https://docs.google.com/presentation/d/1AolJITxdUWgVM9opZ6gVfhcVUP7HH2LqgsnJhztcLLk/edit?usp=sharing);[video](https://youtu.be/d56KRqAmxLg)
 - Resistance and Freedom
 - **Homework (due before class)**: Read through the following selection on the topics of [slave resistance](https://drive.google.com/file/d/1_VYNzjun6D-nQIOF4_nUnTEvvz9Upvc0/view?usp=sharing) (§211, 214, 217, 222-225) and [manumission](https://drive.google.com/file/d/1lIZ4BXaAtybsfL_nDtMqZw1C-quQWXdA/view?usp=sharing) (§22-27) and select one passage from these documents and reflect on what this tells us about the enslaver-enslaved relationship in your commonplace book.
 
@@ -112,11 +112,11 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 6
 
-### Monday, October 5
+### Monday, October 5 ([slides](https://docs.google.com/presentation/d/1KT-3fQyRtVcX5y1jo5YnXWMuSfQQzYVy0SFslGY797o/edit?usp=sharing);[video](https://youtu.be/j4bJ4Wr0Fco))
 - Between Freedom and Slavery, part 1
 - **Homework (due before class)**: Read Luke Madson's [article](https://eidolon.pub/the-american-helot-eefb0475a5d3) on Spartan helots and treatment of Black people in America. Pick an ancient passage that stands out to you from Madson's article and jot down your thoughts about whether Helots were slaves or not.
 
-### Wednesday, October 7
+### Wednesday, October 7 ([slides](https://docs.google.com/presentation/d/1jeAEnSjIoqcdSFsoSq-zgE_wYyX66P0cH4wTBaj3Ces/edit?usp=sharing); [video])
 - Between Freedom and Slavery, part 2
 - **Homework (due before class)**: Read Hans van Wees' [article](https://chs.harvard.edu/CHS/article/display/5620.part-i-helotic-histories-chapter-3-hans-van-wees-conquerors-and-serfs-wars-of-conquest-and-forced-labour-in-archaic-greece#n.25) (§1-3) on various groups of non-free and non-enslaved people. Pick one passage from the article and reflect the blurring of the line between free and not free tells us about Greek society.
 

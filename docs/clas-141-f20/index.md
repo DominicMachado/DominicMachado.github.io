@@ -39,17 +39,17 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Council-of-Elders](https://www.ancient-origins.net/sites/default/files/styles/large/public/Council-of-Elders.jpg?itok=8K4emD-7)
+![Women](https://brewminate.com/wp-content/uploads/2019/11/111619-14-History-Ancient-Greek-Greece-Women-Religion-1024x710.png)
 
-### Monday, October 5
-- Between Freedom and Slavery, part 1
-- **Homework (due before class)**: Read Luke Madson's [article](https://eidolon.pub/the-american-helot-eefb0475a5d3) on Spartan helots and treatment of Black people in America. Pick an ancient passage that stands out to you from Madson's article and jot down your thoughts about whether Helots were slaves or not.
+### Monday, October 12
+- Perceptions of Women in Ancient Greece
+- **Homework (due before class)**: Read Hesiod's story of [Pandora](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/) and Semonides' [poem](https://diotima-doctafemina.org/translations/greek/women-by-semonides-of-amorgos-poem-7/) on the nature of women. Select a few lines that stand out to you from these two poems and jot down in commonplace book what these lines tell you about how women were perceived in Greek culture.
 
-### Wednesday, October 7
-- Between Freedom and Slavery, part 2
-- **Homework (due before class)**: Read Hans van Wees' [article](https://chs.harvard.edu/CHS/article/display/5620.part-i-helotic-histories-chapter-3-hans-van-wees-conquerors-and-serfs-wars-of-conquest-and-forced-labour-in-archaic-greece#n.25) (§1-3) on various groups of non-free and non-enslaved people. Pick one passage from the article and reflect the blurring of the line between free and not free tells us about Greek society.
+### Wednesday, October 14
+- Women at Home
+- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, select one passage and analyze the characteristics that make a good wife in the speaker's eyes and compare this to what we read in Hesiod and Semonides.
 
-### Friday, October 9
-- NO CLASS
-
+### Friday, October 16
+- Women at Work
+- **Homework (due before class)**: Read the following passages about female [wet nurses](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/250-hiring-a-wet-nurse/), [midwifery](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/ix-medicine-and-anatomy/356-childbirth-instructions-for-the-midwife/), [prostitutes](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/287-prostitutes/), [philosophers](https://diotima-doctafemina.org/translations/greek/the-life-of-hipparchia/), and [musicians](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/306-a-harpist/). Pick one selection from these passages and reflect in your commonplace book about the cultural values that women were expected to display in the workplace, comparing it to other documents that we have read.
 [Back to top.](#top)
