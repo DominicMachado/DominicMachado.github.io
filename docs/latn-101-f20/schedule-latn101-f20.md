@@ -180,13 +180,13 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Prepositional phrases
 - **Assessment (to be completed before class)**: Complete [**competency quiz #1**](https://docs.google.com/forms/d/e/1FAIpQLSd1cldpctwdJTJlC4eJqOiPe2hq6VhypLdo-yWyxUiVH4ml4g/viewform?usp=sf_link).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3.
-- **Reading (due before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
 - **Further practice (optional)**: Check out the [exercises](https://lingualatina.github.io/textbook/exercises/03-place-and-time/) related to expressions of time and place.
 
 ### Wednesday, October 14
 - Gerunds and gerundives
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the nouns in the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and familiarize yourself with formation of different forms of [gerunds](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-- **Reading (due before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Reading (to be completed before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) in the textbook and watch Prof. Smith's [short video](https://www.youtube.com/watch?v=JGMyfYfbaEc) on gerundives.
 
 ### Friday, October 16
 - Gerunds and gerundives (cont'd)
@@ -203,7 +203,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Present indicative
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in the vocabulary list in Module 4 and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
 - **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
-- **Practice (to be completed before class)**: Complete the exercises on the formation of the [present indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#present-tense).
+- **Practice (to be completed before class)**: Complete the exercises on the formation and translation of the [present indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#present-tense).
 
 ### Wednesday, October 21
 - Future indicative
@@ -212,10 +212,10 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Practice (to be completed before class)**: Complete the exercises on the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#future-tense).
 
 ### Friday, October 23
-- Verbal review
+- Verbal form review
 - Reading practice
 - **Assessment (to be completed before class)**: **Vocabulary Quiz #3 due**.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in Module 4 in preparation for vocabulary quiz #3. Additionally, review and memorize the formation of the present and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in Module 4 in preparation for vocabulary quiz #3. In addition, review and memorize the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
 
 [Back to top.](#top)
 
