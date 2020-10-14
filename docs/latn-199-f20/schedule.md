@@ -127,6 +127,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Nepos, Prologue
 - **Homework (due before class)**: Translate sentences 3-5 of the Prologue, marking out the clauses, both independent and dependent, and the main verbs within each. Be sure you can identify what type of clauses and can explain any subjunctive verbs in them. Additionally, write down at least three words or constructions that you found confusing in the passage.
 
+### Friday, October 16
+- Nepos, Prologue
+- **Homework (due before class)**: Translate sentences 5-7 of the Prologue, marking out the clauses, both independent and dependent, and the main verbs within each. In sentence 5, pay particular attention to the "double dative" (dative of source/purpose and dative of reference) with the verb "to be". Be sure you can identify what type of clauses and can explain any subjunctive verbs in them and write down at least three words or constructions that you found confusing in the passage.
 ***
 
 ## Week 8
