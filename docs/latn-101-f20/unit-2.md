@@ -52,6 +52,7 @@ Below are the dates on which your assessments are due:
 &nbsp;  
 Here are the important links for this unit:
 
+- Review exercises from [unit 1](https://observablehq.com/collection/@neelsmith/l3)
 - Module 3 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-3)
 - Module 4 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-4)
 - Course readings on [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/)
