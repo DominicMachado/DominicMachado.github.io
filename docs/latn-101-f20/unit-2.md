@@ -52,8 +52,8 @@ Below are the dates on which your assessments are due:
 &nbsp;  
 Here are the important links for this unit:
 
-- Module 3 [schedule]
-- Module 4 [schedule]
+- Module 3 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-3)
+- Module 4 [schedule](https://dominicmachado.github.io/schedule-latn101-f20-module-4)
 - Course readings on [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/)
 - Course readings on [verbal nouns and adjectives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/)
 - Course readings on the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative
