@@ -214,7 +214,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Friday, October 23
 - Verbal form review
 - Reading practice
-- **Assessment (to be completed before class)**: **Vocabulary Quiz #3 due**.
+- **Assessment (to be completed before class)**: **[Vocabulary Quiz #3 due](https://docs.google.com/forms/d/e/1FAIpQLSfp6LyRiehyfR1Y-UDyNBa8r53E6drTQOJJ_qEiFdRN4p1pbg/viewform?usp=sf_link)**.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in Module 4 in preparation for vocabulary quiz #3. In addition, review and memorize the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
 
 [Back to top.](#top)
