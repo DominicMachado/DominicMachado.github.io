@@ -228,7 +228,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Monday, October 26
 - Composition workshop
-- **Assessment (to be completed before class)**: **Translation #3 due**
+- **Assessment (to be completed before class)**: [**Translation #3 due**](https://docs.google.com/document/d/1rULW1YlOL-WLhgmXSgUgplQNjxsvnTijagEjyN2J57g/edit?usp=sharing)
 - **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
 
 ### Wednesday, October 28
