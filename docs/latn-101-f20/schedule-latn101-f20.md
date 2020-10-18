@@ -188,7 +188,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the nouns in the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and familiarize yourself with formation of different forms of [gerunds](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 - **Reading (to be completed before class)**: Read the sections on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) in the textbook and watch Prof. Smith's [short video](https://www.youtube.com/watch?v=JGMyfYfbaEc) on gerundives.
 
-### Friday, October 16
+### Friday, October 16 ([slides](https://docs.google.com/presentation/d/1pbqEXaxLHyzqXJ8zKeS-BBkisuG-c4RADd6sGjbYFYE/edit?usp=sharing))
 - Gerunds and gerundives (cont'd)
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/03-place-and-time/) for Module 3 and review formation of different forms of [gerunds](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 - **Practice (to be completed before class)**: Complete the exercises on [gerunds, GRGs, and gerundives](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/).
@@ -204,7 +204,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in the vocabulary list in Module 4 and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
 - **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
 - **Practice (to be completed before class)**: Complete the exercises on the formation and translation of the [present indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#present-tense).
-- **Further practice (to be completed before class)**: Have a look at Prof. Smith's exercises on the [gerundive](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-analyze-sentences-using-the-ge?collection=@neelsmith/l3) if you feel like you need practice.
+- **Further practice (optional)**: Have a look at Prof. Smith's exercises on the [gerundive](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-analyze-sentences-using-the-ge?collection=@neelsmith/l3) if you feel like you need practice.
 
 ### Wednesday, October 21
 - Future indicative
@@ -217,7 +217,8 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Reading practice
 - **Assessment (to be completed before class)**: **[Vocabulary Quiz #3 due](https://docs.google.com/forms/d/e/1FAIpQLSfp6LyRiehyfR1Y-UDyNBa8r53E6drTQOJJ_qEiFdRN4p1pbg/viewform?usp=sf_link)**.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the rest of the [vocabulary](https://lingualatina.github.io/textbook/vocabulary/04-verbal-nouns-and-adjectives/) in Module 4 in preparation for vocabulary quiz #3. In addition, review and memorize the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
-- **Further practice (to be completed before class)**: Have a look at Prof. Smith's exercises on verbal transformations including [active to passive](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-active-passiv?collection=@neelsmith/l3) and [imperfect to perfect](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-perfect-imper?collection=@neelsmith/l3).
+- **Practice (to be completed before class)**: Complete a synopsis of the verbs *capio* and *moneo* in the 3rd person plural.
+- **Further practice (optional)**: Have a look at Prof. Smith's exercises on verbal transformations including [active to passive](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-active-passiv?collection=@neelsmith/l3) and [imperfect to perfect](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-1-quiz-yourself-on-perfect-imper?collection=@neelsmith/l3).
 
 [Back to top.](#top)
 
