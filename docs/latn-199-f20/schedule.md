@@ -138,3 +138,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, October 19
 - Sight reading
 - **Homework (due before class)**: Complete [Grammatical Analysis #1](https://docs.google.com/document/d/1QQD3W0FiPriJOlJVa6hLTlHST5Xzeu5ek_I7CZ2XYko/edit?usp=sharing).
+
+### Wednesday, October 21
+- Nepos, [Life of Hannibal, Chapter 1](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
+- **Homework (due before class)**: Translate the final sentence of the Prologue and all of Chapter 1 of the Life of Hannibal, marking out the clauses, both independent and dependent, and the main verbs within each. Be sure you can identify what type of clauses and can explain any subjunctive verbs in them. In chapter 1, pay close attention to the use of indirect statement in sentence 1, marking out the verb of the head, accusative subject, and infinitive as main verb.
