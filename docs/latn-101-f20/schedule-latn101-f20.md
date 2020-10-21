@@ -234,7 +234,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Wednesday, October 28
 - Questions
 - Interrogative adverbs
-- **Assessment (to be completed before class)**: **Composition #3 due**.
+- **Assessment (to be completed before class)**: [**Composition #3 due**](https://docs.google.com/document/d/1AYPHettPVrqRLhCGTZl-VFkaAZPV4kaX1fHby_fu7hk/edit?usp=sharing).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [adverbs](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [prepositions](https://lingualatina.github.io/textbook/vocabulary/05-questions/#prepositions) in Module 5.
 - **Reading (to be completed before class)**: Read the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) in the textbook.
 

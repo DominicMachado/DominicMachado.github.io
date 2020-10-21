@@ -54,3 +54,10 @@ The second and third weeks of unit 2 will focus on verbal nouns and adjectives a
 - Composition workshop
 - **Assessment (to be completed before class)**: [**Translation #3 due**](https://docs.google.com/document/d/1rULW1YlOL-WLhgmXSgUgplQNjxsvnTijagEjyN2J57g/edit?usp=sharing)
 - **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
+
+### Wednesday, October 28
+- Questions
+- Interrogative adverbs
+- **Assessment (to be completed before class)**: [**Composition #3 due**](https://docs.google.com/document/d/1AYPHettPVrqRLhCGTZl-VFkaAZPV4kaX1fHby_fu7hk/edit?usp=sharing).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adverbs](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [prepositions](https://lingualatina.github.io/textbook/vocabulary/05-questions/#prepositions) in Module 5.
+- **Reading (to be completed before class)**: Read the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) in the textbook.
