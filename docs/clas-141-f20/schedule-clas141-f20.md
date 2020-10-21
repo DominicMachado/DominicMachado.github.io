@@ -153,7 +153,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, October 21
 - Women in Power
-- Non-Elite History Assignment Released
+- [Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link)) Released
 - **Homework (due before class)**: Read selections from Herodotus on [Artemisia](https://diotima-doctafemina.org/translations/greek/artemisia-in-herodotus/) and Plutarch on [Aspasia](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:24.1-26.4/). In your commonplace book, select one passage to analyze and reflect on the characteristics make them so powerful.
 
 ### Friday, October 23
@@ -171,4 +171,4 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ### Wednesday, October 28
 - Topic TBA
-- **Homework (due before class)**: Turn in your **Non-Elite History Assignment** on Google Forms.
+- **Homework (due before class)**: Turn in your **[Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link))** on Google Forms.
