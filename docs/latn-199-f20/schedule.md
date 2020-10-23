@@ -146,3 +146,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, October 23
 - Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
 - **Homework (due before class)**: Translate the final sentence of the Chapter 1 of the Life of Hannibal and sentence 1 and 2 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, try to unpack as we do in class sentence 2 of Chapter 2 - it is a doozy!
+
+***
+
+## Week 8
+
+### Monday, October 26
+- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+- **Homework (due before class)**: Translate sentences 2-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, try to unpack as we do in class sentence 2 of Chapter 2 - it is a doozy! Additionally, do your best to explain why all the verbs in these sentences are in the subjunctive.
