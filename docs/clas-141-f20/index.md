@@ -39,17 +39,18 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Women](https://brewminate.com/wp-content/uploads/2019/11/111619-14-History-Ancient-Greek-Greece-Women-Religion-1024x710.png)
+![Metics](https://www.pbs.org/empires/thegreeks/img/background/illustrations/32a.jpg)
 
-### Monday, October 12
-- Perceptions of Women in Ancient Greece
-- **Homework (due before class)**: Read Hesiod's story of [Pandora](https://diotima-doctafemina.org/translations/greek/pandora-hesiod-works-and-days-53-105/) and Semonides' [poem](https://diotima-doctafemina.org/translations/greek/women-by-semonides-of-amorgos-poem-7/) on the nature of women. Select a few lines that stand out to you from these two poems and jot down in commonplace book what these lines tell you about how women were perceived in Greek culture.
+### Monday, October 26
+- Immigrants in Greek society (metics)
+- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:2.1-2.7/). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
 
-### Wednesday, October 14
-- Women at Home
-- **Homework (due before class)**: Carefully read through the passage from [Xenophon](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/267-how-to-train-a-wife/) about what is expected from a wife. In your commonplace book, select one passage and analyze the characteristics that make a good wife in the speaker's eyes and compare this to what we read in Hesiod and Semonides.
+### Wednesday, October 28
+- Immigrants in Greek society: Spartan Xenelasia
+- **Homework (due before class)**: Turn in your **[Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link)** on Google Forms.
 
-### Friday, October 16
-- Women at Work
-- **Homework (due before class)**: Read the following passages about female [wet nurses](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/vii-private-life/250-hiring-a-wet-nurse/), [midwifery](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/ix-medicine-and-anatomy/356-childbirth-instructions-for-the-midwife/), [prostitutes](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/287-prostitutes/), [philosophers](https://diotima-doctafemina.org/translations/greek/the-life-of-hipparchia/), and [musicians](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/viii-occupations/306-a-harpist/). Pick one selection from these passages and reflect in your commonplace book about the cultural values that women were expected to display in the workplace, comparing it to other documents that we have read.
+### Friday, October 30
+- The Spartan mirage
+- **Homework (due before class)**: Read Sarah Bond's [article](https://eidolon.pub/this-is-not-sparta-392a9ccddf26) and Ishaan Tharoor's [piece](https://www.washingtonpost.com/news/worldviews/wp/2016/11/07/why-the-wests-far-right-and-trump-supporters-are-still-obsessed-with-an-ancient-battle/) on the modern obsession with Sparta. In your commonplace book, select a passage that stood to you and reflect on what this tells us about how we think about Sparta in modern society.
+
 [Back to top.](#top)
