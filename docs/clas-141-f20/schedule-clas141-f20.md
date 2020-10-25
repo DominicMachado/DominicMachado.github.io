@@ -147,16 +147,16 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 8
 
-### Monday, October 19 ([slides](https://docs.google.com/presentation/d/18pMJTcPVD1RmGiZV2BkxR9aq_ycewBSFA1MV2_xeHII/edit?usp=sharing); [video])
+### Monday, October 19 ([slides](https://docs.google.com/presentation/d/18pMJTcPVD1RmGiZV2BkxR9aq_ycewBSFA1MV2_xeHII/edit?usp=sharing); [video](https://youtu.be/EtSe5_RVIQM))
 - Women and Religion
 - **Homework (due before class)**: Read Connolly's [chapter](https://drive.google.com/file/d/1Af8OoyE2_GpqIkQa4mEw4BRqxdwQABwX/view?usp=sharing) on priestesses in the Greek world. In your commonplace book, select one key passage from the reading and reflect on what it tells us about the types of power that women could hold in ancient Greece.
 
-### Wednesday, October 21 ([slides](https://docs.google.com/presentation/d/1f4nBIDEow9ABN8eyN3BYwt8mhhjlbG8K5PEH_ipEQTA/edit?usp=sharing); [video])
+### Wednesday, October 21 ([slides](https://docs.google.com/presentation/d/1f4nBIDEow9ABN8eyN3BYwt8mhhjlbG8K5PEH_ipEQTA/edit?usp=sharing); [video](https://youtu.be/9-2xz1V7SuY))
 - Women in Power
 - [Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link) Released
 - **Homework (due before class)**: Read selections from Herodotus on [Artemisia](https://diotima-doctafemina.org/translations/greek/artemisia-in-herodotus/) and Plutarch on [Aspasia](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:24.1-26.4/). In your commonplace book, select one passage to analyze and reflect on the characteristics make them so powerful.
 
-### Friday, October 23 ([slides](https://docs.google.com/presentation/d/1KeG_ovF2W_un5o7OrenMg6qUweZaR-T7flTRjNq1iy0/edit?usp=sharing); [video])
+### Friday, October 23 ([slides](https://docs.google.com/presentation/d/1KeG_ovF2W_un5o7OrenMg6qUweZaR-T7flTRjNq1iy0/edit?usp=sharing); [video](https://youtu.be/KMN_Sb8vZBk))
 - Women in Their Own Words
 - **Homework (due before class)**:
 Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-1-voigt-1/), [4](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-4-voigt-16/), [8](https://diotima-doctafemina.org/translations/greek/greek-women-poets/sappho-8-voigt-31/) and selected [epigrams](https://diotima-doctafemina.org/translations/greek/epigrams-by-women-from-the-greek-anthology/) from female writers. In your commonplace book, select one passage from the readings and reflect on how the concerns and perspectives presented by women themselves is similar and different from what we have seen so in the course so far.
