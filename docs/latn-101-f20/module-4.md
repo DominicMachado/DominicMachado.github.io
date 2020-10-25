@@ -54,6 +54,7 @@ The second and third weeks of unit 2 will focus on verbal nouns and adjectives a
 - Composition workshop
 - **Assessment (to be completed before class)**: [**Translation #3 due**](https://docs.google.com/document/d/1rULW1YlOL-WLhgmXSgUgplQNjxsvnTijagEjyN2J57g/edit?usp=sharing)
 - **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
+- **Further Practice (optional)**: Do some online synopsis practice (ignore the 2nd person) [here](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3).
 
 ### Wednesday, October 28
 - Questions

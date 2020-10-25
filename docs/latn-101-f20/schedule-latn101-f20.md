@@ -212,7 +212,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Reading (to be completed before class)**: Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
 - **Practice (to be completed before class)**: Complete the exercises on the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/exercises/02-verbs/#future-tense).
 
-### Friday, October 23
+### Friday, October 23 ([slides](https://docs.google.com/presentation/d/1q8kuR1ipU11ZV44lub435xPOhwmlUoRUuzkOh_a5Ir8/edit?usp=sharing))
 - Verbal form review
 - Reading practice
 - **Assessment (to be completed before class)**: **[Vocabulary Quiz #3 due](https://docs.google.com/forms/d/e/1FAIpQLSfp6LyRiehyfR1Y-UDyNBa8r53E6drTQOJJ_qEiFdRN4p1pbg/viewform?usp=sf_link)**.
@@ -230,6 +230,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Composition workshop
 - **Assessment (to be completed before class)**: [**Translation #3 due**](https://docs.google.com/document/d/1rULW1YlOL-WLhgmXSgUgplQNjxsvnTijagEjyN2J57g/edit?usp=sharing)
 - **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
+- **Further Practice (optional)**: Do some online synopsis practice (ignore the 2nd person) [here](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3).
 
 ### Wednesday, October 28
 - Questions
@@ -240,9 +241,10 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ### Friday, October 30
 - Interrogative adjectives and pronouns
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective) as the [pronouns](https://lingualatina.github.io/textbook/vocabulary/05-questions/#pronouns) and [adjectives](https://lingualatina.github.io/textbook/vocabulary/05-questions/#adjectives) for module 5.
 - **Reading (to be completed before class)**: Review the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions).
 - **Practice (to be completed before class)**: Complete the following [exercises](https://lingualatina.github.io/textbook/exercises/05-questions/#enclitic--ne-and-question-words) on questions in advance of class.
+- **Further Practice (optional)**: Complete the following [exercise](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-statements-to-questions?collection=@neelsmith/l3) on question formation.
 
 [Back to top.](#top)
 
