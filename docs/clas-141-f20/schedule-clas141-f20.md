@@ -167,7 +167,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ### Monday, October 26
 - Immigrants in Greek society (metics)
-- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:2.1-2.7/). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
+- **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0210%3Atext%3DWays%3Achapter%3D2). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
 
 ### Wednesday, October 28
 - Immigrants in Greek society: Spartan Xenelasia
