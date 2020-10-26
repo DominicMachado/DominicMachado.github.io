@@ -51,17 +51,14 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
 
-## Week 6
+## Week 8
 
-### Monday, October 5
-- Ut/ne clauses
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn199-f20).
+### Monday, October 26
+- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+- **Homework (due before class)**: Translate sentences 2-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, try to unpack as we do in class sentence 2 of Chapter 2 - it is a doozy! Additionally, do your best to explain why all the verbs in these sentences are in the subjunctive.
 
-### Wednesday, October 7
-- Independent uses of the subjunctive
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #12](https://dominicmachado.github.io/grammatical-handout-12-latn199-f20).
-
-### Friday, October 9
-- NO CLASS!
+### Wednesday, October 28
+- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+- **Homework (due before class)**: Translate sentences 4-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, do your best to explain why all the verbs in these sentences are in the subjunctive. Additionally, review your grammatical analysis assignment to see what kind of things you need to work on and set up a student hours appointment if necessary!
 
 [Back to top.](#top)
