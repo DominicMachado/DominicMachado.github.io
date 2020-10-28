@@ -159,6 +159,10 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
 - **Homework (due before class)**: Translate sentences 4-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, do your best to explain why all the verbs in these sentences are in the subjunctive. Additionally, review your grammatical analysis assignment to see what kind of things you need to work on and set up a student hours appointment if necessary!
 
+### Friday, October 30
+- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2) and [Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
+- **Homework (due before class)**: Translate the last bit of sentence 4 and sentences 5-6 of Chapter 2 as well as sentence 1 of Chapter 3, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, pay particular attention to the participles in the passage as well as the words they modify.
+
 ***
 
 ## Week 10
