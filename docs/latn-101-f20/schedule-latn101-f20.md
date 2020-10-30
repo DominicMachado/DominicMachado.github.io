@@ -256,18 +256,26 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - Deliberative subjunctive
 - Present active and passive subjunctive
 - Imperfect active and passive subjunctive
-- **Homework (due before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive). Familiarize yourself with the morphology of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
+- **Morphology and Vocabulary (to be completed before class)**: Review the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective) and memorize the forms of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
+- **Reading (to be completed before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive).
+- **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *amo* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
+- **Further Practice (optional)**: Try your hand the following parsing [exercise](https://neelsmith.github.io/latin101/assignments/deliberative/) and this [exercise](https://neelsmith.github.io/latin101/assignments/subjunctive1/) on the formation of deliberative question.
 
 ### Wednesday, November 4
 - Verbal review
 - Reading practice
-- **Homework (due before class)**: Study for verb quiz!
+- **Morphology and Vocabulary (to be completed before class)**: Review verb formation, paying particular attention to the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) as well as the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *do* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
+- **Further Practice (optional)**: Try your hand at these [exercises](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form) on verb identification.
 
 ### Friday, November 6
 - Indirect statement
 - Infinitives
 - **Assessment (due before class)**: **Verb competency quiz #2 due**
-- **Homework (due before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [verbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#verbs) in the vocabulary list for module 6.
+- **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
+- **Practice (to be completed before class)**: Complete the exercises on [indirect statement](https://lingualatina.github.io/textbook/exercises/06-indirect-statement/) in our textbook.
+
 [Back to top.](#top)
 
 ***
