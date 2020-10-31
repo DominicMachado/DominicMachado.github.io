@@ -186,3 +186,12 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ### Monday, November 2
 - The Spartan mirage: Ancient evidence and its problems
 - **Homework (due before class)**: Read the opening six chapters of Plutarch's [Life of Lycurgus](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Lycurgus*.html). Select one passage from Plutarch's biography from your commonplace book that you believe reflects how accurate the details of this biography are.
+
+### Wednesday, November 4
+- Spartan origins: Between Myth and Legend
+- **Homework (due before class)**: Read Herodotus'
+[account](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:1.56-1.58/) of the so-called Dorian invasion and Carol Thomas' [article](https://www.penn.museum/sites/expedition/found-the-dorians/) on the archaeological evidence for it. Select one passage from one of the reading and reflect on why the literary difference might be at variance with archaeological evidence.
+
+### Friday, November 6
+- The Spartan Cauldron: The 7th century BCE
+- **Homework (due before class)**: Read the selections from the early Spartan poets, [Tyrtaeus](https://drive.google.com/file/d/1nVStrXuZM2QnaRn0FgOIdCQfDoj30lzH/view?usp=sharing) and [Alcman](https://drive.google.com/file/d/153swKHirfSuQ4hSejsb4HiIyV64QqQ-o/view?usp=sharing). Select one passage from each of the poets to put in your commonplace book and reflect on the different perspective they give us about seventh century Sparta.
