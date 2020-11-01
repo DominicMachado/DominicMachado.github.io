@@ -271,7 +271,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Friday, November 6
 - Indirect statement
 - Infinitives
-- **Assessment (due before class)**: [**Verb competency quiz #2](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link) due**
+- **Assessment (due before class)**: [**Verb competency quiz #2 due**](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link) 
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [verbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#verbs) in the vocabulary list for module 6.
 - **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
 - **Practice (to be completed before class)**: Complete the exercises on [indirect statement](https://lingualatina.github.io/textbook/exercises/06-indirect-statement/) in our textbook.
