@@ -232,14 +232,14 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Reading (to be completed before class)**: Review the new tenses we have learned as well as the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/) for the composition workshop.
 - **Further Practice (optional)**: Do some online synopsis practice (ignore the 2nd person) [here](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-2-verb-synopsis?collection=@neelsmith/l3).
 
-### Wednesday, October 28
+### Wednesday, October 28 ([slides](https://docs.google.com/presentation/d/1b1h9kgDr_FbgU0ttmk2EQSrjBp00qrgz4fyBAyXQ0TQ/edit?usp=sharing))
 - Questions
 - Interrogative adverbs
 - **Assessment (to be completed before class)**: [**Composition #3 due**](https://docs.google.com/document/d/1AYPHettPVrqRLhCGTZl-VFkaAZPV4kaX1fHby_fu7hk/edit?usp=sharing).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [adverbs](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [prepositions](https://lingualatina.github.io/textbook/vocabulary/05-questions/#prepositions) in Module 5.
 - **Reading (to be completed before class)**: Read the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions) in the textbook.
 
-### Friday, October 30
+### Friday, October 30 ([slides](https://docs.google.com/presentation/d/171DZ7hEJfP7U_rTxUIm5SAOkrcdRyOg7il4NrrKsn9k/edit?usp=sharing))
 - Interrogative adjectives and pronouns
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective) as the [pronouns](https://lingualatina.github.io/textbook/vocabulary/05-questions/#pronouns) and [adjectives](https://lingualatina.github.io/textbook/vocabulary/05-questions/#adjectives) for module 5.
 - **Reading (to be completed before class)**: Review the sections on [questions](https://lingualatina.github.io/textbook/presentation/05-questions/#questions).
@@ -271,7 +271,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ### Friday, November 6
 - Indirect statement
 - Infinitives
-- **Assessment (due before class)**: [**Verb competency quiz #2 due**](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link) 
+- **Assessment (due before class)**: [**Verb competency quiz #2 due**](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link)
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [verbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#verbs) in the vocabulary list for module 6.
 - **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
 - **Practice (to be completed before class)**: Complete the exercises on [indirect statement](https://lingualatina.github.io/textbook/exercises/06-indirect-statement/) in our textbook.
