@@ -190,7 +190,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ### Wednesday, November 4
 - Spartan origins: Between Myth and Legend
 - **Homework (due before class)**: Read Herodotus'
-[account](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:1.56-1.58/) of the so-called Dorian invasion and Carol Thomas' [article](https://www.penn.museum/sites/expedition/found-the-dorians/) on the archaeological evidence for it. Select one passage from one of the reading and reflect on why the literary difference might be at variance with archaeological evidence.
+[account](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:1.56-1.58/) of the so-called Dorian invasion and Carol Thomas' [article](https://www.penn.museum/sites/expedition/found-the-dorians/) on the archaeological evidence for it. Select one passage from ones of the reading and reflect on why the literary sources might be at variance with archaeological evidence.
 
 ### Friday, November 6
 - The Spartan Cauldron: The 7th century BCE
