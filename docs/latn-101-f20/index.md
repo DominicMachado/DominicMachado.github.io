@@ -43,7 +43,7 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### This Week at a Glance
 &nbsp;  
 
-![Chart](https://i.ytimg.com/vi/rZnIWZpYCCA/maxresdefault.jpg)
+![Chart](https://images.squarespace-cdn.com/content/v1/55a8033ae4b07e2e8e936394/1455557019285-RQPRYK0R0I691YT5Z1Q8/ke17ZwdGBToddI8pDm48kBQ6441z_uxkz7vv6iJ2QLwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc_q5Y4q2BxMhp8tWlQgCsGzDfiixU5kOnbHtXDsBjw_Ff94iImyhBCwLfoR_vV8wY/image-asset.png)
 
 ### Week 10
 
