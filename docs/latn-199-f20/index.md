@@ -49,16 +49,16 @@ In terms of books, you will not need any physical books. Below are a list of res
 ### This Week at a Glance
 &nbsp;  
 
-![Hannibal](https://3.bp.blogspot.com/-PSI6ERA5zfA/T_T_3Y231oI/AAAAAAAABOE/-qzGcWP7GIc/s1600/Hannibal.jpg)
+![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 8
+## Week 10
 
-### Monday, October 26
-- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
-- **Homework (due before class)**: Translate sentences 2-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, try to unpack as we do in class sentence 2 of Chapter 2 - it is a doozy! Additionally, do your best to explain why all the verbs in these sentences are in the subjunctive.
+### Monday, November 2
+- Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
+- **Homework (due before class)**: Translate sentences 1-3 of Chapter 3, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, pay particular attention to the participles in the passage as well well as the words they modify.
 
-### Wednesday, October 28
-- Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
-- **Homework (due before class)**: Translate sentences 4-5 of Chapter 2, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, do your best to explain why all the verbs in these sentences are in the subjunctive. Additionally, review your grammatical analysis assignment to see what kind of things you need to work on and set up a student hours appointment if necessary!
+### Wednesday, November 4
+- Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3) and [4](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
+- **Homework (due before class)**: Translate sentence 4 of Chapter 3 and sentences 1-2 of Chapter 4, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to sentence 4 in Chapter 3, with a particular focus on how participles and relative clauses work within it.
 
 [Back to top.](#top)

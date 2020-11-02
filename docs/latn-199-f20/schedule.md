@@ -167,9 +167,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 9
 
-### Monday, November 3
+### Monday, November 2
 - Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
 - **Homework (due before class)**: Translate sentences 1-3 of Chapter 3, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, pay particular attention to the participles in the passage as well well as the words they modify.
+
+### Wednesday, November 4
+- Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3) and [4](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
+- **Homework (due before class)**: Translate sentence 4 of Chapter 3 and sentences 1-2 of Chapter 4, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to sentence 4 in Chapter 3, with a particular focus on how participles and relative clauses work within it.
 
 ***
 
