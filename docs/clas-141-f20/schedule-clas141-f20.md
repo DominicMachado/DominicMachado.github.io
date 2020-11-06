@@ -195,3 +195,15 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ### Friday, November 6
 - The Spartan Cauldron: The 7th century BCE
 - **Homework (due before class)**: Read the selections from the early Spartan poets, [Tyrtaeus](https://drive.google.com/file/d/1nVStrXuZM2QnaRn0FgOIdCQfDoj30lzH/view?usp=sharing) and [Alcman](https://drive.google.com/file/d/153swKHirfSuQ4hSejsb4HiIyV64QqQ-o/view?usp=sharing). Select one passage from each of the poets to put in your commonplace book and reflect on the different perspective they give us about seventh century Sparta.
+
+***
+
+## Week 11
+
+### Monday, November 9
+- Spartan Education Between Fact and Fiction
+- **Homework (due before class)**: Read the opening four chapters from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:1.1-4.7) about Spartan educational practice. Select one passage from the work and reflect on what this tells us about what was believed to be unique about Sparta in the ancient world and whether you find this to be believable or not given what we have learned about in class in your commonplace book.
+
+### Wednesday, November 11
+- Was there a Spartan "ethos"?
+- **Homework (due before class)**: Read the chapter 5 to 8 from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:1.1-4.7) about Spartan culture of honor and dishonor. Select one passage from the work and think about the values, both good and bad, that these customs seem to reflect in your commonplace book.
