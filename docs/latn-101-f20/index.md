@@ -45,30 +45,28 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ![Chart](https://images.squarespace-cdn.com/content/v1/55a8033ae4b07e2e8e936394/1455557019285-RQPRYK0R0I691YT5Z1Q8/ke17ZwdGBToddI8pDm48kBQ6441z_uxkz7vv6iJ2QLwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc_q5Y4q2BxMhp8tWlQgCsGzDfiixU5kOnbHtXDsBjw_Ff94iImyhBCwLfoR_vV8wY/image-asset.png)
 
-### Week 10
+## Week 11
 
-### Monday, November 2
-- Deliberative subjunctive
-- Present active and passive subjunctive
-- Imperfect active and passive subjunctive
-- **Morphology and Vocabulary (to be completed before class)**: Review the declensions of the [interrogative pronoun](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-pronoun) and [adjective](https://lingualatina.github.io/textbook/presentation/05-questions/#interrogative-adjective) and memorize the forms of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive).
-- **Reading (to be completed before class)**: Read the section on the [deliberative subjunctive](https://lingualatina.github.io/textbook/presentation/05-questions/#deliberative-subjunctive).
-- **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *amo* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
-- **Further Practice (optional)**: Try your hand the following parsing [exercise](https://neelsmith.github.io/latin101/assignments/deliberative/) and this [exercise](https://neelsmith.github.io/latin101/assignments/subjunctive1/) on the formation of deliberative question.
-
-### Wednesday, November 4
-- Verbal review
-- Reading practice
-- **Morphology and Vocabulary (to be completed before class)**: Review verb formation, paying particular attention to the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) as well as the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
-- **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *do* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
-- **Further Practice (optional)**: Try your hand at these [exercises](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form) on verb identification.
-
-### Friday, November 6
+### Monday, November 9
 - Indirect statement
 - Infinitives
-- **Assessment (due before class)**: [**Verb competency quiz #2 due**](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link)
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [verbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#verbs) in the vocabulary list for module 6.
-- **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
-- **Practice (to be completed before class)**: Complete the exercises on [indirect statement](https://lingualatina.github.io/textbook/exercises/06-indirect-statement/) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [nouns and adjectives](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement) in the vocabulary list for module 6.
+- **Reading (to be completed before class)**: Review the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/) in our textbook.
+- **Practice (to be completed before class)**: Complete the following exercises on [present](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#present-infinitives) and [perfect](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#perfect-infinitives) infinitive in our textbook.
+
+### Wednesday, November 11
+- Personal pronouns and reflexives
+- Deponent verbs
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of the [first and second-person personal](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#personal) and the [third-person reflexive](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#3rd-person-himself-herself-itself-themselves) as well as the [prepositions and adverbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#prepositions) in the vocabulary list for module 6.
+- **Reading(due before class)**: Read the sections on [personal](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) as well as [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
+- **Practice (to be completed before class)**: Complete the following exercises on [personal and reflexive pronouns](https://lingualatina.github.io/textbook/exercises/09-pron-dep-irreg/) in our textbook. Additionally, have a look at the [verbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#temporal-clauses-pronouns-deponent-and-irregular-verbs---vocabulary) in the vocabulary list for Module 7 and try to identify the deponent verbs as well as their conjugation.
+
+### Friday, November 13
+- Temporal clauses
+- Pluperfect indicative
+- **Assessment (due before class)**: [Vocabulary Quiz #4 due]
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) as well as the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
+- **Reading (to be completed before class)**: Read the sections on the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) and [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Practice (to be completed before class)**: Complete synopses on the verbs audio and hortor in advance of class.
 
 [Back to top.](#top)
