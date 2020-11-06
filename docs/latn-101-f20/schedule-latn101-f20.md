@@ -283,19 +283,26 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ## Week 11
 
 ### Monday, November 9
-- Deponent verbs
 - Indirect statement
-- **Homework (due before class)**: Review [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/). Please also read the section on [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
+- Infinitives
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [nouns and adjectives](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement) in the vocabulary list for module 6.
+- **Reading (to be completed before class)**: Review the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/) in our textbook.
+- **Practice (to be completed before class)**: Complete the following exercises on [present](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#present-infinitives) and [perfect](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#perfect-infinitives) infinitive in our textbook.
 
 ### Wednesday, November 11
 - Personal pronouns and reflexives
-- **Assessment (due before class)**: Study for quiz #4 on the vocabulary for Modules [5](https://lingualatina.github.io/textbook/vocabulary/05-questions/) and [6](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/).
-- **Homework (due before class)**: Read the section on [personal pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) and familiarize yourself with their morphology.
+- Deponent verbs
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of the [first and second-person personal](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#personal) and the [third-person reflexive](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#3rd-person-himself-herself-itself-themselves) as well as the [prepositions and adverbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#prepositions) in the vocabulary list for module 6.
+- **Reading(due before class)**: Read the sections on [personal](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) as well as [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
+- **Practice (to be completed before class)**: Complete the following exercises on [personal and reflexive pronouns](https://lingualatina.github.io/textbook/exercises/09-pron-dep-irreg/) in our textbook. Additionally, have a look at the [verbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#temporal-clauses-pronouns-deponent-and-irregular-verbs---vocabulary) in the vocabulary list for Module 7 and try to identify the deponent verbs as well as their conjugation.
 
 ### Friday, November 13
 - Temporal clauses
-- Pluperfect active and passive indicative
-- **Homework (due before class)**: Read the section on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) and familiarize yourself with the morphology of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense).
+- Pluperfect indicative
+- **Assessment (due before class)**: [Vocabulary Quiz #4 due]
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) as well as the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
+- **Reading (to be completed before class)**: Read the sections on the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) and [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Practice (to be completed before class)**: Complete synopses on the verbs audio and hortor in advance of class.
 
 [Back to top.](#top)
 
@@ -332,7 +339,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Homework (due before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
 
 ### Wednesday, December 2
-- Translation workshop
+- CEFs in class
 - **Homework (due before class)**: **Quiz #5 due**.
 
 ### Friday, December 4
