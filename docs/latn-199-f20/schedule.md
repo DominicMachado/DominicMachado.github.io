@@ -187,3 +187,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, November 9
 - Sight reading
 - **Homework (due before class)**: Translation #1 due! For this assignment, there is no need for an idiomatic translation, provide only one grammatically-oriented translation.
+
+### Wednesday, November 11
+- Nepos, [Life of Hannibal, Chapter 5](http://dcc.dickinson.edu/nepos-hannibal/chapter-5)
+- **Homework (due before class)**: Translate sentence 1-3 of Chapter 5, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how participles and relative clauses work within it.
+
+***
+
+## Week 11
+
+### Friday, November 20
+- Sight reading
+- **Homework (due before class)**: [Grammatical Analysis #2](https://docs.google.com/document/d/1dWvbCDX7hcfyWo7GojGdkGINLFWMya3_mBG3MZVhD-s/edit?usp=sharing)

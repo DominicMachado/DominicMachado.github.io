@@ -51,14 +51,14 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 10
+## Week 11
 
-### Monday, November 2
-- Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
-- **Homework (due before class)**: Translate sentences 1-3 of Chapter 3, marking out the clauses, both independent and dependent, and the main verbs within each. For this assignment, pay particular attention to the participles in the passage as well well as the words they modify.
+### Monday, November 9
+- Sight reading
+- **Homework (due before class)**: Translation #1 due! For this assignment, there is no need for an idiomatic translation, provide only one grammatically-oriented translation.
 
-### Wednesday, November 4
-- Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3) and [4](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
-- **Homework (due before class)**: Translate sentence 4 of Chapter 3 and sentences 1-2 of Chapter 4, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to sentence 4 in Chapter 3, with a particular focus on how participles and relative clauses work within it.
+### Wednesday, November 11
+- Nepos, [Life of Hannibal, Chapter 5](http://dcc.dickinson.edu/nepos-hannibal/chapter-5)
+- **Homework (due before class)**: Translate sentence 1-3 of Chapter 5, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how participles and relative clauses work within it.
 
 [Back to top.](#top)
