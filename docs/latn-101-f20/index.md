@@ -64,7 +64,7 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### Friday, November 13
 - Temporal clauses
 - Pluperfect indicative
-- **Assessment (due before class)**: [Vocabulary Quiz #4 due]
+- **Assessment (due before class)**: [Vocabulary Quiz #4 due](https://docs.google.com/forms/d/1-q4jIhfZkSDgIeT3ta37XBP1Dj99us9d0aiTV-Cykvo/edit)
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) as well as the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
 - **Reading (to be completed before class)**: Read the sections on the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) and [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
 - **Practice (to be completed before class)**: Complete synopses on the verbs audio and hortor in advance of class.
