@@ -12,12 +12,11 @@ nav_order: 3
 
 ***
 
-## Creative Project
-&nbsp;  
+## Creative Project 
 
 Due: November 30, 2 pm (by email)
 
-You may complete any one of the different options listed below for your creative project. 
+You may complete any one of the different options listed below for your creative project.
 
 ***
 
