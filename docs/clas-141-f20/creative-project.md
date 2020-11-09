@@ -24,7 +24,7 @@ nav_order: 3
 
 You will find a number of different options for your creative project below.
 
-1. Creative option #1: Diary entry from the perspective of a Spartan woman or a helot
+### Creative option #1: Diary entry
 
 Over the last few weeks, we have discussed the various roles played by women and helots in Spartan society. For this project, you are going to imagine what a day in the life of one of these figures was like. You will write a diary entry from the perspective of either a free Spartan woman or a helot (female or male).
 
@@ -39,7 +39,7 @@ A satisfactory project will:
 -	Provide citations and discussion of the relevant ancient sources you used to create your character
 -	Consider the problems with using these sources for reconstructing the lives of women and helots
 
-2. Creative option #2: Artistic rendering
+### Creative option #2: Artistic rendering
 
 Illustrate a scene, object, or practice from any of the works we read this semester related to Sparta, a paragraph describing it as if it were on display in a museum, and another paragraph explaining the sources you used. Any medium (electronic or physical: paint, pencil, sculpture, etc.) is acceptable. Some suggestions include Alcman's Parthenion, the syssitia (shared eating hall), the agoge (Spartan education for men or women), the krypteia (terrorism of the helots), or the conspiracy of Cinadon. I will be looking to see how (and how creatively) you render details of the text into a visual form, rather than evaluating how good of an artist you are.
 
@@ -49,7 +49,7 @@ A satisfactory project will:
 - Feature a paragraph describing your illustration as if it were a museum plaque
 - Contain a paragraph that makes clear and cites what scene and what details from your chosen textual account you decided to depict in your artistic rendering
 
-3. Creative Option #3: Spotify playlist
+### Creative Option #3: Spotify playlist
 
 This creative project asks you to curate a playlist of modern music to explicate themes that we’re learning about this semester. You will choose a particular event, personality, or aspect of Spartan history (e.g. Lycurgus, helots, Spartan women) that you’ve learned about this semester and create a 6 song playlist of songs that capture the themes of the subject you selected. Then, write a 3-4 sentence explanation for each song that expresses why you chose that song and how it relates to the event, personality, or aspect of Spartan culture that you selected.
 
@@ -61,7 +61,7 @@ A satisfactory project will:
 - Have a link in that document to the 6-song playlist on Spotify (if you don’t already have a Spotify account, go to [Spotify.com](spotify.com) and sign up for one – it’s free!)
 - Give a witty title to your Spotify playlist and include in the description our course number (CLAS 141) and the event, personality, or aspect of Spartan history you’re basing this playlist on
 
-4. Creative Project #4: Meme or Tiktok Spartan history
+### Creative Project #4: Make it a meme
 
 This creative project invites you to create memes or Tiktoks that make concepts, ideas, events, and figures from Spartan history accessible to a modern audience.
 
