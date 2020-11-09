@@ -14,13 +14,10 @@ nav_order: 3
 
 ## Creative Project
 &nbsp;  
-**Details**
 
-- Due: November 30 (by email)
+Due: November 30, 2 pm (by email)
 
-**Assignment**
-
-You will find a number of different options for your creative project below.
+You may complete any one of the different options listed below for your creative project. 
 
 ***
 
