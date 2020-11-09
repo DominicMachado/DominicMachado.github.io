@@ -192,10 +192,58 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Nepos, [Life of Hannibal, Chapter 5](http://dcc.dickinson.edu/nepos-hannibal/chapter-5)
 - **Homework (due before class)**: Translate sentence 1-3 of Chapter 5, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how participles and relative clauses work within it.
 
+### Friday, November 13
+- TBD
+- **Homework (due before class)**: TBD
+
 ***
 
 ## Week 11
 
+### Monday, November 16
+- TBD
+- **Homework (due before class)**: TBD
+
+### Wednesday, November 18
+- TBD
+- **Homework (due before class)**: TBD
+
 ### Friday, November 20
 - Sight reading
 - **Homework (due before class)**: [Grammatical Analysis #2](https://docs.google.com/document/d/1dWvbCDX7hcfyWo7GojGdkGINLFWMya3_mBG3MZVhD-s/edit?usp=sharing)
+
+***
+
+## Week 12
+
+### Monday, November 30
+- TBD
+- **Homework (due before class)**: Dictionary competency quiz due! Reading TBD.
+
+### Wednesday, December 2
+- Course evaluation day!
+- **Homework (due before class)**: Translation #2 due! For this assignment, there is no need for an idiomatic translation, provide only one grammatically-oriented translation.
+
+### Friday, December 4
+- TBD
+- **Homework (due before class)**: TBD
+
+***
+
+## Week 13
+
+### Monday, December 7
+- TBD
+- **Homework (due before class)**: TBD
+
+### Wednesday, December 9
+- Course wrap-up!
+- **Homework (due before class)**: Vocabulary competency quiz due. Reading TBD
+
+***
+
+## Finals
+
+**Final grammatical analysis and translation due**: December 18, 11:59 PM 
+
+If you would like to do the grammatical analysis and have my feedback before the translation, please submit this to me by December 11 so that I can correct it and get it back to you.
