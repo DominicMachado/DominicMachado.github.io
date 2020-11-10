@@ -252,7 +252,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ## Week 10
 
-### Monday, November 2
+### Monday, November 2 ([slides](https://docs.google.com/presentation/d/1Lwv9eNP2b1WYZ1DKPSZvN7LkkBAACKRQAEzSuGmknQQ/edit?usp=sharing))
 - Deliberative subjunctive
 - Present active and passive subjunctive
 - Imperfect active and passive subjunctive
@@ -261,14 +261,14 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *amo* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
 - **Further Practice (optional)**: Try your hand the following parsing [exercise](https://neelsmith.github.io/latin101/assignments/deliberative/) and this [exercise](https://neelsmith.github.io/latin101/assignments/subjunctive1/) on the formation of deliberative question.
 
-### Wednesday, November 4
+### Wednesday, November 4 ([slides](https://docs.google.com/presentation/d/19IXYJXrhk_WSysQm7B1mv_BtxI2sSkazTabXW-zu5bw/edit?usp=sharing))
 - Verbal review
 - Reading practice
 - **Morphology and Vocabulary (to be completed before class)**: Review verb formation, paying particular attention to the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and the morphology of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) as well as the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
 - **Practice (to be completed before class)**: Complete a [synopsis](https://docs.google.com/presentation/d/1CBsV3xGLt0ahkc-xsSmdxvmFyw--0gQSPRZUH-9yjqU/edit?usp=sharing) of the verbs *do* and *interficio* in the 3rd person plural. Be sure to include the present and imperfect subjunctive in your synposis as well.
 - **Further Practice (optional)**: Try your hand at these [exercises](https://observablehq.com/@neelsmith/lingua-latina-legenda-unit-3-recognizing-subjunctive-form) on verb identification.
 
-### Friday, November 6
+### Friday, November 6 ([slides](https://docs.google.com/presentation/d/1hIA_6szf3svp3cXMf8cOjjJUe89Q8JWcdBZcssPOp3M/edit?usp=sharing))
 - Indirect statement
 - Infinitives
 - **Assessment (due before class)**: [**Verb competency quiz #2 due**](https://docs.google.com/forms/d/e/1FAIpQLSdFjbLEO8lKrcs3h7MkYKpEQliWzBKP4-dLkcHR9V8QR0dF-g/viewform?usp=sf_link)
@@ -282,7 +282,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ## Week 11
 
-### Monday, November 9
+### Monday, November 9 ([slides](https://docs.google.com/presentation/d/13uX1k-fIi6RIHry1FAvuMfxPoV9St-zKw5KdzFOKR-A/edit?usp=sharing))
 - Indirect statement
 - Infinitives
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [nouns and adjectives](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement) in the vocabulary list for module 6.
