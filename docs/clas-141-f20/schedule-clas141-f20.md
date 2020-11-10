@@ -201,7 +201,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ## Week 11
 
 ### Monday, November 9
-- Spartan education Between fact and fiction
+- Spartan education
 - **Homework (due before class)**: Read the opening four chapters from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:1.1-4.7) about Spartan educational practice. Select one passage from the work and reflect on what this tells us about what was believed to be unique about Sparta in the ancient world and whether you find this to be believable or not given what we have learned about in class in your commonplace book.
 
 ### Wednesday, November 11
@@ -211,3 +211,19 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ### Friday, November 13
 - Spartan women
 - **Homework (due before class)**: Read through the following [selections](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/98-the-advantages-of-spartan-education-and-marriage-customs/) from the Life of Lycurgus and the alleged [sayings](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Sayings_of_Spartan_Women*.html) of Spartan women recorded by Sparta. Select one passage from these works and reflect on what you believe this tells us about Spartan women and how trustworthy the evidence is.
+
+***
+
+## Week 12
+
+### Monday, November 16
+- Sparta's rise to power (part 1)
+- **Homework (due before class)**: Read Herodotus' [account (7.145-160)]([https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/7C*.html]) on the Greek preparations for the Persian War. Select one passage from the reading and reflect on what it tells us about how the Spartans are perceived by the other Greeks during the fifth century BCE in your commonplace book.
+
+### Wednesday, November 18
+- Sparta's rise to power (part 2)
+- **Homework (due before class)**: Read Thucydides' [account](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:1.67.1-1.78.3/) of the breakdown on the eve of the Peloponnesian war. Select one passage from this reading and reflect on how the Spartans are seen by their fellow Greeks in your commonplace book. In your analysis, be sure to compare it to the image of Sparta we saw in Herodotus.
+
+### Friday, November 20
+- Sparta's internal struggles
+- **Homework (due before class)**: Read through the following passages from [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:1.101.1-1.103.4/) and [Xenophon](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2:3.3.4-3.3.11/) about internal problems at Sparta. Select one passage from these works and reflect on how it reveals the problems that were lurking in Spartan society as its imperial reach grew in your commonplace book.
