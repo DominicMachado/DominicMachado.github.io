@@ -173,7 +173,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 - Immigrants in Greek society: Spartan Xenelasia
 - **Homework (due before class)**: Turn in your **[Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link)** on Google Forms.
 
-### Friday, October 30 ([slides](https://docs.google.com/presentation/d/1A3gZlTck2OvjiCo6SkGZTR1nFnqX5m3qi9ELb3c-xAQ/edit?usp=sharing); )
+### Friday, October 30 ([slides](https://docs.google.com/presentation/d/1A3gZlTck2OvjiCo6SkGZTR1nFnqX5m3qi9ELb3c-xAQ/edit?usp=sharing); [video](https://youtu.be/p4sWYchVP_4))
 - The Spartan mirage
 - **Homework (due before class)**: Read Sarah Bond's [article](https://eidolon.pub/this-is-not-sparta-392a9ccddf26) and Ishaan Tharoor's [piece](https://www.washingtonpost.com/news/worldviews/wp/2016/11/07/why-the-wests-far-right-and-trump-supporters-are-still-obsessed-with-an-ancient-battle/) on the modern obsession with Sparta. In your commonplace book, select a passage that stood to you and reflect on what this tells us about how we think about Sparta in modern society.
 
