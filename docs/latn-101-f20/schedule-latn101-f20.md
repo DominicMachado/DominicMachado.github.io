@@ -295,14 +295,14 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of the [first and second-person personal](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#personal) and the [third-person reflexive](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#3rd-person-himself-herself-itself-themselves) as well as the [prepositions and adverbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#prepositions) in the vocabulary list for module 6.
 - **Reading(due before class)**: Read the sections on [personal](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#personal-pronouns) and [reflexive pronouns](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns) as well as [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
 - **Practice (to be completed before class)**: Complete the following exercises on [personal and reflexive pronouns](https://lingualatina.github.io/textbook/exercises/09-pron-dep-irreg/) in our textbook. Additionally, have a look at the [verbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#temporal-clauses-pronouns-deponent-and-irregular-verbs---vocabulary) in the vocabulary list for Module 7 and try to identify the deponent verbs as well as their conjugation.
-- **Further Practice (to be completed before class)**: If you need practice with infinitive formation for indirect statement, try this [exercise](https://observablehq.com/@l3/transform-infinitives-active-passive) out.
+- **Further Practice (to be completed before class)**: If you need practice with infinitive formation for indirect statement, try this [exercise](https://observablehq.com/@l3/transform-infinitives-active-passive).
 
 ### Friday, November 13
+- Dependent clauses
 - Temporal clauses
-- Pluperfect indicative
 - **Assessment (due before class)**: [Vocabulary Quiz #4 due](https://docs.google.com/forms/d/1-q4jIhfZkSDgIeT3ta37XBP1Dj99us9d0aiTV-Cykvo/edit)
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) as well as the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
-- **Reading (to be completed before class)**: Read the sections on the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) and [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
+- **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and read the sections on [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
 - **Practice (to be completed before class)**: Complete synopses on the verbs audio and hortor in advance of class in the 3rd person singular.
 - **Further Practice (optional)**: Try out these [exercises](https://observablehq.com/@neelsmith/lingua-latina-legena-unit-3-speed-test-on-verb-identificati?collection=@neelsmith/l3) to review the present indicative and subjunctive systems.
 
@@ -326,10 +326,9 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Practice (to be completed before class)**: Complete synopses on fero, eo, and sum in 3rd person plural.
 
 ### Friday, November 20
-- Irregular Verbs: volō, nōlō, and mālō
-**Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of [volo, nolo, and malo](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/), paying attention to where it breaks from our usual paradigms.
-- **Reading (to be completed before class)**: Review the section in our textbooks on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
-- **Practice (to be completed before class)**: Complete synopses on volo, nolo, and malo in the 3rd person singular.
+- Reading practice
+- **Morphology and Vocabulary (to be completed before class)**: Review the verbs, adverbs, adjectives, and conjunctions for [Module 7](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany).
+
 
 [Back to top.](#top)
 
