@@ -165,15 +165,15 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ## Week 9
 
-### Monday, October 26
+### Monday, October 26 ([slides](https://docs.google.com/presentation/d/1wd28AZwJd0Qw0_11ADbJAiuEdOhUS8JwmYawNKLTbMA/edit?usp=sharing); [video](https://youtu.be/iMqyMTRraRE))
 - Immigrants in Greek society (metics)
 - **Homework (due before class)**: Read this short passage from Xenophon's [Poroi](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0210%3Atext%3DWays%3Achapter%3D2). In your commonplace book, use Xenophon's text to figure out what restriction that the Athenians placed on their immigrants.
 
-### Wednesday, October 28
+### Wednesday, October 28 ([slides](https://docs.google.com/presentation/d/1DqDPBXwBqisJ6oYuh0GJkehKuePe1T7iQp8wuPmyhWY/edit?usp=sharing); [video](https://youtu.be/GmH40CK3Wyw))
 - Immigrants in Greek society: Spartan Xenelasia
 - **Homework (due before class)**: Turn in your **[Non-Elite History Assignment](https://docs.google.com/forms/d/e/1FAIpQLScE5ChlOQFE4kt_scpDnyQyLRtYkaRKU4p7IYxa7INlQlmEzA/viewform?usp=sf_link)** on Google Forms.
 
-### Friday, October 30
+### Friday, October 30 ([slides](https://docs.google.com/presentation/d/1A3gZlTck2OvjiCo6SkGZTR1nFnqX5m3qi9ELb3c-xAQ/edit?usp=sharing); )
 - The Spartan mirage
 - **Homework (due before class)**: Read Sarah Bond's [article](https://eidolon.pub/this-is-not-sparta-392a9ccddf26) and Ishaan Tharoor's [piece](https://www.washingtonpost.com/news/worldviews/wp/2016/11/07/why-the-wests-far-right-and-trump-supporters-are-still-obsessed-with-an-ancient-battle/) on the modern obsession with Sparta. In your commonplace book, select a passage that stood to you and reflect on what this tells us about how we think about Sparta in modern society.
 
@@ -218,7 +218,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ### Monday, November 16
 - Sparta's rise to power (part 1)
-- **Homework (due before class)**: Read Herodotus' [account (7.145-160)]([https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/7C*.html]) on the Greek preparations for the Persian War. Select one passage from the reading and reflect on what it tells us about how the Spartans are perceived by the other Greeks during the fifth century BCE in your commonplace book.
+- **Homework (due before class)**: Read Herodotus' [account (7.145-160)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Herodotus/7C*.html) on the Greek preparations for the Persian War. Select one passage from the reading and reflect on what it tells us about how the Spartans are perceived by the other Greeks during the fifth century BCE in your commonplace book.
 
 ### Wednesday, November 18
 - Sparta's rise to power (part 2)
