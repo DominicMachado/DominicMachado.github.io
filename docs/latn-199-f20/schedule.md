@@ -193,8 +193,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Translate sentence 1-3 of Chapter 5, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how participles and relative clauses work within it.
 
 ### Friday, November 13
-- TBD
-- **Homework (due before class)**: TBD
+- Nepos, [Life of Hannibal, Chapter 5](http://dcc.dickinson.edu/nepos-hannibal/chapter-5) and [6](http://dcc.dickinson.edu/nepos-hannibal/chapter-6)
+- **Homework (due before class)**: Translate sentence 3-4 of Chapter 5 and sentence 1 of Chapter 6, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how participles and relative clauses work within it (with special attention to any connecting relatives).
 
 ***
 
@@ -244,6 +244,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Finals
 
-**Final grammatical analysis and translation due**: December 18, 11:59 PM 
+**Final grammatical analysis and translation due**: December 18, 11:59 PM
 
 If you would like to do the grammatical analysis and have my feedback before the translation, please submit this to me by December 11 so that I can correct it and get it back to you.
