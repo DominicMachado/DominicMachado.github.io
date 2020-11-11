@@ -63,11 +63,11 @@ We will not but using a physical textbook, but rather an online [textbook](https
 - **Further Practice (to be completed before class)**: If you need practice with infinitive formation for indirect statement, try this [exercise](https://observablehq.com/@l3/transform-infinitives-active-passive) out.
 
 ### Friday, November 13
+- Dependent clauses
 - Temporal clauses
-- Pluperfect indicative
 - **Assessment (due before class)**: [Vocabulary Quiz #4 due](https://docs.google.com/forms/d/1-q4jIhfZkSDgIeT3ta37XBP1Dj99us9d0aiTV-Cykvo/edit)
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) as well as the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
-- **Reading (to be completed before class)**: Read the sections on the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense) and [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [conjunctions and adverbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#conjunctions-and-adverbs) from Module 7.
+- **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and read the sections on [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
 - **Practice (to be completed before class)**: Complete synopses on the verbs audio and hortor in advance of class in the 3rd person singular.
 - **Further Practice (optional)**: Try out these [exercises](https://observablehq.com/@neelsmith/lingua-latina-legena-unit-3-speed-test-on-verb-identificati?collection=@neelsmith/l3) to review the present indicative and subjunctive systems.
 
