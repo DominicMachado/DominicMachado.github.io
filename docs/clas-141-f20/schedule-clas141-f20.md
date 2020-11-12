@@ -183,11 +183,11 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ## Week 10
 
-### Monday, November 2
+### Monday, November 2 ([slides](https://docs.google.com/presentation/d/1Xa62JARkwevu3jboUbAvWl3u56RxGcmUr8bXT3YPz-E/edit?usp=sharing); [video](https://youtu.be/fS-ZxQ-J-JM))
 - The Spartan mirage: Ancient evidence and its problems
 - **Homework (due before class)**: Read the opening six chapters of Plutarch's [Life of Lycurgus](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Lycurgus*.html). Select one passage from Plutarch's biography from your commonplace book that you believe reflects how accurate the details of this biography are.
 
-### Wednesday, November 4
+### Wednesday, November 4 ([slides](https://docs.google.com/presentation/d/1fg0coUBG0CA_zKTsE8rF0CFCYkNRKaADXVO85ER5v7o/edit?usp=sharing); [video](https://youtu.be/RTxR4BNGxGA))
 - Spartan origins: Between Myth and Legend
 - **Homework (due before class)**: Read Herodotus'
 [account](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:1.56-1.58/) of the so-called Dorian invasion and Carol Thomas' [article](https://www.penn.museum/sites/expedition/found-the-dorians/) on the archaeological evidence for it. Select one passage from ones of the reading and reflect on why the literary sources might be at variance with archaeological evidence.
