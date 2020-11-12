@@ -318,6 +318,8 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive), [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive), and the [perfect and pluperfect passive subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) as well as the [verbs from conor to miror](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#verbs) in the vocabulary for Module 7.
 - **Reading (to be completed before class)**: Review the section on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) and read the follow-up section on [sequence of tenses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses).
 - **Practice (to be completed before class)**: Complete the [exercises](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/) in our textbook on temporal clauses. Additionally, complete a synopsis of amo to include the new tenses of the subjunctive in the 3rd person singular.
+- **Further Practice (optional)**:
+Try your hand at these [practice exercises](https://observablehq.com/@l3/temporal-clauses?collection=@l3/textbook-exercises) for temporal clauses.
 
 ### Wednesday, November 18
 - Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
