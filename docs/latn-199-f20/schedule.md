@@ -201,8 +201,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11
 
 ### Monday, November 16
-- TBD
-- **Homework (due before class)**: TBD
+- Nepos, [Life of Hannibal, Chapter 6](http://dcc.dickinson.edu/nepos-hannibal/chapter-6)
+- **Homework (due before class)**: Translate sentences 1-3 of Chapter 6, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how you put together the sentences, looking carefully as what words agree with one another and how they add meaning to the sentence.
 
 ### Wednesday, November 18
 - TBD
