@@ -72,3 +72,11 @@ Standing links for Practicum:
 - **Topic of Discussion**: The problems of grammatical gender
 
 - **Homework**: In preparation of our discussion, please read this brief [article](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8) on the concept of gender diversity in Latin.
+
+***
+
+## Final Projects
+
+Over the next three weeks, you will have the opportunity to finalize your group's lessons and have them published as a part of publicly-available repository that we will use next semester. The goal is to have a first draft ready by the end of the November 16/17 practicum and the entire project in final form by December 7/8 practicum.
+
+Additionally, you will submit a final reflection (300-500 words) on your experience in the CBL portion of the course. You will reflect on what you learned about the intersection of Latin and structures of power and how this relates to larger attempts to create a more just society. This reflection will be due by email on December 18 at 11:59 PM EST.

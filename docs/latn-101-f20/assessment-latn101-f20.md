@@ -17,7 +17,7 @@ nav_order: 3
 
 ## CBL Attendance and Participation - 200 points
 &nbsp;  
-As a part of the community-based learning portion of the course, you will participate in weekly practicum sessions. You can earn up to 50 points by attending these practica and another 50 points by completing two short reflections related to these sessions (to be assigned in October and December). You will also have the opportunity to participate a group project in which you will get the chance to design a lesson to be used in your future Latin tutoring sessions (100 points available).
+As a part of the community-based learning portion of the course, you will participate in weekly practicum sessions. You can earn up to 100 points by attending these practica and another 50 points by completing a final reflection related to these sessions (due December 18). You will also participate a group project in which you will get the chance to design a lesson to be used in your future Latin tutoring sessions (100 points available; due at the final practicum meeting).
 
 ***
 

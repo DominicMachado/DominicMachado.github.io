@@ -330,6 +330,7 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 ### Friday, November 20
 - Reading practice
 - **Morphology and Vocabulary (to be completed before class)**: Review the verbs, adverbs, adjectives, and conjunctions for [Module 7](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany).
+- **Practice (to be completed before class)**: Review subjunctive forms by trying out these [exercises](https://observablehq.com/@l3/identify-subjunctive-forms).
 
 
 [Back to top.](#top)
@@ -367,7 +368,14 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 ### Wednesday, December 9
 - Competency quiz #3
 - Looking ahead
-- **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz and continue preparing CBL portfolio for submission on December 18.
+- **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz.
 
+***
+
+## Finals
+
+You will have the opportunity to finalize your group's lessons and have them published as a part of publicly-available repository that we will use next semester. The goal is to have a first draft ready by the end of the November 16/17 practicum and the entire project in final form by December 7/8 practicum.
+
+Additionally, you will submit a final reflection (300-500 words) on your experience in the CBL portion of the course. You will reflect on what you learned about the intersection of Latin and structures of power and how this relates to larger attempts to create a more just society. This reflection will be due by email on December 18 at 11:59 PM EST.
 
 [Back to top.](#top)
