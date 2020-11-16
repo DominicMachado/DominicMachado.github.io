@@ -205,8 +205,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Translate sentences 1-3 of Chapter 6, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how you put together the sentences, looking carefully as what words agree with one another and how they add meaning to the sentence.
 
 ### Wednesday, November 18
-- TBD
-- **Homework (due before class)**: TBD
+- Nepos, [Life of Hannibal, Chapter 6](http://dcc.dickinson.edu/nepos-hannibal/chapter-6) and [7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
+- **Homework (due before class)**: Translate sentence 4 of Chapter 6 and sentences 1-2 of Chapter 7, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to how you put together the sentences, looking carefully as what words agree with one another and how they add meaning to the sentence.
 
 ### Friday, November 20
 - Sight reading
