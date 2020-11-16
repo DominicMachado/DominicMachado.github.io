@@ -218,7 +218,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, November 30
 - TBD
-- **Homework (due before class)**: Dictionary competency quiz due! Reading TBD.
+- **Homework (due before class)**: [Dictionary competency quiz](https://forms.gle/wdw8uZxmYZDvdFwv5) due! Reading TBD.
 
 ### Wednesday, December 2
 - Course evaluation day!
