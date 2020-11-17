@@ -353,7 +353,7 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 ### Friday, December 4
 - Composition workshop
-- **Homework (due before class)**: **Translation #4 due**. Prepare for the composition workshop.
+- **Homework (due before class)**: **[Translation #4 due](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit)**. Prepare for the composition workshop.
 
 [Back to top.](#top)
 
@@ -363,12 +363,12 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 ### Monday, December 7
 - Review session
-- **Homework (due before class)**: **Composition #4 due**. Begin studying for grammatical competency quiz #3 and bring in questions for our grammar review.
+- **Homework (due before class)**: **[Composition #4 due](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit)**. Begin studying for grammatical competency quiz #3 and bring in questions for our grammar review.
 
 ### Wednesday, December 9
 - Competency quiz #3
 - Looking ahead
-- **Homework (due before class)**: Study for your final attempt at the grammatical competency quiz.
+- **Homework (due before class)**: Study for your final grammatical competency quiz.
 
 ***
 
@@ -376,6 +376,6 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 You will have the opportunity to finalize your group's lessons and have them published as a part of publicly-available repository that we will use next semester. The goal is to have a first draft ready by the end of the November 16/17 practicum and the entire project in final form by December 7/8 practicum.
 
-Additionally, you will submit a final reflection (300-500 words) on your experience in the CBL portion of the course. You will reflect on what you learned about the intersection of Latin and structures of power and how this relates to larger attempts to create a more just society. This reflection will be due by email on December 18 at 11:59 PM EST.
+Additionally, you will submit a final reflection (300-500 words) on your experience in Latin this semester (with a particular focus on what we have done in CBL). You will reflect on what you learned about the intersection of Latin and structures of power and how this relates to larger attempts to create a more just society. Things that you might talk about include, but are not limited to our discussions of gender and pronouns, the passive voice and power, the limited access of classics to students of color, and the "dark side of the subjunctive." This reflection will be due by email on December 18 at 11:59 PM EST.
 
 [Back to top.](#top)
