@@ -349,7 +349,7 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 ### Wednesday, December 2
 - CEFs in class
-- **Homework (due before class)**: **Quiz #5 due**.
+- **Homework (due before class)**: **[Quiz #5 due](https://forms.gle/kLP6mzu15eHwoXvi7)**.
 
 ### Friday, December 4
 - Composition workshop
