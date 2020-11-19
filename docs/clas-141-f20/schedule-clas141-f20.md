@@ -18,7 +18,7 @@ This schedule links to the readings and assignments that you will have throughou
 [Week 1: 9/2 - 9/4](#week-1) \| [Week 2: 9/7 - 9/11](#week-2) \| [Week 3: 9/14 - 9/18](#week-3) \|
 [Week 4: 9/21 - 9/25](#week-4) \| [Week 5: 9/28 - 10/2](#week-5) \| [Week 6: 10/5 - 10/9](#week-6) \|
 [Week 7: 10/12 - 10/16](#week-7) \| [Week 8: 10/19 - 10/23](#week-8) \| [Week 9: 10/26 - 10/30](#week-9) \|
-[Week 10: 11/2 - 11/6](#week-10) \| [Week 11: 11/9 - 11/13](#week-11) \| [Week 12: 11/16 - 11/2-](#week-12) \|
+[Week 10: 11/2 - 11/6](#week-10) \| [Week 11: 11/9 - 11/13](#week-11) \| [Week 12: 11/16 - 11/20](#week-12) \|
 [Week 13: 11/30 - 12/4](#week-13) \| [Week 14: 12/7 - 12/9](#week-14) \|
 
 ***
@@ -33,7 +33,6 @@ This schedule links to the readings and assignments that you will have throughou
 ### Friday, September 4 ([slides](https://docs.google.com/presentation/d/1SYDUs3L2-yVqHKG0INhb6KI0EbrvO34hApX7Ksgs4ds/edit?usp=sharing); [video](https://youtu.be/_WAfmlEYvJ0))
 - Ancient Greece in the 21st century: A Culture War
 - **Homework (due before class)**: Read Rebecca Futo Kennedy’s [lecture](https://rfkclassics.blogspot.com/2019/08/ancient-identitiesmodern-politics.html) on the intersection of the idea of ancient Greece and modern politics. Pick a passage from her lecture and reflect on it in your [commonplace book](https://dominicmachado.github.io/commonplace-book-clas141-f20).
-
 [Back to top.](#top)
 
 ***
@@ -227,3 +226,31 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ### Friday, November 20
 - Sparta's internal struggles
 - **Homework (due before class)**: Read through the following passages from [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:1.101.1-1.103.4/) and [Xenophon](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2:3.3.4-3.3.11/) about internal problems at Sparta. Select one passage from these works and reflect on how it reveals the problems that were lurking in Spartan society as its imperial reach grew in your commonplace book.
+
+***
+
+## Week 13
+
+### Monday, November 30
+- The Fall of Sparta
+- **Homework (due before class)**: Send me your [creative project] by email by 2 PM!
+
+### Wednesday, December 2
+- CEF day
+- **Homework (due before class)**: None!
+
+### Friday, December 4
+- Modern politics and Greek history
+- **Homework (due before class)**: Read Denise McCoskey's [article](https://eidolon.pub/black-athena-white-power-6bd1899a46f2) about the Black Athena controversy in the early 1990s. In your commonplace book, select a passage that stood out to you and use it to reflect more broadly on the connection between ancient history and modern politics, drawing on other examples from class.
+
+***
+
+## Week 14
+
+### Monday, December 7
+- Why study Classics?
+- **Homework (due before class)**: Read Mathura Umachandran's [article](https://eidolon.pub/more-than-a-common-tongue-cfd7edeb6368) about the intersection of race and classics. In your commonplace book, select a passage that stood out to you and use it to reflect on the value of studying classics in the modern world in light of your experience in this class.
+
+### Wednesday, December 9
+- Wrap-up!
+- **Homework (due before class)**: If you are doing the podcast project, come in ready to share the three passages that you are taking from your commonplace book as inspiration for your podcast.
