@@ -233,7 +233,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ### Monday, November 30
 - The Fall of Sparta
-- **Homework (due before class)**: Send me your [creative project] by email by 2 PM!
+- **Homework (due before class)**: If you chose to do the [creative project](https://dominicmachado.github.io/creative-project-clas141-f20), send it to me by email by 2 PM!
 
 ### Wednesday, December 2
 - CEF day
