@@ -217,8 +217,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12
 
 ### Monday, November 30
-- TBD
-- **Homework (due before class)**: [Dictionary competency quiz](https://forms.gle/wdw8uZxmYZDvdFwv5) due! Reading TBD.
+- Nepos, [Life of Hannibal, Chapter 7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
+- **Homework (due before class)**: [Dictionary competency quiz](https://forms.gle/wdw8uZxmYZDvdFwv5) due! Translate sentences 5-7 of Chapter 7, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to relative clauses and their antecedents.
 
 ### Wednesday, December 2
 - Course evaluation day!
