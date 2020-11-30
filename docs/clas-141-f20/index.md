@@ -39,18 +39,20 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Metics](https://www.pbs.org/empires/thegreeks/img/background/illustrations/32a.jpg)
+![Black Athena](https://i2.wp.com/ringmar.net/irhistorynew/wp-content/uploads/2018/10/blackathena.png)
 
-### Monday, November 9
-- Spartan education Between fact and fiction
-- **Homework (due before class)**: Read the opening four chapters from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:1.1-4.7) about Spartan educational practice. Select one passage from the work and reflect on what this tells us about what was believed to be unique about Sparta in the ancient world and whether you find this to be believable or not given what we have learned about in class in your commonplace book.
+### Monday, November 30
+- The Fall of Sparta
+- **Homework (due before class)**: If you chose to do the [creative project](https://dominicmachado.github.io/creative-project-clas141-f20), send it to me by email by 2 PM!
 
-### Wednesday, November 11
-- Sparta customs
-- **Homework (due before class)**: Read the chapter 5 to 8 from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:5.1-8.5) about Spartan customs. Select one passage from the work and think about the values, both good and bad, that these customs seem to reflect in your commonplace book.
+### Wednesday, December 2
+- CEF day
+- **Homework (due before class)**: None!
 
-### Friday, November 13
-- Spartan women
-- **Homework (due before class)**: Read through the following [selections](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/98-the-advantages-of-spartan-education-and-marriage-customs/) from the Life of Lycurgus and the alleged [sayings](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Sayings_of_Spartan_Women*.html) of Spartan women recorded by Sparta. Select one passage from these works and reflect on what you believe this tells us about Spartan women and how trustworthy the evidence is.
+### Friday, December 4
+- Modern politics and Greek history
+- **Homework (due before class)**: Read Denise McCoskey's [article](https://eidolon.pub/black-athena-white-power-6bd1899a46f2) about the Black Athena controversy in the early 1990s. In your commonplace book, select a passage that stood out to you and use it to reflect more broadly on the connection between ancient history and modern politics, drawing on other examples from class.
+
+
 
 [Back to top.](#top)
