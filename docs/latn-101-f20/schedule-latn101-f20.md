@@ -289,7 +289,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Reading (to be completed before class)**: Review the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/) in our textbook.
 - **Practice (to be completed before class)**: Complete the following exercises on [present](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#present-infinitives) and [perfect](https://lingualatina.github.io/textbook/exercises/04-verbal-nouns-and-adjectives/#perfect-infinitives) infinitive in our textbook.
 
-### Wednesday, November 11
+### Wednesday, November 11 ([slides](https://docs.google.com/presentation/d/1K0baHz_VvlGGfZger1e9OAroHzTNCqCKavp92a5PCGw/edit?usp=sharing))
 - Personal pronouns and reflexives
 - Deponent verbs
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of the [first and second-person personal](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#personal) and the [third-person reflexive](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#3rd-person-himself-herself-itself-themselves) as well as the [prepositions and adverbs](https://lingualatina.github.io/textbook/vocabulary/06-indirect-statement/#prepositions) in the vocabulary list for module 6.
@@ -297,7 +297,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Practice (to be completed before class)**: Complete the following exercises on [personal and reflexive pronouns](https://lingualatina.github.io/textbook/exercises/09-pron-dep-irreg/) in our textbook. Additionally, have a look at the [verbs](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#temporal-clauses-pronouns-deponent-and-irregular-verbs---vocabulary) in the vocabulary list for Module 7 and try to identify the deponent verbs as well as their conjugation.
 - **Further Practice (to be completed before class)**: If you need practice with infinitive formation for indirect statement, try this [exercise](https://observablehq.com/@l3/transform-infinitives-active-passive).
 
-### Friday, November 13
+### Friday, November 13 ([slides](https://docs.google.com/presentation/d/1yi3r36TdwQOTO8gLXVBoyYtvB5r9_ZqUpoqSK4iMmUg/edit?usp=sharing))
 - Dependent clauses
 - Temporal clauses
 - **Assessment (due before class)**: [Vocabulary Quiz #4 due](https://docs.google.com/forms/d/1-q4jIhfZkSDgIeT3ta37XBP1Dj99us9d0aiTV-Cykvo/edit)
@@ -312,7 +312,7 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 
 ## Week 12
 
-### Monday, November 16
+### Monday, November 16 ([slides](https://docs.google.com/presentation/d/1r85PTG7LSIYUFa-0FiswCvB1mAMvOIKwV-6iel5xL74/edit?usp=sharing))
 - Temporal clauses
 - Perfect and pluperfect subjunctive
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive), [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive), and the [perfect and pluperfect passive subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) as well as the [verbs from conor to miror](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#verbs) in the vocabulary for Module 7.
@@ -321,13 +321,13 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 - **Further Practice (optional)**:
 Try your hand at these [practice exercises](https://observablehq.com/@l3/temporal-clauses?collection=@l3/textbook-exercises) for temporal clauses.
 
-### Wednesday, November 18
+### Wednesday, November 18 ([slides](https://docs.google.com/presentation/d/1H_2xY7BF8X5sb9zwEJp6-L1w08dVly_LfqqvB0SW-q4/edit?usp=sharing))
 - Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of [fero and eo](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/), paying attention to where it breaks from our usual paradigms. Additionally, memorize the [verbs from morior to volo](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#verbs) in the vocabulary for Module 7.
 - **Reading (to be completed before class)**: Read the section in our textbooks on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
 - **Practice (to be completed before class)**: Complete synopses on fero, eo, and sum in 3rd person plural.
 
-### Friday, November 20
+### Friday, November 20 ([slides](https://docs.google.com/presentation/d/1kBf40GXThElbsCjFFhWPfWb07r4JCqnJKXIwbyN4vWw/edit?usp=sharing))
 - Reading practice
 - **Morphology and Vocabulary (to be completed before class)**: Review the verbs, adverbs, adjectives, and conjunctions for [Module 7](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany).
 - **Practice (to be completed before class)**: Review subjunctive forms by trying out these [exercises](https://observablehq.com/@l3/identify-subjunctive-forms).
@@ -345,15 +345,16 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 ### Monday, November 30
 - Irregular verbs review
-- **Homework (due before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
+- **Morphology and Vocabulary (to be completed before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
 
 ### Wednesday, December 2
 - CEFs in class
-- **Homework (due before class)**: **[Quiz #5 due](https://forms.gle/kLP6mzu15eHwoXvi7)**.
+- **Assessment (due before class)**: **[Quiz #5 due](https://forms.gle/kLP6mzu15eHwoXvi7)**.
 
 ### Friday, December 4
 - Composition workshop
-- **Homework (due before class)**: **[Translation #4 due](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit)**. Prepare for the composition workshop.
+- **Assessment (due before class)**: **[Translation #4 due](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit)**.
+- **Practice (due before class)**: Prepare for the composition workshop.
 
 [Back to top.](#top)
 
@@ -363,12 +364,12 @@ Try your hand at these [practice exercises](https://observablehq.com/@l3/tempora
 
 ### Monday, December 7
 - Review session
-- **Homework (due before class)**: **[Composition #4 due](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit)**. Begin studying for grammatical competency quiz #3 and bring in questions for our grammar review.
+- **Assessment (due before class)**: **[Composition #4 due](https://docs.google.com/document/d/1cLIq6k3fC4IBC7_x5u9ZFpKCQbcLJ08uNp54zSSSyuY/edit)**.
+- **Morphology and Vocabulary (to be completed before class)**: Begin studying for grammatical competency quiz #3 and bring in questions for our grammar review. Focus on subjunctive verb forms in addition to reviewing indicative forms as well as noun-adjective declensions.
 
 ### Wednesday, December 9
-- Competency quiz #3
 - Looking ahead
-- **Homework (due before class)**: Study for your final grammatical competency quiz.
+- **Assessment (due before class)**: **[Grammatical competency quiz #3 due](https://forms.gle/gTQEnD9Ye6fSd8LP6)**
 
 ***
 

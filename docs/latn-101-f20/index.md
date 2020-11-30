@@ -45,26 +45,19 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ![Chart](https://i.ytimg.com/vi/5oRKf2MNHjw/maxresdefault.jpg)
 
-## Week 12
+## Week 13
 
-### Monday, November 16
-- Temporal clauses
-- Perfect and pluperfect subjunctive
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive), [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive), and the [perfect and pluperfect passive subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) as well as the [verbs from conor to miror](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#verbs) in the vocabulary for Module 7.
-- **Reading (to be completed before class)**: Review the section on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) and read the follow-up section on [sequence of tenses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses).
-- **Practice (to be completed before class)**: Complete the [exercises](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/) in our textbook on temporal clauses. Additionally, complete a synopsis of amo to include the new tenses of the subjunctive in the 3rd person singular.
-- **Further Practice (optional)**:
-Try your hand at these [practice exercises](https://observablehq.com/@l3/temporal-clauses?collection=@l3/textbook-exercises) for temporal clauses.
+### Monday, November 30
+- Irregular verbs review
+- **Morphology and Vocabulary (to be completed before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
 
-### Wednesday, November 18
-- Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of [fero and eo](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/), paying attention to where it breaks from our usual paradigms. Additionally, memorize the [verbs from morior to volo](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/#verbs) in the vocabulary for Module 7.
-- **Reading (to be completed before class)**: Read the section in our textbooks on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
-- **Practice (to be completed before class)**: Complete synopses on fero, eo, and sum in 3rd person plural.
+### Wednesday, December 2
+- CEFs in class
+- **Assessment (due before class)**: **[Quiz #5 due](https://forms.gle/kLP6mzu15eHwoXvi7)**.
 
-### Friday, November 20
-- Reading practice
-- **Morphology and Vocabulary (to be completed before class)**: Review the verbs, adverbs, adjectives, and conjunctions for [Module 7](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany).
-- **Practice (to be completed before class)**: Review subjunctive forms by trying out these [exercises](https://observablehq.com/@l3/identify-subjunctive-forms).
+### Friday, December 4
+- Composition workshop
+- **Assessment (due before class)**: **[Translation #4 due](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit)**.
+- **Practice (due before class)**: Prepare for the composition workshop.
 
 [Back to top.](#top)
