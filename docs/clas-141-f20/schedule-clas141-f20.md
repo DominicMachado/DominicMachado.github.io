@@ -199,11 +199,11 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 
 ## Week 11
 
-### Monday, November 9
+### Monday, November 9 ([slides](https://docs.google.com/presentation/d/1Q6aJCkC2alE7ceLjIC6v3p-I3rcyuBUfunZZAicOdUs/edit?usp=sharing); [video](https://youtu.be/zBKbpuksuoM))
 - Spartan education
 - **Homework (due before class)**: Read the opening four chapters from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:1.1-4.7) about Spartan educational practice. Select one passage from the work and reflect on what this tells us about what was believed to be unique about Sparta in the ancient world and whether you find this to be believable or not given what we have learned about in class in your commonplace book.
 
-### Wednesday, November 11
+### Wednesday, November 11 ([slides](https://docs.google.com/presentation/d/107SMBLmzAA_rWENyU_3TrLf5N2aLS8CBffUFS4INApw/edit?usp=sharing); [video](https://youtu.be/oBe9utV0BsE))
 - Sparta customs
 - **Homework (due before class)**: Read the chapter 5 to 8 from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:5.1-8.5) about Spartan customs. Select one passage from the work and think about the values, both good and bad, that these customs seem to reflect in your commonplace book.
 
