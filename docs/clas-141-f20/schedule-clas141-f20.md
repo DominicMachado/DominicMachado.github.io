@@ -207,7 +207,7 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 - Sparta customs
 - **Homework (due before class)**: Read the chapter 5 to 8 from the [Constitution of the Spartans](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2:5.1-8.5) about Spartan customs. Select one passage from the work and think about the values, both good and bad, that these customs seem to reflect in your commonplace book.
 
-### Friday, November 13
+### Friday, November 13 ([slides](https://docs.google.com/presentation/d/167gD7v2UfVQfWHiDIoCYCQ2-6JtXU7CjM6vw8_Aw9O8/edit?usp=sharing); [video](https://youtu.be/0oxqhGrBdEo))
 - Spartan women
 - **Homework (due before class)**: Read through the following [selections](https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/iv-legal-status-in-the-greek-world/98-the-advantages-of-spartan-education-and-marriage-customs/) from the Life of Lycurgus and the alleged [sayings](http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Sayings_of_Spartan_Women*.html) of Spartan women recorded by Sparta. Select one passage from these works and reflect on what you believe this tells us about Spartan women and how trustworthy the evidence is.
 
