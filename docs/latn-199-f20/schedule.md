@@ -149,7 +149,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 8
+## Week 9
 
 ### Monday, October 26
 - Nepos, [Life of Hannibal, Chapter 2](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
@@ -165,7 +165,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 9
+## Week 10
 
 ### Monday, November 2
 - Nepos, [Life of Hannibal, Chapter 3](http://dcc.dickinson.edu/nepos-hannibal/chapter-3)
@@ -182,7 +182,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 10
+## Week 11
 
 ### Monday, November 9
 - Sight reading
@@ -198,7 +198,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 11
+## Week 12
 
 ### Monday, November 16
 - Nepos, [Life of Hannibal, Chapter 6](http://dcc.dickinson.edu/nepos-hannibal/chapter-6)
@@ -214,7 +214,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 12
+## Week 13
 
 ### Monday, November 30
 - Nepos, [Life of Hannibal, Chapter 7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
@@ -225,12 +225,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Translation #2 due! For this assignment, there is no need for an idiomatic translation, provide only one grammatically-oriented translation.
 
 ### Friday, December 4
-- TBD
-- **Homework (due before class)**: TBD
+- Nepos, [Life of Hannibal, Chapter 7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7) and [8](http://dcc.dickinson.edu/nepos-hannibal/chapter-8)
+- **Homework (due before class)**: Translate sentence 7 of Chapter 7 and sentences 1-2 of Chapter 8, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to relative clauses and their antecedents.
 
 ***
 
-## Week 13
+## Week 14
 
 ### Monday, December 7
 - TBD
