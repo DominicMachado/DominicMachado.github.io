@@ -238,7 +238,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, December 9
 - Course wrap-up!
-- **Homework (due before class)**: Vocabulary competency quiz on words appearing between 3 and 9 times due. Reading TBD
+- **Homework (due before class)**: [Vocabulary competency quiz](https://forms.gle/w3KDNP49C1jvwhhA7) on words appearing between 3 and 9 times due.
 
 ***
 
