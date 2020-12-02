@@ -242,8 +242,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Finals
+## Final
 
-**Final grammatical analysis and translation due**: December 18, 11:59 PM
+Due: December 18, 11:59 PM; **[Final Grammatical Analysis and Translation](https://docs.google.com/document/d/1VSBTqU1EgB4UBfXknGVApDlgsQZcsUf5QxQSGahvfQM/edit?usp=sharing)** 
 
 If you would like to do the grammatical analysis and have my feedback before the translation, please submit this to me by December 11 so that I can correct it and get it back to you.
