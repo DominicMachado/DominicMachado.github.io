@@ -248,8 +248,8 @@ Read Sappho [1](https://diotima-doctafemina.org/translations/greek/greek-women-p
 ## Week 14
 
 ### Monday, December 7
-- Why study Classics?
-- **Homework (due before class)**: Read Mathura Umachandran's [article](https://eidolon.pub/more-than-a-common-tongue-cfd7edeb6368) about the intersection of race and classics. In your commonplace book, select a passage that stood out to you and use it to reflect on the value of studying classics in the modern world in light of your experience in this class.
+- 300(!!!)
+- **Homework (due before class)**: Watch [300](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6324488-0563-4c39-93ff-ac8700ddd77d). In your commonplace book, reflect on three scenes from the movie that surprised you in light what we have learned in class and note how you might write the scenes differently if you directed it.
 
 ### Wednesday, December 9
 - Wrap-up!

@@ -39,19 +39,15 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Black Athena](https://i2.wp.com/ringmar.net/irhistorynew/wp-content/uploads/2018/10/blackathena.png)
+![300](https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/wb-047194-Full-Image_GalleryBackground-en-US-1483993558755._RI_.jpg)
 
-### Monday, November 30
-- The Fall of Sparta
-- **Homework (due before class)**: If you chose to do the [creative project](https://dominicmachado.github.io/creative-project-clas141-f20), send it to me by email by 2 PM!
+### Monday, December 7
+- 300(!!!)
+- **Homework (due before class)**: Watch [300](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6324488-0563-4c39-93ff-ac8700ddd77d). In your commonplace book, reflect on three scenes from the movie that surprised you in light what we have learned in class and note how you might write the scenes differently if you directed it.
 
-### Wednesday, December 2
-- CEF day
-- **Homework (due before class)**: None!
-
-### Friday, December 4
-- Modern politics and Greek history
-- **Homework (due before class)**: Read Denise McCoskey's [article](https://eidolon.pub/black-athena-white-power-6bd1899a46f2) about the Black Athena controversy in the early 1990s. In your commonplace book, select a passage that stood out to you and use it to reflect more broadly on the connection between ancient history and modern politics, drawing on other examples from class.
+### Wednesday, December 9
+- Wrap-up!
+- **Homework (due before class)**: If you are doing the podcast project, come in ready to share the three passages that you are taking from your commonplace book as inspiration for your podcast.
 
 
 
