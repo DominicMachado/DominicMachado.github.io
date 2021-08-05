@@ -16,58 +16,46 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-[Week 1: 9/2 - 9/4](#week-1) \| [Week 2: 9/7 - 9/11](#week-2) \| [Week 3: 9/14 - 9/18](#week-3) \|
-[Week 4: 9/21 - 9/25](#week-4) \| [Week 5: 9/28 - 10/2](#week-5) \| [Week 6: 10/5 - 10/9](#week-6) \|
-[Week 7: 10/12 - 10/16](#week-7) \| [Week 8: 10/19 - 10/23](#week-8) \| [Week 9: 10/26 - 10/30](#week-9) \|
-[Week 10: 11/2 - 11/6](#week-10) \| [Week 11: 11/9 - 11/13](#week-11) \| [Week 12: 11/16 - 11/2-](#week-12) \|
-[Week 13: 11/30 - 12/4](#week-13) \| [Week 14: 12/7 - 12/9](#week-14) \|
+[Week 1: 9/1 - 9/3](#week-1) \| [Week 2: 9/6 - 9/10](#week-2) \| [Week 3: 9/13 - 9/17](#week-3) \|
+[Week 4: 9/20 - 9/24](#week-4) \| [Week 5: 9/27 - 10/1](#week-5) \| [Week 6: 10/4 - 10/8](#week-6) \|
+[Week 7: 10/18 - 10/22](#week-7) \| [Week 8: 10/25 - 10/29](#week-8) \| [Week 9: 11/1 - 11/5](#week-9) \|
+[Week 10: 11/8 - 11/12](#week-10) \| [Week 11: 11/15 - 11/19](#week-11) \| [Week 12: 11/22 - 11/26](#week-12) \|
+[Week 13: 11/29 - 12/3](#week-13) \| [Week 14: 12/6 - 12/10](#week-14) \|
 
 ***
 
-## Week 1
+## Week 1 (9/1 - 9/3)
 
-### Wednesday, September 2
-- Inflection and pronunciation
+### Wednesday, September 1
 - Introduction to CBL
-- **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, fill out the [getting to know you](https://docs.google.com/forms/d/1p9c4UTwGb9wvHT5VZUPOT_Anie4sLlHGPr5DTQsBsso/) survey and watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
+- Latin and CBL
+- **Homework (due before class)**: Read Kennedy and Murray's [article](https://theundefeated.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/) and [addendum](https://rfkclassics.blogspot.com/2021/06/the-negro-problem-race-and-classics-in.html) on the closing of the Classics department at Howard.
 
-### Friday, September 4 ([slides](https://docs.google.com/presentation/d/1gEE7bLGrNzTiGqSTgQ6Rpqje9BqCJhhKegwIBBMNibc/edit?usp=sharing))
-- Nouns (1st, 2nd, and 3rd declensions)
-- Usages of the nominative and genitive
-- Sentences with the verb "to be"
-- **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, memorize the dictionary entries and definitions for the [nouns](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#nouns) in Module 1's vocabulary list.
-- **Practice (to be completed before class)**:
-Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
-- **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on declension identification and the nominative and genitive, as well as Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/nouns/exercise/) with ancient coins (don't worry about the Moodle aspect).
+
+### Friday, September 3
+- Syllabus
+- Inflection and pronunciation
+- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 [Back to top.](#top)
 
 ***
 
-## Week 2
+## Week 2 (9/6 - 9/10)
 
-### Monday, September 7 ([slides](https://docs.google.com/presentation/d/1rP5OZd_xOwharDsD1RV4EzmQgmFeOxDx0Xf8Ya05wNQ/edit?usp=sharing))
+### Monday, September 6
+- Nouns (1st, 2nd, and 3rd declensions)
+- Usages of the nominative and genitive
+- Sentences with the verb “to be”
+
+### Wednesday, September 9
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
-- **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4) read and study sections 1a, 1c, 1d, and 1e in the [adjectives module](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/).
-- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adjectives) in Module 1.
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
-- **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on differentiating adjective type and Prof. Smith's [exercise](https://neelsmith.github.io/latin101/assignments/adjectives/exercise/) on adjectives.
 
-
-### Wednesday, September 9 ([slides](https://docs.google.com/presentation/d/1NC-emNMRJWDkCGRRdqFLADcNsBqICWJQBwEgc5B1NJ8/edit?usp=sharing))
-- Latin and CBL
-- **Homework**: Spend a few minutes thinking about why it might be important to do community in engagement in a Latin course.
-
-### Friday, September 11 ([slides](https://docs.google.com/presentation/d/1FmFKSPNMvtku2-Dr-Ys62iiMhqDZSxkJXZRsWuonT-8/edit?usp=sharing))
+### Friday, September 11
 - *is, ea, id*
 - Demonstrative pronouns
 - Intensifying pronouns
-- **Reading (to be completed before class)**: Watch my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read the section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id*; *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms). Memorize the [verbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#verbs), [conjunctions](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#conjunctions), and [adverbs](https://lingualatina.github.io/textbook/vocabulary/01-nouns-adjs-pron/#adverbs) in Module 1.
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
-- **Further Practice (optional)**: Check out these [exercises](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/) on pronouns.
 
 [Back to top.](#top)
 
