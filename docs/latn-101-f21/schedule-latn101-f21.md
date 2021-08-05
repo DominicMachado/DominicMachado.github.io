@@ -8,7 +8,7 @@ has_children: true
 ---
 ***
 
-# Schedule - LATN 101 - F20
+# Schedule - LATN 101 - F21
 
 ***
 
