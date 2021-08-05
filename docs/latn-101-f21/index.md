@@ -13,7 +13,6 @@ has_children: true
 ![Inscription](https://www.bgsu.edu/content/dam/BGSU/college-of-arts-and-sciences/rocs/images-c/Latin_Header.jpg)
 
 ***
-
 ### Course Information
 &nbsp;  
 - **Meeting Time:** MWF 2:00 - 2:50 PM
