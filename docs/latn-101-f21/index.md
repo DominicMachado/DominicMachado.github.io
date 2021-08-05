@@ -16,15 +16,17 @@ has_children: true
 
 ### Course Information
 &nbsp;  
-- **Meeting Time:** MWF 11:45 - 12:35 PM
-- **Meeting Place:** [Standing Zoom link](https://holycross.zoom.us/j/91362143430)
+- **Meeting Time:** MWF 2:00 - 2:50 PM
+- **Meeting Place:** TBD
 - **Instructor** Prof. Machado
-- **Student Hours**: [T, Th 1 - 3 PM](https://holycross.zoom.us/j/92203871368); click [here](https://calendar.google.com/calendar/selfsched?sstoken=UVBpQWdjNHJvdW1CfGRlZmF1bHR8NzVjMTgxMGMxY2NlMDA4NGI3OGIxZTEyNDM0MzQwZjQ) to schedule a specific time
+- **Student Hours**: T, Th 1 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 [![Intro Video](http://img.youtube.com/vi/rm7NZqHxFNE/0.jpg)](http://www.youtube.com/watch?v=rm7NZqHxFNE "Intro Video")
 
-Latin 101 is the first course in a two-semester introduction to the Latin language. The goal is to read Classical Latin by the end of the year, and in Latin 101 we will cover most of Latin morphology and a good deal of Latin syntax. Alongside our study of the Latin language, we will also have frequent discussions about Latin culture and history and why it still matters today.
+Latin 101 is the first semester in a two-semester introduction to the Latin language. The goal of the introductory Latin sequence is for students to engage with Latin as a historical language. Over the course of the year, students will not only gain the ability to read real Latin texts, but they will also study how these texts and the Latin language more broadly have been used historically to construct structures of power. Moreover, through weekly engagement with the Worcester community, they will see how Latin continues to shape the world around us.
+
+In the first semester, we will learn the nuts and bolts of the Latin language, with a particular focus on gaining a solid grasp morphology (i.e. its forms) and syntax (i.e. grammar and sentence structure). We will use these skills to read several stories about the hero, Hercules, as recorded by the 1st-century CE mythographer, Hyginus. We will also delve into the reasons why we are still studying Latin at Holy Cross in 2021 and consider the larger social and moral obligations that come with it.
 
 [Back to top.](#top)
 
@@ -32,7 +34,7 @@ Latin 101 is the first course in a two-semester introduction to the Latin langua
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f20), [assessment](https://dominicmachado.github.io/assessment-latn101-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f20).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f21), [assessment](https://dominicmachado.github.io/assessment-latn101-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f21).
 
 We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg) as well as a set of [additional exercises](https://observablehq.com/collection/@neelsmith/l3).
 
@@ -40,24 +42,22 @@ We will not but using a physical textbook, but rather an online [textbook](https
 
 ***
 
-### This Week at a Glance
+### This Week at a Glance (9/1 - 9/3)
 &nbsp;  
 
-![Chart](https://i.ytimg.com/vi/5oRKf2MNHjw/maxresdefault.jpg)
+![Pauline Hopkins](https://1.bp.blogspot.com/-OKQrCG-NSBM/YLjz_1gQo0I/AAAAAAAAGrc/RlOEaGwj-R4Ir6atLXMZyY2i7AVv_SqBgCPcBGAYYCw/w244-h320/Pauline_Elizabeth_Hopkins_circa_1901.png)
 
-## Week 13
+## Week 1
 
-### Monday, November 30
-- Irregular verbs review
-- **Morphology and Vocabulary (to be completed before class)**: Review the morphology of new verbs as well as the irregular verbs, and study for quiz #5 on vocabulary from Modules [7 & 8](https://lingualatina.github.io/textbook/vocabulary/08-09-miscellany/).
+### Wednesday, September 1
+- Introduction to CBL
+- Latin and CBL
+- **Homework (due before class)**: Read Kennedy and Murray's [article](https://theundefeated.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/) and [addendum](https://rfkclassics.blogspot.com/2021/06/the-negro-problem-race-and-classics-in.html) on the closing of the Classics department at Howard.
 
-### Wednesday, December 2
-- CEFs in class
-- **Assessment (due before class)**: **[Quiz #5 due](https://forms.gle/kLP6mzu15eHwoXvi7)**.
 
-### Friday, December 4
-- Composition workshop
-- **Assessment (due before class)**: **[Translation #4 due](https://docs.google.com/document/d/11YU8FTunGz-7e4r7DyRsj0M8Wrr5FmrfeBGMQnA7wbI/edit)**.
-- **Practice (due before class)**: Prepare for the composition workshop.
+### Friday, September 3
+- Syllabus
+- Inflection and pronunciation
+- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 [Back to top.](#top)
