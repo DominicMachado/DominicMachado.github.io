@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Grammatical Handout 12
-permalink: grammatical-handout-12-latn199-F21
+permalink: grammatical-handout-12-latn211-F21
 parent: Grammar Handouts
-grand_parent: LATN 199 - F21
+grand_parent: LATN 211 - F21
 nav_order: 12
 ---
 ***

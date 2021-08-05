@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Course Policies
-permalink: course-policies-latn199-f21
-parent: LATN 199 - F21
+permalink: course-policies-latn211-f21
+parent: LATN 211 - F21
 nav_order: 5
 ---
 ***

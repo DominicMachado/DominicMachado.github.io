@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tips for Reading
-permalink: tips-for-reading-latn199-f21
-parent: LATN 199 - F21
+permalink: tips-for-reading-latn211-f21
+parent: LATN 211 - F21
 nav_order: 2
 ---
 ***

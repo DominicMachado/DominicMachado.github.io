@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Schedule
-permalink: schedule-latn199-f21
-parent: LATN 199 - F21
+permalink: schedule-latn211-f21
+parent: LATN 211 - F21
 nav_order: 4
 ---
 ***
 
-# Schedule - LATN 199 - F20
+# Schedule - LATN 211 - F21
 
 ***
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Assessment
-permalink: assessment-latn199-f21
-parent: LATN 199 - F21
+permalink: assessment-latn211-f21
+parent: LATN 211 - F21
 nav_order: 3
 ---
 ***

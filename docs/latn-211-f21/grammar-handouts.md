@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Grammar Handouts
-permalink: grammar-handouts-latn199-f21
-parent: LATN 199 - F21
+permalink: grammar-handouts-latn211-f21
+parent: LATN 211 - F21
 nav_order: 6
 has_children: true
 ---
