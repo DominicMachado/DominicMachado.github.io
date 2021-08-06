@@ -305,6 +305,8 @@ as well as the section on [intransitive sentence structures](https://lingualatin
 ***
 
 ## Week 12 (11/22)
+
+### Monday, November 22
 - Temporal clauses
 - Perfect and pluperfect subjunctive
 - **Assessment (due before class)**: Composition #3 due.
