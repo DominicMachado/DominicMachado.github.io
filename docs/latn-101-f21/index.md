@@ -21,8 +21,6 @@ has_children: true
 - **Student Hours**: T, Th 1 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-[![Intro Video](http://img.youtube.com/vi/rm7NZqHxFNE/0.jpg)](http://www.youtube.com/watch?v=rm7NZqHxFNE "Intro Video")
-
 Latin 101 is the first semester in a two-semester introduction to the Latin language. The goal of the introductory Latin sequence is for students to engage with Latin as a historical language. Over the course of the year, students will not only gain the ability to read real Latin texts, but they will also study how these texts and the Latin language more broadly have been used historically to construct structures of power. Moreover, through weekly engagement with the Worcester community, they will see how Latin continues to shape the world around us.
 
 In the first semester, we will learn the nuts and bolts of the Latin language, with a particular focus on gaining a solid grasp morphology (i.e. its forms) and syntax (i.e. grammar and sentence structure). We will use these skills to read several stories about the hero, Hercules, as recorded by the 1st-century CE mythographer, Hyginus. We will also delve into the reasons why we are still studying Latin at Holy Cross in 2021 and consider the larger social and moral obligations that come with it.
@@ -57,6 +55,6 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ### Friday, September 3
 - Syllabus
 - Inflection and pronunciation
-- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
+- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f21), and [assessment](https://dominicmachado.github.io/assessment-latn101-f21) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 [Back to top.](#top)
