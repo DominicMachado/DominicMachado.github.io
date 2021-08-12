@@ -277,6 +277,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Final
 
-Additionally, you will submit a final reflection (300-500 words) on your experience in Latin 101 this semester (with a particular focus on what we have done in CBL). In your reflection, you will consider what you learned about the intersection of Latin and structures of power and how this relates to larger attempts to create a more just society. Things that you might talk about include, but are not limited, to our discussions of gender and pronouns, the passive voice and power, the limited access of classics to students of color, and the "dark side of the subjunctive." This reflection will be due by email on December 18 at 11:59 PM EST.
+Additionally, you will submit a final reflection (300-500 words) on your experience in Latin 101 this semester (with a particular focus on what we have done in CBL). In your reflection, you will consider how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. Things that you might talk about include, but are not limited, to our discussions of gender and pronouns, the passive voice and power, the limited access of classics to students of color, and the "dark side of the subjunctive." This reflection will be due by email on December 18 at 11:59 PM EST.
 
 [Back to top.](#top)
