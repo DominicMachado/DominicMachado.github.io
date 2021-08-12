@@ -14,9 +14,9 @@ Our course will explore how engaging with Latin as a historical language can off
 
 In addition to the time you spend on site, we will have a weekly practicum section, run by TA (a former 101/102 student), in which you will have time to prepare and plan for your engagement with WPS students as well as discuss and reflect on your CBL experience. You will have signed up for one of the three following practicum sections when you signed up for the course:
 
-- 1) Monday, 4:45-5:35 PM (Location TBD)
-- 2) Monday, 6:00-6:50 PM (Location TBD)
-- 3) Tuesday, 8:00-8:50 AM (Location TBD)
+- Monday, 4:45-5:35 PM (Location TBD)
+- Monday, 6:00-6:50 PM (Location TBD)
+- Tuesday, 8:00-8:50 AM (Location TBD)
 
 Below you will find a schedule of readings, assignments, and announcements related to CBL and practicum.
  
@@ -26,7 +26,9 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 ### September 6/7
 &nbsp;  
-- Introductions; an overview of CBL with Isabelle Jenkins; session sign-ups 
+- Icebreakers
+- Overview of CBL with Isabelle Jenkins
+- Session sign-ups 
 
 ***
 
