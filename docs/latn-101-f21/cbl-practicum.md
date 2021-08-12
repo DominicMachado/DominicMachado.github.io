@@ -14,9 +14,9 @@ Our course will explore how engaging with Latin as a historical language can off
 
 In addition to the time you spend on site, we will have a weekly practicum section, run by TA (a former 101/102 student), in which you will have time to prepare and plan for your engagement with WPS students as well as discuss and reflect on your CBL experience. You will have signed up for one of the three following practicum sections when you signed up for the course:
 
-1) Monday, 4:45-5:35 PM (Location TBD)
-2) Monday, 6:00-6:50 PM (Location TBD)
-3) Tuesday, 8:00-8:50 AM (Location TBD)
+- 1) Monday, 4:45-5:35 PM (Location TBD)
+- 2) Monday, 6:00-6:50 PM (Location TBD)
+- 3) Tuesday, 8:00-8:50 AM (Location TBD)
 
 Below you will find a schedule of readings, assignments, and announcements related to CBL and practicum.
  
@@ -26,7 +26,7 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 ### September 6/7
 &nbsp;  
-- **Topic of Discussion**: Introductions; an overview of CBL with Isabelle Jenkins; session sign-ups 
+- Introductions; an overview of CBL with Isabelle Jenkins; session sign-ups 
 
 ***
 
@@ -34,7 +34,7 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 ### September 13/14
 &nbsp;  
-- **Topic of Discussion**: The problems of grammatical gender
+- The problems of grammatical gender
 - **Homework**: In preparation of our discussion, please read this brief [article](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8) on the concept of gender diversity in Latin.
 
 ***
@@ -43,7 +43,7 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 ### September 20/21
 &nbsp;  
-- **Topic of Discussion**: Verbal Voice and Racial Injustice
+- Verbal voice and racial injustice
 - **Homework**: In preparation of our discussion, please read Prof. Libatique's [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) on the distinction between the active and passive voice and how it relates to structures of power.
 
 ***
@@ -52,7 +52,7 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 ### September 27/28
 &nbsp;  
-- **Topic of Discussion**: Toxic Charity and the Pitfalls of CBL
+- Toxic charity and the pitfalls of CBL
 - **Homework**: In preparation of our discussion, please read this brief [article](https://neelsmith.github.io/latin101/practicum/Lupton-toxic-charity.pdf) on the concept of toxic charity.
 
 ***
