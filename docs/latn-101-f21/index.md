@@ -21,7 +21,7 @@ has_children: true
 - **Student Hours**: T, Th 1 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-Latin 101 is the first semester in a two-semester introduction to the Latin language. Through skills-building in analysis, translation, and composition, students will learn to read real Latin texts – even from the start of our study. At the same time, we will explore how engaging Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of this course is weekly engagement with the Worcester community, through which students will see how Latin continues to shape the world around us. The course’s emphasis on the relationship between our work and broad ethical concerns is in keeping with Holy Cross’ Mission, the shared commitment to “seeking justice within and beyond the Holy Cross community.” 
+Latin 101 is the first semester in a two-semester introduction to the Latin language. By analyzing, translating, and composing Latin, students will learn to read real ancient texts from the start of our study. At the same time, we will explore how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of this course is weekly engagement with the Worcester community, through which students will see how Latin continues to shape the world around us. The course’s emphasis on the relationship between our work and broad ethical concerns is in keeping with Holy Cross’ Mission, the shared commitment to “seeking justice within and beyond the Holy Cross community.” 
 
 In the first semester, we will learn the nuts and bolts of the Latin language, with a particular focus on gaining a solid grasp of morphology (i.e. its forms) and syntax (i.e. grammar and sentence structure). We will use these skills to read several stories about the hero, Hercules, as recorded by the 1st-century CE mythographer, Hyginus. We will also delve into the reasons why we are still studying Latin at Holy Cross in 2021 and consider the larger social and moral obligations that come with it.
 
@@ -47,8 +47,8 @@ We will not but using a physical textbook, but rather an online [textbook](https
 ## Week 1
 
 ### Wednesday, September 1
-- Introduction to CBL
-- Latin and CBL
+- Studying a historical language
+- Latin and the community
 - **Homework (due before class)**: Read Kennedy and Murray's [article](https://theundefeated.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/) and [addendum](https://rfkclassics.blogspot.com/2021/06/the-negro-problem-race-and-classics-in.html) on the closing of the Classics department at Howard.
 
 
