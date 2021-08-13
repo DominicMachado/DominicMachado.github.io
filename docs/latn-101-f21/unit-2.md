@@ -51,7 +51,7 @@ Below are the dates on which your assessments are due:
 &nbsp;  
 Here are the important links for this unit:
 
-- Review exercises (link to come)
+- Review exercises [link coming]
 - Course readings on [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/)
 - Course readings on the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative
-- Vocabulary list (link to come)
+- Vocabulary list [link coming]
