@@ -151,7 +151,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, October 22
 - Verbal form review
 - Reading practice
-- **Assessment (to be completed before class)**: Mastery quiz #2
+- **Assessment**: Mastery quiz #2
 
 [Back to top.](#top)
 
@@ -215,7 +215,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, November 15
 - Review
-- **Assessment (due before class)**: Mastery quiz #3.
+- **Assessment**: Mastery quiz #3.
 
 ### Wednesday, November 17
 - Composition workshop
@@ -263,7 +263,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, December 6
 - Review
-- **Assessment (due before class)**: Mastery quiz #4
+- **Assessment**: Mastery quiz #4
 
 ### Wednesday, December 8
 - Composition workshop
