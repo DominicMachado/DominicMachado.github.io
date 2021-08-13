@@ -7,7 +7,7 @@ nav_order: 6
 ---
 ***
 
-# Course Objectives - LATN 101 - F21
+# Course Policies - LATN 101 - F21
 
 ***
 
