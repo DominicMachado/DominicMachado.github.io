@@ -44,6 +44,7 @@ Below are the dates on which your assessments:
 - Wednesday, September 29 - Mastery quiz #1
 - Friday, October 1 - Translation #1 due [link coming]
 - Monday, October 4 - Composition #1 due [link coming]
+
 ***
 
 ### Materials
