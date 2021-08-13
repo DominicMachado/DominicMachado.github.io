@@ -7,7 +7,7 @@ nav_order: 1
 ---
 ***
 
-# Course Objectives - LATN 101 - F20
+# Course Objectives - LATN 101 - F21
 
 ***
 
