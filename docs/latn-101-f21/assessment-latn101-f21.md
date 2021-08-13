@@ -11,7 +11,7 @@ nav_order: 3
 
 ***
 
-[CBL Attendance and Participation](#cbl-attendance-participation---200-points) \| [Quizzes](#quizzes---150-points) \|  [Compentency Quizzes](#competency-quizzes---150-points) \| [Translations](#translations---250-points) \| [Compositions](#compositions---250-points) \|
+[CBL Attendance and Participation](#cbl-attendance-participation---250-points) \| [Mastery Quizzes](#mastery-quizzes---250-points) \| [Translations](#translations---250-points) \| [Compositions](#compositions---250-points) \|
 
 ***
 
@@ -21,13 +21,13 @@ As a part of the community-based learning portion of the course, you will partic
 
 ***
 
-## Mastery Quizzes and Daily Unquizzes - 250 points
+## Mastery Quizzes - 250 points
 &nbsp;  
 We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis, with a score of 95% or higher required for a pass. 
 
 You will have unlimited opportunities to retake these quizzes to earn a pass. In order to retake a quiz, you must email me and set up a date and time for me to administer the quiz retake.
 
-To help prepare you for these quizzes, you will have a "unquiz" each class - a formative assessment that will test your knowledge of the forms and vocabulary that we are discussing in class. This will help you to know what kind of learning you will need to be doing to prepare for the mastery quiz. In order to incentivize your 
+To help prepare you for these quizzes, you will have a "unquiz" each class - a formative assessment that will test your knowledge of the forms and vocabulary that we are discussing in class. This will help you to know what kind of learning you will need to be doing to prepare for the mastery quiz. 
 
 ***
 
