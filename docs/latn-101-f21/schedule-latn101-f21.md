@@ -35,7 +35,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 3
 - Syllabus
 - Inflection and pronunciation
-- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f20), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f20), and [assessment](https://dominicmachado.github.io/assessment-latn101-f20) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
+- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f21), and [assessment](https://dominicmachado.github.io/assessment-latn101-f21) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
 
 [Back to top.](#top)
 
