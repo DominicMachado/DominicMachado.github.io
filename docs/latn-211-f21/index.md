@@ -15,16 +15,16 @@ has_children: true
 
 ### Course Information
 &nbsp;  
-- **Meeting Time:** MWF 8:00 - 8:50 AM
-- **Meeting Place:** [Standing Zoom link](https://holycross.zoom.us/j/94670392978)
+- **Meeting Time:** MWF 9:00 - 9:50 AM
+- **Meeting Place:** TBD
 - **Instructor** Prof. Machado
-- **Student Hours**: [T, Th 1 - 3 PM](https://holycross.zoom.us/j/92203871368); click [here](https://calendar.google.com/calendar/selfsched?sstoken=UVBpQWdjNHJvdW1CfGRlZmF1bHR8NzVjMTgxMGMxY2NlMDA4NGI3OGIxZTEyNDM0MzQwZjQ) to schedule a specific time
+- **Student Hours**: T, Th 1 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-Latin 199 is meant to serve as an introduction to the reading of Latin at the college level. 	
+Latin 211 is meant to serve as an introduction to the reading of Latin at the college level. 	
 The course is specifically designed for students who have studied Latin at the high school level for multiple years, but do not yet feel comfortable with reading advanced poetry and prose. The aim of the course to give students the opportunity to improve their knowledge of Latin grammar and syntax, with a view towards enabling reading facility of real Latin texts. As such, the course will be a mix of grammar review and reading practice.
 
-The readings for the course will thematically organized around the character of Hannibal, arguably Rome's greatest enemy. To that end, we will read all of Cornelius Nepos' biography of Hannibal and selections from Book 21 of Livy's Roman history.
+The readings for the course will thematically organized around the character of Hannibal, arguably Rome's greatest enemy. To that end, we will read all of Cornelius Nepos' biography of Hannibal.
 
 [Back to top.](#top)
 
@@ -32,13 +32,12 @@ The readings for the course will thematically organized around the character of 
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn199-f20), [course policies](https://dominicmachado.github.io/course-policies-latn199-f20), [assessment](https://dominicmachado.github.io/course-policies-latn199-f20), and our [full course schedule](https://dominicmachado.github.io/schedule-latn199-f20). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn199-f20).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn211-f21), [course policies](https://dominicmachado.github.io/course-policies-latn211-f21), [assessment](https://dominicmachado.github.io/course-policies-latn211-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn211-f21). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn211-f21).
 
 In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
  - [HC Latin Textbook](https://lingualatina.github.io/textbook/)
  - [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
- - [Text and commentary of Livy, Book 21](https://arcane-cliffs-02027.herokuapp.com/)
- - [Core Vocabulary List](http://ww3.haverford.edu/classics/DCC/Vocab/Full/pdf/Nepos-Hannibal-Vocabulary-Repeat3.pdf)
+ - [Core Vocabulary List](link to come)
  - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
  - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
 
