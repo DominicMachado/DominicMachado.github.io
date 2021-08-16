@@ -10,7 +10,6 @@ nav_order: 1
 
 ## Grammar Handouts #1 - Nouns, Adjectives, and Verbs
 &nbsp;  
-To be completed by September 7, 8 AM
 
 ***
 

@@ -10,7 +10,7 @@ nav_order: 10
 
 ## Grammar Handouts #10 - Conditions
 &nbsp;  
-To be completed by October 2, 8 AM
+To be completed by September 29, 9 AM
 
 ***
 

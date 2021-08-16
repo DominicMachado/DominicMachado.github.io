@@ -50,18 +50,15 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 13
+## Week 1
 
-### Monday, November 30
-- Nepos, [Life of Hannibal, Chapter 7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
-- **Homework (due before class)**: [Dictionary competency quiz](https://forms.gle/wdw8uZxmYZDvdFwv5) due! Translate sentences 5-7 of Chapter 7, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to relative clauses and their antecedents.
+### Wednesday, September 1
+- Course overview
+- Resource primer
+- **Homework (due before class)**: Complete a short [diagnostic assessment](https://docs.google.com/forms/d/e/1FAIpQLSeA5zstKdGp-8h3xsW2cIw-Ydayk_YD977nAaKCbvb4bWs7Sw/viewform?usp=sf_link) and take quick look through our course website.
 
-### Wednesday, December 2
-- Course evaluation day!
-- **Homework (due before class)**: Translation #2 due! For this assignment, there is no need for an idiomatic translation, provide only one grammatically-oriented translation.
-
-### Friday, December 4
-- Nepos, [Life of Hannibal, Chapter 7](http://dcc.dickinson.edu/nepos-hannibal/chapter-7) and [8](http://dcc.dickinson.edu/nepos-hannibal/chapter-8)
-- **Homework (due before class)**: Translate sentence 7 of Chapter 7 and sentences 1-2 of Chapter 8, marking out the clauses, both independent and dependent, and the main verbs within each. Pay particular attention to relative clauses and their antecedents.
+### Friday, September 3
+- Nouns, adjectives, and verbs
+- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn211-f21).
 
 [Back to top.](#top)

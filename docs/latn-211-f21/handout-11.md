@@ -10,7 +10,7 @@ nav_order: 11
 
 ## Grammar Handouts #11 - Ut/ne clauses
 &nbsp;  
-To be completed by October 5, 8 AM
+To be completed by October 1, 9 AM
 
 ***
 

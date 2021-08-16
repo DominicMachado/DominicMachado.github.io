@@ -8,21 +8,15 @@ nav_order: 5
 ---
 ***
 
-## Grammar Handouts #5 - Participles
+## Grammar Handouts #5 - Gerunds and Gerundives
 &nbsp;  
-To be completed by September 18, 8 AM
+To be completed by September 15, 9 AM
 
 ***
 
 ## Readings
 &nbsp;  
-Read through these short selections on the different types and usages of participles in Latin:
- - [Overview](https://lingualatina.github.io/textbook/presentation/10-participles/overview/)
- - [Present Active Participles](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/)
- - [Perfect Passive Participles](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/)
- - [Future Participles](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/)
- - [Translating Participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/)
- - [Ablative Absolutes](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/)
+Read through this short introduction to the different usages of [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) in Latin.
 
 Take note of any questions you have and bring them to class.
 
@@ -30,14 +24,14 @@ Take note of any questions you have and bring them to class.
 
 ## Sentences
 &nbsp;  
-Translate these sentences in advance of class and identify the tense and type of the participle(s) in each sentence.
+Translate these sentences in advance of class and identify gerund(s) and gerundive(s) in each sentence.
 
-1. *Hann. 2.3*: Eīque cum multa dē fidē suā et odiō in Rōmānōs commemorāsset, hoc adiūnxit: "Pater meus" inquit "Hamilcar puerulō mē, utpote nōn amplius novem annōs nātō, in Hispāniam imperātor proficīscēns, Karthāgine Iovī optimō maximō hostiās immolāvit. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-2)
+1. *Hann. 7.1*: Cum in apparandō ācerrimē esset occupātus, Karthāginiēnsēs bellum cum Rōmānīs composuērunt. Ille nihilō sētius exercituī posteā praefuit rēsque in Āfricā gessit ūsque ad P. Sulpicium C. Aurēlium cōnsulēs. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
 
-2. *Hann. 4.1*: Cum hōc eōdem Clastidī apud Padum dēcernit sauciumque inde ac fugātum dīmittit. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
+2. *Hann. 7.6*:  Hōs Hannibal ratus suī exposcendī grātiā missōs, priusquam iīs senātus darētur, nāvem ascendit clam atque in Syriam ad Antiochum perfūgit. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-7)
 
-3. *Hann. 4.3*: Hōc itinere adeō gravī morbō adficitur oculōrum, ut posteā numquam dextrō aequē bene ūsus sit. Quā valētūdine cum etiam tum premerētur lectīcāque ferrētur, C. Flāminium cōnsulem apud Trasumēnum cum exercitū īnsidiīs circumventum occīdit, neque multō post C. Centēnium praetōrem cum dēlēctā manū saltūs occupantem. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-4)
+3. *Hann. 8.3*: Antiochus autem, sī tam in agendō bellō cōnsiliīs ēius pārēre voluisset, quam in suscipiendō īnstituerat, propius Tiberī quam Thermopylīs dē summā imperiī dīmicāsset. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-8)
 
-4. *Hann. 5.1*: Hāc pugnā pugnātā, Rōmam profectus nūllō resistente. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-5)
+4. *Hann. 10.3*: Ad hunc interficiendum tālem iniit ratiōnem. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-10)
 
-5. *Hann. 5.2*: Hic, clausus locōrum angustiīs, noctū sine ūllō dētrīmentō exercitūs sē expedīvit; Fabiōque, callidissimō imperātōrī, dedit verba. Namque, obductā nocte, sarmenta in cornibus iuvencōrum dēligāta incendit ēiusque generis multitūdinem magnam dispālātam immīsit. Quō repentīnō obiectō vīsū tantum terrōrem iniēcit exercituī Rōmānōrum, ut ēgredī extrā vāllum nēmō sit ausus. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-5)
+5. *Hann. 10.4*: Superābātur nāvium multitūdine; dolō erat pugnandum, cum pār nōn esset armīs. Imperāvit quam plūrimās venēnātās serpentēs vīvās colligī eāsque in vāsa fīctilia conicī. [Vocabulary and Commentary](http://dcc.dickinson.edu/nepos-hannibal/chapter-10)

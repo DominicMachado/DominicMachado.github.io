@@ -10,7 +10,7 @@ nav_order: 7
 
 ## Grammar Handouts #7 - Relative Clauses
 &nbsp;  
-To be completed by September 23, 8 AM
+To be completed by September 22, 9 AM
 
 ***
 
