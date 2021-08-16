@@ -33,7 +33,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, September 6
 - Case usage
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn199-f20).
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn211-f21).
 
 
 ### Wednesday, September 8
