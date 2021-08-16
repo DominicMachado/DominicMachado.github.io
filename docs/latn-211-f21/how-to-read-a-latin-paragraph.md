@@ -7,7 +7,7 @@ nav_order: 2
 ---
 ***
 
-# How to Read a Latin Sentence - LATN 199 - F20
+# How to Read a Latin Sentence - LATN 211 - F21
 
 ***
 ## How to Read a Latin Sentence
