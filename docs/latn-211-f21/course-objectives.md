@@ -7,7 +7,7 @@ nav_order: 1
 ---
 ***
 
-# Course Objectives - LATN 199 - F20
+# Course Objectives - LATN 211 - F21
 
 ***
 ## Course Objectives

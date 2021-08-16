@@ -7,7 +7,7 @@ nav_order: 5
 ---
 ***
 
-# Course Policies - LATN 199 - F20
+# Course Policies - LATN 211 - F21
 
 ***
 ## Course Policies
