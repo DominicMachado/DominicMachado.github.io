@@ -16,6 +16,7 @@ has_children: true
 ## Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
 &nbsp;
 ![Inflection](https://bencrowder.net/images/projects/latin-declensions.png)
+
 ***
 
 ### Narrative
@@ -58,6 +59,9 @@ By the end of Unit 1, you will be able to:
 - [Perfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/)
 - [Imperfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
 - [Sentence Structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/)
+
+***
+
 
 ### Assessment
 &nbsp;  
