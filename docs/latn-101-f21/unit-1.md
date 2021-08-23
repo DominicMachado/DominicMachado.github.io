@@ -17,7 +17,7 @@ has_children: true
 
 ***
 
-### Unit 1 Narrative
+### Narrative
 &nbsp;  
 
 In Unit 1, we will look at how [inflection](http://www.youtube.com/watch?v=5g1sz9qRNJ0) works in the Latin language. We begin by with the concept of an inflected language and detailing how Latin’s use of inflection differs from English’ use of it. The key takeaway here will be that while English primarily relies on word order to convey grammatical function, Latin uses word endings to do so.
@@ -30,7 +30,7 @@ The last part of this unit will look at how Latin puts together these inflected 
 
 ***
 
-### Unit 1 Objectives
+### Objectives
 &nbsp;  
 By the end of Unit 1, you will be able to:
 
@@ -43,9 +43,8 @@ By the end of Unit 1, you will be able to:
 
 ***
 
-### Unit 1 TOC
+### Table of contents
 &nbsp;
-
 - [Nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/)
 - [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
 - [Pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns)
@@ -61,7 +60,7 @@ By the end of Unit 1, you will be able to:
 
 ### Assessment
 &nbsp;  
-Below are the dates on which your assessments:
+Below are the dates on which your assessments are due:
 - Wednesday, September 29 - Mastery quiz #1
 - Friday, October 1 - Translation #1 due [link coming]
 - Monday, October 4 - Composition #1 due [link coming]
@@ -70,4 +69,4 @@ Below are the dates on which your assessments:
 
 ### Vocabulary
 &nbsp;  
-Below is the link to the vocabulary for Unit 1
+Below is the link to the vocabulary for Unit 1:
