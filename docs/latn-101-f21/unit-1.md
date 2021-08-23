@@ -19,9 +19,8 @@ has_children: true
 
 ***
 
-### Narrative
+### Narrative Overview
 &nbsp;  
-
 In Unit 1, we will look at how [inflection](http://www.youtube.com/watch?v=5g1sz9qRNJ0) works in the Latin language. We begin by with the concept of an inflected language and detailing how Latin’s use of inflection differs from English’ use of it. The key takeaway here will be that while English primarily relies on word order to convey grammatical function, Latin uses word endings to do so.
 
 We will then move to examine the various different substantives – [noun](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/), [pronoun](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/), and [adjective](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) – and how they are inflected in Latin. In spite of their different usages,  all these substantive forms have three characteristics – case, number, and grammatical gender – and these characteristics signal the substantive’s role in a sentence. Consequently, we will learn how to recognize, form, analyze, and translate substantives and substantive phrases based on these characteristics. To accomplish this task, we will become familiar with the way that dictionary entries for substantives work and especially how these entries help us to understand the rules for the inflection of the particular substantive, something that is often referred to as a noun’s declension.
@@ -45,7 +44,7 @@ By the end of Unit 1, you will be able to:
 
 ***
 
-### Content
+### Table of Contents
 &nbsp;
 - [Nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/)
 - [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
@@ -62,7 +61,7 @@ By the end of Unit 1, you will be able to:
 
 ***
 
-### Practice
+### Practice Exercises
 &nbsp;
 - [Reading dictionary entries for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/)
 - [Nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/)
