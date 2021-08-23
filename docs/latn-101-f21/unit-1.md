@@ -45,7 +45,7 @@ By the end of Unit 1, you will be able to:
 
 ***
 
-### Table of Contents
+### Content
 &nbsp;
 - [Nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/)
 - [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
@@ -62,6 +62,14 @@ By the end of Unit 1, you will be able to:
 
 ***
 
+### Practice
+&nbsp;
+- [Reading dictionary entries for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/)
+- [Nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/)
+- [Reading dictionary entries for adjectives](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/)
+- [Pronouns - Nominative and Genitive](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/)
+
+***
 
 ### Assessment
 &nbsp;  
