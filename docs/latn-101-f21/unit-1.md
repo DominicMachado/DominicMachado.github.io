@@ -14,7 +14,8 @@ has_children: true
 ***
 
 ## Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
-
+&nbsp;
+![Inflection](https://bencrowder.net/images/projects/latin-declensions.png)
 ***
 
 ### Narrative
@@ -43,7 +44,7 @@ By the end of Unit 1, you will be able to:
 
 ***
 
-### Table of contents
+### Table of Contents
 &nbsp;
 - [Nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/)
 - [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
