@@ -17,17 +17,22 @@ has_children: true
 
 ***
 
-### Introduction
+### Unit 1 Narrative
 &nbsp;  
-[![Inflection Video](http://img.youtube.com/vi/5g1sz9qRNJ0/0.jpg)](http://www.youtube.com/watch?v=5g1sz9qRNJ0 "Inflection Video")
 
-Our first unit will introduce you to the topic of inflection in the Latin language. The unit will last roughly six weeks, covering substantive (i.e. noun, pronoun, and adjective) and verbal inflection.
+In Unit 1, we will look at how [inflection](http://www.youtube.com/watch?v=5g1sz9qRNJ0) works in the Latin language. We begin by with the concept of an inflected language and detailing how Latin’s use of inflection differs from English’ use of it. The key takeaway here will be that while English primarily relies on word order to convey grammatical function, Latin uses word endings to do so.
+
+We will then move to examine the various different substantives – [noun](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/), [pronoun](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/), and [adjective](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) – and how they are inflected in Latin. In spite of their different usages,  all these substantive forms have three characteristics – case, number, and grammatical gender – and these characteristics signal the substantive’s role in a sentence. Consequently, we will learn how to recognize, form, analyze, and translate substantives and substantive phrases based on these characteristics. To accomplish this task, we will become familiar with the way that dictionary entries for substantives work and especially how these entries help us to understand the rules for the inflection of the particular substantive, something that is often referred to as a noun’s declension.
+
+We will build on our discussion of substantive inflection by looking at verbal inflection. We will learn about the [five characteristics of verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/#verbs) – person, number, tense, voice, and mood – and how these characteristics create meaning in a Latin sentence. As we did with substantives, we will learn how to recognize, form, analyze, and translate verbs based on these characteristics. Once again, we will spend time learning about [dictionary entries](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/#dictionary-entry) for verbs and how the information contained therein can help us to better understand a specific verbal form. We will also learn some of the rules for verbal inflection, i.e. [conjugation](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/#conjugations).
+
+The last part of this unit will look at how Latin puts together these inflected forms at the sentence level. We will learn about different types of [sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) found in Latin, the particular collocations of verbal and substantive forms that they use, and the way that we translate these forms.
 
 ***
 
-### Unit Objectives
+### Unit 1 Objectives
 &nbsp;  
-By the end of this unit, you will be able to:
+By the end of Unit 1, you will be able to:
 
 - Explain the basic principles of inflection in the Latin language as well as how it differs from English
 - Articulate the different features of substantives (nouns, adjectives, and pronouns) and the information that these features provide
@@ -38,6 +43,22 @@ By the end of this unit, you will be able to:
 
 ***
 
+### Unit 1 TOC
+&nbsp;
+
+- [Nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/)
+- [Adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/)
+- [Pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns)
+- [is, ea, id](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id)
+- [sui, sibi, se, se](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns)
+- [Demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives)
+- [Intensifying](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives)
+- [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives)
+- [Verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/)
+- [Perfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/)
+- [Imperfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
+- [Sentence Structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/)
+
 ### Assessment
 &nbsp;  
 Below are the dates on which your assessments:
@@ -47,9 +68,6 @@ Below are the dates on which your assessments:
 
 ***
 
-### Materials
+### Vocabulary
 &nbsp;  
-Here are the important links for this unit:
-- Course readings on [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/)
-- Course readings on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/)
-- Vocabulary [link coming]
+Below is the link to the vocabulary for Unit 1
