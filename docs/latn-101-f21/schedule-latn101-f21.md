@@ -65,7 +65,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - *is, ea, id*
 - *sui, sibi, se, se*
 -  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se**.  Memorize the dictionary entries and definitions for the [pronouns](link to come) in Unit 1.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se*.  Memorize the dictionary entries and definitions for the [pronouns](link to come) in Unit 1.
 - **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the nominative and genitive forms of *is, ea, id*.
 
 [Back to top.](#top)
@@ -79,7 +79,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Intensifying pronouns (*ipse, ipsa, ipsum*)
 -  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id*; *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms).
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video. - **Further Practice**: TBD
+- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
+- **Further Practice**: TBD
 
 ### Wednesday, September 15
 - -ius adjectives
