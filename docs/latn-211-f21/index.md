@@ -18,7 +18,7 @@ has_children: true
 - **Meeting Time:** MWF 9:00 - 9:50 AM
 - **Meeting Place:** TBD
 - **Instructor** Prof. Machado
-- **Student Hours**: T, Th 1 - 3 PM; Fenwick 413
+- **Student Hours**: T, Th 1 - 2:30 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 Latin 211 is meant to serve as an introduction to the reading of Latin at the college level. 	
