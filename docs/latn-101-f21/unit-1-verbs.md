@@ -16,9 +16,9 @@ has_children: true
 
 ## Unit 1 - Verbs
 &nbsp;
-- adduco, adducĕre, adduxi, adductus: to lead or conduct
- - duco, ducĕre, duxi, ductus: to lead
 - audio, audire, audivi, auditus: to hear
+- duco, ducĕre, duxi, ductus: to lead
+  - adduco, adducĕre, adduxi, adductus: to lead or conduct
 - interficio, interficĕre, interfeci, interfectus: destroy, kill
 - neco, necare, necavi, necatus: to slay
 - occido, occidĕre, occidi, occisus: strike down, slay
