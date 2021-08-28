@@ -10,12 +10,12 @@ has_children: true
 ---
 ***
 
-# Unit 1 - Vocabulary - LATN 101 - f21
+# Unit 1 - Vocabulary - LATN 101 - F21
 
 ***
 
 ## Unit 1 - Nouns
-&nbsp; 
+&nbsp;
 - arma, armorum *n* (pl. only): *arms, weapons*
 - avis, avis *f*: *bird*
 - caput, capitis *n*: *head*
