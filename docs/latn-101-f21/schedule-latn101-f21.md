@@ -48,7 +48,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Usages of the nominative and genitive
 - Sentences with the verb “to be”
 - **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](link to come) in Unit 1's vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](lhttps://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
 - **Practice (to be completed before class)**:
 Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 - **Further Practice**: Try your hand at the following exercises on [nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/) and [dictionary entires for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/).
@@ -57,15 +57,15 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Adjectives (2-1-2, 3rd declension adjectives)
 - Noun-adjective agreement
 - **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Additionally, read and study sections 1a, 1c, 1d, and 1e in selection on [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) from the textbook.
-- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](link to come) in Unit 1.
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *sapiens regina*; *horribilis pater*; *mea soror*.
+- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in Unit 1.
+- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *ferox filia*; *suus hospes*; *mortalis pater*.
 - **Further Practice**: Try your hand at the following exercise on [dictionary entires for adjectives](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/).
 
 ### Friday, September 10
 - *is, ea, id*
 - *sui, sibi, se, se*
 -  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se*.  Memorize the dictionary entries and definitions for the [pronouns](link to come) in Unit 1.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se*.  Memorize the dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1.
 - **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the nominative and genitive forms of *is, ea, id*.
 
 [Back to top.](#top)
@@ -86,9 +86,16 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - -ius adjectives
 - Substantives
 - Review
+- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
+
 
 ### Friday, September 17
 - The dative, accusative, and ablative cases
+- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the dative and accusative cases.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms for all [noun types](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) we have learned as well as for [*hic*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), [*ille*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#ille-illa-illud---that-those), and [*is*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#is-ea-id---he-she-it-they-3rd-person). Compare the noun paradigms with those of the [different adjective types](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) we have learned, so you can are aware of key differences.
+- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following noun-adjective pairs, noting the declensions of the noun and adjective: *ferox filia*; *suus hospes*; *mortalis pater*.
+- **Further Practice**: TBD
 
 [Back to top.](#top)
 
@@ -103,6 +110,9 @@ Identify the declensions that the list of nouns in my video belong to and form t
   - Conjugations
 - Perfect active
 - Sentence Type 1: Transitive
+- **Reading (to be completed before class)**: Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection and the formation of [the imperfect and perfect tenses](https://www.youtube.com/watch?v=ghll0S0AxsI). Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the first eight dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1 (up to and including *habeo*).
+- **Practice (to be completed before class)**: Identify the conjugations of the first eight verbs in your vocabulary list and form the 3rd person singular and plural perfect active indicative forms for each of these verbs. 
 
 ### Wednesday, September 22
 - Perfect passive
