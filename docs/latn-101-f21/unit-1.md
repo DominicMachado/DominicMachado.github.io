@@ -84,4 +84,8 @@ Below are the dates on which your assessments are due:
 Below is the link to the vocabulary for Unit 1:
 
 - [Nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns)
+- [Adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives)
+- [Pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns)
 - [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs)
+- [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs)
+- [Prepositions]
