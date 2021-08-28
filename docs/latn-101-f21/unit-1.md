@@ -88,4 +88,4 @@ Below is the link to the vocabulary for Unit 1:
 - [Pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns)
 - [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs)
 - [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs)
-- [Prepositions]
+- [Prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions)

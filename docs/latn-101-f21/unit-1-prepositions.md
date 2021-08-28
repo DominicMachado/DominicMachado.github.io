@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unit 1 - Vocabulary - Prepositions
-permalink: schedule-latn101-f21-unit-1-vocabulary-Prepositions
+permalink: schedule-latn101-f21-unit-1-vocabulary-prepositions
 parent: Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
 grand_parent: Schedule
 great_grand_parent: LATN 101 - F21
@@ -20,4 +20,4 @@ has_children: true
 - cum + *abl*: *with*
 - inter + *acc*: *between*, *among*
 - pro + *abl*: *in front of*, *on behalf of*
-- propter + *acc*: *on account of* 
+- propter + *acc*: *on account of*
