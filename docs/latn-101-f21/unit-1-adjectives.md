@@ -14,7 +14,7 @@ has_children: true
 
 ***
 
-## Unit 1 - Adjective
+## Unit 1 - Adjectives
 &nbsp;
 - acer, acris, acre: *harsh*, *sharp*
 - ferox, ferocis: *ferocious*
