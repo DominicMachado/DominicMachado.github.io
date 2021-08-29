@@ -140,10 +140,14 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Monday, September 27
 - *sum, esse, fui*
 - Sentence Type 4: Linking sentences
+- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural. In addition, memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions).
+- **Practice (to be completed before class)**: TBA
 
 ### Wednesday, September 29
 - Review
 - **Assessment**: Mastery Quiz #1
+- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/edit) and [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY/edit).
 
 ### Friday, October 1
 - Composition workshop
