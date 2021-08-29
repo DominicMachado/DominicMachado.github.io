@@ -26,6 +26,8 @@ has_children: true
 - habeo, habēre, habui, habitus: *to have*
 - interficio, interficĕre, interfeci, interfectus: *to destroy, kill*
 - mitto, mittĕre, misi, missus: *to send*
+  - amitto, amittere, amisi, amissus: *to send away*
+  - emitto, emittere, emisi, emissus: *to send out*, *send forth*
 - neco, necare, necavi, necatus: *to slay*
 - occido, occidĕre, occidi, occisus: *to strike down, slay*
 - peto, petĕre, petivi or petii, petitus: *to attack, demand, seek*
