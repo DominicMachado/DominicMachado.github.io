@@ -16,7 +16,7 @@ has_children: true
 ### Course Information
 &nbsp;  
 - **Meeting Time:** MWF 9:00 - 9:50 AM
-- **Meeting Place:** TBD
+- **Meeting Place:** Stein 216
 - **Instructor** Prof. Machado
 - **Student Hours**: T, Th 1 - 2:30 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
