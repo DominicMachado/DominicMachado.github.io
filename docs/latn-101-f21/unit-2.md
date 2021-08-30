@@ -55,3 +55,15 @@ Here are the important links for this unit:
 - Course readings on [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/)
 - Course readings on the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative
 - Vocabulary list [link coming]
+
+***
+
+### Vocabulary
+&nbsp;  
+Below is the link to the vocabulary for Unit 2:
+
+- [Nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-nouns)
+- [Adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-adjectives)
+- [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs)
+- [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-conjunctions-adverbs)
+- [Prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions)
