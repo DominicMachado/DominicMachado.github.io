@@ -16,7 +16,7 @@ has_children: true
 
 ## Unit 2 - Adjectives
 &nbsp;
-- alius, alia, ali: *harsh*, *sharp*
+- alius, alia, aliud: *another*
 - duo, duae, duo (*irregular*): *two*
 - duodecim (*indeclinable*): *twelve*
 - multus, multa, multum: *many*
