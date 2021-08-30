@@ -37,6 +37,16 @@ By the end of this unit, you will be able to:
 
 ***
 
+### Table of Contents
+&nbsp;  
+- [Prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases)
+- [Expressions of place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place)
+- [Expressions of time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time)
+- [Present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/)
+- [Future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/)
+
+***
+
 ### Assessment
 &nbsp;  
 Below are the dates on which your assessments are due:
@@ -44,17 +54,6 @@ Below are the dates on which your assessments are due:
 - Friday, October 22: Mastery quiz #2
 - Monday, October 25: Translation #2 due
 - Wednesday, October 27: Composition #2 due
-
-***
-
-### Materials
-&nbsp;  
-Here are the important links for this unit:
-
-- Review exercises [link coming]
-- Course readings on [expressions of time and place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/)
-- Course readings on the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative
-- Vocabulary list [link coming]
 
 ***
 

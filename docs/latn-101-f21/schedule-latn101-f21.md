@@ -147,7 +147,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Wednesday, September 29
 - Review
 - **Assessment**: Mastery Quiz #1
-- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/edit) and [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY/edit).
+- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/), [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY), [#3](https://docs.google.com/forms/d/1vSvEXN1M5fZLbtYqSNneAzyORRBBtqYDf_pVDuXDSOg/).
 
 ### Friday, October 1
 - Composition workshop
@@ -166,9 +166,15 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Wednesday, October 6
 - Expressions of place and time
 - Prepositional phrases
+- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions) for Unit 2.
+- **Practice (to be completed before class)**: TBA
 
 ### Friday, October 8
 - Present indicative
+- **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*.
 
 [Back to top.](#top)
 
@@ -182,6 +188,9 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, October 18
 - Future indicative
+- **Reading (to be completed before class)**: Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list in Unit 2 and study the formation of [future active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural future indicative forms in both the active and passive voice for *immolo*, *nomino*, *rego*, *servo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *ibunt*, *attulerunt*, and *ferebantur*.
 
 ### Wednesday, October 20
 - Verbal form review
