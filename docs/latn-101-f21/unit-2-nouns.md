@@ -2,7 +2,7 @@
 layout: page
 title: Unit 2 - Vocabulary - Nouns
 permalink: schedule-latn101-f21-unit-2-vocabulary-nouns
-parent: Unit 2 - Sturctures within sentences and more verbs
+parent: Unit 2 - Structures within sentences and more verbs
 grand_parent: Schedule
 great_grand_parent: LATN 101 - F21
 nav_order: 1

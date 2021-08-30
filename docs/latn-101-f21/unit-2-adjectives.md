@@ -2,7 +2,7 @@
 layout: page
 title: Unit 2 - Vocabulary - Adjectives
 permalink: schedule-latn101-f21-unit-2-vocabulary-adjectives
-parent: Unit 2 - Sturctures within sentences and more verbs
+parent: Unit 2 - Structures within sentences and more verbs
 grand_parent: Schedule
 great_grand_parent: LATN 101 - F21
 nav_order: 2
