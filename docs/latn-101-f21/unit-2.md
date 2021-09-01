@@ -20,9 +20,11 @@ has_children: true
 ### Introduction
 &nbsp;
 
-In Unit 1, you learned how verbs and nouns conjugate and decline to create meaning and structure in Latin sentences.
+In Unit 1, we learned how verbs and nouns conjugate and decline to create meaning and structure in Latin sentences. In Unit 2, we will continue to practice these skills in the context of more complicated syntax, with a particular focus on the different ways that Latin expresses time and place.
 
-In Unit 2, we will enrich our understanding of how Latin sentences work with phrases expressing time, place, and purpose as well as two new tenses, the present and the future.
+We will begin by learning about [prepositional  phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases) and how they can add meaning to Latin verbal expressions. We will build directly on this by looking how Latin uses these and other constructions to express [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time)
+
+We will then move on to look at how we can convey different time relations through verbal tense. We will learn about the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/) and the [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) tense. After learning these tenses, we will have gained experience working with all four principal parts of a Latin verb!
 
 ***
 
