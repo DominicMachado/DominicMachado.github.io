@@ -31,9 +31,9 @@ The study guide will be graded on a pass-fail basis and you will be able to revi
 
 ***
 
-## Grammar Study Guide - 100 points
+## Vocabulary Quizzes - 100 points
 &nbsp;  
-TBD
+In addition to mastering key grammatical concepts, I would also like to help you develop a core working vocabulary that will enable you to read Nepos (and other Latin literature) with some degree of facility. To that end we will have a bi-weekly vocabulary quizzes based on a list of 250 words most frequent in our text.
 
 ***
 
