@@ -27,7 +27,7 @@ If you feel the need to review morphology for any substantive or verbal forms, u
 ## Exercises
 &nbsp;  
 
-NB: You will have to look at the [dictionary] (http://folio2.furman.edu/lewis-short/index.html) to complete these exercises. As you will see from your reading, the dictionary entry is essential to figuring out how verbs, nouns, and adjectives work.
+NB: You will have to look at the [dictionary](http://folio2.furman.edu/lewis-short/index.html) to complete these exercises. As you will see from your reading, the dictionary entry is essential to figuring out how verbs, nouns, and adjectives work.
 
 A. Change the voice of these verbal forms from active to passive, holding all the other characteristics the same.
 
