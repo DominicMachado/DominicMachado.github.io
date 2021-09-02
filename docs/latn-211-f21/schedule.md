@@ -38,11 +38,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 8
 - Noun mastery quiz
-- Sentence structure
+- Pronouns
 - **Practice**: Try your hand at a [practice exercise on nouns](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link) in preparation for your first attempt at the noun mastery quiz.
 
 ### Friday, September 10
-- Sentence structure (cont'd)
+- Sentence structure
 - **Homework (due before class)**: Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn211-f21).
 
 [Back to top.](#top)
@@ -52,6 +52,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 3
 
 ### Monday, September 13
+- Vocabulary quiz #1
 - Participles
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn211-f21).
 
