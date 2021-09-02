@@ -17,15 +17,11 @@ nav_order: 1
 - suus, -a, -um - *his own*, *her own*, *its own*
 
 ***
-### Adverbs
-&nbsp;
-- non - *not*
-
-***
-### Conjunction
+### Adverbs and Conjunctions
 &nbsp;
 - cum - *when*, *since*, *although* (note the difference preposition *cum*)
 - et - *and*
+- non - *not*
 - -que - *and* (appended to the end of a word, connecting it to the previous word)
 - si - *if*
 - ut + *ind* - *as*, *when*
