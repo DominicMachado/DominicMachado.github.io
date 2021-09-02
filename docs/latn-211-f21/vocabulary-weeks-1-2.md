@@ -11,18 +11,18 @@ nav_order: 1
 # Vocabulary - LATN 211 - F21 - Weeks 1-2
 
 ***
-## Adjectives
+### Adjectives
 &nbsp;
 - Romanus, -a, -um - *Roman*
 - suus, -a, -um - *his own*, *her own*, *its own*
 
 ***
-## Adverbs
+### Adverbs
 &nbsp;
 - non - *not*
 
 ***
-## Conjunction
+### Conjunction
 &nbsp;
 - cum - *when*, *since*, *although* (note the difference preposition *cum*)
 - et - *and*
@@ -32,7 +32,7 @@ nav_order: 1
 - ut + *subj* - *so that*, *with the result that*
 
 ***
-## Nouns
+### Nouns
 &nbsp;
 - bellum, belli *n* - *war*
 - consul, consulis *m* - *consul* (the top magistrate in the Roman state)
@@ -43,7 +43,7 @@ Hannibal, Hannibalis *m* - *Hannibal*
 - rex, regis *m* - *king*
 
 ***
-## Prepositions
+### Prepositions
 &nbsp;
 - a/ab + *abl* - from, by
 - ad + *acc* - to, towards
@@ -55,7 +55,7 @@ Hannibal, Hannibalis *m* - *Hannibal*
 - in + *acc* - into, to, towards
 
 ***
-## Pronouns
+### Pronouns
 &nbsp;
 - hic, haec, hoc - *this*, *these*
 - is, ea, id - *he*, *she*, *it*
@@ -63,7 +63,7 @@ Hannibal, Hannibalis *m* - *Hannibal*
 - sui, sibi, se, se - *himself*, *herself*, *itself*
 
 ***
-## Verbs
+### Verbs
 &nbsp;
 - do, dare, dedi, datus - *to give*
 - facio, facere, feci, factus - *to do*, *make*
