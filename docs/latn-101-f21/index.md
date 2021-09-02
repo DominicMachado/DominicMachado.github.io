@@ -29,11 +29,13 @@ In the first semester, we will learn the nuts and bolts of the Latin language, w
 
 ***
 
-### Important Links
+### Important Information
 &nbsp;  
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f21), [assessment](https://dominicmachado.github.io/assessment-latn101-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f21).
 
 We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg) as well as a set of [additional exercises](https://observablehq.com/collection/@neelsmith/l3).
+
+Finally, I should note that the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for  Latin 101 students. Our tutors have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. This program will run as an appointment-based service of 40-minute sessions, with the student and peer tutor working together to find a convenient time.
 
 [Back to top.](#top)
 
