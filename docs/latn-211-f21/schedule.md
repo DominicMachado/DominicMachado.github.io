@@ -54,7 +54,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, September 13
 - Vocabulary quiz #1
 - Participles
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn211-f21).
+- **Homework (due before class)**: Study for [vocabulary quiz #1](https://dominicmachado.github.io/vocabulary-weeks-1-2-latn211-f21). Additionally, read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn211-f21).  
 
 ### Wednesday, September 15
 - Gerunds and gerundives

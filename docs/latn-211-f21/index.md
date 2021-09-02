@@ -35,11 +35,12 @@ The readings for the course will thematically organized around the character of 
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn211-f21), [course policies](https://dominicmachado.github.io/course-policies-latn211-f21), [assessment](https://dominicmachado.github.io/assessment-latn211-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn211-f21). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn211-f21).
 
 In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
- - [HC Latin Textbook](https://lingualatina.github.io/textbook/)
- - [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
- - [Core Vocabulary List](link to come)
- - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
- - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
+- [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
+- [Core vocabulary](https://dominicmachado.github.io/vocabulary-latn211-f21)
+- [HC Latin Textbook](https://lingualatina.github.io/textbook/)
+- [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
+- [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
+- [Classics Resource Guide](https://libguides.holycross.edu/classics)
 
 [Back to top.](#top)
 
