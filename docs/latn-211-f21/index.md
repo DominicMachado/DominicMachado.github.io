@@ -51,15 +51,19 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 1
+## Week 2
 
-### Wednesday, September 1
-- Course overview
-- Resource primer
-- **Homework (due before class)**: Complete a short [diagnostic assessment](https://docs.google.com/forms/d/e/1FAIpQLSeA5zstKdGp-8h3xsW2cIw-Ydayk_YD977nAaKCbvb4bWs7Sw/viewform?usp=sf_link) and take quick look through our course website.
+### Monday, September 6
+- Substantive inflection
+- Verbal systems
+- **Homework (due before class)**: Watch the following videos that my colleagues and I have created on 1) [the inflection of nouns and their dictionary entries](https://www.youtube.com/watch?v=D-x9X1v3170), 2) [dictionary entries for adjectives](https://www.youtube.com/watch?v=a_iyFuYTma4), and 3) [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA). After you get a sense for how nouns and adjectives work, start to memorize the [noun paradigms](https://lingualatina.github.io/textbook/reference/nouns-paradigms/) for the first three declensions and compare them with [adjective paradigms](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/), leaving off interrogative and numerals for now. Bring any questions that you have to class.
 
-### Friday, September 3
-- Nouns, adjectives, and verbs
-- **Homework (due before class)**: Read through the links and complete the exercises in [Handout #1](https://dominicmachado.github.io/grammatical-handout-1-latn211-f21).
 
-[Back to top.](#top)
+### Wednesday, September 8
+- Present system verbs in the indicative
+- **Homework**: Read over the relevant sections on and begin to memorize the formation of the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/). Conjugate the verbs *regno, regnare, regnavi, regnatus* and *dico*, *dicere*, *dixi*, *dictus* in the present, imperfect, and future indicative active and passive.
+
+### Friday, September 10
+- Present system verbs in the subjunctive
+- Perfect system verbs
+- **Homework (due before class)**: Read over the relevant sections on and begin to memorize the formation of the [present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive). Conjugate the verbs *regno, regnare, regnavi, regnatus* and *dico*, *dicere*, *dixi*, *dictus* in the present and imperfect subjunctive active and passive.to top.](#top)
