@@ -57,7 +57,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Vocabulary quiz #1
 - **Homework (due before class)**: Study for [vocabulary quiz #1](https://dominicmachado.github.io/vocabulary-weeks-1-2-latn211-f21). Begin to memorize the paradigms for [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [pluperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense), and [future perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-future-perfect-tense) indicative and the [perfect and pluperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive).
 
-
 ### Wednesday, September 15
 - Substantive review
 - Substantive mastery quiz
@@ -66,7 +65,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 17
 - Verbal system review
 - **Homework (due before class)**: Continue committing to memory the paradigms of Latin verbal system to memory. Try your hand at these [active](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/synopses-3-s-active/) and [passive](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/synopses-3-s-passive/) exercises in the 3rd person singular and bring any lingering questions to class.
-
 
 [Back to top.](#top)
 
@@ -85,6 +83,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, September 24
 - Case usage
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn211-f21).
+
+[Back to top.](#top)
 
 ***
 
