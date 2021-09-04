@@ -44,19 +44,33 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance (9/1 - 9/3)
 &nbsp;  
 
-![Pauline Hopkins](https://1.bp.blogspot.com/-OKQrCG-NSBM/YLjz_1gQo0I/AAAAAAAAGrc/RlOEaGwj-R4Ir6atLXMZyY2i7AVv_SqBgCPcBGAYYCw/w244-h320/Pauline_Elizabeth_Hopkins_circa_1901.png)
+![3rd decl](https://dcc.dickinson.edu/sites/default/files/3rd_decl_cons_i-stem_3_term_0.jpg)
 
-## Week 1
+## Week 2
 
-### Wednesday, September 1
-- Studying a historical language
-- Latin and the community
-- **Homework (due before class)**: Read Kennedy and Murray's [article](https://theundefeated.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/) and [addendum](https://rfkclassics.blogspot.com/2021/06/the-negro-problem-race-and-classics-in.html) on the closing of the Classics department at Howard.
+### Monday, September 6
+- Nouns (1st, 2nd, and 3rd declensions)
+- Usages of the nominative and genitive
+- Sentences with the verb “to be”
+- **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](lhttps://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
+- **Practice (to be completed before class)**:
+Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+- **Further Practice**: Try your hand at the following exercises on [nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/) and [dictionary entires for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/).
 
+### Wednesday, September 8
+- Adjectives (2-1-2, 3rd declension adjectives)
+- Noun-adjective agreement
+- **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Additionally, read and study sections 1a, 1c, 1d, and 1e in selection on [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) from the textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in Unit 1.
+- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *ferox filia*; *suus hospes*; *mortalis pater*.
+- **Further Practice**: Try your hand at the following exercise on [dictionary entires for adjectives](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/).
 
-### Friday, September 3
-- Syllabus
-- Inflection and pronunciation
-- **Homework (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f21), and [assessment](https://dominicmachado.github.io/assessment-latn101-f21) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
+### Friday, September 10
+- *is, ea, id*
+- *sui, sibi, se, se*
+-  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se*.  Memorize the dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1.
+- **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the nominative and genitive forms of *is, ea, id*.
 
 [Back to top.](#top)
