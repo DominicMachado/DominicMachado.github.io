@@ -39,7 +39,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, September 8
 - Present system verbs in the indicative
-- **Homework**: Read over the relevant sections on and begin to memorize the formation of the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/). Conjugate the verbs *regno, regnare, regnavi, regnatus* and *dico*, *dicere*, *dixi*, *dictus* in the present, imperfect, and future indicative active and passive.
+- **Homework (due before class)**: Read over the relevant sections on and begin to memorize the formation of the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/). Conjugate the verbs *regno, regnare, regnavi, regnatus* and *dico*, *dicere*, *dixi*, *dictus* in the present, imperfect, and future indicative active and passive.
 
 ### Friday, September 10
 - Present system verbs in the subjunctive
