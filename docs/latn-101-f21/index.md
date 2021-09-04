@@ -41,7 +41,7 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ***
 
-### This Week at a Glance (9/1 - 9/3)
+### This Week at a Glance (9/6 - 9/10)
 &nbsp;  
 
 ![3rd decl](https://dcc.dickinson.edu/sites/default/files/3rd_decl_cons_i-stem_3_term_0.jpg)
