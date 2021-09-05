@@ -53,7 +53,7 @@ Finally, I should note that the Department of Classics and the Classics Departme
 - Usages of the nominative and genitive
 - Sentences with the verb “to be”
 - **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](lhttps://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
 - **Practice (to be completed before class)**:
 Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
 - **Further Practice**: Try your hand at the following exercises on [nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/) and [dictionary entires for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/).
