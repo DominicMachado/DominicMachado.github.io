@@ -25,4 +25,4 @@ has_children: true
 - sacer, sacra, sacrum: *holy*, *sacred*
 - suus, sua, suum: *his own*, *her own*
 - tantus, tanta, tantum: *so great*
-- unus, una, unum: *a single*
+- unus, una, unum (-ius adjective): *a single*
