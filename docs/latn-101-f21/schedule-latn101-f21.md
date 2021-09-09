@@ -80,7 +80,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 -  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms).
 - **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
-- **Further Practice**: TBD
+- **Further Practice**: Try your hand at the following [exercise](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) on the nominative and genitive forms of *hic, haec, hoc*.
 
 ### Wednesday, September 15
 - -ius adjectives
