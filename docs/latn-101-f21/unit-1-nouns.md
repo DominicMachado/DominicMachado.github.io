@@ -27,7 +27,7 @@ has_children: true
 - hospes, hospitis *m*: *host*, *guest*
 - nomen, nominis *n*: *name*
 - pater, patris *m*: *father*
-- sagitta, sagitta *f*: *arrow*
+- sagitta, sagittae *f*: *arrow*
 - taurus, tauri *m*: *bull*
 - terra, terrae *f*: *land*, *earth*
 - uxor, uxoris *f*: *wife*

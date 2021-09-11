@@ -18,7 +18,7 @@ has_children: true
 &nbsp;
 - hic, haec, hoc (demonstrative pronoun): *this one*
 - ille, illa, illud (demonstrative pronoun): *that one*
-- ipse, ipsa, ipsum (intensifyiing pronoun): *he himself*, *she herself*
+- ipse, ipsa, ipsum (intensifying pronoun): *he himself*, *she herself*
 - idem, eadem, idem (demonstrative pronoun): *the same person*, *the same thing*
 - is, ea, id (demonstrative pronoun): *he*, *she*, *it*
 - sui, sibi, se, se (reflexive pronoun): *himself*, *herself*
