@@ -88,7 +88,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Review
 - **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
 - **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
-
+- **Further Practice**: Try your hand at the following exercise on [noun-adjective agreement](https://observablehq.com/@dominicmachado/noun-adjective-agreement-supply-the-matching-form).
 
 ### Friday, September 17
 - The dative, accusative, and ablative cases
