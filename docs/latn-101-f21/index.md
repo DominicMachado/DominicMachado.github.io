@@ -41,36 +41,34 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ***
 
-### This Week at a Glance (9/6 - 9/10)
+### This Week at a Glance (9/13 - 9/17)
 &nbsp;  
 
 ![3rd decl](https://dcc.dickinson.edu/sites/default/files/3rd_decl_cons_i-stem_3_term_0.jpg)
 
-## Week 2
+## Week 3
 
-### Monday, September 6
-- Nouns (1st, 2nd, and 3rd declensions)
-- Usages of the nominative and genitive
-- Sentences with the verb “to be”
-- **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the following [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/). Additionally, begin memorizing the dictionary entries and definitions for the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
-- **Practice (to be completed before class)**:
-Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
-- **Further Practice**: Try your hand at the following exercises on [nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/) and [dictionary entires for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/).
+### Monday, September 13
+- Demonstrative pronouns (*hic* and *ille*)
+- Intensifying pronouns (*ipse, ipsa, ipsum*)
+-  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms).
+- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
+- **Further Practice**: Try your hand at the following exercises on the nominative and genitive forms of [*hic, haec, hoc*](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) and [*ille, illa, illud*](https://observablehq.com/@dominicmachado/demonstrative-pronoun-ille-illa-illud-nominative-and-geni).
 
-### Wednesday, September 8
-- Adjectives (2-1-2, 3rd declension adjectives)
-- Noun-adjective agreement
-- **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Additionally, read and study sections 1a, 1c, 1d, and 1e in selection on [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) from the textbook.
-- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with [noun charts](https://neelsmith.github.io/latin101/assignments/nouns/nomgen/) and memorize the key differences. Memorize the dictionary entries and definitions for the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in Unit 1.
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the following noun-adjective pairs, noting the declensions of the noun and adjective: *ferox filia*; *suus hospes*; *mortalis pater*.
-- **Further Practice**: Try your hand at the following exercise on [dictionary entires for adjectives](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/).
+### Wednesday, September 15
+- -ius adjectives
+- Substantives
+- Review
+- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
+- **Further Practice**: Try your hand at the following exercise on [noun-adjective agreement](https://observablehq.com/@dominicmachado/noun-adjective-agreement-supply-the-matching-form).
 
-### Friday, September 10
-- *is, ea, id*
-- *sui, sibi, se, se*
--  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *is, ea, id* and *sui, sibi, se, se*.  Memorize the dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1.
-- **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the nominative and genitive forms of *is, ea, id*.
+### Friday, September 17
+- The dative, accusative, and ablative cases
+- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the dative and accusative cases.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms for all [noun types](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) we have learned as well as for [*hic*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), [*ille*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#ille-illa-illud---that-those), and [*is*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#is-ea-id---he-she-it-they-3rd-person). Compare the noun paradigms with those of the [different adjective types](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) we have learned, so you can are aware of key differences.
+- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following noun-adjective pairs, noting the declensions of the noun and adjective: *haec filia*; *suus hospes*; *mortalis pater*.
+- **Further Practice**: Try out the following mixed declension noun-adjective [exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion).
 
 [Back to top.](#top)

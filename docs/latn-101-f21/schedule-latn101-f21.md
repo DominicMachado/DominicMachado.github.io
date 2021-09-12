@@ -94,8 +94,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - The dative, accusative, and ablative cases
 - **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the dative and accusative cases.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms for all [noun types](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) we have learned as well as for [*hic*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), [*ille*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#ille-illa-illud---that-those), and [*is*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#is-ea-id---he-she-it-they-3rd-person). Compare the noun paradigms with those of the [different adjective types](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) we have learned, so you can are aware of key differences.
-- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following noun-adjective pairs, noting the declensions of the noun and adjective: *ferox filia*; *suus hospes*; *mortalis pater*.
-- **Further Practice**: TBD
+- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following noun-adjective pairs, noting the declensions of the noun and adjective: *haec filia*; *suus hospes*; *mortalis pater*.
+- **Further Practice**: Try out the following mixed declension noun-adjective [exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion).
 
 [Back to top.](#top)
 
