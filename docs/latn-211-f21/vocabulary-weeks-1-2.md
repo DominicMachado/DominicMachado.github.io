@@ -33,7 +33,7 @@ nav_order: 1
 - bellum, belli *n* - *war*
 - consul, consulis *m* - *consul* (the top magistrate in the Roman state)
 - exercitus, exercitūs *m* - *army*
-Hannibal, Hannibalis *m* - *Hannibal*
+- Hannibal, Hannibalis *m* - *Hannibal*
 - navis, navis *f* - *ship*
 - res, rei *f* - *matter*, *affair*, *situation*
 - rex, regis *m* - *king*
