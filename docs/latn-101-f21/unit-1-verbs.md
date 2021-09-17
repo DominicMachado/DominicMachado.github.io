@@ -16,7 +16,7 @@ has_children: true
 
 ## Unit 1 - Verbs
 &nbsp;
-- appello, appellare, appelavi, appellatus: *to address*, *name*
+- appello, appellare, appellavi, appellatus: *to address*, *name*
 - audio, audire, audivi, auditus: *to hear*
 - contendo, contendĕre, contendi, contentus: *to extend*, *to exert*, *to strive with*
 - converto, convertĕre, converti, conversus: *to turn*, *alter*
