@@ -113,7 +113,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Reading (to be completed before class)**: Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection and the formation of [the imperfect and perfect tenses](https://www.youtube.com/watch?v=ghll0S0AxsI). Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the first nine dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1 (up to and including *interficio*).
 - **Practice (to be completed before class)**: Identify the conjugations of the first eight verbs in your vocabulary list and form the 3rd person singular and plural perfect active indicative forms for each of these verbs.
-- **Further Practice**: Try your hand at the following [conjugation identification](https://observablehq.com/@dominicmachado/identify-the-conjugation).
+- **Further Practice**: Try your hand at the following [conjugation identification exercise](https://observablehq.com/@dominicmachado/identify-the-conjugation).
 
 ### Wednesday, September 22
 - Perfect passive
@@ -129,7 +129,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect as well as my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
 and the section on [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural. Review principal parts and definition of [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in Unit 1.
-- **Practice (to be completed before class)**: Form the 3rd person singular and plural imperfect indicative forms in both the active and passive voice for all fifteen verbs in Unit 1. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *contenderunt*, *necabatur*, and *mittebat*.
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural imperfect indicative forms in both the active and passive voice for last eight verbs in Unit 1. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *contenderunt*, *necabatur*, and *mittebat*.
+- **Further Practice**: Try your hand at producing different imperfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/imperfect-active-and-passive-forms).
 
 [Back to top.](#top)
 
