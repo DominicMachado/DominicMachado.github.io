@@ -41,34 +41,40 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ***
 
-### This Week at a Glance (9/13 - 9/17)
+### This Week at a Glance (9/20 - 9/24)
 &nbsp;  
 
-![3rd decl](https://dcc.dickinson.edu/sites/default/files/3rd_decl_cons_i-stem_3_term_0.jpg)
+![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 3
+## Week 4
 
-### Monday, September 13
-- Demonstrative pronouns (*hic* and *ille*)
-- Intensifying pronouns (*ipse, ipsa, ipsum*)
--  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive forms of *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms).
-- **Practice (to be completed before class)**: Write out the nominative and genitive singular and plural of the noun-adjective pairs at the end of my video.
-- **Further Practice**: Try your hand at the following exercises on the nominative and genitive forms of [*hic, haec, hoc*](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) and [*ille, illa, illud*](https://observablehq.com/@dominicmachado/demonstrative-pronoun-ille-illa-illud-nominative-and-geni).
+### Monday, September 20
+- Verbal forms
+  - Person, number, tense, voice, mood
+  - Principal parts
+  - Conjugations
+- Perfect active
+- Sentence Type 1: Transitive
+- **Reading (to be completed before class)**: Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection and the formation of [the imperfect and perfect tenses](https://www.youtube.com/watch?v=ghll0S0AxsI). Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the first nine dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1 (up to and including *interficio*).
+- **Practice (to be completed before class)**: Identify the conjugations of the first eight verbs in your vocabulary list and form the 3rd person singular and plural perfect active indicative forms for each of these verbs.
+- **Further Practice**: Try your hand at the following [conjugation identification exercise](https://observablehq.com/@dominicmachado/identify-the-conjugation).
 
-### Wednesday, September 15
-- -ius adjectives
-- Substantives
-- Review
-- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook.
-- **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
-- **Further Practice**: Try your hand at the following exercise on [noun-adjective agreement](https://observablehq.com/@dominicmachado/noun-adjective-agreement-supply-the-matching-form).
+### Wednesday, September 22
+- Perfect passive
+- Sentence Type 3: Passive sentences
+- **Reading (to be completed before class)**: Watch Prof. Joseph's [short video](https://www.youtube.com/watch?v=umIKSDePFm4) and read the short section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences). Additionally, please read Prof. Libatique's [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) on why the active-passive distinction still matters today.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) in the 3rd person singular and plural as well the final seven dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1.
+- **Practice (to be completed before class)**: Identify the conjugations of the last eight verbs in your vocabulary list and form the 3rd person singular and plural perfect passive indicative forms for each of these verbs. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *petiverunt*, *auditi sunt*, and *ductae sunt*.
+- **Further Practice**: Try your hand at producing different perfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/perfect-active-and-passive-forms).
 
-### Friday, September 17
-- The dative, accusative, and ablative cases
-- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the dative and accusative cases.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the full paradigms for all [noun types](https://neelsmith.github.io/latin101/assignments/nouns2/#singular) we have learned as well as for [*hic*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), [*ille*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#ille-illa-illud---that-those), and [*is*](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#is-ea-id---he-she-it-they-3rd-person). Compare the noun paradigms with those of the [different adjective types](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) we have learned, so you can are aware of key differences.
-- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following noun-adjective pairs, noting the declensions of the noun and adjective: *haec filia*; *suus hospes*; *mortalis pater*.
-- **Further Practice**: Try out the following mixed declension noun-adjective [exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion).
+### Friday, September 24
+- Imperfect active and passive
+- Sentence Type 2: Intransitive sentences
+- **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect as well as my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
+and the section on [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural. Review principal parts and definition of [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in Unit 1.
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural imperfect indicative forms in both the active and passive voice for last eight verbs in Unit 1. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *contenderunt*, *necabatur*, and *mittebat*.
+- **Further Practice**: Try your hand at producing different imperfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/imperfect-active-and-passive-forms).
 
 [Back to top.](#top)

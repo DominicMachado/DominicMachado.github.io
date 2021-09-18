@@ -51,20 +51,18 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 3
+## Week 4
 
-### Monday, September 13
-- Perfect system verbs
-- Vocabulary quiz #1
-- **Homework (due before class)**: Study for [vocabulary quiz #1](https://dominicmachado.github.io/vocabulary-weeks-1-2-latn211-f21). Begin to memorize the paradigms for [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), [pluperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense), and [future perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-future-perfect-tense) indicative and the [perfect and pluperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive).
+### Monday, September 20
+- Verb mastery quiz
+- **Practice**: Try your hand at a [practice quiz on verbs](https://docs.google.com/forms/d/e/1FAIpQLSdaq2a81tFApime9lQOvVtC_SA9dURgN7vjyp105upeAfeCQA/viewform?usp=sf_link) in preparation for your verb mastery quiz.
 
-### Wednesday, September 15
-- Substantive review
-- Substantive mastery quiz
-- **Practice**: Try your hand at a [practice exercise on nouns](https://docs.google.com/forms/d/e/1FAIpQLSezITy1Kem5ziaZpbsrrgxmWpI7xL1O5t2-9hRWZ1HXCLvqFQ/viewform?usp=sf_link) in preparation for your first attempt at the noun mastery quiz.
+### Wednesday, September 22
+- Pronouns
+- **Homework (due before class)**: Take a moment to assess to your knowledge of verbal and substantive forms. If you did not pass the susbstantive or verb quiz, what do you need to do you need to do to pass them on your next attempt?
 
-### Friday, September 17
-- Verbal system review
-- **Homework (due before class)**: Continue committing to memory the paradigms of Latin verbal system to memory. Try your hand at these [active](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/synopses-3-s-active/) and [passive](https://lingualatina.github.io/textbook/exercises/08-temporal-clauses/synopses-3-s-passive/) exercises in the 3rd person singular and bring any lingering questions to class.
+### Friday, September 24
+- Case usage
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn211-f21).
 
 [Back to top.](#top)
