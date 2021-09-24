@@ -84,7 +84,7 @@ By the end of Unit 1, you will be able to:
 &nbsp;  
 Below are the dates on which your assessments are due:
 - Wednesday, September 29 - Mastery quiz #1
-- Friday, October 1 - Translation #1 due [link coming]
+- Friday, October 1 - [Translation #1 due](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit)
 - Monday, October 4 - Composition #1 due [link coming]
 
 ***
