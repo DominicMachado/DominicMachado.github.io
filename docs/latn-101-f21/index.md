@@ -46,35 +46,22 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 4
+## Week 5 (9/27 - 10/1)
 
-### Monday, September 20
-- Verbal forms
-  - Person, number, tense, voice, mood
-  - Principal parts
-  - Conjugations
-- Perfect active
-- Sentence Type 1: Transitive
-- **Reading (to be completed before class)**: Watch Professor Smith's [short video](https://www.youtube.com/watch?v=3W-s_L82MLc) on verbal inflection and the formation of [the imperfect and perfect tenses](https://www.youtube.com/watch?v=ghll0S0AxsI). Read and study the section on [verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/), the [perfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/), and [transitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#transitive-sentences).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect active indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-active) in the 3rd person singular and plural and the first nine dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1 (up to and including *interficio*).
-- **Practice (to be completed before class)**: Identify the conjugations of the first eight verbs in your vocabulary list and form the 3rd person singular and plural perfect active indicative forms for each of these verbs.
-- **Further Practice**: Try your hand at the following [conjugation identification exercise](https://observablehq.com/@dominicmachado/identify-the-conjugation).
+### Monday, September 27
+- *sum, esse, fui*
+- Sentence Type 4: Linking sentences
+- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural. In addition, memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions).
+- **Practice (to be completed before class)**: TBA
 
-### Wednesday, September 22
-- Perfect passive
-- Sentence Type 3: Passive sentences
-- **Reading (to be completed before class)**: Watch Prof. Joseph's [short video](https://www.youtube.com/watch?v=umIKSDePFm4) and read the short section from our textbook on [passive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#passive-sentences). Additionally, please read Prof. Libatique's [article](https://eidolon.pub/object-ifying-language-fd8d3d75cb6f) on why the active-passive distinction still matters today.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) in the 3rd person singular and plural as well the final seven dictionary entries for the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in the vocabulary list for Unit 1.
-- **Practice (to be completed before class)**: Identify the conjugations of the last eight verbs in your vocabulary list and form the 3rd person singular and plural perfect passive indicative forms for each of these verbs. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *petiverunt*, *auditi sunt*, and *ductae sunt*.
-- **Further Practice**: Try your hand at producing different perfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/perfect-active-and-passive-forms).
+### Wednesday, September 29
+- Review
+- **Assessment**: Mastery Quiz #1
+- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/), [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY), [#3](https://docs.google.com/forms/d/1vSvEXN1M5fZLbtYqSNneAzyORRBBtqYDf_pVDuXDSOg/).
 
-### Friday, September 24
-- Imperfect active and passive
-- Sentence Type 2: Intransitive sentences
-- **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect as well as my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/)
-and the section on [intransitive sentence structures](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#intransitive-sentences).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural. Review principal parts and definition of [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in Unit 1.
-- **Practice (to be completed before class)**: Form the 3rd person singular and plural imperfect indicative forms in both the active and passive voice for last eight verbs in Unit 1. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *contenderunt*, *necabatur*, and *mittebat*.
-- **Further Practice**: Try your hand at producing different imperfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/imperfect-active-and-passive-forms).
+### Friday, October 1
+- Composition workshop
+- **Assessment (to be completed before class)**: Complete [Translation #1](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit).
 
 [Back to top.](#top)

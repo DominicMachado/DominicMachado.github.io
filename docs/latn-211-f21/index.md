@@ -51,18 +51,20 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 4
+## Week 5
 
-### Monday, September 20
-- Verb mastery quiz
-- **Practice**: Try your hand at a [practice quiz on verbs](https://docs.google.com/forms/d/e/1FAIpQLSdaq2a81tFApime9lQOvVtC_SA9dURgN7vjyp105upeAfeCQA/viewform?usp=sf_link) in preparation for your verb mastery quiz.
+### Monday, September 27
+- Sentence structure
+- Vocabulary quiz #2
+- **Homework (due before class)**:
+Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks-3-4-latn211-f21). Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn211-f21).  
 
-### Wednesday, September 22
-- Pronouns
-- **Homework (due before class)**: Take a moment to assess to your knowledge of verbal and substantive forms. If you did not pass the susbstantive or verb quiz, what do you need to do you need to do to pass them on your next attempt?
+### Wednesday, September 29
+- Participles
+- **Homework (due before class)**: Additionally, read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn211-f21).
 
-### Friday, September 24
-- Case usage
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #2](https://dominicmachado.github.io/grammatical-handout-2-latn211-f21).
+### Friday, October 1
+- Gerunds and gerundives
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #5](https://dominicmachado.github.io/grammatical-handout-5-latn211-f21).
 
 [Back to top.](#top)
