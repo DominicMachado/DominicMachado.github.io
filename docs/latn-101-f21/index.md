@@ -41,27 +41,28 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ***
 
-### This Week at a Glance (9/20 - 9/24)
+### This Week at a Glance (10/4 - 10/8)
 &nbsp;  
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 5 (9/27 - 10/1)
+## Week 6 (10/4 - 10/8)
 
-### Monday, September 27
-- *sum, esse, fui*
-- Sentence Type 4: Linking sentences
-- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences) and [tips](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#tips-for-determining-sentence-structure) for determining sentence structure.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural. In addition, memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions).
-- **Review**: Review the formation of noun-adjective pairs in all cases by doing [these exercises](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) and try your hand at [adjective dictionary entries](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/) and [noun declension](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/) identification as well.
-
-### Wednesday, September 29
+### Monday, October 4
 - Review
-- **Assessment**: Mastery Quiz #1
-- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/), [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY), [#3](https://docs.google.com/forms/d/1vSvEXN1M5fZLbtYqSNneAzyORRBBtqYDf_pVDuXDSOg/).
+- **Assessment (to be completed before class)**: Complete [Composition #1](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit).
 
-### Friday, October 1
-- Composition workshop
-- **Assessment (to be completed before class)**: Complete [Translation #1](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit).
+### Wednesday, October 6
+- Expressions of place and time
+- Prepositional phrases
+- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions) for Unit 2.
+- **Practice (to be completed before class)**: TBA
+
+### Friday, October 8
+- Present indicative
+- **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*.
 
 [Back to top.](#top)
