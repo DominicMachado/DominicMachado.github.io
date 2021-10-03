@@ -169,7 +169,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Prepositional phrases
 - **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions) for Unit 2.
-- **Practice (to be completed before class)**: TBA
+- **Practice (to be completed before class)**: Form the 3rd person singular perfect and imperfect active and passive indicative for first eight [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list for Unit 2 (up to and including affero).
 
 ### Friday, October 8
 - Present indicative
