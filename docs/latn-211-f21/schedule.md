@@ -156,6 +156,17 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ***
 
+## Week 9
+
+### Monday, November 1
+- Causal and concessive clauses
+- Vocabulary quiz #4
+- **Homework (due before class)**:Study for [vocabulary quiz #4](https://dominicmachado.github.io/vocabulary-weeks-7-8-latn211-f21)
+
+[Back to top.](#top)
+
+***
+
 ## Week 10
 
 ### Friday, November 12
