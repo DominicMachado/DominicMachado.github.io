@@ -129,16 +129,16 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ## Week 7
 
-### Monday, October 11
+### Monday, October 18
 - Causal and concessive clauses
 - Vocabulary quiz #3
 - **Homework (due before class)**:Study for [vocabulary quiz #3](https://dominicmachado.github.io/vocabulary-weeks-5-6-latn211-f21). Read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn211-f21).
 
-### Wednesday, October 13
+### Wednesday, October 20
 - Conditions
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10](https://dominicmachado.github.io/grammatical-handout-10-latn211-f21).
 
-### Friday, October 15
+### Friday, October 22
 - Ut/ne clauses
 - **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn211-f21).
 
@@ -148,9 +148,59 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ## Week 8
 
-### Monday, October 18
-- Review
+### Monday, October 25
+- Sight reading
 - **Homework (due before class)**: Create a study guide summarizing the different grammatical structures that we have studied in class.
+
+[Back to top.](#top)
+
+***
+
+## Week 10
+
+### Friday, November 12
+- Sight reading
+- Self assessment
+- **Homework (due before class)**: Passage analysis #1 due.
+
+[Back to top.](#top)
+
+***
+
+## Week 12
+
+### Monday, November 22
+- Sight reading
+- **Homework (due before class)**: Translation #1 due.
+
+[Back to top.](#top)
+
+***
+
+## Week 13
+
+### Wednesday, December 1
+- CEFs
+- **Homework (due before class)**: Passage Analysis #2 due.
+
+[Back to top.](#top)
+
+***
+
+## Week 14
+
+### Friday, December 10
+- Course review
+- **Homework (due before class)**: Translation #2 due.
+
+[Back to top.](#top)
+
+***
+
+## Final Exam Period
+
+### Saturday, December 18
+- Final passage analysis and translation due
 
 [Back to top.](#top)
 

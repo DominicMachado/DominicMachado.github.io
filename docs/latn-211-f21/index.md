@@ -51,20 +51,20 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 5
 
-### Monday, September 27
-- Sentence structure
-- Vocabulary quiz #2
-- **Homework (due before class)**:
-Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks-3-4-latn211-f21). Read through the links and complete the exercises in [Handout #3](https://dominicmachado.github.io/grammatical-handout-3-latn211-f21).  
+## Week 7
 
-### Wednesday, September 29
-- Participles
-- **Homework (due before class)**: Additionally, read through the links and translate the sentences in [Handout #4](https://dominicmachado.github.io/grammatical-handout-4-latn211-f21).
+### Monday, October 18
+- Causal and concessive clauses
+- Vocabulary quiz #3
+- **Homework (due before class)**:Study for [vocabulary quiz #3](https://dominicmachado.github.io/vocabulary-weeks-5-6-latn211-f21). Read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn211-f21).
 
-### Friday, October 1
-- Gerunds and gerundives
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #5](https://dominicmachado.github.io/grammatical-handout-5-latn211-f21).
+### Wednesday, October 20
+- Conditions
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10](https://dominicmachado.github.io/grammatical-handout-10-latn211-f21).
+
+### Friday, October 22
+- Ut/ne clauses
+- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn211-f21).
 
 [Back to top.](#top)
