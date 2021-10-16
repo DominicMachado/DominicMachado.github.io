@@ -197,12 +197,13 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Verbal form review
 - Reading practice
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-nouns) in the vocabulary list in Unit 2 and review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) tenses.
-- **Practice (to be completed before class)**: Try your hand at these exercises forming the [present and future active and passive forms](https://observablehq.com/d/8e8dd299228edfb4) and the [imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms) and see if you can [identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects) in certain sentences that we have read.
+- **Practice (to be completed before class)**: Try your hand at these exercises forming the [present and future active and passive forms](https://observablehq.com/@dominicmachado/present-and-future-active-and-passive-forms) and the [imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms).
 
 ### Friday, October 22
 - Verbal form review
 - Reading practice
-- **Practice (to be completed before class)**: Try your hand at recognizing the tense, mood, and voice of these [verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-adjectives) and [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-conjunctions-adverbs) in the vocabulary list in Unit 2. Continue to review the verbal formation in advance of your mastery quiz next week.
+- **Practice (to be completed before class)**: Try your hand at recognizing the tense, mood, and voice of these [verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms) and see if you can [identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects) in these sentences from Hyginus.
 
 [Back to top.](#top)
 
