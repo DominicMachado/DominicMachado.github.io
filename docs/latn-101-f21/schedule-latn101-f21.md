@@ -196,11 +196,13 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Wednesday, October 20
 - Verbal form review
 - Reading practice
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-nouns) in the vocabulary list in Unit 2 and review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) tenses.
+- **Practice (to be completed before class)**: Try your hand at these exercises forming the [present and future active and passive forms](https://observablehq.com/d/8e8dd299228edfb4) and the [imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms) and see if you can [identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects) in certain sentences that we have read.
 
 ### Friday, October 22
 - Verbal form review
 - Reading practice
-- **Assessment**: Mastery quiz #2
+- **Practice (to be completed before class)**: Try your hand at recognizing the tense, mood, and voice of these [verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms).
 
 [Back to top.](#top)
 
@@ -210,15 +212,16 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, October 25
 - Composition workshop
-- **Assessment (to be completed before class)**: Translation #2 due.
+- **Assessment**: Mastery quiz #2
 
 ### Wednesday, October 27
 - Questions
 - Interrogative adverbs
-- **Assessment (to be completed before class)**: Composition #2 due**.
+- **Assessment (to be completed before class)**: Translation #2 due.
 
 ### Friday, October 29
 - Interrogative adjectives and pronouns
+- **Assessment (to be completed before class)**: Composition #2 due**.
 
 [Back to top.](#top)
 
