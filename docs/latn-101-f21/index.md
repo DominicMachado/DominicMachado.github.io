@@ -41,28 +41,29 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ***
 
-### This Week at a Glance (10/4 - 10/8)
+### This Week at a Glance
 &nbsp;  
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 6 (10/4 - 10/8)
+## Week 7 (10/18 - 10/22)
 
-### Monday, October 4
-- Review
-- **Assessment (to be completed before class)**: Complete [Composition #1](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit).
+### Monday, October 18
+- Future indicative
+- **Reading (to be completed before class)**: Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list in Unit 2 and study the formation of [future active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural future indicative forms in both the active and passive voice for *immolo*, *nomino*, *rego*, *servo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *ibunt*, *attulerunt*, and *ferebantur*.
 
-### Wednesday, October 6
-- Expressions of place and time
-- Prepositional phrases
-- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the meanings of prepositions and different cases that they take in the [vocabulary](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions) for Unit 2.
-- **Practice (to be completed before class)**: Form the 3rd person singular perfect and imperfect active and passive indicative for first eight [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list for Unit 2 (up to and including affero).
+### Wednesday, October 20
+- Verbal form review
+- Reading practice
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-nouns) in the vocabulary list in Unit 2 and review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) tenses.
+- **Practice (to be completed before class)**: Try your hand at these exercises forming the [present and future active and passive forms](https://observablehq.com/@dominicmachado/present-and-future-active-and-passive-forms) and the [imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms).
 
-### Friday, October 8
-- Present indicative
-- **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/present/).
-- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*.
+### Friday, October 22
+- Verbal form review
+- Reading practice
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-adjectives) and [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-conjunctions-adverbs) in the vocabulary list in Unit 2. Continue to review the verbal formation in advance of your mastery quiz next week.
+- **Practice (to be completed before class)**: Try your hand at recognizing the tense, mood, and voice of these [verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms) and see if you can [identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects) in these sentences from Hyginus.
 
 [Back to top.](#top)
