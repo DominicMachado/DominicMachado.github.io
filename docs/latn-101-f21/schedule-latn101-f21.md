@@ -212,15 +212,16 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 8 (10/25 - 10/29)
 
 ### Monday, October 25
-- Composition workshop
+- Review
 - **Assessment**: Mastery quiz #2
 
 ### Wednesday, October 27
-- Questions
-- Interrogative adverbs
-- **Assessment (to be completed before class)**: Translation #2 due.
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
 
 ### Friday, October 29
+- Questions
+- Interrogative adverbs
 - Interrogative adjectives and pronouns
 - **Assessment (to be completed before class)**: Composition #2 due**.
 
