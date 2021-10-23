@@ -149,8 +149,9 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ## Week 8
 
 ### Monday, October 25
+- Review
 - Sight reading
-- **Homework (due before class)**: Create a study guide summarizing the different grammatical structures that we have studied in class.
+- **Homework (due before class)**: Create a [study guide(https://dominicmachado.github.io/assessment-latn211-f21#grammar-study-guide---100-points) summarizing the different grammatical structures that we have studied in class.
 
 [Back to top.](#top)
 
@@ -159,7 +160,6 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ## Week 9
 
 ### Monday, November 1
-- Causal and concessive clauses
 - Vocabulary quiz #4
 - **Homework (due before class)**:Study for [vocabulary quiz #4](https://dominicmachado.github.io/vocabulary-weeks-7-8-latn211-f21)
 
