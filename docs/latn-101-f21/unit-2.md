@@ -49,13 +49,22 @@ By the end of this unit, you will be able to:
 
 ***
 
+### Practice Exercises
+&nbsp;
+- [Present and future active and passive forms](https://observablehq.com/@dominicmachado/present-and-future-active-and-passive-forms)
+- [Imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms)
+- [Parsing verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms)
+- [Identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects)
+
+***
+
 ### Assessment
 &nbsp;  
 Below are the dates on which your assessments are due:
 
-- Friday, October 22: Mastery quiz #2
-- Monday, October 25: Translation #2 due
-- Wednesday, October 27: Composition #2 due
+- Monday, October 25: Mastery quiz #2
+- Wednesday, October 27: Translation #2 due
+- Friday, October 29: Composition #2 due
 
 ***
 
