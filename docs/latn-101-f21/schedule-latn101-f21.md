@@ -212,8 +212,11 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 8 (10/25 - 10/29)
 
 ### Monday, October 25
-- Review
-- **Assessment**: Mastery quiz #2
+- Mastery quiz
+- **Assessment**: Verb mastery quiz and noun mastery quiz retake!
+- - **Morphology and Vocabulary (to be completed before class)**: Review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), [future]((https://lingualatina.github.io/textbook/presentation/02-verbs/present/), and [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) tenses. Study the vocabulary for [unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#vocabulary) and spend a little time reviewing the old vocabulary from [unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#vocabulary) as well.
+- **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
+
 
 ### Wednesday, October 27
 - Composition workshop
@@ -222,8 +225,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Friday, October 29
 - Questions
 - Interrogative adverbs
-- Interrogative adjectives and pronouns
-- **Assessment (to be completed before class)**: Composition #2 due**.
+- **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
 
 [Back to top.](#top)
 
@@ -232,13 +234,13 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 9 (11/1 - 11/5)
 
 ### Monday, November 1
+- Interrogative adjectives and pronouns
+- Questions
+
+### Wednesday, November 3
 - Deliberative subjunctive
 - Present active and passive subjunctive
 - Imperfect active and passive subjunctive
-
-### Wednesday, November 3
-- Verbal review
-- Reading practice
 
 ### Friday, November 5
 - *possum, posse, potui*
