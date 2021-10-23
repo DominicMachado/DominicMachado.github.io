@@ -46,24 +46,21 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 7 (10/18 - 10/22)
+## Week 8 (10/25 - 10/29)
 
-### Monday, October 18
-- Future indicative
-- **Reading (to be completed before class)**: Read the section on the [future indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-verbs) in the vocabulary list in Unit 2 and study the formation of [future active and passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/future/).
-- **Practice (to be completed before class)**: Form the 3rd person singular and plural future indicative forms in both the active and passive voice for *immolo*, *nomino*, *rego*, *servo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *ibunt*, *attulerunt*, and *ferebantur*.
+### Monday, October 25
+- Mastery quiz
+- **Assessment**: Verb mastery quiz and noun mastery quiz retake!
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), [future](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), and [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) tenses. Study the vocabulary for [unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#vocabulary) and spend a little time reviewing the old vocabulary from [unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#vocabulary) as well.
+- **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
 
-### Wednesday, October 20
-- Verbal form review
-- Reading practice
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-nouns) in the vocabulary list in Unit 2 and review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) tenses.
-- **Practice (to be completed before class)**: Try your hand at these exercises forming the [present and future active and passive forms](https://observablehq.com/@dominicmachado/present-and-future-active-and-passive-forms) and the [imperfect and perfect active and passive](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms).
+### Wednesday, October 27
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
 
-### Friday, October 22
-- Verbal form review
-- Reading practice
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-adjectives) and [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-conjunctions-adverbs) in the vocabulary list in Unit 2. Continue to review the verbal formation in advance of your mastery quiz next week.
-- **Practice (to be completed before class)**: Try your hand at recognizing the tense, mood, and voice of these [verbal forms](https://observablehq.com/@dominicmachado/recognizing-verbal-forms) and see if you can [identify the direct object](https://observablehq.com/@dominicmachado/recognizing-direct-objects) in these sentences from Hyginus.
+### Friday, October 29
+- Questions
+- Interrogative adverbs
+- **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
 
 [Back to top.](#top)

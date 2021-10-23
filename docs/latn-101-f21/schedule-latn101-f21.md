@@ -217,7 +217,6 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), [future](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), and [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) tenses. Study the vocabulary for [unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#vocabulary) and spend a little time reviewing the old vocabulary from [unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#vocabulary) as well.
 - **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
 
-
 ### Wednesday, October 27
 - Composition workshop
 - **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
