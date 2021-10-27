@@ -17,7 +17,7 @@ has_children: true
 
 ***
 
-### Introduction
+### Narrative Overview
 &nbsp;
 
 In Unit 1, we learned how verbs and nouns conjugate and decline to create meaning and structure in Latin sentences. In Unit 2, we will continue to practice these skills in the context of more complicated syntax, with a particular focus on the different ways that Latin expresses time and place.
