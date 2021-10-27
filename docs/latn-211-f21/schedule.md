@@ -153,6 +153,10 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 - Sight reading
 - **Homework (due before class)**: Create a [study guide(https://dominicmachado.github.io/assessment-latn211-f21#grammar-study-guide---100-points) summarizing the different grammatical structures that we have studied in class.
 
+### Wednesday, October 27
+- Life of Hannibal, Chapter 1
+- **Homework (due before class)**: Read and translate sentence 2 and 3 of Chapter 1.
+
 [Back to top.](#top)
 
 ***
