@@ -222,8 +222,8 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
 
 ### Friday, October 29
-- Questions
-- Interrogative adverbs
+- Review
+- Self-assessment
 - **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
 
 [Back to top.](#top)
@@ -233,17 +233,15 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 9 (11/1 - 11/5)
 
 ### Monday, November 1
-- Interrogative adjectives and pronouns
-- Questions
+- Dependent clauses
+- Temporal clauses with the indicative
 
 ### Wednesday, November 3
-- Deliberative subjunctive
-- Present active and passive subjunctive
-- Imperfect active and passive subjunctive
+- Temporal clauses with the subjunctive
+- Imperfect subjunctive
 
 ### Friday, November 5
-- *possum, posse, potui*
-- Infinitives
+- Pluperfect subjunctive
 
 [Back to top.](#top)
 
@@ -252,12 +250,12 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 10 (11/8 - 11/12)
 
 ### Monday, November 8
-- Indirect statement
+- *possum, posse, potui*
 - Infinitives
 
 ### Wednesday, November 10
-- Personal pronouns and reflexives
-- Deponent verbs
+- Indirect statement
+- Infinitives
 
 ### Friday, November 12
 - Review
@@ -277,8 +275,8 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - **Assessment (due before class)**: Translation #3 due.
 
 ### Friday, November 19
-- Dependent clauses
-- Temporal clauses
+- Present subjunctive
+- Perfect subjunctive
 - **Assessment (due before class)**: Composition #3 due.
 
 [Back to top.](#top)
@@ -288,8 +286,8 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 12 (11/22)
 
 ### Monday, November 22
-- Temporal clauses
-- Perfect and pluperfect subjunctive
+- Personal pronouns and reflexives
+- Deponent verbs
 
 [Back to top.](#top)
 
@@ -305,10 +303,10 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
 
 ### Wednesday, December 1
-- Irregular verbs review
+- CEFs in class
 
 ### Friday, December 3
-- CEFs in class
+- Review
 
 [Back to top.](#top)
 
