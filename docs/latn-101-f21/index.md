@@ -59,8 +59,8 @@ Finally, I should note that the Department of Classics and the Classics Departme
 - **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
 
 ### Friday, October 29
-- Questions
-- Interrogative adverbs
+- Review
+- Self-assessment
 - **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
 
 [Back to top.](#top)
