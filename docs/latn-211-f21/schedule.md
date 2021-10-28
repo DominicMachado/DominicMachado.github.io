@@ -157,6 +157,10 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 - Life of Hannibal, Chapter 1
 - **Homework (due before class)**: Read and translate sentence 2 and 3 of Chapter 1.
 
+### Friday, October 29
+- Life of Hannibal, Chapter 2
+- **Homework (due before class)**: Read and translate sentence 1 and 2 of Chapter 2.
+
 [Back to top.](#top)
 
 ***
