@@ -46,21 +46,23 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 8 (10/25 - 10/29)
+## Week 9 (11/1 - 11/5)
 
-### Monday, October 25
-- Mastery quiz
-- **Assessment**: Verb mastery quiz and noun mastery quiz retake!
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), [future](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), and [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) tenses. Study the vocabulary for [unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#vocabulary) and spend a little time reviewing the old vocabulary from [unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#vocabulary) as well.
-- **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
+### Monday, November 1
+- Dependent clauses
+- Temporal clauses with the indicative
+- **Morphology and Vocabulary (to be completed before class)**: Take the weekend to review nouns and verbs so that you can retake the mastery quiz if needed.
+- **Practice**: Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
 
-### Wednesday, October 27
-- Composition workshop
-- **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
+### Wednesday, November 3
+- Temporal clauses with the subjunctive
+- Imperfect subjunctive
+- **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and read the sections on [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive). Study the [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs) in the vocabulary list.
 
-### Friday, October 29
-- Review
-- Self-assessment
-- **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
+### Friday, November 5
+- Pluperfect subjunctive
+- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive).Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list.
+- **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](link).
 
 [Back to top.](#top)

@@ -235,13 +235,19 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Monday, November 1
 - Dependent clauses
 - Temporal clauses with the indicative
+- **Morphology and Vocabulary (to be completed before class)**: Take the weekend to review nouns and verbs so that you can retake the mastery quiz if needed.
+- **Practice**: Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
 
 ### Wednesday, November 3
 - Temporal clauses with the subjunctive
 - Imperfect subjunctive
+- **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and read the sections on [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive). Study the [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs) in the vocabulary list.
 
 ### Friday, November 5
 - Pluperfect subjunctive
+- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive).Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list.
+- **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](link).
 
 [Back to top.](#top)
 
