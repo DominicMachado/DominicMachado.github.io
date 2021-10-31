@@ -81,6 +81,6 @@ Below is the link to the vocabulary for Unit 3:
 
 - [Nouns]
 - [Adjectives]
-- [Verbs]((https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs))
-- [Adverbs and Conjunctions]((https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs))
+- [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs)
+- [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs)
 - [Prepositions]
