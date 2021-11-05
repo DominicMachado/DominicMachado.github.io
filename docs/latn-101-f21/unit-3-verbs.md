@@ -16,10 +16,10 @@ has_children: true
 
 ## Unit 3 - Verbs
 &nbsp;
-- cogito, cogitare, cogitavi, cogitatus – to think
-- imperō, imperāre, imperāvī, imperatus - to order
-- nego, negare, negavi, negatus: to say no, refuse
+- cogitō, cogitāre, cogitāvi, cogitātus – to think
+- imperō, imperāre, imperāvi, imperātus - to order
+- negō, negāre, negāvi, negātus: to say no, refuse
 - ponō, pōnere, posui, positus - to place
-- scio, scire, scivi, scitus - to know
+- scio, scire, scīvi, scitus - to know
 - vīvō, vīvere, vīxī, vīctus - to live
-- video, vidēre, vidi, visus: to see
+- videō, vidēre, vīdī, visus: to see
