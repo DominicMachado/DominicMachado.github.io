@@ -259,16 +259,17 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - *possum, posse, potui*
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section your vocabulary.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section of your vocabulary.
 
 ### Wednesday, November 10
 - Indirect statement
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives).
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns) in the Unit 3 vocabulary list.
 
 ### Friday, November 12
 - Review
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [adjectives] and [prepositions] in the Unit 3 vocabulary list.
 
 [Back to top.](#top)
 
