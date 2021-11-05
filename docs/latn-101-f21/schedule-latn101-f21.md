@@ -259,7 +259,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - *possum, posse, potui*
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts for the remaining [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section your vocabulary.
 
 ### Wednesday, November 10
 - Indirect statement
