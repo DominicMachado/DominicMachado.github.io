@@ -46,23 +46,23 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 9 (11/1 - 11/5)
+## Week 10 (11/8 - 11/12)
 
-### Monday, November 1
-- Dependent clauses
-- Temporal clauses with the indicative
-- **Morphology and Vocabulary (to be completed before class)**: Take the weekend to review nouns and verbs so that you can retake the mastery quiz if needed.
-- **Practice**: Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). If you are also studying for the noun mastery quiz, revisit the practice exercises in [Unit 1](https://dominicmachado.github.io/schedule-latn101-f21-unit-1#practice-exercises).
+### Monday, November 8
+- *possum, posse, potui*
+- Infinitives
+- **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section of your vocabulary.
+- **Practice (to be completed before class)**: Try your hand at form the [present and perfect infinitives](https://observablehq.com/@dominicmachado/infinitive-forms).
 
-### Wednesday, November 3
-- Temporal clauses with the subjunctive
-- Imperfect subjunctive
-- **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and read the sections on [dependent](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#dependent-clauses) and [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive). Study the [adverbs and conjuctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs) in the vocabulary list.
+### Wednesday, November 10
+- Indirect statement
+- Infinitives
+- **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns) in the Unit 3 vocabulary list.
 
-### Friday, November 5
-- Pluperfect subjunctive
-- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive). Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list.
-- **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f).
+### Friday, November 12
+- Review
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. Study the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-adjectives) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-prepositions) in the Unit 3 vocabulary list.
 
 [Back to top.](#top)
