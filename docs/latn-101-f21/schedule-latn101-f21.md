@@ -246,7 +246,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Friday, November 5
 - Pluperfect subjunctive
-- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive).Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list up to videō.
+- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive). Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list up to videō.
 - **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f).
 
 [Back to top.](#top)
@@ -269,7 +269,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Friday, November 12
 - Review
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [adjectives] and [prepositions] in the Unit 3 vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. Study the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-adjectives) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-prepositions) in the Unit 3 vocabulary list.
 
 [Back to top.](#top)
 
