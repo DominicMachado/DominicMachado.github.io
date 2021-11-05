@@ -79,7 +79,7 @@ Below are the dates on which your assessments are due:
 &nbsp;  
 Below is the link to the vocabulary for Unit 3:
 
-- [Nouns]
+- [Nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns)
 - [Adjectives]
 - [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs)
 - [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-conjunctions-adverbs)
