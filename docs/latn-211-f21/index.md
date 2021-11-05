@@ -51,20 +51,20 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
+## Week 10
 
-## Week 7
+### Monday, November 8
+- Life of Hannibal, Chapter 2
+- **Homework (due before class)**: Read and translate sentences 5 and 6 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
-### Monday, October 18
-- Causal and concessive clauses
-- Vocabulary quiz #3
-- **Homework (due before class)**:Study for [vocabulary quiz #3](https://dominicmachado.github.io/vocabulary-weeks-5-6-latn211-f21). Read through the links and translate the sentences in [Handout #9](https://dominicmachado.github.io/grammatical-handout-9-latn211-f21).
+### Wednesday, November 10
+- Life of Hannibal, Chapter 3
+- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 3](https://dcc.dickinson.edu/nepos-hannibal/chapter-3).
 
-### Wednesday, October 20
-- Conditions
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #10](https://dominicmachado.github.io/grammatical-handout-10-latn211-f21).
+### Friday, November 12
+- Sight reading
+- Self assessment
+- **Homework (due before class)**: [Passage analysis #1](https://docs.google.com/document/d/1JwzvTemxOKWREJdcxiWudFekEM0Id9YbhSsKv8ujzKU/edit) due.
 
-### Friday, October 22
-- Ut/ne clauses
-- **Homework (due before class)**: Read through the links and translate the sentences in [Handout #11](https://dominicmachado.github.io/grammatical-handout-11-latn211-f21).
 
 [Back to top.](#top)
