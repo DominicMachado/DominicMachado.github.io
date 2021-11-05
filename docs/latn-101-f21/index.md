@@ -63,6 +63,6 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### Friday, November 5
 - Pluperfect subjunctive
 - **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive). Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list.
-- **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](link).
+- **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f).
 
 [Back to top.](#top)
