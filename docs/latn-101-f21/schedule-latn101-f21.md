@@ -260,7 +260,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section of your vocabulary.
-- **Practice (to be completed before class)**: Try your hand at form the [present and perfect infinitives](https://observablehq.com/@dominicmachado/infinitive-forms).
+- **Practice (to be completed before class)**: Try your hand at forming the [present and perfect infinitives](https://observablehq.com/@dominicmachado/infinitive-forms).
 
 ### Wednesday, November 10
 - Indirect statement
