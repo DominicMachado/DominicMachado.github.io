@@ -172,6 +172,14 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 - Life of Hannibal, Chapter 2
 - **Homework (due before class)**: Study for [vocabulary quiz #4](https://dominicmachado.github.io/vocabulary-weeks-7-8-latn211-f21) and read and translate sentence 2 and 3 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
+### Wednesday, November 3
+- Life of Hannibal, Chapter 2
+- **Homework (due before class)**: Read and translate sentence 3 and 4 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+
+### Friday, November 5
+- Life of Hannibal, Chapter 2
+- **Homework (due before class)**: Read and translate sentence 5 and 6 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+
 [Back to top.](#top)
 
 ***
@@ -181,7 +189,7 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ### Friday, November 12
 - Sight reading
 - Self assessment
-- **Homework (due before class)**: Passage analysis #1 due.
+- **Homework (due before class)**: [Passage analysis #1](https://docs.google.com/document/d/1JwzvTemxOKWREJdcxiWudFekEM0Id9YbhSsKv8ujzKU/edit) due.
 
 [Back to top.](#top)
 
