@@ -60,7 +60,6 @@ By the end of this unit, you will be able to:
 - [Subjunctive formation - imperfect and pluperfect](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f)
 - [Parsing verbal forms]
 - [Forming the infinitive - present and perfect](https://observablehq.com/@dominicmachado/infinitive-forms)
-- [Uses of the infinitive]
 - [Identify the indirect statement]
 
 ***
