@@ -246,7 +246,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Friday, November 5
 - Pluperfect subjunctive
-- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive).Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)** Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive).Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in the vocabulary list up to videō.
 - **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f).
 
 [Back to top.](#top)
@@ -258,10 +258,14 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Monday, November 8
 - *possum, posse, potui*
 - Infinitives
+- **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts for the remaining [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs).
 
 ### Wednesday, November 10
 - Indirect statement
 - Infinitives
+- **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives).
 
 ### Friday, November 12
 - Review
