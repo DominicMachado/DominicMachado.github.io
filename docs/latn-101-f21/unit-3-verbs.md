@@ -22,4 +22,10 @@ has_children: true
 - ponō, pōnere, posui, positus - to place
 - scio, scire, scīvi, scitus - to know
 - vīvō, vīvere, vīxī, vīctus - to live
-- videō, vidēre, vīdī, visus: to see
+- videō, vidēre, vīdī, visus - to see
+- nolo, nolle, nolui ([*irregular*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/)) - to wish...to not, to be unwilling
+- volo, velle, volui ([*irregular*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) - to wish, to be willing
+- iubeo, iubēre, iussi, iussus - to order, prescribe
+- possum, posse, potui - to be able, can
+- capio, capere, cepi, captus - to seize, to steal, to snatch
+- soleo, solēre, solitus sum (*semi-deponent*) - to be accustomed
