@@ -155,11 +155,11 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ### Wednesday, October 27
 - Life of Hannibal, Chapter 1
-- **Homework (due before class)**: Read and translate sentence 2 and 3 of Chapter 1.
+- **Homework (due before class)**: Read and translate sentences 2 and 3 of Chapter 1.
 
 ### Friday, October 29
 - Life of Hannibal, Chapter 2
-- **Homework (due before class)**: Read and translate sentence 1 and 2 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
 [Back to top.](#top)
 
@@ -170,21 +170,29 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ### Monday, November 1
 - Vocabulary quiz #4
 - Life of Hannibal, Chapter 2
-- **Homework (due before class)**: Study for [vocabulary quiz #4](https://dominicmachado.github.io/vocabulary-weeks-7-8-latn211-f21) and read and translate sentence 2 and 3 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+- **Homework (due before class)**: Study for [vocabulary quiz #4](https://dominicmachado.github.io/vocabulary-weeks-7-8-latn211-f21) and read and translate sentences 2 and 3 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
 ### Wednesday, November 3
 - Life of Hannibal, Chapter 2
-- **Homework (due before class)**: Read and translate sentence 3 and 4 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
 ### Friday, November 5
 - Life of Hannibal, Chapter 2
-- **Homework (due before class)**: Read and translate sentence 5 and 6 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+- **Homework (due before class)**: Read and translate sentences 5 and 6 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
 
 [Back to top.](#top)
 
 ***
 
 ## Week 10
+
+### Monday, November 8
+- Life of Hannibal, Chapter 2
+- **Homework (due before class)**: Read and translate sentences 5 and 6 of [Chapter 2](https://dcc.dickinson.edu/nepos-hannibal/chapter-2).
+
+### Wednesday, November 10
+- Life of Hannibal, Chapter 3
+- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 3](https://dcc.dickinson.edu/nepos-hannibal/chapter-3).
 
 ### Friday, November 12
 - Sight reading
