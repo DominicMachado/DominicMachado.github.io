@@ -267,10 +267,12 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns) in the Unit 3 vocabulary list.
+- **Practice (to be completed before class)**: Try your hand at translating and identifying the central parts of an [indirect statements](https://observablehq.com/@dominicmachado/indirect-statement).
 
 ### Friday, November 12
 - Review
 - **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. Study the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-adjectives) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-prepositions) in the Unit 3 vocabulary list.
+- **Practice (to be completed before class)**: Try your hand at translating and identifying [temporal clauses](https://observablehq.com/@dominicmachado/temporal-clauses).
 
 [Back to top.](#top)
 
