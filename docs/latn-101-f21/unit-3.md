@@ -56,11 +56,11 @@ By the end of this unit, you will be able to:
 
 ### Practice Exercises
 &nbsp;
-- [Dependent and independent clauses]
+- [Temporal clauses](https://observablehq.com/@dominicmachado/temporal-clauses)
 - [Subjunctive formation - imperfect and pluperfect](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f)
 - [Parsing verbal forms]
 - [Forming the infinitive - present and perfect](https://observablehq.com/@dominicmachado/infinitive-forms)
-- [Identify the indirect statement]
+- [Identify the indirect statement](https://observablehq.com/@dominicmachado/indirect-statement)
 
 ***
 
