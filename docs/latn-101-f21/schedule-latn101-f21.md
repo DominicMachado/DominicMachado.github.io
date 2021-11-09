@@ -286,12 +286,12 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Wednesday, November 17
 - Composition workshop
-- **Assessment (due before class)**: Translation #3 due.
+- **Assessment (due before class)**: [Translation #3 due](https://docs.google.com/document/d/1uEiAmZ7JfDqUfyOPhdI7QYQ4sCugLj9XWaKgoDZmmHY/edit).
 
 ### Friday, November 19
 - Present subjunctive
 - Perfect subjunctive
-- **Assessment (due before class)**: Composition #3 due.
+- **Assessment (due before class)**: [Composition #3 due](https://docs.google.com/document/d/1Xkd0T0ykAa5CtwvJbcODSfdmOouUeeK1zmnMYfStLuY/edit).
 
 [Back to top.](#top)
 
