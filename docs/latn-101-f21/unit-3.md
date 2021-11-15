@@ -69,8 +69,8 @@ By the end of this unit, you will be able to:
 Below are the dates on which your assessments are due:
 
 - Monday, November 15: Mastery quiz #3
-- Wednesday, November 17: Translation #3 due
-- Friday, November 19: Composition #3 due
+- Wednesday, November 17: [Translation #3 due](https://docs.google.com/document/d/1uEiAmZ7JfDqUfyOPhdI7QYQ4sCugLj9XWaKgoDZmmHY/)
+- Friday, November 19: [Composition #3 due](https://docs.google.com/document/d/1Xkd0T0ykAa5CtwvJbcODSfdmOouUeeK1zmnMYfStLuY/)
 
 ***
 
