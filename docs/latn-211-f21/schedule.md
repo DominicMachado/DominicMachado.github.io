@@ -203,6 +203,24 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ***
 
+## Week 11
+
+### Monday, November 15
+- Life of Hannibal, Chapter 3
+- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 3](https://dcc.dickinson.edu/nepos-hannibal/chapter-3).
+
+### Wednesday, November 17
+- Life of Hannibal, Chapter 4
+- **Homework (due before class)**: Study for [vocabulary quiz #5](https://dominicmachado.github.io/vocabulary-weeks-9-10-latn211-f21) and read and translate sentences 1 and 2 of [Chapter 4](https://dcc.dickinson.edu/nepos-hannibal/chapter-4).
+
+### Friday, November 19
+- Life of Hannibal, Chapter 4
+- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 4](https://dcc.dickinson.edu/nepos-hannibal/chapter-4).
+
+[Back to top.](#top)
+
+***
+
 ## Week 12
 
 ### Monday, November 22
