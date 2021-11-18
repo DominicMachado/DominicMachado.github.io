@@ -289,8 +289,8 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - **Assessment (due before class)**: [Translation #3 due](https://docs.google.com/document/d/1uEiAmZ7JfDqUfyOPhdI7QYQ4sCugLj9XWaKgoDZmmHY/edit).
 
 ### Friday, November 19
-- Present subjunctive
-- Perfect subjunctive
+- Irregular Verbs: *volo* and *nolo*
+- Verb review
 - **Assessment (due before class)**: [Composition #3 due](https://docs.google.com/document/d/1Xkd0T0ykAa5CtwvJbcODSfdmOouUeeK1zmnMYfStLuY/edit).
 
 [Back to top.](#top)
@@ -300,8 +300,11 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 12 (11/22)
 
 ### Monday, November 22
-- Personal pronouns and reflexives
-- Deponent verbs
+- Irregular Verbs: *fero* and *eo*
+- Verb review
+- **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
+- **Morphology and Vocabulary (to be completed before class)**: Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) in the Unit 4 vocabulary list and memorize the irregularities with *fero*, *eo*, *volo*, and *nolo*.
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs].
 
 [Back to top.](#top)
 
@@ -314,13 +317,19 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 13 (11/29 - 12/3)
 
 ### Monday, November 29
-- Irregular Verbs: ferō, ferre, tulī, lātus; eō, īre, iī/īvī, itūrus
+- Deponent verbs
+- **Reading (to be completed before class)**: Read the section on [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
+- **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
 
 ### Wednesday, December 1
 - CEFs in class
+- Present and Perfect Subjunctive
+- **Reading (to be completed before class)**: Read the section on the formation of the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
+- **Morphology and Vocabulary (to be completed before class)**: Study the [conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list and memorize the formation of the [present active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-passive-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
 
 ### Friday, December 3
 - Review
+- **Reading (to be completed before class)**: Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the "dark side of the subjunctive."
 
 [Back to top.](#top)
 
