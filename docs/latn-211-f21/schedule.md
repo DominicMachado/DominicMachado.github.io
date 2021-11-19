@@ -253,7 +253,7 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ### Monday, December 6
 - Life of Hannibal, Chapter 6
-- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 6](https://dcc.dickinson.edu/nepos-hannibal/chapter-6).
+- **Homework (due before class)**: Study for [vocabulary quiz #6](https://dominicmachado.github.io/vocabulary-weeks-11-12-latn211-f21) and read and translate sentences 1 and 2 of [Chapter 6](https://dcc.dickinson.edu/nepos-hannibal/chapter-6).
 
 ### Wednesday, December 8
 - Life of Hannibal, Chapter 6
