@@ -224,7 +224,7 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ## Week 12
 
 ### Monday, November 22
-- Sight reading
+- Life of Hannibal, Chapter 4
 - **Homework (due before class)**: Translation #1 due.
 
 [Back to top.](#top)
@@ -233,9 +233,17 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ## Week 13
 
+### Monday, November 29
+- Life of Hannibal, Chapter 5
+- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 5](https://dcc.dickinson.edu/nepos-hannibal/chapter-5).
+
 ### Wednesday, December 1
 - CEFs
-- **Homework (due before class)**: Passage Analysis #2 due.
+- **Homework (due before class)**: [Passage Analysis #2](https://docs.google.com/document/d/1yTmMXxo80cDdMWw6-xLdsEn4N0kWYLlOv3HVoNEzX0k/) due.
+
+### Friday, December 3
+- Life of Hannibal, Chapter 5
+- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 5](https://dcc.dickinson.edu/nepos-hannibal/chapter-5).
 
 [Back to top.](#top)
 
@@ -243,8 +251,17 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 
 ## Week 14
 
+### Monday, December 6
+- Life of Hannibal, Chapter 6
+- **Homework (due before class)**: Read and translate sentences 1 and 2 of [Chapter 6](https://dcc.dickinson.edu/nepos-hannibal/chapter-6).
+
+### Wednesday, December 8
+- Life of Hannibal, Chapter 6
+- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 6](https://dcc.dickinson.edu/nepos-hannibal/chapter-6).
+
+
 ### Friday, December 10
-- Course review
+- Course wrap-up
 - **Homework (due before class)**: Translation #2 due.
 
 [Back to top.](#top)
@@ -254,7 +271,7 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ## Final Exam Period
 
 ### Saturday, December 18
-- Final passage analysis and translation due
+- Final passage analysis and translation due.
 
 [Back to top.](#top)
 
