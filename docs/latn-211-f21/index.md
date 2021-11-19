@@ -51,19 +51,11 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 11
+## Week 12
 
-### Monday, November 15
-- Life of Hannibal, Chapter 3
-- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 3](https://dcc.dickinson.edu/nepos-hannibal/chapter-3).
-
-### Wednesday, November 17
+### Monday, November 22
 - Life of Hannibal, Chapter 4
-- **Homework (due before class)**: Study for [vocabulary quiz #5](https://dominicmachado.github.io/vocabulary-weeks-9-10-latn211-f21) and read and translate sentences 1 and 2 of [Chapter 4](https://dcc.dickinson.edu/nepos-hannibal/chapter-4).
-
-### Friday, November 19
-- Life of Hannibal, Chapter 4
-- **Homework (due before class)**: Read and translate sentences 3 and 4 of [Chapter 4](https://dcc.dickinson.edu/nepos-hannibal/chapter-4).
+- **Homework (due before class)**: Translation #1 due.
 
 
 [Back to top.](#top)
