@@ -29,4 +29,6 @@ has_children: true
 - nascor, nasci, natus sum (*deponent*) - *to be born*
 - persequor, persequi, persecutus sum (*deponent*) - to follow, chase, pursue
 - proficiscor, proficisci, profectus sum (*deponent*) - to set out, depart
+- gaudeo, gaudere, gavisus sum (*semi-deponent*) - to rejoince
+- soleo, solēre, solitus sum (*semi-deponent*) - to be accustomed
 
