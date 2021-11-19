@@ -46,25 +46,13 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 10 (11/8 - 11/12)
+## Week 12 (11/22)
 
-### Monday, November 8
-- *possum, posse, potui*
-- Infinitives
-- **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and their usages.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the principal parts of the remaining five entries in the [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) section of your vocabulary.
-- **Practice (to be completed before class)**: Try your hand at forming the [present and perfect infinitives](https://observablehq.com/@dominicmachado/infinitive-forms).
-
-### Wednesday, November 10
-- Indirect statement
-- Infinitives
-- **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/presentation/06-indirect-statement/).
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives). Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns) in the Unit 3 vocabulary list.
-- **Practice (to be completed before class)**: Try your hand at translating and identifying the central parts of an [indirect statements](https://observablehq.com/@dominicmachado/indirect-statement).
-
-### Friday, November 12
-- Review
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) as well as the [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) and [pluperfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. Study the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-adjectives) and [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-prepositions) in the Unit 3 vocabulary list.
-- **Practice (to be completed before class)**: Try your hand at translating and identifying [temporal clauses](https://observablehq.com/@dominicmachado/temporal-clauses).
+### Monday, November 22
+- Irregular Verbs: *fero* and *eo*
+- Verb review
+- **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
+- **Morphology and Vocabulary (to be completed before class)**: Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) in the Unit 4 vocabulary list and memorize the irregularities with *fero*, *eo*, *volo*, and *nolo*.
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs].
 
 [Back to top.](#top)
