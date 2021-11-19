@@ -317,8 +317,8 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 13 (11/29 - 12/3)
 
 ### Monday, November 29
-- Deponent verbs and *possum*
-- **Reading (to be completed before class)**: Read the section on [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
+- Deponent/semi-deponent verbs and *possum*
+- **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#semi-deponents).
 - **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
 
 ### Wednesday, December 1
