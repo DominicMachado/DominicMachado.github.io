@@ -53,6 +53,6 @@ Finally, I should note that the Department of Classics and the Classics Departme
 - Verb review
 - **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
 - **Morphology and Vocabulary (to be completed before class)**: Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) in the Unit 4 vocabulary list and memorize the irregularities with *fero*, *eo*, *volo*, and *nolo*.
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs].
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
 
 [Back to top.](#top)
