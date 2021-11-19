@@ -55,4 +55,3 @@ Below is the link to the vocabulary for Unit 4:
 
 - [Nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns)
 - [Verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs)
-- [Adverbs and Conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-conjunctions-adverbs)
