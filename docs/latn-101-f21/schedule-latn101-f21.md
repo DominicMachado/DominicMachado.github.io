@@ -304,7 +304,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Verb review
 - **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
 - **Morphology and Vocabulary (to be completed before class)**: Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) in the Unit 4 vocabulary list and memorize the irregularities with *fero*, *eo*, *volo*, and *nolo*.
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs].
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
 
 [Back to top.](#top)
 
@@ -327,6 +327,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Present and Perfect Subjunctive
 - **Reading (to be completed before class)**: Read the section on the formation of the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-passive-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
 
 ### Friday, December 3
 - Review
