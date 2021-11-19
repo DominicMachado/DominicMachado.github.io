@@ -289,7 +289,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - **Assessment (due before class)**: [Translation #3 due](https://docs.google.com/document/d/1uEiAmZ7JfDqUfyOPhdI7QYQ4sCugLj9XWaKgoDZmmHY/edit).
 
 ### Friday, November 19
-- Irregular Verbs: *volo* and *nolo*
+- Irregular Verbs: *sum*, *volo*, and *nolo*
 - Verb review
 - **Assessment (due before class)**: [Composition #3 due](https://docs.google.com/document/d/1Xkd0T0ykAa5CtwvJbcODSfdmOouUeeK1zmnMYfStLuY/edit).
 
@@ -317,7 +317,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 13 (11/29 - 12/3)
 
 ### Monday, November 29
-- Deponent verbs
+- Deponent verbs and *possum*
 - **Reading (to be completed before class)**: Read the section on [deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs).
 - **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
 
