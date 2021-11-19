@@ -43,7 +43,7 @@ By the end of this unit, you will be able to:
 &nbsp;  
 - [Irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs)
 - [Deponent verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs)
-- [Present subjunctive]((https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive)
+- [Present subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive)
 - [Perfect active subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive)
 - [Perfect passive subjunctive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive)
 
@@ -51,7 +51,7 @@ By the end of this unit, you will be able to:
 
 ### Practice Exercises
 &nbsp;
-- [Irregular verbs]
+- [Irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation)
 - [Subjunctive formation]
 - [Noun review]
 - [Adjective review]
