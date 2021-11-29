@@ -46,13 +46,22 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 12 (11/22)
+## Week 13 (11/29 - 12/3)
 
-### Monday, November 22
-- Irregular Verbs: *fero* and *eo*
-- Verb review
-- **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#irregular-verbs).
-- **Morphology and Vocabulary (to be completed before class)**: Study the [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) in the Unit 4 vocabulary list and memorize the irregularities with *fero*, *eo*, *volo*, and *nolo*.
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
+### Monday, November 29
+- Deponent and semi-deponent verbs 
+- **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#semi-deponents) verbs.
+- **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
+
+### Wednesday, December 1
+- CEFs in class
+- Present and Perfect Subjunctive
+- **Reading (to be completed before class)**: Read the section on the formation of the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-passive-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
+
+### Friday, December 3
+- Review
+- **Reading (to be completed before class)**: Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the "dark side of the subjunctive."
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
 
 [Back to top.](#top)
