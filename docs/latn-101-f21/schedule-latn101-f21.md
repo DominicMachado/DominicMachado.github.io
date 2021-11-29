@@ -318,7 +318,6 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, November 29
 - Deponent and semi-deponent verbs 
-- Irregular verbs: *possum*
 - **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#semi-deponents) verbs.
 - **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
 
@@ -327,11 +326,11 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 - Present and Perfect Subjunctive
 - **Reading (to be completed before class)**: Read the section on the formation of the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-passive-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
 
 ### Friday, December 3
 - Review
 - **Reading (to be completed before class)**: Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the "dark side of the subjunctive."
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
 
 [Back to top.](#top)
 
@@ -341,15 +340,13 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, December 6
 - Review
-- **Assessment**: Mastery quiz #4
 
 ### Wednesday, December 8
-- Composition workshop
-- **Assessment (due before class)**: Translation #4 due.
+- **Assessment**: Mastery quiz #4
 
 ### Friday, December 10
 - Looking ahead
-- **Assessment (due before class)**: Composition #4 due.
+- **Assessment (due before class)**: Translation #4 due.
 
 ***
 
