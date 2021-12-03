@@ -330,7 +330,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ### Friday, December 3
 - Review
 - **Reading (to be completed before class)**: Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the "dark side of the subjunctive."
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms).
 
 [Back to top.](#top)
 
@@ -340,18 +340,26 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, December 6
 - Review
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation) and [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms) as well as one on the [translation of deponent and semi-deponent verbs].
 
 ### Wednesday, December 8
 - **Assessment**: Mastery quiz #4
 
 ### Friday, December 10
 - Looking ahead
-- **Assessment (due before class)**: Translation #4 due.
+- **Assessment (due before class)**: [Translation #4 due](https://docs.google.com/document/d/1N5YK4_NJXzSnz3rfvQ50OL26aEqVkUbyXlw5z5ADqrg/edit).
 
 ***
 
 ## Final
 
-Additionally, you will submit a final reflection (300-500 words) on your experience in Latin 101 this semester (with a particular focus on what we have done in CBL). In your reflection, you will consider how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. Things that you might talk about include, but are not limited, to our discussions of gender and pronouns, the passive voice and power, the limited access of classics to students of color, and the "dark side of the subjunctive." This reflection will be due by email on December 18 at 11:59 PM EST.
+Submit a final reflection of 300-500 words on your experience in community-based learning this semester. Address the following questions in your reflection:
+ 
+1. What teaching and planning techniques have worked well this semester? What haven’t worked well? Why? (If you are did alternative CBL, please  include a paragraph describing and reflecting on your grant proposal instead of answering this question).
+2. What have you learned about how language can be used to give or take power from particular people and groups? 
+3. How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences? 
+4. How do you plan to continue to build on your learning experience this semester? What goals do you have for CBL for the spring semester?
+
+Please submit the reflection, as a Google doc shared with me, by Saturday, December 18 at 11:59 PM. 
 
 [Back to top.](#top)
