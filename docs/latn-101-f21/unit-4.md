@@ -52,9 +52,9 @@ By the end of this unit, you will be able to:
 ### Practice Exercises
 &nbsp;
 - [Irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation)
-- [Subjunctive formation]
-- [Noun review]
-- [Adjective review]
+- [Subjunctive formation](https://observablehq.com/@dominicmachado/subjunctive-forms)
+- [Identifying deponents and semi-deponents](https://observablehq.com/@dominicmachado/determining-verb-types-and-conjugation)
+- [Translating irregulars, deponents, and semi-deponents](https://observablehq.com/@dominicmachado/translating-irregular-deponent-and-semi-deponent-verbs-fr)
 
 ***
 
