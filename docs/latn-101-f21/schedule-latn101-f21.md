@@ -340,10 +340,12 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 
 ### Monday, December 6
 - Review
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation) and [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms) as well as one on the [translation of deponent and semi-deponent verbs].
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation) and [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms).
 
 ### Wednesday, December 8
+- Review
 - **Assessment**: Mastery quiz #4
+- **Practice (to be completed before class)**: determining whether a verb is [deponent or semi-deponent](https://observablehq.com/@dominicmachado/determining-verb-types-and-conjugation) and [translating different verb types](https://observablehq.com/@dominicmachado/translating-irregular-deponent-and-semi-deponent-verbs-fr) from Unit 4.
 
 ### Friday, December 10
 - Looking ahead
