@@ -46,22 +46,18 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
 
-## Week 13 (11/29 - 12/3)
+## Week 14
 
-### Monday, November 29
-- Deponent and semi-deponent verbs 
-- **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#semi-deponents) verbs.
-- **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
-
-### Wednesday, December 1
-- CEFs in class
-- Present and Perfect Subjunctive
-- **Reading (to be completed before class)**: Read the section on the formation of the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#present-passive-subjunctive) and [perfect active](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive.
-
-### Friday, December 3
+### Monday, December 6
 - Review
-- **Reading (to be completed before class)**: Watch Phuc Tran's [video](https://www.youtube.com/watch?v=zeSVMG4GkeQ) on the "dark side of the subjunctive."
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [different tenses of the subjunctive].
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation) and [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms).
 
+### Wednesday, December 8
+- Review
+- **Assessment**: Mastery quiz #4
+- **Practice (to be completed before class)**: determining whether a verb is [deponent or semi-deponent](https://observablehq.com/@dominicmachado/determining-verb-types-and-conjugation) and [translating different verb types](https://observablehq.com/@dominicmachado/translating-irregular-deponent-and-semi-deponent-verbs-fr) from Unit 4.
+
+### Friday, December 10
+- Looking ahead
+- **Assessment (due before class)**: [Translation #4 due](https://docs.google.com/document/d/1N5YK4_NJXzSnz3rfvQ50OL26aEqVkUbyXlw5z5ADqrg/edit).
 [Back to top.](#top)
