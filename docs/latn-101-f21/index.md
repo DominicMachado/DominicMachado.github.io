@@ -60,4 +60,5 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### Friday, December 10
 - Looking ahead
 - **Assessment (due before class)**: [Translation #4 due](https://docs.google.com/document/d/1N5YK4_NJXzSnz3rfvQ50OL26aEqVkUbyXlw5z5ADqrg/edit).
+
 [Back to top.](#top)
