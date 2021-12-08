@@ -271,7 +271,7 @@ Study for [vocabulary quiz #2](https://dominicmachado.github.io/vocabulary-weeks
 ## Final Exam Period
 
 ### Saturday, December 18
-- Final passage analysis and translation due.
+- [Final passage analysis and translation](https://docs.google.com/document/d/1effy36KI8_m7coZhI_r1aLPPS9eitFP-ObFaRCv7u6M/edit) due.
 
 [Back to top.](#top)
 
