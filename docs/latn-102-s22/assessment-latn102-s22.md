@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Assessment
-permalink: assessment-latn101-f21
-parent: LATN 101 - F21
+permalink: assessment-latn101-s22
+parent: LATN 102 - S22
 nav_order: 3
 ---
 ***
 
-# Assessment - LATN 101 - F21
+# Assessment - LATN 102 - F22
 
 ***
 
@@ -23,11 +23,11 @@ You can earn up to 150 points by attending and participating in your practicum s
 
 ## Mastery Quizzes - 250 points
 &nbsp;  
-We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis, with a score of 95% or higher required for a pass. 
+We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis, with a score of 95% or higher required for a pass.
 
 You will have unlimited opportunities to retake these quizzes to earn a pass. In order to retake a quiz, you must email me and set up a date and time for me to administer the quiz retake.
 
-To help prepare you for these quizzes, you will have a "unquiz" each class - a formative assessment that will test your knowledge of the forms and vocabulary that we are discussing in class. This will help you to know what kind of learning you will need to be doing to prepare for the mastery quiz. 
+To help prepare you for these quizzes, you will have a "unquiz" each class - a formative assessment that will test your knowledge of the forms and vocabulary that we are discussing in class. This will help you to know what kind of learning you will need to be doing to prepare for the mastery quiz.
 
 ***
 
