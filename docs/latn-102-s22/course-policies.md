@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Course Policies
-permalink: schedule-course-policies-latn101-f21
-parent: LATN 101 - F21
+permalink: schedule-course-policies-latn102-s22
+parent: LATN 102 - S22
 nav_order: 6
 ---
 ***

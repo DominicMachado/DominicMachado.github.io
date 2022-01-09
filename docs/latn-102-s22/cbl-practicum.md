@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CBL
-permalink: cbl-latn101-f21
-parent: LATN 101 - F21
+permalink: cbl-latn102-s22
+parent: LATN 102 - S22
 nav_order: 5
 ---
 ***
@@ -10,7 +10,7 @@ nav_order: 5
 # Community Based Learning - LATN 101 - F21
 &nbsp;  
 
-Our course will explore how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of our mission is weekly engagement with the local community, through which students will see how Latin continues to shape the world around us. We are hopeful that the community-based portion of the course will be realized by having you teach Latin to elementary and middle-school students at Worcester Public Schools (we do understand that things may change due to the realities of the COVID-19 pandemic). This engagement will be run in conjunction with the [Donelan Office of Community-Based Learning](https://www.holycross.edu/engaged-learning/donelan-office-community-based-learning). Between travel and teaching, you should anticipate spending roughly two hours per week working with the students, beginning in October (the scheduling will be done in conjunction with the CBL office). 
+Our course will explore how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of our mission is weekly engagement with the local community, through which students will see how Latin continues to shape the world around us. We are hopeful that the community-based portion of the course will be realized by having you teach Latin to elementary and middle-school students at Worcester Public Schools (we do understand that things may change due to the realities of the COVID-19 pandemic). This engagement will be run in conjunction with the [Donelan Office of Community-Based Learning](https://www.holycross.edu/engaged-learning/donelan-office-community-based-learning). Between travel and teaching, you should anticipate spending roughly two hours per week working with the students, beginning in October (the scheduling will be done in conjunction with the CBL office).
 
 In addition to the time you spend on site, we will have a weekly practicum section, run by TA (a former 101/102 student), in which you will have time to prepare and plan for your engagement with WPS students as well as discuss and reflect on your CBL experience. You will have signed up for one of the three following practicum sections when you signed up for the course:
 
@@ -19,7 +19,7 @@ In addition to the time you spend on site, we will have a weekly practicum secti
 - Tuesday, 8:00-8:50 AM (Location TBD)
 
 Below you will find a schedule of readings, assignments, and announcements related to CBL and practicum.
- 
+
 ***
 
 ## Week 1
@@ -28,7 +28,7 @@ Below you will find a schedule of readings, assignments, and announcements relat
 &nbsp;  
 - Icebreakers
 - Overview of CBL with Isabelle Jenkins
-- Session sign-ups 
+- Session sign-ups
 
 ***
 

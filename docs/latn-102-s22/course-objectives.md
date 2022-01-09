@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Course Objectives
-permalink: course-objectives-latn101-f21
-parent: LATN 101 - F21
+permalink: course-objectives-latn102-s22
+parent: LATN 102 - S22
 nav_order: 1
 ---
 ***

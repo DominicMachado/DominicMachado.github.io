@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Schedule
-permalink: schedule-latn101-f21
-parent: LATN 101 - F21
+permalink: schedule-latn102-s22
+parent: LATN 102 - S22
 nav_order: 4
 has_children: true
 ---
@@ -317,7 +317,7 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Week 13 (11/29 - 12/3)
 
 ### Monday, November 29
-- Deponent and semi-deponent verbs 
+- Deponent and semi-deponent verbs
 - **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#semi-deponents) verbs.
 - **Morphology and Vocabulary (to be completed before class)**: Study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-nouns) in the Unit 4 vocabulary list.
 
@@ -356,12 +356,12 @@ and the section on [intransitive sentence structures](https://lingualatina.githu
 ## Final
 
 Submit a final reflection of 300-500 words on your experience in community-based learning this semester. Address the following questions in your reflection:
- 
+
 1. What teaching and planning techniques have worked well this semester? What haven’t worked well? Why? (If you are did alternative CBL, please  include a paragraph describing and reflecting on your grant proposal instead of answering this question).
-2. What have you learned about how language can be used to give or take power from particular people and groups? 
-3. How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences? 
+2. What have you learned about how language can be used to give or take power from particular people and groups?
+3. How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences?
 4. How do you plan to continue to build on your learning experience this semester? What goals do you have for CBL for the spring semester?
 
-Please submit the reflection, as a Google doc shared with me, by Saturday, December 18 at 11:59 PM. 
+Please submit the reflection, as a Google doc shared with me, by Saturday, December 18 at 11:59 PM.
 
 [Back to top.](#top)

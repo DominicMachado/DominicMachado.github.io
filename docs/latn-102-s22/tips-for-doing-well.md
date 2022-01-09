@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Expectations and Tips
-permalink: expectation-and-tips-latn-101-f21
-parent: LATN 101 - F21
+permalink: expectation-and-tips-latn-102-s22
+parent: LATN 102 - S22
 nav_order: 2
 ---
 ***

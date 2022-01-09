@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessment
-permalink: assessment-latn101-s22
+permalink: assessment-latn102-s22
 parent: LATN 102 - S22
 nav_order: 3
 ---
