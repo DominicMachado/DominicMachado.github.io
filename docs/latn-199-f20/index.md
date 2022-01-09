@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LATN 199 - F20
-nav_order: 2
+nav_order: 7
 has_children: true
 ---
 ***

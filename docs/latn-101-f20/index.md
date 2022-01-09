@@ -2,7 +2,7 @@
 layout: page
 title: LATN 101 - F20
 permalink: latn101-f20
-nav_order: 1
+nav_order: 6
 has_children: true
 ---
 ***

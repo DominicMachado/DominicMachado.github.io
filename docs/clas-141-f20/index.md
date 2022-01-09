@@ -2,7 +2,7 @@
 layout: page
 title: CLAS 141 - F20
 permalink: clas141-f20
-nav_order: 3
+nav_order: 8
 has_children: true
 ---
 ***

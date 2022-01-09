@@ -1,8 +1,8 @@
 ---
 layout: page
-title: LATN 101 - F21
-permalink: latn101-f21
-nav_order: 4
+title: LATN 102 - S22
+permalink: latn102-s22
+nav_order: 1
 has_children: true
 ---
 ***
