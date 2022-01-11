@@ -23,7 +23,7 @@ You can earn up to 150 points by attending and participating in your practicum s
 
 ## Mastery Quizzes - 250 points
 &nbsp;  
-We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, you must score score of 90% or higher in order to receive graded credit for the quiz.
+We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, you must score of 90% or higher in order to receive graded credit for the quiz.
 
 You will have the opportunity to retake mastery quizzes to earn a score of 90% or higher. In order to retake a quiz, you must email me and set up a date and time for me to administer the quiz retake.However, unlike last semester, all retakes must be taken within two weeks of when you get your graded mastery quiz back from me. 
 
@@ -49,4 +49,20 @@ These compositions will be made available to you via Google Docs roughly two wee
 
 You will have an opportunity to revise your first three composition assignments so that you can build on the work you did in the initial assignment. Your revision will help you to to turn an unsatisfactory into a satisfactory/excellent. In order to receive credit for your revisions, you will submit your corrections to me by email within two weeks of receiving your grade and then set up a meeting in office hours to go over them with me.
 
+***
+
+## Grading scale
+&nbsp;
+950 - 1000 points - A
+900 - 949 - A-
+870 - 899 - B+
+830 - 869 - B
+800 - 829 - B-
+770 - 799 - C+
+730 - 769 - C
+700 - 729 - C-
+670 - 699 - D+
+630 - 669 - D
+600 - 629 - D-
+0 - 599 - F
 ***
