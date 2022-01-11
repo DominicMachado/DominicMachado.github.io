@@ -18,12 +18,12 @@ has_children: true
 - **Meeting Time:** MWF 2:00 - 2:50 PM
 - **Meeting Place:** TBD
 - **Instructor** Prof. Machado
-- **Student Hours**: T, Th 1 - 2:30 PM; Fenwick 413
+- **Student Hours**: W 12:30 - 1:30 PM, Th 1 - 2:30 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-Latin 102 is the second semester in a two-semester introduction to the Latin language. By analyzing, translating, and composing Latin, students will learn to read real ancient texts from the start of our study. At the same time, we will explore how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of this course is weekly engagement with the Worcester community, through which students will see how Latin continues to shape the world around us. The course’s emphasis on the relationship between our work and broad ethical concerns is in keeping with Holy Cross’ Mission, the shared commitment to “seeking justice within and beyond the Holy Cross community.”
+Latin 102 is the second course in a two-semester introduction to the Latin language. This course will build upon the basics of the Latin language introduced in the first semester (e.g., declension, conjugation, complex sentence structure, etc.) and help you develop a strong command of Latin vocabulary, grammar, and syntax. The goal of first-year Latin is to build a solid foundation for reading actual ancient Roman texts. As such, the acquisition of those linguistic skills, elucidated and practiced through classroom practice and translation and composition exercises, will set a foundation for reading unedited Latin from Hyginus’ Fabulae, a compendium of Greco-Roman myth. 
 
-In this semester, we will learn the Latin language, with a particular focus on gaining a solid grasp of morphology (i.e. its forms) and syntax (i.e. grammar and sentence structure). We will use these skills to continuing read stories about the hero, Hercules, as recorded by the 1st-century CE mythographer, Hyginus. We will continue delve into the reasons why we are still studying Latin at Holy Cross in 2022 and consider the larger social and moral obligations that come with it.
+At the same time, we will continue to explore how engaging with Latin as a historical language can offer new perspectives on the ancient world, the way we view ourselves and our society, and the construction of structures of power over time. A central component of this course is our  weekly engagement with the Worcester community, through which students will see how Latin continues to shape the world around us. The course’s emphasis on the relationship between our work and broad ethical concerns is in keeping with Holy Cross’ Mission, the shared commitment to “seeking justice within and beyond the Holy Cross community.”
 
 [Back to top.](#top)
 
@@ -31,11 +31,11 @@ In this semester, we will learn the Latin language, with a particular focus on g
 
 ### Important Information
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f21), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn101-f21), [assessment](https://dominicmachado.github.io/assessment-latn101-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn101-f21).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn102-s22), [course policies](https://dominicmachado.github.io/schedule-course-policies-latn102-s22), [assessment](https://dominicmachado.github.io/assessment-latn102-s22), and our [full course schedule](https://dominicmachado.github.io/schedule-latn102-s22).
 
-We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. The faculty teaching LATN 101 have also created a repository of YouTube "lectures" that you can access [here](https://www.youtube.com/channel/UCyA2aidE3BiD3idsxrJr5Hg) as well as a set of [additional exercises](https://observablehq.com/collection/@neelsmith/l3).
+We will not but using a physical textbook, but rather an online [textbook](https://lingualatina.github.io/textbook/) created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use. 
 
-Finally, I should note that the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for  Latin 101 students. Our tutors have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. This program will run as an appointment-based service of 40-minute sessions, with the student and peer tutor working together to find a convenient time.  To set up an appointment with one of the tutors, please contact me.
+Finally, I should note that the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for  Latin 102 students. Our tutors have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. This program will run as an appointment-based service of 40-minute sessions, with the student and peer tutor working together to find a convenient time.  To set up an appointment with one of the tutors, please contact me.
 
 [Back to top.](#top)
 
@@ -44,21 +44,19 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance
 &nbsp;  
 
-![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
+![Nouns](https://dcc.dickinson.edu/sites/default/files/inline-images/Case_endings_5_decl_2.jpg)
 
-## Week 14
+## Week 1 (1/26 - 1/28)
 
-### Monday, December 6
-- Review
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation) and [different tenses of the subjunctive](https://observablehq.com/@dominicmachado/subjunctive-forms).
+### Wednesday, January 26
+- Introduction
+- Review of nouns and adjectives
+- **Reading (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn102-s22), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-102-s22), and [assessment](https://dominicmachado.github.io/assessment-latn102-s22) pages on the website.
 
-### Wednesday, December 8
-- Review
-- **Assessment**: Mastery quiz #4
-- **Practice (to be completed before class)**: Try your hand at the following exercises about determining whether a verb is [deponent or semi-deponent](https://observablehq.com/@dominicmachado/determining-verb-types-and-conjugation) and [translating different verb types](https://observablehq.com/@dominicmachado/translating-irregular-deponent-and-semi-deponent-verbs-fr) from Unit 4.
 
-### Friday, December 10
-- Looking ahead
-- **Assessment (due before class)**: [Translation #4 due](https://docs.google.com/document/d/1N5YK4_NJXzSnz3rfvQ50OL26aEqVkUbyXlw5z5ADqrg/edit).
+### Friday, January 28
+- Review of nouns and adjectives
+- **Morphology (to be completed before class)**: Review the morphology of [1st](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), [2nd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), and [3rd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) declensions nouns. In addition, review the different types of [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and the differences between noun and adjective declensions.
+- **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
 
 [Back to top.](#top)
