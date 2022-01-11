@@ -17,15 +17,15 @@ nav_order: 3
 
 ## CBL Attendance and Participation - 250 points
 &nbsp;  
-You can earn up to 150 points by attending and participating in your practicum sessions and your weekly CBL engagement. You can earn another 100 points by completing a final reflection related to your experiences in CBL (due December 18).
+You can earn up to 150 points by attending and participating in your practicum sessions and your weekly CBL engagement. You can earn another 100 points by completing a final reflection related to your experiences in CBL (due May 18).
 
 ***
 
 ## Mastery Quizzes - 250 points
 &nbsp;  
-We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, they will be graded on a pass-fail basis, with a score of 95% or higher required for a pass.
+We will have four mastery quizzes (50 points each for the first three; 100 for the fourth) that test you comprehensively on your knowledge of Latin vocabulary and morphology. The point of these quizzes is to give you an opportunity to show your mastery of some fundamental building blocks of the Latin language. Because the knowledge tested on these quizzes is essential to the course, you must score score of 90% or higher in order to receive graded credit for the quiz.
 
-You will have unlimited opportunities to retake these quizzes to earn a pass. In order to retake a quiz, you must email me and set up a date and time for me to administer the quiz retake.
+You will have the opportunity to retake mastery quizzes to earn a score of 90% or higher. In order to retake a quiz, you must email me and set up a date and time for me to administer the quiz retake.However, unlike last semester, all retakes must be taken within two weeks of when you get your graded mastery quiz back from me. 
 
 To help prepare you for these quizzes, you will have a "unquiz" each class - a formative assessment that will test your knowledge of the forms and vocabulary that we are discussing in class. This will help you to know what kind of learning you will need to be doing to prepare for the mastery quiz.
 
