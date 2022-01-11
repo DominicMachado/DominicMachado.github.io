@@ -11,7 +11,7 @@ nav_order: 3
 
 ***
 
-[CBL Attendance and Participation](#cbl-attendance-participation---250-points) \| [Mastery Quizzes](#mastery-quizzes---250-points) \| [Translations](#translations---250-points) \| [Compositions](#compositions---250-points) \|
+[CBL Attendance and Participation](#cbl-attendance-participation---250-points) \| [Mastery Quizzes](#mastery-quizzes---250-points) \| [Translations](#translations---250-points) \| [Compositions](#compositions---250-points) \| [Grading scale](#grading-scale) \|
 
 ***
 
@@ -51,7 +51,7 @@ You will have an opportunity to revise your first three composition assignments 
 
 ***
 
-## Grading scale (out of 1000 possible points)
+## Grading scale
 &nbsp;
 - 950 - 1000 points - A
 - 900 - 949 - A-
