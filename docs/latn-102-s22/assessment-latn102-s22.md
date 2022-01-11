@@ -51,8 +51,9 @@ You will have an opportunity to revise your first three composition assignments 
 
 ***
 
-## Grading scale (out of a possible 1000 points)
+## Grading scale
 &nbsp;
+Your grade will assigned based of the number of points that you earned out the 1000 points available:
 - 950 - 1000 - A
 - 900 - 949 - A-
 - 870 - 899 - B+
