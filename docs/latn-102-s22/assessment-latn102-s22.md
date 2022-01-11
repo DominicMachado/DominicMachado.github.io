@@ -51,18 +51,18 @@ You will have an opportunity to revise your first three composition assignments 
 
 ***
 
-## Grading scale
+## Grading scale (out of 1000 possible points)
 &nbsp;
-950 - 1000 points - A
-900 - 949 - A-
-870 - 899 - B+
-830 - 869 - B
-800 - 829 - B-
-770 - 799 - C+
-730 - 769 - C
-700 - 729 - C-
-670 - 699 - D+
-630 - 669 - D
-600 - 629 - D-
-0 - 599 - F
+- 950 - 1000 points - A
+- 900 - 949 - A-
+- 870 - 899 - B+
+- 830 - 869 - B
+- 800 - 829 - B-
+- 770 - 799 - C+
+- 730 - 769 - C
+- 700 - 729 - C-
+- 670 - 699 - D+
+- 630 - 669 - D
+- 600 - 629 - D-
+- 0 - 599 - F
 ***
