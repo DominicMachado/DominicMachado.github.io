@@ -18,7 +18,7 @@ In addition to the time you spend on site, we will have a weekly practicum secti
 - Monday, 6:00-6:50 PM (Location TBD)
 - Tuesday, 8:00-8:50 AM (Location TBD)
 
-Below you will find a schedule for CBL practica.
+Below you will find a schedule and notes for CBL this semester.
 
 ***
 
@@ -34,6 +34,20 @@ Below you will find a schedule for CBL practica.
 ### February 7/8
 &nbsp;  
 - No practicum meetings
+- Meet and greet with WPS students at scheduled time
 - Discussion with Maia Lee Chin (time, date, and location TBD)
+
+## Week 3
+&nbsp;  
+### February 14/15
+&nbsp;  
+- First full teaching session with WPS students
+
+## Week 4
+&nbsp;  
+### February 21/22
+&nbsp;  
+- WPS closed for February break
+- TEP representative to visit practicum (time, date, and location TBD)
 
 ***
