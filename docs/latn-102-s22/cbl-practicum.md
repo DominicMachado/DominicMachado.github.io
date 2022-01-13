@@ -22,31 +22,23 @@ Below you will find a schedule and notes for CBL this semester.
 
 ***
 
-## Week 1
-&nbsp;  
-### January 30/31
+## Week 1 (1/30; 1/31)
 &nbsp;  
 - Session sign-ups
 - Feedback on grants
 
-## Week 2
-&nbsp;  
-### February 7/8
+## Week 2 (2/7; 2/8)
 &nbsp;  
 - No practicum meetings
 - Meet and greet with WPS students at scheduled time
 - Discussion with Maia Lee Chin (time, date, and location TBD)
 
-## Week 3
-&nbsp;  
-### February 14/15
-&nbsp;  
-- First full teaching session with WPS students
+## Week 3 (2/14; 2/15)
+&nbsp;   
+- First full teaching week with WPS students
 
-## Week 4
-&nbsp;  
-### February 21/22
-&nbsp;  
+## Week 4 (2/21; 2/22)
+&nbsp;
 - WPS closed for February break
 - TEP representative to visit practicum (time, date, and location TBD)
 
