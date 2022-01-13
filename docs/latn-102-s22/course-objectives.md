@@ -7,7 +7,7 @@ nav_order: 1
 ---
 ***
 
-# Course Objectives - LATN 101 - F21
+# Course Objectives - LATN 102 - S22
 
 ***
 
@@ -17,7 +17,8 @@ By the end of this course, you will be able to:
 
 - Explain how language structures the world we live in
 - Articulate how the Latin language has shaped and continues to shape structures of power in the modern world
-- Read and pronounce Latin with confidence and accuracy
+- Understand the morphology of Latin verbs, nouns, pronouns, and adjectives
+- Recognize and define a significant subset of Latin vocabulary words
 - Analyze syntax and sentence structure in Latin and English
 -	Translate complex ideas and sentences into Latin and English
 - Read real, unedited Latin texts with minimal glossing
