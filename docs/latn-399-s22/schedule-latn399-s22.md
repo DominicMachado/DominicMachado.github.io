@@ -26,12 +26,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 1 (1/25 - 1/28)
 
-### Tuesday, January 25
+### Tuesday, January 25 (virtual class meeting)
 - Course overview
 - Key themes and questions
 - **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) in English. Jot down some notes about the key themes that you found in the opening of the text and nay two questions that arose in your text.
 
-### Thursday, January 27
+### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
 - Meeting Trimalchio 
 - **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). 
