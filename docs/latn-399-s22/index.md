@@ -48,7 +48,7 @@ In terms of books, you will not need any physical books. Below are a list of res
 ### This Week at a Glance
 &nbsp;  
 
-![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
+![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
 ## Week 1 (1/25 - 1/28)
 
