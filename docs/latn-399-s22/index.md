@@ -33,10 +33,10 @@ In this course, we will read the *Satyrica* of Petronius, with a primary focus o
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn399-s22), [course policies](https://dominicmachado.github.io/course-policies-latn399-s22), [assessment](https://dominicmachado.github.io/assessment-latn399-s22), and our [full course schedule](https://dominicmachado.github.io/schedule-latn399-s22).
 
 In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
-- [Latin text of the Satyrica](link here)
+- [Latin text of the Satyrica](https://drive.google.com/file/d/1DBJLXQc6pOO0QXmRG7E3mdGTn9LE6haZ/view?usp=sharing)
 - [Vocabulary list for the Satyrica](link here)
 - [Severy-Holden's commentary on the Satyrica](link here) (lots of grammatical help)
-- [Smith's commentary on the Satyrica](link here) (mix of grammatical help and literary commentary)
+- [Smith's commentary on the Satyrica](https://drive.google.com/file/d/1k4K0w_ywQaOCt7Ab8ztaLUKBN0tRg396/view?usp=sharing) (mix of grammatical help and literary commentary)
 - [Courtney's commentary on the Satyrica](link here) (literary commentary)
 - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
 - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
