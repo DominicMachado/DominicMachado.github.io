@@ -17,6 +17,7 @@ has_children: true
 &nbsp;  
 - **Meeting Time:** T, Th 11:00 AM - 12:15 PM
 - **Meeting Place:** Haberlin 021
+- **Standing Zoom Link:** https://holycross.zoom.us/j/94328868979
 - **Instructor** Prof. Machado
 - **Student Hours**: W 12:30 - 1:30 PM, Th 1 - 2:30 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
@@ -52,12 +53,12 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ## Week 1 (1/25 - 1/28)
 
-### Tuesday, January 25
+### Tuesday, January 25 (virtual class meeting)
 - Course overview
 - Key themes and questions
 - **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) in English. Jot down some notes about the key themes that you found in the opening of the text and nay two questions that arose in your text.
 
-### Thursday, January 27
+### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
 - Meeting Trimalchio 
 - **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). 
