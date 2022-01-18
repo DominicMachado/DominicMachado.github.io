@@ -34,7 +34,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
 - Meeting Trimalchio 
-- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc.
+- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc. Commonplace book opportunity #1.
 
 [Back to top.](#top)
 
@@ -45,11 +45,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 1
 - Roman slavery and freedmen
 - Trimalchio's past and present
-- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing]. 
+- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing]. Commonplace book opportunity #2.
 
 ### Thursday, February 3
 - Dinner begins
-- **Homework (due before class)**: Translate sections 29.9 - 31. 
+- **Homework (due before class)**: Translate sections 29.9 - 31. Commonplace book opportunity #3.
 
 [Back to top.](#top)
 
@@ -60,11 +60,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 8
 - The Age of Nero
 - The first course(s)
-- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xuMt9xRSS_y9NDm-eoBiEHadq_Z10hAt/view?usp=sharing). 
+- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xuMt9xRSS_y9NDm-eoBiEHadq_Z10hAt/view?usp=sharing). Commonplace book opportunity #4.
 
 ### Thursday, February 10
 - Mythological feasting
-- **Homework (due before class)**: Translate sections 35 - 36.
+- **Homework (due before class)**: Translate sections 35 - 36. Commonplace book opportunity #5.
 
 [Back to top.](#top)
 
