@@ -34,7 +34,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
 - Meeting Trimalchio 
-- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). 
+- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc.
 
 [Back to top.](#top)
 
