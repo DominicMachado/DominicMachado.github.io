@@ -4,7 +4,7 @@ title: Schedule
 permalink: schedule-latn399-s22
 parent: LATN 399 - S22
 nav_order: 4
-has_children: true
+has_children: false
 ---
 ***
 
