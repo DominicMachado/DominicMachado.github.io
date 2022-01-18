@@ -26,5 +26,3 @@ Below is the rubric for course grades:
 To achieve a certain grade level, students must complete the listed number of satisfactory assignments from each of the seven different categories (i.e. students who want to earn a B– must satisfactorily complete 16 commonplace book entries, two translation papers, and the final creative project). When students have completed the minimum number of satisfactory assignments for their desired final grade, they do not need to submit any more assignments of that type.
 
 There are some opportunities you to revise your work if you do not earn a satisfactory grade. You are allowed to revise both of your translation papers, if you do not earn a satisfactory on your first attempt. You will also be allowed to revise one unsatisfactory commonplace book entry.
-
-NB: To earn a passage, you need to complete 12 commonplace book entries, one translation paper, and the final creative project.
