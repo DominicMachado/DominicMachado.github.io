@@ -61,7 +61,7 @@ In terms of books, you will not need any physical books. Below are a list of res
 ### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
 - Meeting Trimalchio 
-- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc.  
+- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc. Commonplace book opportunity #1. 
 
 
 [Back to top.](#top)
