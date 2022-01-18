@@ -2,7 +2,7 @@
 layout: page
 title: Course Policies
 permalink: course-policies-latn399-s22
-parent: LATN 399 - F22
+parent: LATN 399 - S22
 nav_order: 6
 ---
 ***
