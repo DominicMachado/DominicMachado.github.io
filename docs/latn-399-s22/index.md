@@ -9,22 +9,19 @@ has_children: true
 ## Welcome to LATN 399 - Spring 2022
 &nbsp;
 
-![Hannibal](https://www.ancienthistorylists.com/wp-content/uploads/2014/09/Hannibal-Barca.jpg)
+![cena](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1528569725i/25700012._SX540_.jpg)
 
 ***
 
 ### Course Information
 &nbsp;  
-- **Meeting Time:** MWF 9:00 - 9:50 AM
-- **Meeting Place:** Stein 216
+- **Meeting Time:** T, Th 11:00 AM - 12:15 PM
+- **Meeting Place:** Haberlin 021
 - **Instructor** Prof. Machado
-- **Student Hours**: T, Th 1 - 2:30 PM; Fenwick 413
+- **Student Hours**: W 12:30 - 1:30 PM, Th 1 - 2:30 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-Latin 211 is meant to serve as an introduction to the reading of Latin at the college level. 	
-The course is specifically designed for students who have studied Latin at the high school level for multiple years, but do not yet feel comfortable with reading advanced poetry and prose. The aim of the course to give students the opportunity to improve their knowledge of Latin grammar and syntax, with a view towards enabling reading facility of real Latin texts. As such, the course will be a mix of grammar review and reading practice.
-
-The readings for the course will thematically organized around the character of Hannibal, arguably Rome's greatest enemy. To that end, we will read all of Cornelius Nepos' biography of Hannibal.
+In this course, we will read the *Satyrica* of Petronius, with a primary focus on the famous *Cena Trimalchionis*. Together, we will explore many different aspects of this dynamic text. We will study the text's unique literary artistry, paying close attention to the ways in which it defies generic and stylistic  We will grapple with the social context of the *Satyrica* as a product of Neronian Rome and the social commentary it offers on the slavery, freedom, sexuality, and spectacle in this critical period of Roman history. We will end the course by moving forward in time and looking at how the *Satyrica* has been interpreted by modern writers and film makers like F. Scott Fitzgerald, T. S. Eliot, and Federico Fellini..
 
 [Back to top.](#top)
 
@@ -32,12 +29,14 @@ The readings for the course will thematically organized around the character of 
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn211-f21), [course policies](https://dominicmachado.github.io/course-policies-latn211-f21), [assessment](https://dominicmachado.github.io/assessment-latn211-f21), and our [full course schedule](https://dominicmachado.github.io/schedule-latn211-f21). Additionally, you will also find on this site, a set of tips for reading complex Latin [sentences](https://dominicmachado.github.io/tips-for-reading-latn211-f21).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn399-s22), [course policies](https://dominicmachado.github.io/course-policies-latn399-s22), [assessment](https://dominicmachado.github.io/assessment-latn399-s22), and our [full course schedule](https://dominicmachado.github.io/schedule-latn399-s22).
 
 In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
-- [Text and commentary of Nepos' Life of Hannibal](http://dcc.dickinson.edu/nepos-hannibal/chapter-1)
-- [Core vocabulary](https://dominicmachado.github.io/vocabulary-latn211-f21)
-- [HC Latin Textbook](https://lingualatina.github.io/textbook/)
+- [Latin text of the Satyrica](link here)
+- [Vocabulary list for the Satyrica](link here)
+- [Severy-Holden's commentary on the Satyrica](link here) (lots of grammatical help)
+- [Smith's commentary on the Satyrica](link here) (mix of grammatical help and literary commentary)
+- [Courtney's commentary on the Satyrica](link here) (literary commentary)
 - [Lewis and Short Dictionary](http://folio2.furman.edu/lewis-short/index.html)
 - [Allen & Greenough Reference Grammar](http://dcc.dickinson.edu/grammar/latin/credits-and-reuse)
 - [Classics Resource Guide](https://libguides.holycross.edu/classics)
@@ -51,11 +50,17 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Hannibal](https://tourdetravoy.files.wordpress.com/2016/10/hannibal_traversette1.jpg?w=660)
 
-## Week 12
+## Week 1 (1/25 - 1/28)
 
-### Monday, November 22
-- Life of Hannibal, Chapter 4
-- **Homework (due before class)**: Translation #1 due.
+### Tuesday, January 25
+- Course overview
+- Key themes and questions
+- **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) in English. Jot down some notes about the key themes that you found in the opening of the text and nay two questions that arose in your text.
+
+### Thursday, January 27
+- The uncertainities of the Satyricon
+- Meeting Trimalchio 
+- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). 
 
 
 [Back to top.](#top)
