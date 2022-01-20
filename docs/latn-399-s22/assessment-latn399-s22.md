@@ -12,8 +12,7 @@ has_children: true
 
 ***
 
-[Commonplace Book](#commonplace-book) \| [Translation Assignment](#translation-assignment) \| [Opuscula](#opuscula) \| [Final Creative Project](#final-creative-project) \| [Podcast Project](#podcast-project) \|
-
+[Commonplace Book](#commonplace-book) \| [Translation Assignment](#translation-assignment) \| [Opuscula](#opuscula) \| [Final Creative Project](#final-creative-project) \|
 ***
 
 Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-latn399-s22) page.
