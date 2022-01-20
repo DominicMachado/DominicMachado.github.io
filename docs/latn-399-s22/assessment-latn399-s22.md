@@ -32,7 +32,7 @@ Further details on the commonplace book assignment can be found [here](https://d
 
 ***
 
-## Translation Assigments (due March 4; April 12, 11:00 AM)
+## Translation Assigments (due March 3; April 12, 11:00 AM)
 &nbsp;  
 We will have two assignments in which you will be asked to produce a definitive translation of a passage from Petronius. Through consultation with the original text as well as modern commentaries and translations of the passage, you will produce a translation of the passage that is not only grammatically accurate and idiomatic, but one that reflects the tone of passage, presents a clear narrative of events, and takes a strong stance on any controversial aspects within it. Put another way, it represent not just a word-for-word translation of the passage, but an interpretation of it. 
 
