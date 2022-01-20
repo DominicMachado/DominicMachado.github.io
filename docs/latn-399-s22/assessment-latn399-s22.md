@@ -13,6 +13,7 @@ has_children: true
 ***
 
 [Commonplace Book](#commonplace-book) \| [Translation Assignment](#translation-assignment) \| [Opuscula](#opuscula) \| [Final Creative Project](#final-creative-project) \|
+
 ***
 
 Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-latn399-s22) page.
@@ -54,7 +55,7 @@ Completion of the *opuscula* are not necessary to pass the class. There are no s
 ***
 
 ## Creative Final Project (due May 18, 11:59 PM)
-&nbsp;
+&nbsp;  
 The final project represents an opportunity for you to offer your own intepretation of the Satyricon in a way that whatever creative interests and talents you might have. As such, there is no specified form and content for your final project, other than that it engage with the material of the text that we have been reading and does not take the form of an essay or translation. Some examples of creative projects that you might undertake include (but are certainly not limited to) coming up with a modern playlist to accompany the Cena, illustrating a graphic novel based a portion of the text, making tombstones for different characters who appear at the feast, or writing your own version of one of the lost scenes from the novel.
 
 In order to ensure that everyone's final project fits the bill and that you start working on it well in advance of the due date, you will be required to meet with me by April 5 to propose your project and explain the scope that you iagine. We will meet again two weeks later to discuss your progress and establish a personal rubric for a successful project.
