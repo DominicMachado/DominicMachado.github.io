@@ -34,7 +34,7 @@ Everything that you need to know about this course is on this website. You can f
 
 In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
 - [Latin text of the Satyrica](https://drive.google.com/file/d/1DBJLXQc6pOO0QXmRG7E3mdGTn9LE6haZ/view?usp=sharing)
-- [Vocabulary list for the Satyrica](link here) (pretty comprehensive list, but not totally complete)
+- [Vocabulary list for the Satyrica](https://drive.google.com/file/d/1-XQjMk3jBySxk8R_dCuZWDha3LgeLMkY/view?usp=sharing) (pretty comprehensive list, but not totally complete)
 - [Severy-Holden's commentary on the Satyrica](https://drive.google.com/file/d/12Zz7E6v2GCiy5QldSf5mnnYCd4cYFU3d/view?usp=sharing) (lots of grammatical help, but not available for all chapters)
 - [Smith's commentary on the Satyrica](https://drive.google.com/file/d/1k4K0w_ywQaOCt7Ab8ztaLUKBN0tRg396/view?usp=sharing) (mix of grammatical help and literary commentary)
 - [Courtney's commentary on the Satyrica](https://drive.google.com/file/d/12Zz7E6v2GCiy5QldSf5mnnYCd4cYFU3d/view?usp=sharing) (literary commentary)
