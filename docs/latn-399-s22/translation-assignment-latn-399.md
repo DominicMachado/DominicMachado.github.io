@@ -14,7 +14,7 @@ nav_order: 2
 
 ## Translation Assignment
 &nbsp;
-![Commonplace Book](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Commonplace_book_mid_17th_century.jpg/800px-Commonplace_book_mid_17th_century.jpg)
+![Commonplace Book](https://foxedquarterly.com/wp-content/uploads/2021/02/Petronius-Satyricon.jpg)
 
 ***
 
@@ -25,8 +25,6 @@ For this assignment, you will be asked to produce a definitive translation of a 
 In addition to producing a translation, you will also write a 500 - 600 word reflection on the process of coming up with your translation. In this reflection, you will explain, for instance, why you chose a particular tone in the passage or why you used a particular English phrase that wasn’t a word for word translation of the Latin. You will also highlight the places where you had to make a decision regarding the interpretation of a word or phrase and how you reconciled the difference in opinion that you found in commentaries or other translations. You will also discuss how Hanink and Wilson's views on translation helped you to move beyond a more literal translation.
 
 Below you will find the passage for translation, as well as links to several translations and commentaries on that passage.
-
-[Back to top.](#top)
 
 ***
 
@@ -42,8 +40,6 @@ Each translation assignment will be graded on a satisfactory/unsatisfactory basi
 - Discuss how this approach manifested itself in your translation with specific examples
 - Highlight words and phrases that had multiple interpretations and how you ultimately decided which one to go with
 
-[Back to top.](#top)
-
 ***
 
 **Translation #1**
@@ -52,8 +48,6 @@ Due date: March 3, 11:00 AM
 
 More to follow...
 
-[Back to top.](#top)
-
 ***
 
 **Translation #2**
@@ -61,7 +55,5 @@ More to follow...
 Due date: April 12, 11:00 AM
 
 More to follow...
-
-[Back to top.](#top)
 
 ***
