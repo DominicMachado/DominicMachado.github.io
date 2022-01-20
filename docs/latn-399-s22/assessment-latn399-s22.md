@@ -12,7 +12,7 @@ has_children: true
 
 ***
 
-[Commonplace Book](#commonplace-book) \| [Translation Assignment](#translation-and-translation-paper) \| [Non-Elite History Assignment](#non-elite-history-assignment) \| [Creative Project](#creative-project) \| [Podcast Project](#podcast-project) \|
+[Commonplace Book](#commonplace-book) \| [Translation Assignment](#translation-assignment) \| [Opuscula](#opuscula) \| [Final Creative Project](#final-creative-project) \| [Podcast Project](#podcast-project) \|
 
 ***
 
@@ -32,7 +32,7 @@ Further details on the commonplace book assignment can be found [here](https://d
 
 ***
 
-## Translation Assigments (due March 4; April 12 at the beginning of class)
+## Translation Assigments (due March 4; April 12, 11:00 AM)
 &nbsp;  
 We will have two assignments in which you will be asked to produce a definitive translation of a passage from Petronius. Through consultation with the original text as well as modern commentaries and translations of the passage, you will produce a translation of the passage that is not only grammatically accurate and idiomatic, but one that reflects the tone of passage, presents a clear narrative of events, and takes a strong stance on any controversial aspects within it. Put another way, it represent not just a word-for-word translation of the passage, but an interpretation of it. 
 
@@ -44,7 +44,7 @@ You must complete at least one translation assignment to pass the course. Furthe
 
 ***
 
-## Opuscula (due May 5 at the beginning of class)
+## Opuscula (due May 5, 11:00 AM)
 &nbsp;  
 There will be four mini-projects, known as *opuscula* (the Latin for mini-projects) that you will have the opportunity to complete. These projects will ask you dive deeply into the different aspects of the Satyrica by doing some basic reading and research about the text and then doing activity and/or analysis based on this reading. By doing these assignments, you will not only gain important about key facets of the text, but get the chance to explore themes in the text that you find interesting.
 
