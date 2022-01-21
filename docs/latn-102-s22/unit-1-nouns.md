@@ -6,7 +6,7 @@ parent: Unit 1 - Review
 grand_parent: Schedule
 great_grand_parent: LATN 102 - S22
 nav_order: 1
-has_children: true
+has_children: false
 ---
 ***
 
