@@ -1,0 +1,71 @@
+---
+layout: page
+title: Opuscula
+permalink: opuscula-latn399-s22
+parent: Assessment
+grand_parent: LATN 399 - S22
+nav_order: 3
+---
+***
+
+# Opuscula - LATN 399 - S22
+
+***
+
+## Opuscula
+&nbsp;
+![Opuscula](https://i2.wp.com/www.raptisrarebooks.com/images/74903/opuscula-mathematica-philosophica-et-philologica-isaac-newton-first-edition.jpg?fit=600%2C480&ssl=1)
+
+***
+
+**Overview**
+
+There will be four mini-projects, known as opuscula (the Latin for mini-projects) that you will have the option of completing. These projects will ask you dive deeply into the different aspects of the Satyrica by doing some basic reading and research about the text and then completing an analysis or activity based on this reading. By doing these assignments, you will gain essential knowledge about key facets of the text and get the chance to explore themes in the text that you find personally interesting.
+
+There are no specific due dates for particular opuscula, but they must be completed sequentially. In addition, you cannot submit them all at the same time; you must receive a satisfactory grade on the previous *opuscula* before turning in the next one. For instance, you were to turn in the first *opusculum*, you would have to wait until I gave it back to turn in the second one. You should take this into account into when you decide whether and when to work on the *opuscula*. In addition, it is worth noting that even though the assignments may seem pretty simple, they will require quite a bit of careful thought and thus cannot be rushed. *Opuscula* can either be shared with me as a GoogleDoc or handed in in person, if you prefer.
+
+*Opuscula* are not required to pass this class. For how they factor into the class grading rubric, have a look at [this page].
+
+***
+
+**Opusculum #1: Who wrote the Satyricon?**
+
+For this opusculum, you will delve into the numerous uncertainties surrounding the author of the text. As background for your analysis, please read Courtney’s [chapter](https://drive.google.com/file/d/1Bp7SvMniTVXdRfD93bURKrHG-CsoUz1C/view?usp=sharing) on the identity of the author of the Satyrica and Völker and Rohmann’s [article](https://drive.google.com/file/d/1LiXqJmWN6COOHyRjdWk2WDBkiYAyXGxm/view?usp=sharing) on the same topic. You will begin by summarizing the evidence that has been used to identify the author of the work as Petronius, to date the work to the Neronian period, and to point a specific Petronius in age of Nero as the author of the work. You will then move to critique these arguments, pointing to the places where the evidence or argumentation is weak. You will conclude by offering your opinion on the authorship of the Satyrica and explaining the reasoning you used to come to that conclusion.![image](https://user-images.githubusercontent.com/53770663/150445905-d55b1d25-0e0a-48e6-a0c0-9bcae88c3ce3.png)
+
+A satisfactory assignment will:
+-	Be 600 – 700 words in length
+-	Summarize the evidence used to identify the author of the Satyricon as having the nomen Petronius
+-	Summarize the evidence used to date the work to the Neronian period
+-	Summarize the various pieces of evidence used to point to a specific Petronius in the age of Nero
+-	Critique these arguments by pointing to places where the evidenc or argumentation used is insufficient
+-	Offer your point of view on the matter of the authorship of the Satyricon and explain how you came to that conclusion 
+-	Correctly cite the sources you use, both ancient and modern
+
+***
+
+**Opusculum #2: Sermo vulgaris**
+
+For this opuscula, please read Bret Boyce’s [chapter](link here) on the ways in which Petronius represents non-elite speech in the Satyrica. Once you have read the chapter, have a look at the following four sentences below, all from the freedmen’s speeches in sections 41 - 46. In each sentence, the bolded word(s) represent what Boyce terms a “popular feature” of Petronius language. For each bolded word, your job is to identify which of Boyce’s “popular feature” it represents and explain how you know that. For example, if I gave you the sentence *curabo **domata sit** Cassandra caligaria* (74.14), you would say that **domata sit** represents a “change of conjugation” because the classical form of the verb has the principal parts *domo, domare, domui, domitus*. You would also note that it appears that the speaker has changed the fourth principal part to fit better with the fact that the first two principal parts indicate that it belongs to the first conjugation.
+
+- *vix me **balneus** **calfecit**. tamen calda potio vestiarius est. **staminatas** duxi, et plane **matus** sum. **vinus** mihi in cerebrum abiit.* (41.11-12)
+
+- *et Titus noster magnum animum habet et est **caldicerebrius**: aut hoc aut illud, erit quid utique. nam illi domesticus sum, non est **mixcix**.* (45.5)
+
+- *videris mihi, Agamemnon, dicere: "quid iste **argutat** molestus?" quia tu, qui potes **loquere**, non **loquis**. non es nostrae fasciae, et ideo **pauperorum**	verba derides.* (46.2)
+
+- *litterae **thesaurum** est, et artificium numquam moritur.( (46.7)
+
+A satisfactory assignment will:
+-	Identity the "popular feature" represented by each bolded word in the four sentences
+- Provide explanation of how you know that the word is an example of that feature
+- Offer the more classi
+
+***
+
+**Opusculum #3: **
+
+***
+
+**Opusculum #4: Annotated Bibliography**
+
+***
