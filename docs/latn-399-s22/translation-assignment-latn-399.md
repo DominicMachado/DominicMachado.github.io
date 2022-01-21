@@ -32,7 +32,7 @@ Below you will find the passage for translation, as well as links to several tra
 
 Each translation assignment will be graded on a satisfactory/unsatisfactory basis. A satisfactory translation assignment will:
 
-- Be completed by class time (11 AM)
+- Be shared with me as a GoogleDoc by class time (11 AM)
 - Provide a grammatical accurate and idiomatic rendering of the Latin
 - Interpret the text's tone and narrative flow
 - Include a 500-600 word reflection on the process that you used to come up with your translation
