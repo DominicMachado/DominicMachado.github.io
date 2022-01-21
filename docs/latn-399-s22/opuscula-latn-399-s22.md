@@ -24,7 +24,7 @@ There will be four mini-projects, known as opuscula (the Latin for mini-projects
 
 There are no specific due dates for particular opuscula, but they must be completed sequentially. In addition, you cannot submit them all at the same time; you must receive a satisfactory grade on the previous *opuscula* before turning in the next one. For instance, you were to turn in the first *opusculum*, you would have to wait until I gave it back to turn in the second one. You should take this into account into when you decide whether and when to work on the *opuscula*. In addition, it is worth noting that even though the assignments may seem pretty simple, they will require quite a bit of careful thought and thus cannot be rushed. *Opuscula* can either be shared with me as a GoogleDoc or handed in in person, if you prefer.
 
-*Opuscula* are not required to pass this class. For how they factor into the class grading rubric, have a look at [this page].
+*Opuscula* are not required to pass this class. For how they factor into the class grading rubric, have a look at the specifications grading [page](https://dominicmachado.github.io/specification-grading-latn399-s22).
 
 ***
 
@@ -63,18 +63,20 @@ A satisfactory assignment will:
 
 ***
 
-**Opusculum #3: **
+**Opusculum #3**
+
+More to follow...
 
 ***
 
 **Opusculum #4: Annotated Bibliography**
 
-For this opusculum, you will compile an [annotated bibliography](https://libguides.csun.edu/research-strategies/annotated-bibliography#:~:text=An%20annotated%20bibliography%20is%20a,short%20paragraph%20about%20each%20source.&text=Each%20source%20in%20the%20annotated,format%20to%20make%20that%20easier). You will start by selecting a theme or topic in the Satyrica that you have found particularly meaningful in this course and research it further. Some example of relevant themes or topics might include gender and sexuality, freedom and slavery, or the reception of the text. You will then accumulate a bibliography of 10 sources (articles, chapters, or books) that deal with your theme/topic (NB: if the source was published before 1960, you must run it by Professor Machado). You will then read these source and write a brief summary of it (1-2 paragraphs) laying out the purpose of the piece, its argument, its larger contribution to your understanding of the theme, and any problems you see with it.
+For this opusculum, you will compile an [annotated bibliography](https://libguides.csun.edu/research-strategies/annotated-bibliography#:~:text=An%20annotated%20bibliography%20is%20a,short%20paragraph%20about%20each%20source.&text=Each%20source%20in%20the%20annotated,format%20to%20make%20that%20easier). You will start by selecting a theme or topic in the Satyrica that you have found particularly meaningful in this course. Some example of relevant themes or topics might include gender and sexuality, freedom and slavery, or the reception of the text. You will then begin to research this theme and accumulate a bibliography of 10 sources (articles, chapters, or books) that deal with your theme/topic (NB: if the source was published before 1960, you must run it by Professor Machado). You will then read these source and write a brief summary of it (1-2 paragraphs) laying out the purpose of the piece, its argument, its larger contribution to your understanding of the theme, and any problems you see with it.
 
-If you are unsure as to how to compile a bibliography properly, please look at [this webiste](https://libguides.holycross.edu/citationhelp) for reference. I don't have a preference as to the bibliographic style that you use, I only ask that you be consistent throughout your document. If you need help finding sources, please consult with [Jen Whalen](https://libguides.holycross.edu/prf.php?account_id=5347), Holy Cross' Classics librarian, who can help you along in the process.
+If you are unsure as to how to compile a bibliography properly, please look at [this webiste](https://libguides.holycross.edu/citationhelp) for reference. I don't have a preference as to the bibliographic style that you use, I only ask that you be consistent throughout your document. If you need help finding sources, please consult with [Jen Whalen](https://libguides.holycross.edu/prf.php?account_id=5347), Holy Cross' Classics librarian, or myself.
 
 A satisfactory assignment will:
--	Highlight a clear theme or topic
+-	Explicitly states the theme or topic of the annotated bibliography
 -	Include a list of 10 properly-cited sources
 - Feature a brief 1-2 paragraph annotations of each source that the source's purpose, argument, and contribution to the study of the theme
 - Include criticism of sources where warranted
