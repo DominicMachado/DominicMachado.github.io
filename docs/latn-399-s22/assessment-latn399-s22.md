@@ -46,7 +46,7 @@ You must complete at least one translation assignment to pass the course. Furthe
 
 ## Opuscula (due May 5, 11:00 AM)
 &nbsp;  
-There will be four mini-projects, known as *opuscula* (the Latin for mini-projects) that you will have the opportunity to complete. These projects will ask you dive deeply into the different aspects of the Satyrica by doing some basic reading and research about the text and then doing activity and/or analysis based on this reading. By doing these assignments, you will not only gain important about key facets of the text, but get the chance to explore themes in the text that you find interesting.
+There will be four *opuscula* (mini-projects) that you will have the opportunity to complete over the course of the semester. These projects will ask you to dive deeply into different aspects of the Satyrica. You will do some basic reading and research about the text and then complete activity and/or analysis based on this reading. By doing these assignments, you will not only learn more about key facets of the text, but get the chance to explore themes in the text that you personally find interesting.
 
 Completion of the *opuscula* are not necessary to pass the class. There are no specific due dates for particular *opuscula*, but they must be completed in the order in which they are listed and you must receive a satisfactory grade from me before trying the next one. Further details of these assignments can be found [here](link here).
 
@@ -56,7 +56,7 @@ Completion of the *opuscula* are not necessary to pass the class. There are no s
 
 ## Creative Final Project (due May 18, 11:59 PM)
 &nbsp;  
-The final project represents an opportunity for you to offer your own intepretation of the Satyricon in a way that whatever creative interests and talents you might have. As such, there is no specified form and content for your final project, other than that it engage with the material of the text that we have been reading and does not take the form of an essay or translation. Some examples of creative projects that you might undertake include (but are certainly not limited to) coming up with a modern playlist to accompany the Cena, illustrating a graphic novel based a portion of the text, making tombstones for different characters who appear at the feast, or writing your own version of one of the lost scenes from the novel.
+The final project represents an opportunity for you to offer your own intepretation of the Satyrica in a way that best fits with whatever creative interests and talents you might have. As such, there is no specified form and content for your final project, other than that it engage with the material of the text that we have been reading and does not take the form of an essay or translation. Some examples of creative projects that you might undertake include (but are certainly not limited to) coming up with a modern playlist to accompany the Cena, illustrating a graphic novel based a portion of the text, making tombstones for different characters who appear at the feast, or writing your own version of one of the lost scenes from the novel.
 
 In order to ensure that everyone's final project fits the bill and that you start working on it well in advance of the due date, you will be required to meet with me by April 5 to propose your project and explain the scope that you iagine. We will meet again two weeks later to discuss your progress and establish a personal rubric for a successful project.
 
