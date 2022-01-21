@@ -38,7 +38,7 @@ We will have two assignments in which you will be asked to produce a definitive 
 
 In addition to producing a translation, you will also write a 500 - 600 word reflection on the process of coming up with your translation. In this reflection, you will explain why you chose a particular tone in the passage or why you used a particular English phrase that wasn't a word for word translation of the Latin. You will also highlight the places where you had to make a decision regarding the interpretation of a word or phrase and how you reconciled the difference in opinion that you found in commentaries or other translations.
 
-You must complete at least one translation assignment to pass the course. Further details on the assignment can be found [here](link here).
+You must complete at least one translation assignment to pass the course. Further details on the assignment can be found [here](https://dominicmachado.github.io/translation-assigment-latn399-s22).
 
 [Back to top.](#top)
 
@@ -48,7 +48,7 @@ You must complete at least one translation assignment to pass the course. Furthe
 &nbsp;  
 There will be four *opuscula* (mini-projects) that you will have the opportunity to complete over the course of the semester. These projects will ask you to dive deeply into different aspects of the Satyrica. You will do some basic reading and research about the text and then complete activity and/or analysis based on this reading. By doing these assignments, you will not only learn more about key facets of the text, but get the chance to explore themes in the text that you personally find interesting.
 
-Completion of the *opuscula* are not necessary to pass the class. There are no specific due dates for particular *opuscula*, but they must be completed in the order in which they are listed and you must receive a satisfactory grade from me before trying the next one. Further details of these assignments can be found [here](link here).
+Completion of the *opuscula* are not necessary to pass the class. There are no specific due dates for particular *opuscula*, but they must be completed in the order in which they are listed and you must receive a satisfactory grade from me before trying the next one. Further details of these assignments can be found [here](https://dominicmachado.github.io/opuscula-latn399-s22).
 
 [Back to top.](#top)
 
