@@ -30,7 +30,7 @@ There are no specific due dates for particular opuscula, but they must be comple
 
 **Opusculum #1: Who wrote the Satyricon?**
 
-For this opusculum, you will delve into the numerous uncertainties surrounding the author of the text. As background for your analysis, please read Courtney’s [chapter](https://drive.google.com/file/d/1Bp7SvMniTVXdRfD93bURKrHG-CsoUz1C/view?usp=sharing) on the identity of the author of the Satyrica and Völker and Rohmann’s [article](https://drive.google.com/file/d/1LiXqJmWN6COOHyRjdWk2WDBkiYAyXGxm/view?usp=sharing) on the same topic. You will begin by summarizing the evidence that has been used to identify the author of the work as Petronius, to date the work to the Neronian period, and to point a specific Petronius in age of Nero as the author of the work. You will then move to critique these arguments, pointing to the places where the evidence or argumentation is weak. You will conclude by offering your opinion on the authorship of the Satyrica and explaining the reasoning you used to come to that conclusion.![image](https://user-images.githubusercontent.com/53770663/150445905-d55b1d25-0e0a-48e6-a0c0-9bcae88c3ce3.png)
+For this opusculum, you will delve into the numerous uncertainties surrounding the author of the text. As background for your analysis, please read Courtney’s [chapter](https://drive.google.com/file/d/1Bp7SvMniTVXdRfD93bURKrHG-CsoUz1C/view?usp=sharing) on the identity of the author of the Satyrica and Völker and Rohmann’s [article](https://drive.google.com/file/d/1LiXqJmWN6COOHyRjdWk2WDBkiYAyXGxm/view?usp=sharing) on the same topic. You will begin by summarizing the evidence that has been used to identify the author of the work as Petronius, to date the work to the Neronian period, and to point a specific Petronius in age of Nero as the author of the work. You will then move to critique these arguments, pointing to the places where the evidence or argumentation is weak. You will conclude by offering your opinion on the authorship of the Satyrica and explaining the reasoning you used to come to that conclusion.
 
 A satisfactory assignment will:
 -	Be 600 – 700 words in length
@@ -45,7 +45,7 @@ A satisfactory assignment will:
 
 **Opusculum #2: Sermo vulgaris**
 
-For this opuscula, please read Bret Boyce’s [chapter](link here) on the ways in which Petronius represents non-elite speech in the Satyrica. Once you have read the chapter, have a look at the following four sentences below, all from the freedmen’s speeches in sections 41 - 46. In each sentence, the bolded word(s) represent what Boyce terms a “popular feature” of Petronius language. For each bolded word, your job is to identify which of Boyce’s “popular feature” it represents and explain how you know that. For example, if I gave you the sentence *curabo **domata sit** Cassandra caligaria* (74.14), you would say that **domata sit** represents a “change of conjugation” because the classical form of the verb has the principal parts *domo, domare, domui, domitus*. You would also note that it appears that the speaker has changed the fourth principal part to fit better with the fact that the first two principal parts indicate that it belongs to the first conjugation.
+For this opusculum, please read Bret Boyce’s [chapter](link here) on the ways in which Petronius represents non-elite speech in the Satyrica. Once you have read the chapter, have a look at the following four sentences below, all from the freedmen’s speeches in sections 41 - 46. In each sentence, the bolded word(s) represent what Boyce terms a “popular feature” of Petronius language. For each bolded word, your job is to identify which of Boyce’s “popular feature” it represents and explain how you know that. For example, if I gave you the sentence *curabo **domata sit** Cassandra caligaria* (74.14), you would say that **domata sit** represents a “change of conjugation” because the classical form of the verb has the principal parts *domo, domare, domui, domitus*. You would also note that it appears that the speaker has changed the fourth principal part to fit better with the fact that the first two principal parts indicate that it belongs to the first conjugation.
 
 - *vix me **balneus** **calfecit**. tamen calda potio vestiarius est. **staminatas** duxi, et plane **matus** sum. **vinus** mihi in cerebrum abiit.* (41.11-12)
 
@@ -53,12 +53,11 @@ For this opuscula, please read Bret Boyce’s [chapter](link here) on the ways i
 
 - *videris mihi, Agamemnon, dicere: "quid iste **argutat** molestus?" quia tu, qui potes **loquere**, non **loquis**. non es nostrae fasciae, et ideo **pauperorum**	verba derides.* (46.2)
 
-- *litterae **thesaurum** est, et artificium numquam moritur.( (46.7)
+- *litterae **thesaurum** est, et artificium numquam moritur.* (46.7)
 
 A satisfactory assignment will:
--	Identity the "popular feature" represented by each bolded word in the four sentences
+-	Identity the "popular feature" represented by all eleven words in the four sentences above
 - Provide explanation of how you know that the word is an example of that feature
-- Offer the more classi
 
 ***
 
@@ -67,5 +66,7 @@ A satisfactory assignment will:
 ***
 
 **Opusculum #4: Annotated Bibliography**
+
+For this opuscula, you will start by selecting a theme or topic that you have found particularly meaningful in this course and research it further. You find 10 articles, chapters, or books that deal with your topic and read them. 
 
 ***
