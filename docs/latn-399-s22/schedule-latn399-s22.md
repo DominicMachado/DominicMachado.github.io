@@ -29,7 +29,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, January 25 (virtual class meeting)
 - Course overview
 - Key themes and questions
-- **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) in English. Jot down some notes about the key themes that you found in the opening of the text and nay two questions that arose in your text.
+- **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) in English. Jot down some notes about the key themes that you found in the opening of the text as well as any questions that arose in your reading.
 
 ### Thursday, January 27 (virtual class meeting)
 - The uncertainities of the Satyricon
