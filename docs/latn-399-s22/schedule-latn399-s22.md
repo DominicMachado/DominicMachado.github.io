@@ -45,7 +45,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 1
 - Roman slavery and freedmen
 - Trimalchio's past and present
-- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing]. Commonplace book opportunity #2.
+- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing](https://drive.google.com/file/d/1PBHA-ASWpfCJwLUXQ0o5QSi6zKVtznue/view?usp=sharing). Commonplace book opportunity #2.
 
 ### Thursday, February 3
 - Dinner begins
