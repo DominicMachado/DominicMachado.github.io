@@ -5,7 +5,7 @@ permalink: schedule-latn102-s22-unit-1-vocabulary-verbs
 parent: Unit 1 - Review
 grand_parent: Schedule
 great_grand_parent: LATN 102 - S22
-nav_order: 1
+nav_order: 2
 has_children: false
 ---
 ***
