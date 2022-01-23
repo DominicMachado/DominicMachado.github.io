@@ -37,7 +37,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Morphology (to be completed before class)**: Review the morphology of [1st](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), [2nd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), and [3rd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) declensions nouns. In addition, review the different types of [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and the differences between noun and adjective declensions.
 - **Vocabulary (to be completed before class)**: Study the first eight [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) and first six [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
-- 
 
 [Back to top.](#top)
 
