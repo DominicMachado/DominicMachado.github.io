@@ -57,12 +57,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - 1st and 2nd person forms
 - **Morphology (to be completed before class)**: Review the morphology of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative as well as the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) subjunctive.
 - **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
-- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on verb morphology.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on present system verb morphology.
 
 ### Friday, February 4
 - Perfect system verbs (review)
 - Pluperfect indicative
-- 1st and 2nd person forms
+- 1st and 2nd person forms 
+- **Morphology (to be completed before class)**: Review the morphology of the [perfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
+- **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
 
 [Back to top.](#top)
 
