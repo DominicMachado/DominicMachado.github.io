@@ -27,15 +27,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 1 (1/26 - 1/28)
 
 ### Wednesday, January 26
-- Introduction
-- Review of nouns and adjectives
+- Introduction to the course
+- Review
 - **Reading (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn102-s22), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-102-s22), and [assessment](https://dominicmachado.github.io/assessment-latn102-s22) pages on the website.
 
 
 ### Friday, January 28
 - Review of nouns and adjectives
 - **Morphology (to be completed before class)**: Review the morphology of [1st](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), [2nd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), and [3rd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) declensions nouns. In addition, review the different types of [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and the differences between noun and adjective declensions.
+- **Vocabulary (to be completed before class)**: Study the first eight [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
+- 
 
 [Back to top.](#top)
 
@@ -46,6 +48,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, January 31
 - Pronouns (review)
 - 4th and 5th declension nouns
+- **Morphology (to be completed before class)**: Study the morphology of 4th declension [masculine and feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-neuter) nouns as well [5th declenion nouns](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fifth-declension-masculinefeminine). In addition, review the declensions of [hic, haec, hoc](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these); [ille, illa, illud](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), and [is, ea, id](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these).
+- **Vocabulary (to be completed before class)**: Study the last seven [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-declension-4th-and-5th-declension-nouns) on 4th and 5th declension nouns.
 
 ### Wednesday, February 2
 - Present system verbs (review)
