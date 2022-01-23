@@ -55,6 +55,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, February 2
 - Present system verbs (review)
 - 1st and 2nd person forms
+- **Morphology (to be completed before class)**: Review the morphology of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative as well as the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) subjunctive.
+- **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on verb morphology.
 
 ### Friday, February 4
 - Perfect system verbs (review)
