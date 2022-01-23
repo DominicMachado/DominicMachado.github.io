@@ -52,7 +52,8 @@ By the end of Unit 1, you will be able to:
 &nbsp;
 - [Noun-adjective agreement review](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion)
 - [Noun-adjective agreement - 4th and 5th declension](https://observablehq.com/@dominicmachado/noun-adjective-declension-4th-and-5th-declension-nouns)
-- [Verb morphology review](link here)
+- [Present system morphology review](https://observablehq.com/@dominicmachado/verb-review)
+- [Perfect system morphology review](https://observablehq.com/@dominicmachado/perfect-system-verb-review)
 - [1st singular verbal synopsis](link here)
 - [1st plural verbal synopsis](link here)
 - [2nd singular verbal synopsis](link here)
