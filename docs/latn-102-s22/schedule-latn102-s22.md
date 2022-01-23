@@ -77,7 +77,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Verbal system review
 - **Morphology (to be completed before class)**: Review verbal morphology, with a particular focus on the 1st and 2nd person forms. 
 - **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
-- **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis),[1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis),[2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
+- **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis), [1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis), [2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
 
 
 ### Wednesday, February 9
