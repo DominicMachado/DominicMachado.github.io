@@ -16,9 +16,9 @@ has_children: true
 ### Course Information
 &nbsp;  
 - **Meeting Time:** MWF 2:00 - 2:50 PM
-- **Meeting Place:** TBD
+- **Meeting Place:** Stein 223
 - **Instructor** Prof. Machado
-- **Student Hours**: W 12:30 - 1:30 PM, Th 1 - 2:30 PM; Fenwick 413
+- **Student Hours**: W 12:30 - 1:30 PM, Th 2 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 Latin 102 is the second course in a two-semester introduction to the Latin language. This course will build upon the basics of the Latin language introduced in the first semester (e.g., declension, conjugation, complex sentence structure, etc.) and help you develop a strong command of Latin vocabulary, grammar, and syntax. The goal of first-year Latin is to build a solid foundation for reading actual ancient Roman texts. As such, the acquisition of those linguistic skills, elucidated and practiced through classroom practice and translation and composition exercises, will set a foundation for reading unedited Latin from Hyginus’ Fabulae, a compendium of Greco-Roman myth. 
