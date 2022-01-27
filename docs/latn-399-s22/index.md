@@ -51,17 +51,15 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 1 (1/25 - 1/28)
+## Week 2 (1/31 - 2/4)
 
-### Tuesday, January 25 (virtual class meeting)
-- Course overview
-- Key themes and questions
-- **Homework (due before class)**: Read the [opening of the Satyrica](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartI.php) (up to section 26) in English. Jot down some notes about the key themes that you found in the opening of the text as well as any questions that arose in your reading.
+### Tuesday, February 1
+- Roman slavery and freedmen
+- Trimalchio's past and present
+- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing](https://drive.google.com/file/d/1PBHA-ASWpfCJwLUXQ0o5QSi6zKVtznue/view?usp=sharing). Commonplace book opportunity #2.
 
-### Thursday, January 27 (virtual class meeting)
-- The uncertainities of the Satyricon
-- Meeting Trimalchio 
-- **Homework (due before class)**: Translate sections 26.7 - 27.6 and read Schmeling's [introductory essay](https://drive.google.com/file/d/1W_e8shQdZrIkm7ENnOgXWo8K9j27GWol/view?usp=sharing) on Satyricon (pp. 456 - 478). In addition, please create and share your commonplace book with me as a GoogleDoc. Commonplace book opportunity #1. 
-
+### Thursday, February 3
+- Dinner begins
+- **Homework (due before class)**: Translate sections 29.9 - 31. Commonplace book opportunity #3.
 
 [Back to top.](#top)
