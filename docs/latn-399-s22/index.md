@@ -19,7 +19,7 @@ has_children: true
 - **Meeting Place:** Haberlin 021
 - **Standing Zoom Link:** https://holycross.zoom.us/j/94328868979
 - **Instructor** Prof. Machado
-- **Student Hours**: W 12:30 - 1:30 PM, Th 2 - 3:30 PM; Fenwick 413
+- **Student Hours**: W 12:30 - 1:30 PM, Th 2 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 In this course, we will read the *Satyrica* of Petronius, with a primary focus on the famous *Cena Trimalchionis*. Together, we will explore many different aspects of this dynamic text. We will study the text's unique literary artistry, paying close attention to the ways in which it defies generic and stylistic  We will grapple with the social context of the *Satyrica* as a product of Neronian Rome and the social commentary it offers on the slavery, freedom, sexuality, and spectacle in this critical period of Roman history. We will end the course by moving forward in time and looking at how the *Satyrica* has been interpreted by modern writers and film makers like F. Scott Fitzgerald, T. S. Eliot, and Federico Fellini..
