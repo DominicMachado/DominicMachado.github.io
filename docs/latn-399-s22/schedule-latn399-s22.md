@@ -60,7 +60,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 8
 - The Age of Nero
 - The first course(s)
-- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xuMt9xRSS_y9NDm-eoBiEHadq_Z10hAt/view?usp=sharing). Commonplace book opportunity #4.
+- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xyD_MZY10oczR_wByHWJKSDNq9CKD1Of/view?usp=sharing). Commonplace book opportunity #4.
 
 ### Thursday, February 10
 - Mythological feasting
