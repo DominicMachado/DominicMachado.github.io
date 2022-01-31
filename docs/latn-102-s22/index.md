@@ -17,6 +17,7 @@ has_children: true
 &nbsp;  
 - **Meeting Time:** MWF 2:00 - 2:50 PM
 - **Meeting Place:** Stein 223
+- **Standing Zoom Link:** https://holycross.zoom.us/j/99964797020
 - **Instructor** Prof. Machado
 - **Student Hours**: W 12:30 - 1:30 PM, Th 2 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
@@ -46,18 +47,28 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Nouns](https://dcc.dickinson.edu/sites/default/files/inline-images/Case_endings_5_decl_2.jpg)
 
-## Week 1 (1/26 - 1/28)
+## Week 2 (1/31 - 2/4)
 
-### Wednesday, January 26
-- Introduction to the course
-- Review
-- **Reading (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn102-s22), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-102-s22), and [assessment](https://dominicmachado.github.io/assessment-latn102-s22) pages on the website.
+### Monday, January 31
+- Pronouns (review)
+- 4th and 5th declension nouns
+- **Morphology (to be completed before class)**: Study the morphology of 4th declension [masculine and feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-neuter) nouns as well [5th declenion nouns](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fifth-declension-masculinefeminine). In addition, review the declensions of [hic, haec, hoc](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these); [ille, illa, illud](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these), and [is, ea, id](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#hic-haec-hoc---this-these).
+- **Vocabulary (to be completed before class)**: Study the last seven [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) and last five [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-adjectives in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-declension-4th-and-5th-declension-nouns) on 4th and 5th declension nouns.
 
+### Wednesday, February 2
+- Present system verbs (review)
+- 1st and 2nd person forms
+- **Morphology (to be completed before class)**: Review the morphology of the [present](https://lingualatina.github.io/textbook/presentation/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/), and [future](https://lingualatina.github.io/textbook/presentation/02-verbs/future/) indicative as well as the [present](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#present-subjunctive) and [imperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#imperfect-subjunctive) subjunctive.
+- **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on present system verb morphology.
 
-### Friday, January 28
-- Review of nouns and adjectives
-- **Morphology (to be completed before class)**: Review the morphology of [1st](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), [2nd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine), and [3rd](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) declensions nouns. In addition, review the different types of [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) and the differences between noun and adjective declensions.
-- **Vocabulary (to be completed before class)**: Study the first eight [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) and first six [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
-- **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
+### Friday, February 4
+- Perfect system verbs (review)
+- Pluperfect indicative
+- 1st and 2nd person forms 
+- **Morphology (to be completed before class)**: Review the morphology of the [perfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
+- **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
 
 [Back to top.](#top)
