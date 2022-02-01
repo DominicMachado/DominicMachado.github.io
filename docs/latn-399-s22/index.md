@@ -16,7 +16,7 @@ has_children: true
 ### Course Information
 &nbsp;  
 - **Meeting Time:** T, Th 11:00 AM - 12:15 PM
-- **Meeting Place:** Haberlin 021
+- **Meeting Place:** Stein 217
 - **Standing Zoom Link:** https://holycross.zoom.us/j/94328868979
 - **Instructor** Prof. Machado
 - **Student Hours**: W 12:30 - 1:30 PM, Th 2 - 3 PM; Fenwick 413
