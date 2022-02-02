@@ -85,7 +85,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, February 11
 - Composition workshop
-- **Assessment (to be completed before class)**: Translation #1 due.
+- **Assessment (to be completed before class)**: [Translation #1](https://docs.google.com/document/d/1th7RNRk0rUIWkJbEQjAr82Y1JeR1eVCa4-8Wtagr0w0/edit) due.
 
 
 
