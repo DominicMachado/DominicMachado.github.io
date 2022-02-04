@@ -49,7 +49,7 @@ You will have signed up for one of the three following practicum sections when y
 &nbsp;  
 - No practicum meetings
 - Meet and greet with WPS students at scheduled time
-- Discussion with Maia Lee Chin (time, date, and location TBD)
+- Discussion with Maia Lee Chin on teaching Latin to elementary and middle school students ([2/8; 7:30 PM](https://holycross.zoom.us/j/91318380376)
 
 ## Week 3 (2/14; 2/15)
 &nbsp;   
