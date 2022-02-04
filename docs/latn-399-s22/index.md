@@ -61,5 +61,5 @@ In terms of books, you will not need any physical books. Below are a list of res
 ### Thursday, February 10
 - Mythological feasting
 - **Homework (due before class)**: Translate sections 35 - 36. Commonplace book opportunity #5.
-- 
+
 [Back to top.](#top)
