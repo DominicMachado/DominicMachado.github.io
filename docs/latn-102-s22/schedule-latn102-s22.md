@@ -58,7 +58,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on present system verb morphology.
 
-### Friday, February 4
+### Friday, February 4 ([Slides](https://docs.google.com/presentation/d/1eRtSdAKz5amm5Kmn5Zn44OslOs154Z_3pFpmZmE35pA/edit#slide=id.p))
 - Perfect system verbs (review)
 - Pluperfect indicative
 - 1st and 2nd person forms 
@@ -76,14 +76,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Perfect passive system verbs (review)
 - Pluperfect indicative
 - 1st and 2nd person forms 
-- **Morphology (to be completed before class)**: Review the morphology of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-passive-subjunctive) and [pluperfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-passive-subjunctive) subjunctive. In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
+- **Morphology (to be completed before class)**: Review the morphology of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) as well as the [perfect and pluperfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive). In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
 - **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
 
 ### Wednesday, February 9
 - Verbal system review
 - **Morphology (to be completed before class)**: Review verbal morphology, with a particular focus on the 1st and 2nd person forms. 
-- **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Review Unit 1 vocabulary.
 - **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis), [1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis), [2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
 
 ### Friday, February 11
