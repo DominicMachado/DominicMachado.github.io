@@ -51,15 +51,15 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 2 (1/31 - 2/4)
+## Week 3 (2/7 - 2/11)
 
-### Tuesday, February 1
-- Roman slavery and freedmen
-- Trimalchio's past and present
-- **Homework (due before class)**: Translate sections 28 - 29.8 and read Joshel's chapter on [slavery and social standing](https://drive.google.com/file/d/1PBHA-ASWpfCJwLUXQ0o5QSi6zKVtznue/view?usp=sharing). Commonplace book opportunity #2.
+### Tuesday, February 8
+- The Age of Nero
+- The first course(s)
+- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xyD_MZY10oczR_wByHWJKSDNq9CKD1Of/view?usp=sharing). Commonplace book opportunity #4.
 
-### Thursday, February 3
-- Dinner begins
-- **Homework (due before class)**: Translate sections 29.9 - 31. Commonplace book opportunity #3.
-
+### Thursday, February 10
+- Mythological feasting
+- **Homework (due before class)**: Translate sections 35 - 36. Commonplace book opportunity #5.
+- 
 [Back to top.](#top)
