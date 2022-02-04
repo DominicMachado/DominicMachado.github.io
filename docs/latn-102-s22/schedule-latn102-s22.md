@@ -73,19 +73,22 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 3 (2/7 - 2/11)
 
 ### Monday, February 7
+- Perfect passive system verbs (review)
+- Pluperfect indicative
+- 1st and 2nd person forms 
+- **Morphology (to be completed before class)**: Review the morphology of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-passive-subjunctive) and [pluperfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-passive-subjunctive) subjunctive. In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
+- **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
+
+### Wednesday, February 9
 - Verbal system review
 - **Morphology (to be completed before class)**: Review verbal morphology, with a particular focus on the 1st and 2nd person forms. 
 - **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis), [1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis), [2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
 
-
-### Wednesday, February 9
+### Friday, February 11
 - Mastery quiz #1
 - **Assessment**: Review morphology and vocabulary for mastery quiz #1!
-
-### Friday, February 11
-- Composition workshop
-- **Assessment (to be completed before class)**: [Translation #1](https://docs.google.com/document/d/1th7RNRk0rUIWkJbEQjAr82Y1JeR1eVCa4-8Wtagr0w0/edit) due.
 
 
 
@@ -96,17 +99,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 4 (2/14 - 2/18)
 
 ### Monday, February 14
-- Relative pronouns
-- Relative clauses
-- **Assessment (to be completed before class)**: Composition #1 due.
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #1](https://docs.google.com/document/d/1th7RNRk0rUIWkJbEQjAr82Y1JeR1eVCa4-8Wtagr0w0/edit) due.
 
 
 ### Wednesday, February 16
-- Relative pronouns (cont'd)
-- Relative clauses (cont'd)
+- Relative pronouns
+- Relative clauses
+- **Assessment (to be completed before class)**: [Composition #1 due](https://docs.google.com/document/d/1OPS4IbHtb_iTJFA6ZCY1p4mg9HaFZDKN0ACvz4_6Xrk/edit).
 
 ### Friday, February 18
-- Participles
+- Relative pronouns (cont'd)
+- Relative clauses (cont'd)
 
 [Back to top.](#top)
 
@@ -115,14 +119,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 5 (2/21 - 2/25)
 
 ### Monday, February 21
+- Participles
+
+### Wednesday, February 23
 - Participles (cont'd)
 - Ablative absolutes
 
-### Wednesday, February 23
-- Gerunds and gerundives
-
 ### Friday, February 25
-- Gerunds and gerundives (cont'd)
+- Gerunds and gerundives
 
 [Back to top.](#top)
 
@@ -131,7 +135,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 6 (2/28 - 3/4)
 
 ### Monday, February 28
-- Review
+- Gerunds and gerundives (cont'd)
 
 ### Wednesday, March 2
 - Mastery quiz #2
