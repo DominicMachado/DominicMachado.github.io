@@ -111,6 +111,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, February 18
 - Relative pronouns (cont'd)
 - Relative clauses (cont'd)
+- **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
+- **Morphology (to be completed before class)**: Memorize the formation of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
 
 [Back to top.](#top)
 
