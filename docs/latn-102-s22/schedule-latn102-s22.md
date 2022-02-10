@@ -112,7 +112,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Relative pronouns (cont'd)
 - Relative clauses (cont'd)
 - **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
-- **Morphology (to be completed before class)**: Memorize the formation of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
+- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
 
 [Back to top.](#top)
 
@@ -122,13 +122,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, February 21
 - Participles
+- **Reading (to be completed before class)**: Read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/) as well as the primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
+- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles.
 
 ### Wednesday, February 23
 - Participles (cont'd)
 - Ablative absolutes
+- **Reading (to be completed before class)**: Read the section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
+- **Morphology**: Memorize the formation of the [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle).
 
 ### Friday, February 25
 - Gerunds and gerundives
+- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 
 [Back to top.](#top)
 
