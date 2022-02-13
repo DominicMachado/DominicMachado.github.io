@@ -113,6 +113,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Relative clauses (cont'd)
 - **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
 - **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
+- **Practice (to be completed before class)**: Try your hand at the following [exercise](https://observablehq.com/@dominicmachado/relative-clause-practice) on analyzing relative clauses.
 
 [Back to top.](#top)
 
@@ -132,8 +133,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Morphology**: Memorize the formation of the [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle).
 
 ### Friday, February 25
-- Gerunds and gerundives
-- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- Review
 
 [Back to top.](#top)
 
@@ -142,15 +142,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 6 (2/28 - 3/4)
 
 ### Monday, February 28
-- Gerunds and gerundives (cont'd)
+- Gerunds and gerundives
+- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+
 
 ### Wednesday, March 2
-- Mastery quiz #2
-- **Assessment**: Study for mastery quiz #2.
+- Gerunds and gerundives (cont'd)
 
 ### Friday, March 4
-- Composition workshop
-- **Assessment (to be completed before class)**: Translation #2 due.
+- Review
 
 [Back to top.](#top)
 
@@ -163,15 +163,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 7 (3/14 - 3/18)
 
 ### Monday, March 14
+- Mastery quiz #2
+- **Assessment**: Study for mastery quiz #2
+
+### Wednesday, March 16
+- Composition workshop
+- **Assessment (to be completed before class)**: Translation #2 due.
+
+### Friday, March 18
 - Expression of purpose (review)
 - Purpose clauses
 - **Assessment (to be completed before class)**: Composition #2 due.
-
-### Wednesday, March 16
-- Result clauses
-
-### Friday, March 18
-- Fear clauses
 
 [Back to top.](#top)
 
@@ -180,14 +182,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 8 (3/21 - 3/25)
 
 ### Monday, March 21
-- Causal clauses
-- Concessive clauses
+- Result clauses
 
 ### Wednesday, March 22
-- Indicative conditions
+- Fear clauses
 
 ### Friday, March 25
-- Subjunctive conditions
+- Causal clauses
+- Concessive clauses
 
 [Back to top.](#top)
 
@@ -196,14 +198,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 9 (3/28 - 4/1)
 
 ### Monday, March 28
-- Review of dependent clauses
+- Indicative conditions
 
 ### Wednesday, March 30
-- Review of dependent clauses
+- Subjunctive conditions
 
 ### Friday, April 1
-- Mastery quiz #3
-- **Assessment**: Study for mastery quiz #3.
+- Review of dependent clauses
 
 [Back to top.](#top)
 
@@ -212,15 +213,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/4 - 4/8)
 
 ### Monday, April 4
-- Composition workshop
-- **Assessment (to be completed before class)**: Translation #3 due.
+- Review of dependent clauses
 
 ### Wednesday, April 6
-- Questions
-- **Assessment (to be completed before class)**: Composition #3 due.
+- Mastery quiz #3
+- **Assessment**: Study for mastery quiz #3.
 
 ### Friday, April 8
-- Questions with the subjunctive
+- Composition workshop
+- **Assessment (to be completed before class)**: Translation #3 due.
 
 [Back to top.](#top)
 
@@ -229,12 +230,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11 (4/11 - 4/13)
 
 ### Monday, April 11
-- Optative subjunctive
-- Potential subjunctive
+- Questions
+- **Assessment (to be completed before class)**: Composition #3 due.
 
 ### Wednesday, April 13
-- Imperatives
-- Hortatory subjunctive
+- Questions with the subjunctive
 
 [Back to top.](#top)
 
@@ -243,12 +243,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/20 - 4/22)
 
 ### Wednesday, April 20
-- Comparatives
-- Superlatives
+- Optative subjunctive
+- Potential subjunctive
 
 ### Wednesday, April 22
-- Irregular comparatives
-- Irregular superlatives
+- Imperatives
+- Hortatory subjunctive
 
 [Back to top.](#top)
 
@@ -257,10 +257,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/25 - 4/29)
 
 ### Monday, April 25
-- Reading and review
+- Comparatives
+- Superlatives
 
 ### Wednesday, April 27
-- Reading and review
+- Irregular comparatives
+- Irregular superlatives
 
 ### Wednesday, April 29
 - Reading and review
