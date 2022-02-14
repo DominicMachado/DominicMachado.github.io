@@ -51,15 +51,15 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 3 (2/7 - 2/11)
+## Week 4 (2/14 - 2/18)
 
-### Tuesday, February 8
-- The Age of Nero
-- The first course(s)
-- **Homework (due before class)**: Translate sections 32 - 34 and read Dinter's chapter on [Neronian literature](https://drive.google.com/file/d/1xyD_MZY10oczR_wByHWJKSDNq9CKD1Of/view?usp=sharing). Commonplace book opportunity #4.
+### Tuesday, February 15
+- Greek literature and the Satyrica
+- Trimalchio the story-teller
+- **Homework (due before class)**: Translate sections 37 - 38 and read Morgan's chapter on [Greek literary influences on the Satyrica](https://drive.google.com/file/d/1pFbAhl4uo5GEZDCm7h3PhDQmuSCYgdu3/view?usp=sharing). Commonplace book opportunity #6.
 
-### Thursday, February 10
-- Mythological feasting
-- **Homework (due before class)**: Translate sections 35 - 36. Commonplace book opportunity #5.
+### Thursday, February 17
+- Trimalchio the interpreter
+- **Homework (due before class)**: Translate sections 39. Commonplace book opportunity #7.
 
 [Back to top.](#top)
