@@ -131,6 +131,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Ablative absolutes
 - **Reading (to be completed before class)**: Read the section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
 - **Morphology**: Memorize the formation of the [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle).
+- **Practice**: Try your hand at the following exercise on the [formation of participles](https://observablehq.com/@dominicmachado/participle-formation-practice).
 
 ### Friday, February 25
 - Review
