@@ -23,7 +23,7 @@ has_children: true
 &nbsp;  
 In Unit 1, we spent some time reviewing key concepts from last semester. In Unit 2, we will learn about different ways in which nouns, adjectives, and pronouns can be used to add further color to a Latin sentence.
 
-We will begin by learning about relative clauses, a type of dependent clause that provides further information about a previous noun. We will then move on to learn about participles, a type of verbal adjective, that provides more information about the actions and behaviors of a noun within a sentence. We will conclude by looking at gerunds (verbal nouns) and gerundives (verbal adjectives) and the different constructions that they belong to.
+We will begin by learning about [relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/), a type of dependent clause that provides further information about a previous noun. We will then move on to learn about [participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/), a type of verbal adjective, that provides more information about the actions and behaviors of a noun within a sentence. We will conclude by looking at [gerunds (verbal nouns) and gerundives (verbal adjectives)](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) and the different constructions that they belong to.
 
 ***
 
@@ -50,31 +50,26 @@ By the end of Unit 2, you will be able to:
 
 ### Practice Exercises
 &nbsp;
-- [Noun-adjective agreement review](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion)
-- [Noun-adjective agreement - 4th and 5th declension](https://observablehq.com/@dominicmachado/noun-adjective-declension-4th-and-5th-declension-nouns)
-- [Present system morphology review](https://observablehq.com/@dominicmachado/verb-review)
-- [Perfect system morphology review](https://observablehq.com/@dominicmachado/perfect-system-verb-review)
-- [1st singular verbal synopsis](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis)
-- [1st plural verbal synopsis](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis)
-- [2nd singular verbal synopsis](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis)
-- [2nd plural verbal synopsis](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis)
+- [Relative clause practice](https://observablehq.com/@dominicmachado/relative-clause-practice)
+- [Participle formation](https://observablehq.com/@dominicmachado/participle-formation-practice)
+- [Usage of gerunds and gerundives](link here)
 
 ***
 
 ### Assessment
 &nbsp;  
 Below are the dates on which your assessments are due:
-- Wednesday, February 9 - Mastery quiz #1
-- Friday, February 11 - [Translation #1 due](link here)
-- Monday, February 14 - [Composition #1 due](link here)
+- Monday, March 14 - Mastery quiz #2
+- Wednesday, March 16 - [Translation #2 due](link here)
+- Friday, March 18 - [Composition #2 due](link here)
 
 ***
 
 ### Vocabulary
 &nbsp;  
-Below is the link to the vocabulary for Unit 1:
+Below is the link to the vocabulary for Unit 2:
 
-- [Nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns)
-- [Adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-adjectives)
-- [Pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns)
-- [Verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs)
+- [Nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns)
+- [Adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adjectives)
+- [Pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-pronouns)
+- [Verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs)
