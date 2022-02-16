@@ -45,26 +45,25 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance
 &nbsp;  
 
-![Nouns](https://dcc.dickinson.edu/sites/default/files/inline-images/Case_endings_5_decl_2.jpg)
+![Pronouns](https://dcc.dickinson.edu/sites/default/files/qui_quae_quod.jpg)
 
-## Week 3 (2/7 - 2/11)
+## Week 4 (2/14 - 2/18)
 
-### Monday, February 7
-- Perfect passive system verbs (review)
-- Pluperfect indicative
-- 1st and 2nd person forms 
-- **Morphology (to be completed before class)**: Review the morphology of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) as well as the [perfect and pluperfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive). In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
-- **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
-- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
+### Monday, February 14
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #1](https://docs.google.com/document/d/1th7RNRk0rUIWkJbEQjAr82Y1JeR1eVCa4-8Wtagr0w0/edit) due.
 
-### Wednesday, February 9
-- Verbal system review
-- **Morphology (to be completed before class)**: Review verbal morphology, with a particular focus on the 1st and 2nd person forms. 
-- **Vocabulary (to be completed before class)**: Review Unit 1 vocabulary.
-- **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis), [1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis), [2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
 
-### Friday, February 11
-- Mastery quiz #1
-- **Assessment**: Review morphology and vocabulary for mastery quiz #1!
+### Wednesday, February 16
+- Relative pronouns
+- Relative clauses
+- **Assessment (to be completed before class)**: [Composition #1 due](https://docs.google.com/document/d/1OPS4IbHtb_iTJFA6ZCY1p4mg9HaFZDKN0ACvz4_6Xrk/edit).
+
+### Friday, February 18
+- Relative pronouns (cont'd)
+- Relative clauses (cont'd)
+- **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
+- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative) as well as the first [seven verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+- **Practice (to be completed before class)**: Try your hand at the following [exercise](https://observablehq.com/@dominicmachado/relative-clause-practice) on analyzing relative clauses.
 
 [Back to top.](#top)
