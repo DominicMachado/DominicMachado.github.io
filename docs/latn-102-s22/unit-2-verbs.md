@@ -19,9 +19,11 @@ has_children: false
 - abeo, abire, abii, abitus - to go away
 - adsum, adesse, adfui - to be present, to be at
 - aestimo, aestimare, aestimavi, aestimatus - to think, value, judge
+- capio, capere, cepi, captus - to take, seize
 - credo, credere, credidus, creditus - to believe, trust, confide (with a dative of person trusted)
 - curo, curare, curavi, curatus - to care for, attend to
-- expugno, expugnare, expugnavi, expugnatus - to siege, storm, cature
+- expugno, expugnare, expugnavi, expugnatus - to siege, storm, capture
+- facio, facere, feci, factus - to do, make
 - gero, gerere, gessi, gestus - to bear, carry, accomplish
 - intro, intrare, intravi, intratus - to enter
 - miror, mirari, miratus sum - to wonder at, marvel, admire, see
