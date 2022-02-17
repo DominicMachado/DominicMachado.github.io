@@ -112,7 +112,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Relative pronouns (cont'd)
 - Relative clauses (cont'd)
 - **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
-- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative) as well as the first [seven verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative) as well as the first [eight verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand at the following [exercise](https://observablehq.com/@dominicmachado/relative-clause-practice) on analyzing relative clauses.
 
 [Back to top.](#top)
@@ -124,7 +124,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, February 21
 - Participles
 - **Reading (to be completed before class)**: Read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/) as well as the primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles as well the second [seven verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles as well the second [eight verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
 
 ### Wednesday, February 23
 - Participles (cont'd)
