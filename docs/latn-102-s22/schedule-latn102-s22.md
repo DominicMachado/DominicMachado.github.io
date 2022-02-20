@@ -130,11 +130,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Participles (cont'd)
 - Ablative absolutes
 - **Reading (to be completed before class)**: Read the section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle).
+- **Morphology**: Memorize the formation of the [future active participle](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) as well the first [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
 - **Practice**: Try your hand at the following exercise on the [formation of participles](https://observablehq.com/@dominicmachado/participle-formation-practice).
 
 ### Friday, February 25
 - Review
+- **Morphology**: Prepare for your retake of Mastery Quiz #1. You can take either the noun or verb version of the quiz or the whole thing.
 
 [Back to top.](#top)
 
@@ -145,7 +146,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, February 28
 - Gerunds and gerundives
 - **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-
+- **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
 
 ### Wednesday, March 2
 - Gerunds and gerundives (cont'd)
