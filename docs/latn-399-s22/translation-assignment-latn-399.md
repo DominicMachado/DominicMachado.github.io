@@ -24,7 +24,7 @@ For this assignment, you will be asked to produce a definitive translation of a 
 
 In addition to producing a translation, you will also write a 500 - 600 word reflection on the process of coming up with your translation. In this reflection, you will explain, for instance, why you chose a particular tone in the passage or why you used a particular English phrase that wasn’t a word for word translation of the Latin. You will also highlight the places where you had to make a decision regarding the interpretation of a word or phrase and how you reconciled the difference in opinion that you found in commentaries or other translations. You will also discuss how Hanink and Wilson's views on translation helped you to move beyond a more literal translation.
 
-Below you will find the passage for translation, as well as links to several translations and commentaries on that passage.
+Below you will find the passage for translation, as well as a link to several translations of that passage.
 
 ***
 
@@ -46,7 +46,7 @@ Each translation assignment will be graded on a satisfactory/unsatisfactory basi
 
 Due date: March 3, 11:00 AM
 
-More to follow...
+For Translation Assignment #1, you will produce a "definitive translation" of *Satyrica* 38.6-16, Hermeros' description of the freedmen at the *Cena*. Please find here the [passage and three translations of it](https://drive.google.com/file/d/1EGiEsTyJYHnlfKM54aLSTCgJ9UPXEiTL/view?usp=sharing) as well as [Schmeling's commentary](https://drive.google.com/file/d/1mm7F5QswGiKoO5J0pVDWtfXlzDGJoTd0/view?usp=sharing) on it. Don't forget to consult the other commentaries by [Smith](https://drive.google.com/file/d/1k4K0w_ywQaOCt7Ab8ztaLUKBN0tRg396/view), [Severy-Hoven](https://drive.google.com/file/d/1Fz7bvTK4XkygRYQe26bSlPprsBoRZDt7/view), and [Courtney](https://drive.google.com/file/d/12Zz7E6v2GCiy5QldSf5mnnYCd4cYFU3d/view) as well.
 
 ***
 
