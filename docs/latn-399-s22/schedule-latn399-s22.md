@@ -104,11 +104,57 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, March 1
 - Freedmen's speeches, part 2
-- **Homework (due before class)**: Translate sections 44 - 45.
+- **Homework (due before class)**: Translate sections 44.
 
 ### Thursday, March 3
 - Freedmen's speeches, part 3
 - **Homework (due before class)**: [Translation assignment #1](https://dominicmachado.github.io/translation-assigment-latn399-s22) due.
+
+[Back to top.](#top)
+
+***
+
+## SPRING BREAK (3/7 - 3/11)
+
+***
+
+## Week 7 (3/14 - 3/18)
+
+### Tuesday, March 15
+- Freedmen's speeches, part 3
+- **Homework (due before class)**: Translate sections 45 - 46 and read Bodel's chapter on [speeches of freedmen in the Satyrica](https://drive.google.com/file/d/1BUIA0qV0RChVTn1jxNol_XXgOSgz1ytl/view?usp=sharing). Commonplace book opportunity #10.
+
+### Thursday, March 17
+- Trimalchio returns
+- **Homework (due before class)**: Translate section 47. Commonplace book opportunity #11.
+
+[Back to top.](#top)
+
+***
+
+## Week 8 (3/21 - 3/25)
+
+### Tuesday, March 22
+- More Trimalchian trickery
+- **Homework (due before class)**: Translate sections 48 - 50 and read Marchiesi's article on [animals, fables, and the Satyrica](https://drive.google.com/file/d/1FsrWaFtH_MjKIdEBKV_EoSe7YBVB-yyT/view?usp=sharing). Commonplace book opportunity #12.
+
+### Thursday, March 24
+- More bad mythology
+- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #11.
+
+[Back to top.](#top)
+
+***
+
+## Week 9 (3/28 - 4/1)
+
+### Tuesday, March 29
+- Some p
+- **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #12.
+
+### Thursday, March 31
+- More bad mythology
+- **Homework (due before class)**: Translate sections 55.4 - 56. Commonplace book opportunity #13.
 
 [Back to top.](#top)
 
