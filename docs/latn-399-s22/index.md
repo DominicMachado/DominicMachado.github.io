@@ -51,15 +51,14 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 5 (2/21 - 2/25)
+## Week 6 (2/28 - 3/4)
 
-### Tuesday, February 22
-- Roman literature and the Satyrica
-- Freed pigs and freed slaves
-- **Homework (due before class)**: Translate sections 40 - 41 and read Panayotakis's chapter on [Roman literary influences on the Satyrica](https://drive.google.com/file/d/1PMzUHeEAcpCuceG5RLvdL-M6ccdUYmIi/view?usp=sharing). Commonplace book opportunity #8.
+### Tuesday, March 1
+- Freedmen's speeches, part 2
+- **Homework (due before class)**: Translate sections 44.
 
-### Thursday, February 24
-- Freedmen's speeches, part 1
-- **Homework (due before class)**: Translate sections 42 - 43. Commonplace book opportunity #9.
+### Thursday, March 3
+- Freedmen's speeches, part 3
+- **Homework (due before class)**: [Translation assignment #1](https://dominicmachado.github.io/translation-assigment-latn399-s22) due.
 
 [Back to top.](#top)
