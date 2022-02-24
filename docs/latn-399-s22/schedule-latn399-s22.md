@@ -149,11 +149,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 9 (3/28 - 4/1)
 
 ### Tuesday, March 29
-- Some p
+- Encolpius catches on
 - **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #12.
 
 ### Thursday, March 31
-- More bad mythology
+- Trimalchio's poetic attempts
 - **Homework (due before class)**: Translate sections 55.4 - 56. Commonplace book opportunity #13.
 
 [Back to top.](#top)
