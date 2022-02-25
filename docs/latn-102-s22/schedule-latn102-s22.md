@@ -147,12 +147,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Gerunds and gerundives
 - **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
 - **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
 ### Wednesday, March 2
 - Gerunds and gerundives (cont'd)
+- **Reading (to be completed before class)**: Review the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adjectives) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
 ### Friday, March 4
 - Review
+- **Morphology**: Memorize the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-pronouns) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
 [Back to top.](#top)
 
