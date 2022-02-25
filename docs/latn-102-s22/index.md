@@ -45,24 +45,25 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance
 &nbsp;  
 
-![Participle](https://i.ytimg.com/vi/8OcJXc_jGrQ/maxresdefault.jpg)
+![Gerundives](https://i.ytimg.com/vi/d7wSUmW9VjA/mqdefault.jpg)
 
-## Week 5 (2/21 - 2/25)
+## Week 6 (2/28 - 3/4)
 
-### Monday, February 21
-- Participles
-- **Reading (to be completed before class)**: Read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/) as well as the primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles as well the second [eight verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+### Monday, February 28
+- Gerunds and gerundives
+- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
-### Wednesday, February 23
-- Participles (cont'd)
-- Ablative absolutes
-- **Reading (to be completed before class)**: Read the section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [future active participle](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) as well the first [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
-- **Practice**: Try your hand at the following exercise on the [formation of participles](https://observablehq.com/@dominicmachado/participle-formation-practice).
+### Wednesday, March 2
+- Gerunds and gerundives (cont'd)
+- **Reading (to be completed before class)**: Review the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adjectives) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
-### Friday, February 25
+### Friday, March 4
 - Review
-- **Morphology**: Prepare for your retake of Mastery Quiz #1. You can take either the noun or verb version of the quiz or the whole thing.
+- **Morphology**: Memorize the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-pronouns) in our Unit 2 vocabulary list.
+- **Assessment**: Review for the retake of Mastery Quiz #1.
 
 [Back to top.](#top)
