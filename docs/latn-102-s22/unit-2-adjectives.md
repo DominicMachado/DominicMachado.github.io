@@ -14,7 +14,7 @@ has_children: false
 
 ***
 
-## Unit 2 - Nouns
+## Unit 2 - Adjectives
 &nbsp;
 - laetus, laeta, laetum - happy
 - meus, mea, meum - my, my own
