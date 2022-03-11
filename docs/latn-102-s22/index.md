@@ -47,23 +47,20 @@ Finally, I should note that the Department of Classics and the Classics Departme
 
 ![Gerundives](https://i.ytimg.com/vi/d7wSUmW9VjA/mqdefault.jpg)
 
-## Week 6 (2/28 - 3/4)
+## Week 7 (3/14 - 3/18)
 
-### Monday, February 28
-- Gerunds and gerundives
-- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-- **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
-- **Assessment**: Review for the retake of Mastery Quiz #1.
+### Monday, March 14
+- Review: Gerunds and Gerundives
+- **Homework**: NO HOMEWORK! TAKE A LATIN BREAK DURING SPRING BREAK!
 
-### Wednesday, March 2
-- Gerunds and gerundives (cont'd)
-- **Reading (to be completed before class)**: Review the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adjectives) in our Unit 2 vocabulary list.
-- **Assessment**: Review for the retake of Mastery Quiz #1.
+### Wednesday, March 16
+- Review: Relative Clauses
+- **Review (to be completed before class)**: Re-read the [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/) and go over the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
+- **Practice (to be completed before class)**: Try your hand the this [relative clause review](https://docs.google.com/document/d/1fEC_OpgK2M4OYWH5IFSfgNJ89agimyGpuWlObqqkpMs/edit?usp=sharing) worksheet.
 
-### Friday, March 4
-- Review
-- **Morphology**: Memorize the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-pronouns) in our Unit 2 vocabulary list.
-- **Assessment**: Review for the retake of Mastery Quiz #1.
+### Friday, March 18
+- Review: Participles
+- **Review (to be completed before class)**: Re-read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/), this primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/), and this section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/). Review the formation of [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/), [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/), and [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) participles.
+- **Practice (to be completed before class)**: Try your hand the this [participle review](https://docs.google.com/document/d/1y2l9a1z8hytnQf_pGxjT3z3pyIjovinFwtB9m2FI_zI/edit?usp=sharing) worksheet.
 
 [Back to top.](#top)
