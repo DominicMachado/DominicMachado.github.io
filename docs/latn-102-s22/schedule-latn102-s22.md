@@ -171,17 +171,19 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 7 (3/14 - 3/18)
 
 ### Monday, March 14
-- Mastery quiz #2
-- **Assessment**: Study for mastery quiz #2
+- Review: Gerunds and Gerundives
+- **Homework**: NO HOMEWORK! TAKE A LATIN BREAK DURING SPRING BREAK!
 
 ### Wednesday, March 16
-- Composition workshop
-- **Assessment (to be completed before class)**: Translation #2 due.
+- Review: Relative Clauses
+- **Review (to be completed before class)**: Re-read the [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/) and go over the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
+- **Practice (to be completed before class)**: Try your hand the this [relative clause review](https://docs.google.com/document/d/1fEC_OpgK2M4OYWH5IFSfgNJ89agimyGpuWlObqqkpMs/edit?usp=sharing) worksheet.
 
 ### Friday, March 18
-- Expression of purpose (review)
-- Purpose clauses
-- **Assessment (to be completed before class)**: Composition #2 due.
+- Review: Participles
+- **Review (to be completed before class)**: Re-read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/), this primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/), and this section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/). Review the formation of [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/), [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/), and [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) participles.
+- **Practice (to be completed before class)**: Try your hand the this [participle review](https://docs.google.com/document/d/1y2l9a1z8hytnQf_pGxjT3z3pyIjovinFwtB9m2FI_zI/edit?usp=sharing) worksheet.
+
 
 [Back to top.](#top)
 
@@ -190,14 +192,17 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 8 (3/21 - 3/25)
 
 ### Monday, March 21
-- Result clauses
+- Mastery quiz #2
+- **Assessment**: Study for mastery quiz #2
 
-### Wednesday, March 22
-- Fear clauses
+### Wednesday, March 23
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1P8Vz_9IqeA6SWQ-cGrarpjgcl8Wt5TpoE_HxLd_ZRKU/edit).
 
 ### Friday, March 25
-- Causal clauses
-- Concessive clauses
+- Expression of purpose
+- Purpose clauses
+- **Assessment (to be completed before class)**: Composition #2 due.
 
 [Back to top.](#top)
 
@@ -206,13 +211,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 9 (3/28 - 4/1)
 
 ### Monday, March 28
-- Indicative conditions
+- Result clauses
+- Fear clauses
 
 ### Wednesday, March 30
-- Subjunctive conditions
+- Causal clauses
+- Concessive clauses
 
 ### Friday, April 1
-- Review of dependent clauses
+- Indicative conditions
+- Subjunctive conditions
 
 [Back to top.](#top)
 
@@ -221,15 +229,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/4 - 4/8)
 
 ### Monday, April 4
+- Review of conditions
 - Review of dependent clauses
 
 ### Wednesday, April 6
-- Mastery quiz #3
-- **Assessment**: Study for mastery quiz #3.
+- Review of dependent clauses
 
 ### Friday, April 8
-- Composition workshop
-- **Assessment (to be completed before class)**: Translation #3 due.
+- Mastery quiz #3
 
 [Back to top.](#top)
 
@@ -238,11 +245,10 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11 (4/11 - 4/13)
 
 ### Monday, April 11
-- Questions
-- **Assessment (to be completed before class)**: Composition #3 due.
+- Translation #3 due
 
 ### Wednesday, April 13
-- Questions with the subjunctive
+- Composition workshop
 
 [Back to top.](#top)
 
@@ -251,12 +257,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/20 - 4/22)
 
 ### Wednesday, April 20
-- Optative subjunctive
-- Potential subjunctive
+- Comparatives
+- Superlatives
+- **Assessment (to be completed before class)**: Composition #3 due.
 
-### Wednesday, April 22
-- Imperatives
-- Hortatory subjunctive
+### Friday, April 22
+- Irregular comparatives
+- Irregular superlatives
 
 [Back to top.](#top)
 
@@ -265,15 +272,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/25 - 4/29)
 
 ### Monday, April 25
-- Comparatives
-- Superlatives
+- Questions
+- Questions with the subjunctive
 
 ### Wednesday, April 27
-- Irregular comparatives
-- Irregular superlatives
+- Optative subjunctive
+- Potential subjunctive
 
 ### Wednesday, April 29
-- Reading and review
+- Imperatives
+- Hortatory subjunctive
 
 [Back to top.](#top)
 
