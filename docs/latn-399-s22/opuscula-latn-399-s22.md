@@ -63,9 +63,16 @@ A satisfactory assignment will:
 
 ***
 
-**Opusculum #3**
+**Opusculum #3**: Petronius, Seneca, and Neronian Literature
 
-More to follow...
+For this opusculum, you will compare and contrast the Satyrica with another literary text produced during the Neronian period. You will read Seneca's [*Apocolocyntosis*](link) (often translated as the Pumpkinification of the Divine Claudius), a work that was written within a decade of the *Satyrica's* publication and in a similar style and mode. You will then write a short essay that focuses on a specific element (i.e. a passage, character, or language from the *Apocolocyntosis*) and compares it to a parallel element in the *Satyrica*, pointing to key similarities and differences in the two texts through explicit reference and citation of each text. That is, it is not enough to say Claudius and Trimalchio are alike - you need to say what specific words in the text frame them as similar and explore the potential meaning of these similarities as well as be aware of the important differences as well. In your conclusion, you will situate your discussion in light of Dinter's [analysis of Neronian literature](https://drive.google.com/file/d/1xyD_MZY10oczR_wByHWJKSDNq9CKD1Of/view) and explain how the similar (and different features) of the texts fit into or challenge key themes elucidated in the article.
+
+A satisfactory assignment will:
+-	Be 900 – 1000 words in length
+-	Compares and contrasts a specific element of the *Apocolocyntosis* with a parallel element of the *Satyrica*
+-	Refers explicitly to specific passages in both texts while making comparisons
+-	Analyzes the reason for the similarities and differences in the chosen element in these two texts
+-	Connects this discussion to the themes of Neronian literature as articulated by Dinter
 
 ***
 
