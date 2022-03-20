@@ -193,7 +193,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, March 21
 - Mastery quiz #2
-- **Assessment**: Study for mastery quiz #2
+- **Assessment**: Review grammar and vocabulary from Unit 2 to study for mastery quiz #2.
 
 ### Wednesday, March 23
 - Composition workshop
@@ -202,7 +202,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, March 25
 - Expression of purpose
 - Purpose clauses
-- **Assessment (to be completed before class)**: Composition #2 due.
+- **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1mQYicqBQzRcKx9RtFsP4s5G66c97QAiVrwDiUKZDIVc/edit#).
+- **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#expressions-of-purpose), [purpose clauses](https://lingualatina.github.io/textbook/presentation/12-purpose/#purpose-clause), and [relative clauses of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#relative-clause-of-purpose).
 
 [Back to top.](#top)
 
@@ -213,6 +214,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, March 28
 - Result clauses
 - Fear clauses
+- **Reading (to be completed before class)**: Read the sections on [result clauses](https://lingualatina.github.io/textbook/presentation/13-result/) and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
 
 ### Wednesday, March 30
 - Causal clauses
