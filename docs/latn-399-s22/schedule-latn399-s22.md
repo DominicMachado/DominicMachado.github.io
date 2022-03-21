@@ -140,7 +140,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, March 24
 - More bad mythology
-- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #11.
+- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #13.
 
 [Back to top.](#top)
 
@@ -150,11 +150,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, March 29
 - Encolpius catches on
-- **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #12.
+- **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #14.
 
 ### Thursday, March 31
 - Trimalchio's poetic attempts
-- **Homework (due before class)**: Translate sections 55.4 - 56. Commonplace book opportunity #13.
+- **Homework (due before class)**: Translate sections 55.4 - 56. Commonplace book opportunity #15.
 
 [Back to top.](#top)
 
