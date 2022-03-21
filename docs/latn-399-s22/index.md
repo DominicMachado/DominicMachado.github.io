@@ -51,14 +51,14 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 6 (2/28 - 3/4)
+## Week 8 (3/21 - 3/25)
 
-### Tuesday, March 1
-- Freedmen's speeches, part 2
-- **Homework (due before class)**: Translate sections 44.
+### Tuesday, March 22
+- More Trimalchian trickery
+- **Homework (due before class)**: Translate sections 48 - 50 and read Marchiesi's article on [animals, fables, and the Satyrica](https://drive.google.com/file/d/1FsrWaFtH_MjKIdEBKV_EoSe7YBVB-yyT/view?usp=sharing). Commonplace book opportunity #12.
 
-### Thursday, March 3
-- Freedmen's speeches, part 3
-- **Homework (due before class)**: [Translation assignment #1](https://dominicmachado.github.io/translation-assigment-latn399-s22) due.
+### Thursday, March 24
+- More bad mythology
+- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #11.
 
 [Back to top.](#top)
