@@ -59,6 +59,6 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ### Thursday, March 24
 - More bad mythology
-- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #11.
+- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #13.
 
 [Back to top.](#top)
