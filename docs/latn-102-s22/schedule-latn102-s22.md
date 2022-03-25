@@ -228,7 +228,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Indicative conditions
 - Subjunctive conditions
 - **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
-- **Morphology**: Memorize the [nouns]((https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
+- **Morphology**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
 
 [Back to top.](#top)
 
