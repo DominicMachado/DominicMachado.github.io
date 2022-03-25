@@ -215,20 +215,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Result clauses
 - Fear clauses
 - **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#expressions-of-purpose),[result clauses](https://lingualatina.github.io/textbook/presentation/13-result/), and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
-- **Morphology**: Memorize the [adverbs and conjunctions](link) in our Unit 3 vocabulary list.
+- **Morphology**: Memorize the [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adverbs-conjunctions) in our Unit 3 vocabulary list.
 
 ### Wednesday, March 30
 - Review
 - Causal and concessive clauses
 - **Reading (to be completed before class)**: Review the sections on [result clauses](https://lingualatina.github.io/textbook/presentation/13-result/) and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
-- **Morphology**: Memorize the [verbs](link) in our Unit 3 vocabulary list.
+- **Morphology**: Memorize the [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-verbs) in our Unit 3 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
 
 ### Friday, April 1
 - Indicative conditions
 - Subjunctive conditions
 - **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
-- **Morphology**: Memorize the [nouns](link) in our Unit 3 vocabulary list.
+- **Morphology**: Memorize the [nouns]((https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
 
 [Back to top.](#top)
 
@@ -254,9 +254,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, April 11
 - Translation #3 due
+- Composition workshop
 
 ### Wednesday, April 13
-- Composition workshop
+- Comparatives
+- Superlatives
 
 [Back to top.](#top)
 
@@ -265,13 +267,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/20 - 4/22)
 
 ### Wednesday, April 20
-- Comparatives
-- Superlatives
-- **Assessment (to be completed before class)**: Composition #3 due.
-
-### Friday, April 22
 - Irregular comparatives
 - Irregular superlatives
+
+### Friday, April 22
+- Questions
+- Questions with the subjunctive
 
 [Back to top.](#top)
 
@@ -280,10 +281,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/25 - 4/29)
 
 ### Monday, April 25
-- Questions
-- Questions with the subjunctive
-
-### Wednesday, April 27
 - Optative subjunctive
 - Potential subjunctive
 
