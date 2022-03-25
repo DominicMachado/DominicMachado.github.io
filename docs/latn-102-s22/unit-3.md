@@ -58,5 +58,5 @@ Below is the link to the vocabulary for Unit 3:
 
 - [Nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns)
 - [Adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adjectives)
-- [Adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-pronouns)
+- [Adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adverbs-conjunctions)
 - [Verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-verbs)
