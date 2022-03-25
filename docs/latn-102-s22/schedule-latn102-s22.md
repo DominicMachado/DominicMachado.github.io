@@ -226,6 +226,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, April 1
 - Indicative conditions
 - Subjunctive conditions
+- **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
+- **Morphology**: Memorize the [nouns](link) in our Unit 3 vocabulary list.
 
 [Back to top.](#top)
 
@@ -234,13 +236,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/4 - 4/8)
 
 ### Monday, April 4
-- Review of conditions
-- Review of dependent clauses
+- Reading and review
 
 ### Wednesday, April 6
-- Review of dependent clauses
+- Reading and review
 
 ### Friday, April 8
+- eCEFs
 - Mastery quiz #3
 
 [Back to top.](#top)
