@@ -219,6 +219,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, March 30
 - Review
+- Causal and concessive clauses
 - **Reading (to be completed before class)**: Review the sections on [result clauses](https://lingualatina.github.io/textbook/presentation/13-result/) and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
 - **Morphology**: Memorize the [verbs](link) in our Unit 3 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
