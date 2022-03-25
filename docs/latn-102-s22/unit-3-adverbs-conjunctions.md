@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unit 3 - Vocabulary - Adverbs and conjunctions
-permalink: schedule-latn102-s22-unit-2-vocabulary-adverbs-conjunctions
+permalink: schedule-latn102-s22-unit-3-vocabulary-adverbs-conjunctions
 parent: Unit 3 - Dependent clauses with the subjunctive
 grand_parent: Schedule
 great_grand_parent: LATN 102 - S22
