@@ -154,7 +154,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, March 31
 - Werewolves!
-- **Homework (due before class)**: Read sections 55.4-61 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIII.php#anchor_Toc506115100) and translate sections 61.5 - 62. Commonplace book opportunity #15.
+- **Homework (due before class)**: Read sections 55.4 - 61 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIII.php#anchor_Toc506115100) and then translate sections 61.5 - 62. Commonplace book opportunity #15.
 
 [Back to top.](#top)
 
@@ -163,8 +163,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/4 - 4/8)
 
 ### Tuesday, April 5
-- 
-- **Homework (due before class)**: Commonplace book opportunity #16.
+- Trimalchio's spooky story
+- **Homework (due before class)**: Translate sections 63 - 64 and read Horsfall's article on [literacy in the *Satyrica*] (https://drive.google.com/file/d/1MYJBGj6Jlzl4sf56S2ulzRgvSR2dzMCC/view?usp=sharing). Commonplace book opportunity #16.
 
 ### Thursday, April 7
 - eCEFs
@@ -187,12 +187,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/18 - 4/22)
 
 ### Tuesday, April 19
-- Translation #2 due
-- **Homework (due before class)**: Commonplace book opportunity #17.
+- Habinnas and Scintilla enter
+- **Homework (due before class)**: Translation sections 65.6 - 67 and read Gloyn's article on [the treatment of female characters in the *Satyrica*](https://drive.google.com/file/d/1fujpHPurMinORDFOngB55YgnVeJZ8Sck/view?usp=sharing). Commonplace book opportunity #17.
 
 ### Thursday, April 21
 - Trimalchio's last will and testament
-- **Homework (due before class)**: Translate sections 71. Commonplace book opportunity #18.
+- **Homework (due before class)**: Read sections 68 - 70 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIV.php) and then translate sections 71. Commonplace book opportunity #18.
 
 [Back to top.](#top)
 
@@ -202,7 +202,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, April 26
 - Trimalchio prepares for his funeral
-- **Homework (due before class)**: Translate sections 72-73. Commonplace book opportunity #19.
+- **Homework (due before class)**: Translate sections 72-73 and read Richlin's article on the [sex in the *Satyrica*](https://drive.google.com/file/d/1qbySTjm8vNh36cGsGsIivNi_BV7yQXDX/view?usp=sharing). Commonplace book opportunity #19.
 
 ### Thursday, April 28
 - Fortunata speaks out
@@ -216,7 +216,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, May 4
 - Trimalchio's life (part 1)
-- **Homework (due before class)**: Translate sections 75-76. Commonplace book opportunity #21.
+- **Homework (due before class)**: Translate sections 75-76 and read Bodel's article on the [dinner as an underworld](https://drive.google.com/file/d/1uOl3ch2FCr9CTmMIp4ismJnY8gUOasin/view?usp=sharing). Commonplace book opportunity #21.
 
 ### Thursday, May 6
 - Trimalchio's life (part 2) and exit stage left!
