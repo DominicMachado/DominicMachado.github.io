@@ -51,14 +51,16 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
 
-## Week 8 (3/21 - 3/25)
+***
 
-### Tuesday, March 22
-- More Trimalchian trickery
-- **Homework (due before class)**: Translate sections 48 - 50 and read Marchiesi's article on [animals, fables, and the Satyrica](https://drive.google.com/file/d/1FsrWaFtH_MjKIdEBKV_EoSe7YBVB-yyT/view?usp=sharing). Commonplace book opportunity #12.
+## Week 9 (3/28 - 4/1)
 
-### Thursday, March 24
-- More bad mythology
-- **Homework (due before class)**: Translate sections 51 - 52. Commonplace book opportunity #13.
+### Tuesday, March 29
+- Encolpius catches on
+- **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #14.
+
+### Thursday, March 31
+- Werewolves!
+- **Homework (due before class)**: Read sections 55.4 - 61 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIII.php#anchor_Toc506115100) and then translate sections 61.5 - 62. Commonplace book opportunity #15.
 
 [Back to top.](#top)
