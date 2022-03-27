@@ -153,9 +153,73 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #14.
 
 ### Thursday, March 31
-- Trimalchio's poetic attempts
-- **Homework (due before class)**: Translate sections 55.4 - 56. Commonplace book opportunity #15.
+- Werewolves!
+- **Homework (due before class)**: Read sections 55.4-61 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIII.php#anchor_Toc506115100) and translate sections 61.5 - 62. Commonplace book opportunity #15.
 
 [Back to top.](#top)
 
 ***
+
+## Week 10 (4/4 - 4/8)
+
+### Tuesday, April 5
+- 
+- **Homework (due before class)**: Commonplace book opportunity #16.
+
+### Thursday, April 7
+- eCEFs
+- **Homework (due before class)**: Begin work on translation #2.
+
+[Back to top.](#top)
+
+***
+
+## Week 11 (4/11 - 4/15)
+
+### Tuesday, April 12
+- Translation #2 due
+- **Homework (due before class)**: Complete translation #2!
+
+[Back to top.](#top)
+
+***
+
+## Week 12 (4/18 - 4/22)
+
+### Tuesday, April 19
+- Translation #2 due
+- **Homework (due before class)**: Commonplace book opportunity #17.
+
+### Thursday, April 21
+- Trimalchio's last will and testament
+- **Homework (due before class)**: Translate sections 71. Commonplace book opportunity #18.
+
+[Back to top.](#top)
+
+***
+
+## Week 13 (4/25 - 4/29)
+
+### Tuesday, April 26
+- Trimalchio prepares for his funeral
+- **Homework (due before class)**: Translate sections 72-73. Commonplace book opportunity #19.
+
+### Thursday, April 28
+- Fortunata speaks out
+- **Homework (due before class)**: Translate sections 74. Commonplace book opportunity #20.
+
+[Back to top.](#top)
+
+***
+
+## Week 14 (5/3 - 5/7)
+
+### Tuesday, May 4
+- Trimalchio's life (part 1)
+- **Homework (due before class)**: Translate sections 75-76. Commonplace book opportunity #21.
+
+### Thursday, May 6
+- Trimalchio's life (part 2) and exit stage left!
+- **Homework (due before class)**: Translate sections 77-78. Commonplace book opportunity #22.
+
+[Back to top.](#top)
