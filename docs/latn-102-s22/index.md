@@ -45,22 +45,26 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance
 &nbsp;  
 
-![Gerundives](https://i.ytimg.com/vi/d7wSUmW9VjA/mqdefault.jpg)
+![Subordinate clauses](https://images.slideplayer.com/18/6077798/slides/slide_2.jpg)
+## Week 9 (3/28 - 4/1)
 
-## Week 7 (3/14 - 3/18)
+### Monday, March 28
+- Result clauses
+- Fear clauses
+- **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#expressions-of-purpose),[result clauses](https://lingualatina.github.io/textbook/presentation/13-result/), and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
+- **Morphology**: Memorize the [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adverbs-conjunctions) in our Unit 3 vocabulary list.
 
-### Monday, March 14
-- Review: Gerunds and Gerundives
-- **Homework**: NO HOMEWORK! TAKE A LATIN BREAK DURING SPRING BREAK!
+### Wednesday, March 30
+- Review
+- Causal and concessive clauses
+- **Reading (to be completed before class)**: Review the sections on [result clauses](https://lingualatina.github.io/textbook/presentation/13-result/) and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
+- **Morphology**: Memorize the [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-verbs) in our Unit 3 vocabulary list.
+- **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
 
-### Wednesday, March 16
-- Review: Relative Clauses
-- **Review (to be completed before class)**: Re-read the [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/) and go over the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative).
-- **Practice (to be completed before class)**: Try your hand the this [relative clause review](https://docs.google.com/document/d/1fEC_OpgK2M4OYWH5IFSfgNJ89agimyGpuWlObqqkpMs/edit?usp=sharing) worksheet.
-
-### Friday, March 18
-- Review: Participles
-- **Review (to be completed before class)**: Re-read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/), this primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/), and this section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/). Review the formation of [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/), [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/), and [future active](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) participles.
-- **Practice (to be completed before class)**: Try your hand the this [participle review](https://docs.google.com/document/d/1y2l9a1z8hytnQf_pGxjT3z3pyIjovinFwtB9m2FI_zI/edit?usp=sharing) worksheet.
+### Friday, April 1
+- Indicative conditions
+- Subjunctive conditions
+- **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
+- **Morphology**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
 
 [Back to top.](#top)
