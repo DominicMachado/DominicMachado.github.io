@@ -164,7 +164,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, April 5
 - Trimalchio's spooky story
-- **Homework (due before class)**: Translate sections 63 - 64 and read Horsfall's article on [literacy in the *Satyrica*] (https://drive.google.com/file/d/1MYJBGj6Jlzl4sf56S2ulzRgvSR2dzMCC/view?usp=sharing). Commonplace book opportunity #16.
+- **Homework (due before class)**: Translate sections 63 - 64 and read Horsfall's article on [literacy in the *Satyrica*](https://drive.google.com/file/d/1MYJBGj6Jlzl4sf56S2ulzRgvSR2dzMCC/view?usp=sharing). Commonplace book opportunity #16.
 
 ### Thursday, April 7
 - eCEFs
@@ -177,8 +177,9 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11 (4/11 - 4/15)
 
 ### Tuesday, April 12
-- Translation #2 due
-- **Homework (due before class)**: Complete translation #2!
+- Translation review
+- Sex in the *Satyrica*
+- **Homework (due before class)**: Complete translation #2 and read Amy Richlin's article on the [sex in the *Satyrica*](https://drive.google.com/file/d/1qbySTjm8vNh36cGsGsIivNi_BV7yQXDX/view?usp=sharing)
 
 [Back to top.](#top)
 
@@ -202,7 +203,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, April 26
 - Trimalchio prepares for his funeral
-- **Homework (due before class)**: Translate sections 72-73 and read Richlin's article on the [sex in the *Satyrica*](https://drive.google.com/file/d/1qbySTjm8vNh36cGsGsIivNi_BV7yQXDX/view?usp=sharing). Commonplace book opportunity #19.
+- **Homework (due before class)**: Translate sections 72-73 and read Bodel's article on the [dinner as an underworld](https://drive.google.com/file/d/1uOl3ch2FCr9CTmMIp4ismJnY8gUOasin/view?usp=sharing). Commonplace book opportunity #19.
 
 ### Thursday, April 28
 - Fortunata speaks out
@@ -216,7 +217,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, May 4
 - Trimalchio's life (part 1)
-- **Homework (due before class)**: Translate sections 75-76 and read Bodel's article on the [dinner as an underworld](https://drive.google.com/file/d/1uOl3ch2FCr9CTmMIp4ismJnY8gUOasin/view?usp=sharing). Commonplace book opportunity #21.
+- **Homework (due before class)**: Translate sections 75-76 and read Hagelin's piece on the [abuse that shaped freedmen's lives](https://drive.google.com/file/d/1QiZum6sDI0VI5fmzu6oKSrSbEdF7iFud/view?usp=sharing). Commonplace book opportunity #21.
 
 ### Thursday, May 6
 - Trimalchio's life (part 2) and exit stage left!
