@@ -20,7 +20,9 @@ has_children: false
 - convoco, convocare, convocavi, convocatus - to call together
 - decipio, decipere, decepi, deceptus - to deceive
 - exsolvo, exsolvere, exsolvi, exsolutus - to free, untie
+- metuo, metuere, metui, metutum - to fear, to be afraid
 - obsisto, obsistere, obstiti, obstitus - to oppose (+ dat.)
 - pono, ponere, posui, positus - to place, put
 - rideo, ridere, risi, risus - to laugh
 - terreo, terrere, terrui, territus - to terrify
+- timeo, timere, timui, timitus - to be afraid, fear
