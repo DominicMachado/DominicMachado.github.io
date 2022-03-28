@@ -18,6 +18,7 @@ has_children: false
 &nbsp;
 - adeo - so, to such an extent
 - cum (+ subj.) - when, since, although
+- ita - in such a way
 - si - if
 - tam - so
 - tot - so many
