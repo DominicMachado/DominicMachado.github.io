@@ -244,12 +244,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, April 6
 - Review
 - **Reading (to be completed before class)**: Review the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
-- **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1luCb-LCRaiN_-IeZNSJDAyBD888njxuze0U1TtcTkwk/edit) for Unit 3.
+- **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1luCb-LCRaiN_-IeZNSJDAyBD888njxuze0U1TtcTkwk/edit?usp=sharing) for Unit 3.
 
 ### Friday, April 8
 - eCEFs
 - Mastery quiz #3
-- -**Assessment**: Review grammar and vocabulary from Unit 3 for mastery quiz #3.
+- **Assessment**: Review grammar and vocabulary from Unit 3 for mastery quiz #3.
 
 [Back to top.](#top)
 
