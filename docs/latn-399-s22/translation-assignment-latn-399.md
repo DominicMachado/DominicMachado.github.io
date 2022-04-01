@@ -54,6 +54,6 @@ For Translation Assignment #1, you will produce a "definitive translation" of *S
 
 Due date: April 12, 11:00 AM
 
-More to follow...
+For Translation Assignment #2, you will produce a "definitive translation" of *Satyrica* 51-52.6, Trimalchio's story about the man who invented indestructible glass and the theatrics that follow. Please find here the [passage, three translations of it, as well as Schmeling's commentary on it](https://drive.google.com/file/d/1fIpJ3Gvxhdp8-sbfm9c08UXZ96tmsrg_/view?usp=sharing) on it. Don't forget to consult the other commentaries by [Smith](https://drive.google.com/file/d/1k4K0w_ywQaOCt7Ab8ztaLUKBN0tRg396/view), [Severy-Hoven](https://drive.google.com/file/d/1Fz7bvTK4XkygRYQe26bSlPprsBoRZDt7/view), and [Courtney](https://drive.google.com/file/d/12Zz7E6v2GCiy5QldSf5mnnYCd4cYFU3d/view) as well.
 
 ***
