@@ -219,7 +219,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, March 30
 - Review
-- Causal and concessive clauses
 - **Reading (to be completed before class)**: Review the sections on [result clauses](https://lingualatina.github.io/textbook/presentation/13-result/) and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
 - **Morphology**: Memorize the [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-verbs) in our Unit 3 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
@@ -237,14 +236,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/4 - 4/8)
 
 ### Monday, April 4
-- Reading and review
+- Causal and concessive clauses
+- Review
+- **Reading (to be completed before class)**: Read the sections on [causal](https://lingualatina.github.io/textbook/presentation/14-causal-concessive/causal/) and [concessive](https://lingualatina.github.io/textbook/presentation/14-causal-concessive/concessive/) clauses.
+- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adjectives-conjunctions) in our Unit 3 vocabulary list.
 
 ### Wednesday, April 6
-- Reading and review
+- Review
+- **Reading (to be completed before class)**: Review the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
+- **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1luCb-LCRaiN_-IeZNSJDAyBD888njxuze0U1TtcTkwk/edit) for Unit 3.
 
 ### Friday, April 8
 - eCEFs
 - Mastery quiz #3
+- -**Assessment**: Review grammar and vocabulary from Unit 3 for mastery quiz #3.
 
 [Back to top.](#top)
 
