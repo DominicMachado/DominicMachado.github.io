@@ -258,12 +258,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 11 (4/11 - 4/13)
 
 ### Monday, April 11
-- Translation #3 due
 - Composition workshop
+- **Assessment (to be completed before class)**: [Translation #3](https://docs.google.com/document/d/1K1_HirwKu5mGzIMWy6A4jglrB_rfN6GR7Hn6P5EUTUI/edit?usp=sharing) due.
 
 ### Wednesday, April 13
 - Comparatives
 - Superlatives
+- **Assessment (to be completed before class)**: [Composition #3](https://docs.google.com/document/d/1JoZjqEsh1ZnWL3AWXa72J77g7ye_SY50yDLa4x72NvQ/edit?usp=sharing) due.
 
 [Back to top.](#top)
 
