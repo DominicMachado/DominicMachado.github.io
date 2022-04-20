@@ -273,12 +273,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/20 - 4/22)
 
 ### Wednesday, April 20
-- Irregular comparatives
-- Irregular superlatives
+- Comparatives and superlatives
 
 ### Friday, April 22
-- Questions
-- Questions with the subjunctive
+- Comparatives and superlatives (review)
+- Irregular comparatives and superlatives
+- **Reading (to be completed before class)**: Review the sections on [comparative](https://lingualatina.github.io/textbook/presentation/20-degree/comp-adjs/) and [superlative](https://lingualatina.github.io/textbook/presentation/20-degree/superl-adjs/) adjectives as well as [comparative and superlative adverbs](https://lingualatina.github.io/textbook/presentation/20-degree/adverbs/).
+- **Practice (to be completed before class)**: Read and translate the following [passages](https://docs.google.com/document/d/1JGJlnhyPe5aMLK_gZSyv61eVd2YO7SHbsqC4XCnruKc/edit#).
 
 [Back to top.](#top)
 
@@ -287,12 +288,10 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/25 - 4/29)
 
 ### Monday, April 25
-- Optative subjunctive
-- Potential subjunctive
+- Reading and review
 
-### Wednesday, April 29
-- Imperatives
-- Hortatory subjunctive
+### Friday, April 29
+- No class!
 
 [Back to top.](#top)
 
