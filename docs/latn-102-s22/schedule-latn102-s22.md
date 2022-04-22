@@ -289,6 +289,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, April 25
 - Reading and review
+- **Practice (to be completed before class)**: Read and translate the following [passage](https://docs.google.com/document/d/1UZZIzlcwRw7FV1-DIkQu87AUoUwZOXgiZpbUnR_JLlU/edit?usp=sharing).
+
 
 ### Friday, April 29
 - No class!
