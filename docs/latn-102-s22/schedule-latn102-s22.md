@@ -294,6 +294,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, April 29
 - No class!
+- **Practice (to be completed before class)**: Try your hand at the [review sheet](https://docs.google.com/document/d/1F3OcIADnEI9yzOrn4BxLnUsGUXrbOyRXYExUww9q6dM/edit?usp=sharing) to prepare for the upcoming mastery quiz.
 
 [Back to top.](#top)
 
