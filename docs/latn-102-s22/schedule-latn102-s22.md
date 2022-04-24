@@ -310,7 +310,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, May 6
 - Composition workshop
-- **Assessment (to be completed before class)**: Translation #4 due.
+- **Assessment (to be completed before class)**: [Translation #4](https://docs.google.com/document/d/1KV6cu8IVtuQ0JFGRcAVHH79FYBxwvKxUEBi8BMelvuU/edit?usp=sharing) due.
 
 [Back to top.](#top)
 
