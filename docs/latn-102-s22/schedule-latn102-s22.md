@@ -321,7 +321,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, May 9
 - Wrap-up
-- **Assessment (to be completed before class)**: Composition #4 due.
+- **Assessment (to be completed before class)**: [Composition #4](https://docs.google.com/document/d/1lbvmdFYrjyVPwOeKVtltolOMz_2EeWKQ1TWu-pQRspY/edit?usp=sharing) due.
 
 [Back to top.](#top)
 
@@ -334,7 +334,6 @@ Submit a final reflection of 300-500 words on your experience in community-based
 1. What teaching and planning techniques have worked well this semester? What haven’t worked well? Why? (If you are did alternative CBL, please  include a paragraph describing and reflecting on your grant proposal instead of answering this question).
 2. What have you learned about how language can be used to give or take power from particular people and groups? 
 3. How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences? 
-4. How do you plan to continue to build on your learning experience this semester? What goals do you have for CBL for the spring semester?
 
 Please submit the reflection, as a Google doc shared with me, by Wednesday, May 18 at 11:59 PM. 
 
