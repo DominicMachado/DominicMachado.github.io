@@ -40,7 +40,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 7 
 - Racecraft
-- **Homework (due before class)**: Read Fields and Fields' [chapter]([https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their concept of racecraft.
+- **Homework (due before class)**: Read Fields and Fields' [chapter](https://www.newyorker.com/magazine/2018/10/29/the-myth-of-whiteness-in-classical-sculpture](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their concept of racecraft.
 
 [Back to top.](#top)
 
