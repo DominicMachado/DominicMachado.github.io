@@ -22,4 +22,4 @@ By the end of this course, you will be able to:
 - Explain how racialized groups used antiquity to counter these claims
 - Analyze the ways in which race thinking have and continue to influence the way we study classics
  
-[Back to top.](#top)
+***
