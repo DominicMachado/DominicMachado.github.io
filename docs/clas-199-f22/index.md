@@ -39,7 +39,7 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![BLM](https://sfs.georgetown.edu/wp-content/uploads/2020/07/dc-scene.jpg)
+![BLM](https://3.bp.blogspot.com/-1PUcMW08iao/VwCRmm21oLI/AAAAAAAAAtQ/IhYcWjlPnu8V-_XegU1b3tBUZbH2pK3KA/s1600/Herakles%2Band%2BBusiris%2BCaeretan%2Bhydria%2B2.jpg)
 
 ### Wednesday, August 31
 - Course introduction
