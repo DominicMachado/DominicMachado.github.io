@@ -39,7 +39,7 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![BLM](https://www.pewtrusts.org/-/media/post-launch-images/2021/02/ap_20172458240276/16x9_m.jpg)
+![BLM](https://sfs.georgetown.edu/wp-content/uploads/2020/07/dc-scene.jpg)
 
 ### Wednesday, August 31
 - Course introduction
