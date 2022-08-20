@@ -7,7 +7,7 @@ nav_order: 4
 ---
 ***
 
-# Course Policies - CLAS 141 - F20
+# Course Policies - CLAS 199 - F22
 
 ***
 
