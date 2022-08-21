@@ -56,8 +56,8 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 14 
 - Key Concepts: Whiteness
-- **Reading (due before class)**: 
-- **Optional Response #4**: Write a 3-2-1 response on XYZ in your response journal.
+- **Reading (due before class)**: Read the [introduction](https://drive.google.com/file/d/1lm8d4Vpnded7eNV_hLoOQK9A69Ga2nob/view?usp=sharing) of Alcoff's book on whiteness.
+- **Optional Response #4**: Write a 3-2-1 response on the Alcoff reading in your response journal.
 
 [Back to top.](#top)
 
