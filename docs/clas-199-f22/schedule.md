@@ -7,7 +7,7 @@ nav_order: 3
 ---
 ***
 
-# Schedule - Race and Antiquty - F22
+# Schedule - CLAS 199 - F22
 
 ***
 
