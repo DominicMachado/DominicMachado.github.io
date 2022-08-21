@@ -4,7 +4,7 @@ title: Course Objectives
 permalink: course-objectives-clas199-f22
 parent: CLAS 199 - F22
 nav_order: 1
-has_children: true
+has_children: false
 ---
 ***
 
