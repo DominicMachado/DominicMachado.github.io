@@ -27,7 +27,6 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, August 31
 - Course introduction
-- Syllabus overview
 - **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas199-f22), the [assessment structure](https://dominicmachado.github.io/assessment-clas199-f22),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas199-f22) pages carefully. Jot down questions you have about the course setup and bring them to class.
 
 ***
@@ -35,12 +34,14 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 2
 
 ### Monday, September 5 
-- Race and Racism
-- **Homework (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation.
+- Key Concepts: Race and Racism
+- **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation.
+- **Optional Response #1**: Write a 3-2-1 response (3 key points - 2 things that were unclear - 1 question) on the Omi and Winant chapter in your response journal and share it with me.
 
 ### Wednesday, September 7 
-- Racecraft
-- **Homework (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their concept of racecraft.
+- Key Concepts: Racecraft
+- **Reading (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their concept of racecraft.
+- **Optional Response #2**: Write a 3-2-1 response on the Fields and Fields chapter in your response journal.
 
 [Back to top.](#top)
 
@@ -49,11 +50,29 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 3
 
 ### Monday, September 12 
-- The Problem of Ancient Evidence, Part 2
-- **Homework (due before class)**:  Read the accounts of [Thucydides](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-eng6:6.54-6.59/) and [Aristotle](http://perseus.uchicago.edu/perseus-cgi/citequery3.pl?dbname=GreekFeb2011&getid=1&query=Arist.%20Ath.%20Pol.%2018) about the murder of Hipparchus. Instead of writing a standard entry in your commonplace book, jot down three conflicting "facts" that you found in your reading and what you think might explain these different interpretations.
+- Key Concepts: Critical Race Theory
+- **Reading (due before class)**: Read the following [excerpt](https://drive.google.com/file/d/1Hix2-2TwHr7Unk0Pd02Im6E-iGy_lq13/view?usp=sharing) from Delgado and Stefancic on critical race theory.
+- **Optional Response #3**: Write a 3-2-1 response on the Delgado and Stefancic reading in your response journal.
 
 ### Wednesday, September 14 
-- Primary Source Analysis Release and Discussion
-- **Homework (due before class)**: Instead of writing a standard entry in your commonplace book, reflect on what you have learned from the primary source analysis that we have done in the last two class periods and outline briefly a process for your own primary source analysis.
+- Key Concepts: Whiteness
+- **Reading (due before class)**: 
+- **Optional Response #4**: Write a 3-2-1 response on XYZ in your response journal.
 
 [Back to top.](#top)
+
+***
+
+## Week 4
+
+### Monday, September 19 
+- A Brief History of Racism
+- **NB**: No homework due today. Work on Project #1 (due Thursday, September 19).
+
+### Wednesday, September 21 
+- A Diverse Ancient World
+- **Assessment (due before class)**: Complete and share Project #1!
+
+[Back to top.](#top)
+
+***
