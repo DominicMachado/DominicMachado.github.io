@@ -15,7 +15,7 @@ has_children: true
 [Response Journal](#response-journal) \| [Creative Projects](#creative-projects) \| [Opuscula](#opuscula) \|
 ***
 
-Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-latn399-s22) page.
+Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-clas199-f22) page.
 
 ***
 
@@ -31,7 +31,7 @@ Further details on the commonplace book assignment can be found [here](https://d
 
 ***
 
-## Creative Projects (due September 21; November 2; December 9)
+## Creative Projects (due September 21; November 2; December 9; all due at 3:00 PM)
 &nbsp;  
 Throughout the course, you will have the opportunity to complete three creative projects (an educational YouTube video; a pop culture blog post; and an interactive timeline) related to different aspects of our course content.
 
