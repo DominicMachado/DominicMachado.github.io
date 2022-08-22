@@ -28,7 +28,7 @@ There are no specific due dates for particular opuscula, but they must be comple
 
 ***
 
-**Opusculum #1: Who wrote the Satyricon?**
+**Opusculum #1: **
 
 A satisfactory assignment will:
 
