@@ -24,7 +24,7 @@ There will be four mini-projects, known as opuscula (the Latin for mini-projects
 
 There are no specific due dates for particular opuscula, but they must be completed sequentially. In addition, you cannot submit them all at the same time; you must receive a satisfactory grade on the previous *opuscula* before turning in the next one. For instance, you were to turn in the first *opusculum*, you would have to wait until I gave it back to turn in the second one. You should take this into account into when you decide whether and when to work on the *opuscula*. In addition, it is worth noting that even though the assignments may seem pretty simple, they will require quite a bit of careful thought and thus cannot be rushed. *Opuscula* can either be shared with me as a GoogleDoc or handed in in person, if you prefer.
 
-*Opuscula* are not required to pass this class. For how they factor into the class grading rubric, have a look at the specifications grading [page](https://dominicmachado.github.io/specification-grading-latn399-s22).
+*Opuscula* are not required to pass this class. For how they factor into the class grading rubric, have a look at the specifications grading [page](https://dominicmachado.github.io/specification-grading-clas199-f22).
 
 ***
 
