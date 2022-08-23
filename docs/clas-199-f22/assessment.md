@@ -35,7 +35,7 @@ Further details on the commonplace book assignment can be found [here](https://d
 &nbsp;  
 Throughout the course, you will have the opportunity to complete three creative projects (an educational YouTube video; a pop culture blog post; and an interactive timeline) related to different aspects of our course content.
 
-In addition to completing these three creative projects, you will also write a 500-word reflection on your approach to the creative project and provide a works cited list.
+In addition to completing these three creative projects, you will also provide a works cited list.
 
 You must complete at least one creative project to pass the course. Further details on each of the assignments can be found [here](https://dominicmachado.github.io/creative-projects-clas199-f22).
 
