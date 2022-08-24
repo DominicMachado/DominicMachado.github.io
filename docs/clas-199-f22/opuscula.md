@@ -28,9 +28,17 @@ There are no specific due dates for particular opuscula, but they must be comple
 
 ***
 
-**Opusculum #1: **
+**Opusculum #1: Critical Race Theory Brouhaha**
+
+For this opusculum, you will delve into a current controversy regarding critical race theory in the state of Florida. Earlier this year, the Florida House of Representatives passed a bill banning the teaching of critical race theory in the state and it was signed into law shortly thereafter by Governor Ron DeSantis. Just a few weeks ago, the law was blocked from being put into action by a Florida judge.
+
+You will start this project by reading a [short press release](https://www.flgov.com/2022/04/22/governor-ron-desantis-signs-legislation-to-protect-floridians-from-discrimination-and-woke-indoctrination/) from Florida governor's office quoting supporters of the HB 7 bill (also known as the "Stop WOKE Act") as well as a [brief summary](https://www.flgov.com/wp-content/uploads/2022/04/Freedom-from-Indoctrination-Handout-1.pdf) of the bill's contents. You will then write a brief response (500 - 600 words) comparing and contrasting the portrayal of critical race theory in the bill and by its proponents compared with the tenets of CRT as laid out in the readings from [Delgado and Stefancic](https://drive.google.com/file/d/1Hix2-2TwHr7Unk0Pd02Im6E-iGy_lq13/view?usp=sharing).
 
 A satisfactory assignment will:
+- Be 500 - 600 words in length
+- Compare and contrast the language used by Florida's Stop WOKE Act with the claims advanced by Delgado and Stefancic
+- Make use of direct quotations and citations from the sources to make your argument
+- Reflect on the larger significance of your comparison
 
 ***
 
