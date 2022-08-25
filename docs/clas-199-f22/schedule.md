@@ -73,7 +73,7 @@ This schedule links to the readings and assignments that you will have throughou
 ### Wednesday, September 21 
 - A Diverse Ancient World
 - **Assessment (due before class)**: Complete and share Creative Project #1!
-- **Optional Reading**: [The Multiethnic Ancient Mediterranean] (https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html)
+- **Optional Reading**: [The Multiethnic Ancient Mediterranean](https://rfkclassics.blogspot.com/2019/07/e-pluribus-plures-identities-in.html)
 
 [Back to top.](#top)
 
@@ -149,11 +149,12 @@ This schedule links to the readings and assignments that you will have throughou
 ### Monday, October 31
 - Antiquity and the Rise of Nationalism: Greece and Israel
 - **NB**: No homework due today. Work on Creative Project #1 (due Wednesday, November 2).
+- **Optional Reading**: [Archaeology, Nation, and Race: Chapter 1](link coming)
 
 ### Wednesday, November 2
 - Antiquity and the Rise of Nationalism: The Dominican Republic
-- **Reading (due before class)**: 
 - **Assessment (due before class)**: Complete and share Creative Project #2!
+- **Optional Reading**: [Athens and Sparta of the New World: The Classical Passions of Santo Domingo](link coming)
 
 [Back to top.](#top)
 
