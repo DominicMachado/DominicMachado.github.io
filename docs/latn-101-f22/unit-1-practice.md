@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit 1 - Practice Exercises
+title: Practice Exercises
 permalink: latn101-f22-unit-1-practice-exercises
 parent: Unit 1
 grand_parent: LATN 101 - F22
