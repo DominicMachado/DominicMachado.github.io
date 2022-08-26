@@ -4,7 +4,7 @@ title: Schedule
 permalink: schedule-latn101-f22
 parent: LATN 101 - F22
 nav_order: 4
-has_children: true
+has_children: false
 ---
 ***
 
