@@ -10,14 +10,11 @@ has_children: false
 
 ***
 
-## Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
+## Unit 1 - Table of Contents
 
 ***
 
-### Table of Contents
-&nbsp;
-
-Below you will links to all the different topics covered in Unit 1:
+Below you will links to our textbook's discussion of different topics covered in Unit 1:
 
 - [Verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/)
 - [Perfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/)
