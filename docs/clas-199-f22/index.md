@@ -17,7 +17,7 @@ has_children: true
 ### Course Information
 &nbsp;  
 - **Meeting Time:** MW 3:00 - 4:15 PM
-- **Meeting Place:** Stein 307; [Standing zoom link](https://holycross.zoom.us/j/99485066655)
+- **Meeting Place:** Stein 307; [standing zoom link](https://holycross.zoom.us/j/99485066655)
 - **Instructor** Prof. Machado
 - **Student Hours**: Friday 11 AM - 12 PM, 1 - 3 PM, by appointment
 - **E-mail**: dmachado@holycross.edu
