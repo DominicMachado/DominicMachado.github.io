@@ -2,7 +2,7 @@
 layout: page
 title: Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
 permalink: latn101-f22-unit-1
-parent: LATN 101 - F21
+parent: LATN 101 - F22
 nav_order: 5
 has_children: true
 ---
