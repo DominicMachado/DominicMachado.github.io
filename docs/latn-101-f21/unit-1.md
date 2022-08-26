@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
+title: Unit 1
 permalink: schedule-latn101-f21-unit-1
 parent: Schedule
 grand_parent: LATN 101 - F21
