@@ -14,7 +14,7 @@ has_children: false
 
 ***
 
-### Vocabulary
+## Vocabulary
 &nbsp;  
 
 ***
@@ -41,7 +41,7 @@ has_children: false
 
 ***
 
-## Nouns
+### Nouns
 &nbsp;
 - arma, armorum *n* (pl. only): *arms, weapons*
 - avis, avis *f*: *bird*
@@ -61,7 +61,7 @@ has_children: false
 
 ***
 
-## Pronouns
+### Pronouns
 &nbsp;
 - hic, haec, hoc (demonstrative pronoun): *this one*
 - ille, illa, illud (demonstrative pronoun): *that one*
@@ -72,7 +72,7 @@ has_children: false
 
 ***
 
-## Adjectives
+### Adjectives
 &nbsp;
 - acer, acris, acre: *harsh*, *sharp*
 - ferox, ferocis: *ferocious*
@@ -87,7 +87,7 @@ has_children: false
 
 ***
 
-## Adverbs and Conjunctions
+### Adverbs and Conjunctions
 &nbsp;
 - autem: *however*, *nonetheless*
 - et: *and*
@@ -103,9 +103,8 @@ has_children: false
 
 ***
 
-## Prepositions
+### Prepositions
 &nbsp;
-
 - a/ab + *abl*: *by*, *away from*
 - cum + *abl*: *with*
 - inter + *acc*: *between*, *among*
