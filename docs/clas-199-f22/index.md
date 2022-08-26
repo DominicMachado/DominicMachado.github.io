@@ -19,7 +19,7 @@ has_children: true
 - **Meeting Time:** MW 3:00 - 4:15 PM
 - **Meeting Place:** Stein 307; [standing zoom link](https://holycross.zoom.us/j/99485066655)
 - **Instructor** Prof. Machado
-- **Student Hours**: Friday 11 AM - 12 PM, 1 - 3 PM, by appointment
+- **Student Hours**: Friday 11 AM - 12 PM, 1 - 3 PM; Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 This course will consider how the relationship between race and antiquity. We will begin this course by thinking critically about what we mean when we talk about race, exploring a number of ways in which the concept has theorized and understood. We will then move on to consider the role played by antiquity (broadly Greco-Roman, but also Carthaginian, Egyptian, and West Asian) in the development of various forms of racial thinking from 16th to 20th centuries as well as how different racialized groups used antiquity to respond to this process. We will end the course by considering the ways in which race and racialized ways of thinking has shaped and continues to shape the way that antiquity has been studied in the field of classics.
