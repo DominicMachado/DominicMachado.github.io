@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Table of Contents
-permalink: latn101-f22-unit-1-toc
+title: Grammar
+permalink: latn101-f22-unit-1-grammar
 parent: Unit 1
 grand_parent: LATN 101 - F22
 nav_order: 1
@@ -10,11 +10,11 @@ has_children: false
 
 ***
 
-## Unit 1 - Table of Contents
+## Unit 1 - Grammar
 
 ***
 
-Below you will links to our textbook's discussion of different topics covered in Unit 1:
+Below you will find links to our textbook's discussion of different grammatical topics covered in Unit 1:
 
 - [Verbs](https://lingualatina.github.io/textbook/presentation/02-verbs/overview/)
 - [Perfect Indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/)
