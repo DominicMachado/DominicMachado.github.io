@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit 1 - Table of Contents
+title: Table of Contents
 permalink: latn101-f22-unit-1-toc
 parent: Unit 1
 grand_parent: LATN 101 - F22
