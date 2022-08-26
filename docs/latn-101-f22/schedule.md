@@ -24,15 +24,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 1 (9/1 - 9/3)
+## Week 1 (8/31 - 9/2)
 
-### Wednesday, September 1
+### Wednesday, August 31
 - Studying a historical language
 - Pronunciation
 - **Reading (due before class)**: Read Kennedy and Murray's [article](https://theundefeated.com/features/classics-is-a-part-of-black-intellectual-history-howard-needs-to-keep-it/) and [addendum](https://rfkclassics.blogspot.com/2021/06/the-negro-problem-race-and-classics-in.html) on the closing of the Classics department at Howard.
 
 
-### Friday, September 3
+### Friday, September 2
 - Syllabus
 - Inflection
 - **Reading (due before class)**:  Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn101-f22), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-101-f22), and [assessment](https://dominicmachado.github.io/assessment-latn101-f22) pages on the website. Additionally, watch my [short video](https://www.youtube.com/watch?v=5g1sz9qRNJ0) on inflection. Bring any questions you have to class!
