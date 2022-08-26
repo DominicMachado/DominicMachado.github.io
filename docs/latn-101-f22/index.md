@@ -44,7 +44,7 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ### This Week at a Glance
 &nbsp;  
 
-![Verbs](https://i.pinimg.com/originals/cb/1a/f8/cb1af8f4984c32120516b7215a6ded0f.jpg)
+![Verbs](https://chs.harvard.edu/wp-content/uploads/2020/11/BCinstallation-scaled.jpg)
 
 ## Week 1 (8/31 - 9/2)
 
