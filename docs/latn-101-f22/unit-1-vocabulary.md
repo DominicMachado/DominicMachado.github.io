@@ -10,12 +10,7 @@ has_children: false
 
 ***
 
-## Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
-
-***
-
-## Vocabulary
-&nbsp;  
+## Unit 1 - Vocabulary
 
 ***
 
