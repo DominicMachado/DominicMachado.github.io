@@ -16,7 +16,6 @@ has_children: true
 
 ### Practice Exercises
 &nbsp;
-
 Below you will links to different practice exercises to review material learned in Unit 1:
 
 - [Conjugation Identification](https://observablehq.com/@dominicmachado/identify-the-conjugation)
@@ -33,7 +32,5 @@ Below you will links to different practice exercises to review material learned 
 - [Practice quiz #1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/)
 - [Practice quiz #2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY/)
 - [Practice quiz #3](https://docs.google.com/forms/d/1vSvEXN1M5fZLbtYqSNneAzyORRBBtqYDf_pVDuXDSOg/)
-
-***
 
 ***
