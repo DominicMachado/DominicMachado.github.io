@@ -10,12 +10,10 @@ has_children: false
 
 ***
 
-## Unit 1 - Inflection of Nouns, Pronouns, Adjectives, and Verbs
+## Unit 1 - Practice Exercises
 
 ***
 
-### Practice Exercises
-&nbsp;  
 Below you will links to different practice exercises to review material learned in Unit 1:
 
 - [Conjugation Identification](https://observablehq.com/@dominicmachado/identify-the-conjugation)
