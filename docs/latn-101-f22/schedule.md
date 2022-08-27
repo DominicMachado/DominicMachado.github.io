@@ -41,8 +41,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-***
-
 ## Week 2 (9/5 - 9/9)
 
 ### Monday, September 5
@@ -73,3 +71,5 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 [Back to top.](#top)
 
 ***
+
+## Week 3 (9/12 - 9/16)
