@@ -73,3 +73,86 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ***
 
 ## Week 3 (9/12 - 9/16)
+
+### Monday, September 12
+- Nouns (1st, 2nd, and 3rd declensions)
+- Usages of the nominative and genitive
+- **Reading (to be completed before class)**:  Watch my short video on [substantive inflection](https://www.youtube.com/watch?v=D-x9X1v3170) and read the notes on [nouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/nouns/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the nominative and genitive endings in both singular and plural for the [first](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), second ([masculine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#exemplum-exempl%C4%AB-n---example)), and third ([masculine/feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#n%C5%8Dmen-n%C5%8Dminis-n---name)) declensions for **Daily Check-In #3**. Additionally, begin memorizing the dictionary entries and definitions for the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list.
+- **Practice (to be completed before class)**:
+Identify the declensions that the list of nouns in my video belong to and form the nominative and genitive singular and plural for them.
+- **Further Practice**: Try your hand at the following exercises on [nominative and genitive forms](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/nom-gen/) and [dictionary entires for nouns](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/).
+
+### Wednesday, September 14
+- Introduction to CBL
+- Review
+- **Morphology and Vocabulary (to be completed before class)**: Continue memorizing the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list. If you have time, begin to memorize dative, accusative endings in both singular and plural for the [first](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), second ([masculine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#exemplum-exempl%C4%AB-n---example)), and third ([masculine/feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#n%C5%8Dmen-n%C5%8Dminis-n---name)) declensions.
+
+### Friday, September 16
+- Nouns (1st, 2nd, and 3rd declensions)
+- The dative, accusative, and ablative cases
+- **Reading (to be completed before class)**: Watch Prof. Smith's [short video](https://www.youtube.com/watch?v=7Efh1Wycx0g) on the dative and accusative cases.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the dative, accusative endings in both singular and plural for the [first](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#first-declension), second ([masculine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#second-declension-masculine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#exemplum-exempl%C4%AB-n---example)), and third ([masculine/feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#third-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#n%C5%8Dmen-n%C5%8Dminis-n---name)) declensions and review the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) in Unit 1's vocabulary list for **Daily Check-in #4**.
+- **Practice (to be completed before class)**: Write out the full singular and plural paradigm of the following nouns, noting the declensions of the each noun: *filia*; *deus*; *pater*; *nomen*.
+
+[Back to top.](#top)
+
+***
+
+## Week 4 (9/19 - 9/23)
+
+### Monday, September 19
+- Sentence Structures
+- Review
+-  **Reading (to be completed before class)**: Read the [section](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/) and watch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures.
+-  **Morphology and Vocabulary (to be completed before class)**: Memorize the dictionary entries for [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions) and review noun morphology for all cases for **Daily Check-in #5**
+
+### Wednesday, September 21
+- Adjectives (2-1-2, 3rd declension adjectives)
+- Noun-adjective agreement
+- **Reading (to be completed before class)**: Watch Prof. Joseph's short videos about [noun-adjective agreement](https://www.youtube.com/watch?v=h5ZG-GM3EFA&feature=youtu.be) and [adjective dictionary entries](https://www.youtube.com/watch?v=a_iyFuYTma4). Additionally, read and study sections 1a, 1c, 1d, and 1e in selection on [adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/) from the textbook.
+- **Morphology and Vocabulary (to be completed before class)**: Compare and contrast the declension of adjectives in these [charts](https://lingualatina.github.io/textbook/reference/adjectives-paradigms/) with the noun declension you have already learned, memorizing the key differences. Additionally, memorize the dictionary entries and definitions for the [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in Unit 1 for for **Daily Check-in #6**.
+- **Practice (to be completed before class)**: Complete the following exercise on [dictionary entires for adjectives](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/).
+- **Further Practice**: Try out the following mixed declension noun-adjective [exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion).
+
+
+### Friday, September 23
+- -ius adjectives and substantives
+- Intros to WPS and MPS
+- **Reading (to be completed before class)**: Read the short sections on [-ius adjectives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#2-1-2--%C4%ABus-adjectives) and [substantives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/adjectives/#substantives) in our textbook. Additionally, please have a quick read of this short piece on [gender diversity](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8) in the Latin language.
+- **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
+- **Further Practice**: Try your hand at the following exercise on [noun-adjective agreement](https://observablehq.com/@dominicmachado/noun-adjective-agreement-supply-the-matching-form).
+
+***
+
+## Week 5 (9/26 - 9/30)
+
+### Monday, September 26
+- *is, ea, id*
+- *sui, sibi, se, se*
+-  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/presentation/09-pron-dep-irreg/#reflexive-pronouns).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *is, ea, id* and *sui, sibi, se, se* as well as dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1 for **Daily Check-in #7**.
+- **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the different forms of *is, ea, id*.
+
+### Wednesday, September 28
+- Demonstrative pronouns (*hic* and *ille*)
+- Intensifying pronouns (*ipse, ipsa, ipsum*)
+-  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/presentation/01-nouns-adjs-pron/pronouns/#intensives).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms) for **Daily Check-in #8**.
+- **Practice (to be completed before class)**: Write out the declension (all cases) of the noun-adjective pairs at the end of my video.
+- **Further Practice**: Try your hand at the following exercises on forms of [*hic, haec, hoc*](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) and [*ille, illa, illud*](https://observablehq.com/@dominicmachado/demonstrative-pronoun-ille-illa-illud-nominative-and-geni).
+
+### Friday, September 30
+- *sum, esse, fui*
+- Linking sentences
+- CBL curriculum overview
+- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural amd memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs).
+- **Review**: Review the formation of noun-adjective pairs in all cases by doing [these exercises](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) and try your hand at [adjective dictionary entries](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/) and [noun declension](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/) identification as well.
+
+***
+
+## Week 6 (10/3 - 10/7)
+
+### Monday, October 3
+- Review
