@@ -88,8 +88,8 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, September 28 
 - Antiquity and Origin Stories: The Black Perspective
-- **Reading (due before class)**: Read Glaude's [chapter](https://drive.google.com/file/d/1Nyd7iF1oK1zhMOq316WcQzjhAjYniwF5/view?usp=sharing) on Black appropriation of the Exodus story.
-- **Optional Response #6**: Compare and contrast Black uses of the story of Exodus with the way that white writers used the curse of Ham and other stories
+- **Reading (due before class)**: Read Glaude's [chapter](https://drive.google.com/file/d/1Nyd7iF1oK1zhMOq316WcQzjhAjYniwF5/view?usp=sharing) on Black uses of the Exodus story in the 19th century alongside Garnet's 1843 [*Address to Slaves of the United States*](https://www.blackpast.org/african-american-history/1843-henry-highland-garnet-address-slaves-united-states/).
+- **Optional Response #6**: Compare and contrast Black uses of the story of Exodus with the way that white writers used the curse of Ham and other stories.
 
 [Back to top.](#top)
 
@@ -105,8 +105,8 @@ This schedule links to the readings and assignments that you will have throughou
 ### Wednesday, October 5
 - Antiquity and Black Critiques of Scientific Racism
 - **NB**: Prof. Nadine Knight will be leading class today!
-- **Reading (due before class)**: Read Douglass' 1854 [rebuttal](https://drive.google.com/file/d/1VVQxWhR02qy0YfC97SCxWf7y1ZtqQnC7/view?usp=sharing) of race science.
-- **Optional Response #8**: Reflect on how Douglass uses antiquity to make his argument and compare and contrast the way he uses the past with that of Morton and other contemporary race scientists.
+- **Reading (due before class)**: Read Douglass' 1854 [rebuttal](https://drive.google.com/file/d/1VVQxWhR02qy0YfC97SCxWf7y1ZtqQnC7/view?usp=sharing) of race science as well as DuBois' reflection on the topic in [*Of the Wings of Atalanta*](https://drive.google.com/file/d/1FJkR34XtoITYEtZIeWPSmEn0JwlSBmqz/view?usp=sharing) and [*Of the Training of Black Men*](https://drive.google.com/file/d/1BWUkzpf1PoauL6NyMYAEmg8zUupI_Ijf/view?usp=sharing).
+- **Optional Response #8**: Reflect on how Douglass and DuBois uses antiquity to make their arguments and compare and contrast the way they use the past with that of Morton and other contemporary race scientists.
 
 [Back to top.](#top)
 
