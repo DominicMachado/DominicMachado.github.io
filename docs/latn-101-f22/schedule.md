@@ -68,7 +68,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Reading (to be completed before class)**: Rewatch Prof. Smith's [video](https://www.youtube.com/watch?v=ghll0S0AxsI) on the formation of the imperfect. Read the sections from our textbook on the [imperfect tense](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the conjugation of the [imperfect active](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-indicative) and [passive](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-passive-indicative) in the 3rd person singular and plural and review principal parts and definition of [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-verbs) in Unit 1 for **Daily Check-In #3**.
 - **Practice (to be completed before class)**: Form the 3rd person singular and plural imperfect indicative forms in both the active and passive voice for last eight verbs in Unit 1. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *contenderunt*, *necabatur*, and *mittebat*.
-- **Further Practice**: Try your hand at producing different imperfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/imperfect-active-and-passive-forms).
+- **Further Practice (optional)**: Try your hand at producing different imperfect active and passive forms in the following [exercise](https://observablehq.com/@dominicmachado/imperfect-active-and-passive-forms).
 
 [Back to top.](#top)
 
