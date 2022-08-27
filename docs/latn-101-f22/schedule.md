@@ -143,8 +143,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Further Practice**: Try your hand at the following exercises on forms of [*hic, haec, hoc*](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) and [*ille, illa, illud*](https://observablehq.com/@dominicmachado/demonstrative-pronoun-ille-illa-illud-nominative-and-geni).
 
 ### Friday, September 30
-- *sum, esse, fui*
-- Linking sentences
+- *sum, esse, fui* and linking sentence
 - CBL curriculum overview
 - **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/presentation/02-verbs/sentence-structures/#linking-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural amd memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs).
@@ -156,3 +155,15 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, October 3
 - Review
+- **Assessment**: Mastery Quiz #1
+- **Practice**: To practice for the assessment quiz, try your hand at these practice quizzes [#1](https://docs.google.com/forms/d/1mzJV4uSfUrmIVzszkPXCbZa0wYC-AqmBcP7_o4u25bA/), [#2](https://docs.google.com/forms/d/1o9aw-SERVO0FNDd8mJH0zplyC1qgFF-XItiETk8qwhY), [#3](https://docs.google.com/forms/d/1vSvEXN1M5fZLbtYqSNneAzyORRBBtqYDf_pVDuXDSOg/).
+
+### Wednesday, October 5
+- Composition workshop
+- **Assessment (to be completed before class)**: Complete [Translation #1](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit).
+
+### Friday, October 7
+- Toxic charity 
+- CBL questions
+- **Assessment (to be completed before class)**: Complete [Composition #1](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit).
+
