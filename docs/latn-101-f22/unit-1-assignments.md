@@ -15,8 +15,8 @@ has_children: false
 ***
  
 Below are the dates and links for your Unit 1 assignments:
-- Wednesday, September 28 - Mastery quiz #1
-- Friday, September 30 - [Translation #1 due](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit)
-- Monday, October 3 - [Composition #1 due](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit)
+- Monday, October 3 - Mastery quiz #1
+- Wednesday, October 5  - [Translation #1 due](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit)
+- Friday, October 7 - [Composition #1 due](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit)
 
 ***
