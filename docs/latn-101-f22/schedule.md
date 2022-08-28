@@ -160,10 +160,10 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Wednesday, October 5
 - Composition workshop
+- Toxic charity 
 - **Assessment (to be completed before class)**: Complete [Translation #1](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit).
 
 ### Friday, October 7
-- Toxic charity 
 - CBL questions
 - **Assessment (to be completed before class)**: Complete [Composition #1](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit).
 
