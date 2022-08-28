@@ -13,6 +13,7 @@ has_children: true
 ***
 
 [Response Journal](#response-journal) \| [Creative Projects](#creative-projects) \| [Opuscula](#opuscula) \|
+
 ***
 
 Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-clas199-f22) page.
