@@ -145,7 +145,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Friday, September 30
 - *sum, esse, fui* and linking sentence
 - CBL curriculum overview
-- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/2021-2022/02-verbs/sentence-structures/#linking-sentences).
+- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/topics/sentencestructures/#linking-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural amd memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs).
 - **Review**: Review the formation of noun-adjective pairs in all cases by doing [these exercises](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) and try your hand at [adjective dictionary entries](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/) and [noun declension](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/) identification as well.
 
