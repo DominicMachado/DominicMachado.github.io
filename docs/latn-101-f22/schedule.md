@@ -104,7 +104,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Monday, September 19
 - Sentence Structures
 - Review
--  **Reading (to be completed before class)**: Read the [section](https://lingualatina.github.io/textbook/2021-2022/02-verbs/sentence-structures/) and watch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures.
+-  **Reading (to be completed before class)**: Read the [section](https://lingualatina.github.io/textbook/topics/sentencestructures/#sentence-structures) and watch my [video](https://www.youtube.com/watch?v=djWCfIgsvfU) on sentence structures.
 -  **Morphology and Vocabulary (to be completed before class)**: Memorize the dictionary entries for [prepositions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-prepositions) and review noun morphology for all cases for **Daily Check-in #5**
 
 ### Wednesday, September 21
