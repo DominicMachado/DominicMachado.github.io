@@ -130,22 +130,21 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Monday, September 26
 - *is, ea, id*
 - *sui, sibi, se, se*
--  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#is-ea-id) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *is, ea, id* and *sui, sibi, se, se* as well as dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1 for **Daily Check-in #7**.
+-  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#is-ea-id).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *is, ea, id* as well as dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1 for **Daily Check-in #7**.
 - **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the different forms of *is, ea, id*.
 
 ### Wednesday, September 28
 - Demonstrative pronouns (*hic* and *ille*)
-- Intensifying pronouns (*ipse, ipsa, ipsum*)
--  **Reading (to be completed before class)**: Watch from 9:03 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#demonstratives) and [intensifying pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *ille, illa, illud*; *hic, haec, hoc*; and *ipse, ipsa, ipsum* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms) for **Daily Check-in #8**.
+-  **Reading (to be completed before class)**: Watch from 9:03 to 11:25 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read and study the sections on [demonstratives](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#demonstratives).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *ille, illa, illud* and *hic, haec, hoc* in the respective [charts](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#pronouns---paradigms) for **Daily Check-in #8**.
 - **Practice (to be completed before class)**: Write out the declension (all cases) of the noun-adjective pairs at the end of my video.
 - **Further Practice**: Try your hand at the following exercises on forms of [*hic, haec, hoc*](https://observablehq.com/@dominicmachado/demonstrative-pronouns-nominative-and-genitive-forms) and [*ille, illa, illud*](https://observablehq.com/@dominicmachado/demonstrative-pronoun-ille-illa-illud-nominative-and-geni).
 
 ### Friday, September 30
 - *sum, esse, fui* and linking sentence
 - CBL curriculum overview
-- **Reading (to be completed before class)**: Read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/topics/sentencestructures/#linking-sentences).
+- **Reading (to be completed before class)**: Re-read the sections on [linking sentence structure](https://lingualatina.github.io/textbook/topics/sentencestructures/#linking-sentences).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural amd memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs).
 - **Review**: Review the formation of noun-adjective pairs in all cases by doing [these exercises](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) and try your hand at [adjective dictionary entries](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/) and [noun declension](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/) identification as well.
 
