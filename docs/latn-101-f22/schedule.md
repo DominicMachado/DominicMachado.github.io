@@ -129,7 +129,6 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, September 26
 - *is, ea, id*
-- *sui, sibi, se, se*
 -  **Reading (to be completed before class)**: Watch the first 9:03 of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY). Additionally, read and study the introductory section on [pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#pronouns) as well as the sub-sections of [*is, ea, id*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#is-ea-id).
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of *is, ea, id* as well as dictionary entries and definitions for the [pronouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-pronouns) in Unit 1 for **Daily Check-in #7**.
 - **Further Practice**: Try your hand at the following [exercise](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/pronouns/) on the different forms of *is, ea, id*.
