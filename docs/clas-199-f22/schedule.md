@@ -162,7 +162,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 10
 
-### Monday, November 5
+### Monday, November 7
 - Antiquity and Indigenous Peoples
 - **NB**: Prof. Sarah Klotz will be leading class today!
 - **Reading (due before class)**: Read the [article](https://drive.google.com/file/d/1iSqea6egr759mqeg_X8XgcgK4n0lMHKH/view?usp=sharing) by Williams on the use of Latin by indigenous writers.
