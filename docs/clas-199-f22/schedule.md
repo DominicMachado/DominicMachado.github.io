@@ -99,7 +99,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, October 3 
 - Antiquity and the Development of Scientific Racism
-- **Reading (due before class)**: Read Trafton's [chapter](link coming) on the role that ancient Egypt played in the development of race science.
+- **Reading (due before class)**: Read Dain's [chapter](https://drive.google.com/file/d/1l6M3EdC9Y3Xti5SVSn_xpINPq7fRA75-/view?usp=sharing) on the role that ancient Egypt played in the development of race science.
 - **Optional Response #7**: Reflect on why ancient Egypt was of interest to those who were trying to rationalize racial fiction through science.
 
 ### Wednesday, October 5
@@ -116,7 +116,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, October 17 
 - Antiquity and the Defense of Slavery
-- **Reading (due before class)**: Read Monoson's [chapter](link coming) on the use of Aristotle to defend slavery in antebellum South.
+- **Reading (due before class)**: Read Sepulveda's 1544 [*justification of genocide and slavery*](http://www.columbia.edu/acis/ets/CCREAD/sepulved.htm) as well as Monoson's [chapter](link coming) on the use of Aristotle to defend slavery in antebellum South.
 - **Optional Response #9**: Reflect on what specific aspects of Aristotle's argument in defense of slavery in the Politics that appeals to defenders of slavery in particular.
 
 ### Wednesday, October 19
@@ -152,10 +152,18 @@ This schedule links to the readings and assignments that you will have throughou
 - **Optional Reading**: [Archaeology, Nation, and Race: Chapter 1](link coming)
 
 ### Wednesday, November 2
-- Antiquity and the Rise of Nationalism: The Dominican Republic
+- Antiquity and the Rise of Nationalism: The Caribbean 
 - **Assessment (due before class)**: Complete and share Creative Project #2!
 - **Optional Reading**: [Athens and Sparta of the New World: The Classical Passions of Santo Domingo](link coming)
 
 [Back to top.](#top)
 
 ***
+
+## Week 10
+
+### Monday, November 5
+- Antiquity and Indigenous Peoples
+- **NB**: Prof. Sarah Klotz will be leading class today!
+- **Reading (due before class)**: Read the [article](https://drive.google.com/file/d/1iSqea6egr759mqeg_X8XgcgK4n0lMHKH/view?usp=sharing) by Williams on the use of Latin by indigenous writers.
+- **Optional Response #13**: Reflect on how indigenous usages of the classical past differ from the way that we have seen other cultures and peoples use antiquity.
