@@ -25,7 +25,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 1
 
-### Wednesday, August 31 ([slides](https://docs.google.com/presentation/d/1lh4tX2m2bGkqWf30cUkZQGgdVQMuN4uvQtP9mJVs7Hs/edit?usp=sharing)]
+### Wednesday, August 31 ([slides](https://docs.google.com/presentation/d/1lh4tX2m2bGkqWf30cUkZQGgdVQMuN4uvQtP9mJVs7Hs/edit?usp=sharing))
 - Course introduction
 - **Homework (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas199-f22), the [assessment structure](https://dominicmachado.github.io/assessment-clas199-f22),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas199-f22) pages carefully. Jot down questions you have about the course setup and bring them to class.
 
