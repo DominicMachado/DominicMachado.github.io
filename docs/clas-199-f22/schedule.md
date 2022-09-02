@@ -116,7 +116,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Monday, October 17 
 - Antiquity and the Defense of Slavery
-- **Reading (due before class)**: Read Sepulveda's 1544 [*justification of genocide and slavery*](http://www.columbia.edu/acis/ets/CCREAD/sepulved.htm) as well as Monoson's [chapter](link coming) on the use of Aristotle to defend slavery in antebellum South.
+- **Reading (due before class)**: Read Sepulveda's 1544 [*justification of genocide and slavery*](http://www.columbia.edu/acis/ets/CCREAD/sepulved.htm) as well as Monoson's [chapter](https://drive.google.com/file/d/1mYJrHPmrTTn7bI-Toeg9b41XiR1oCyIX/view?usp=sharing) on the use of Aristotle to defend slavery in antebellum South.
 - **Optional Response #9**: Reflect on what specific aspects of Aristotle's argument in defense of slavery in the Politics that appeals to defenders of slavery in particular.
 
 ### Wednesday, October 19
