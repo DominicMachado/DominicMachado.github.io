@@ -121,7 +121,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, October 19
 - Antiquity and Abolition
-- **Reading (due before class)**: Read the Preamble, Article I, and Article II of Walker's [Appeal to the Colored Citizens of the World](https://docsouth.unc.edu/nc/walker/walker.html).
+- **Reading (due before class)**: Read the Preamble, Article I, and Article II of Walker's [*Appeal to the Colored Citizens of the World*](https://docsouth.unc.edu/nc/walker/walker.html).
 - **Optional Response #10**: Reflect on the different ways that different cultures from antiquity figures in Walker's rhetorical efforts.
 
 [Back to top.](#top)
