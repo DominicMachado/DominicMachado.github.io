@@ -41,9 +41,17 @@ Everything that you need to know about this course is on this website. You can f
 
 ![BLM](https://3.bp.blogspot.com/-1PUcMW08iao/VwCRmm21oLI/AAAAAAAAAtQ/IhYcWjlPnu8V-_XegU1b3tBUZbH2pK3KA/s1600/Herakles%2Band%2BBusiris%2BCaeretan%2Bhydria%2B2.jpg)
 
-### Wednesday, August 31
-- Course introduction
-- Syllabus overview
-- **Reading (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-clas199-f22), the [assessment structure](https://dominicmachado.github.io/assessment-clas199-f22),and [grading rubric](https://dominicmachado.github.io/specification-grading-clas199-f22) pages carefully. Jot down questions you have about the course setup and bring them to class.
+### Monday, September 12 
+- Key Concepts: Critical Race Theory
+- **Reading (due before class)**: Read the following [excerpt](https://drive.google.com/file/d/1Hix2-2TwHr7Unk0Pd02Im6E-iGy_lq13/view?usp=sharing) from Delgado and Stefancic on the key tenets of critical race theory.
+- **Optional Response #3**: Write a 3-2-1 response on the Delgado and Stefancic reading in your response journal.
+
+### Wednesday, September 14 
+- Key Concepts: Whiteness
+- **Reading (due before class)**: Read the [introduction](https://drive.google.com/file/d/1lm8d4Vpnded7eNV_hLoOQK9A69Ga2nob/view?usp=sharing) of Alcoff's book on whiteness.
+- **Optional Response #4**: Write a 3-2-1 response on the Alcoff reading in your response journal.
+
 
 [Back to top.](#top)
+
+***
