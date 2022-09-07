@@ -33,7 +33,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 2
 
-### Monday, September 5 ([slides](https://docs.google.com/presentation/d/1aQZcgMO_1mT4KC5Bv0tXyGFDxo5pJGXzbN5E08wopQk/edit?usp=sharing)
+### Monday, September 5 ([slides](https://docs.google.com/presentation/d/1aQZcgMO_1mT4KC5Bv0tXyGFDxo5pJGXzbN5E08wopQk/edit?usp=sharing))
 - Key Concepts: Race and Racism
 - **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation as a historical process.
 - **Optional Response #1**: Write a 3-2-1 response (3 key points - 2 things that were unclear - 1 question) on the Omi and Winant chapter in your response journal and share it with me.
