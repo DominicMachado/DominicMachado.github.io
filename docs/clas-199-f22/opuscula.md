@@ -42,9 +42,17 @@ A satisfactory assignment will:
 
 ***
 
-**Opusculum #2: **
+**Opusculum #2: Bad Science, Bad Classics**
+
+For this opusculum, you will dig further into the intersection between race, science, and the study of classics in the 21st century. The last few years have seen DNA evidence being used to make claims about ancient history, specifically about what kind of people lived in certain places and the question of representation and diversity in the ancient world.
+
+You will start this project by reading three brief articles: 1) a [short piece](https://www.theatlantic.com/science/archive/2017/08/dna-romans/535701/) about a controversy related to the depiction of a Black soldier in Roman Africa; 2) a [short piece](https://www.haaretz.com/archaeology/2017-08-04/ty-article-magazine/mystery-of-where-the-minoans-came-from-solved/0000017f-e7bc-da9b-a1ff-efff11370000) about an article in *Nature* about the DNA of the Mycenaeans; and 3) a [longer piece](https://eidolon.pub/bad-to-the-bone-617ca3e37347) on both controversies and how classics intersects with them. You will then write a 500-600 reflection comparing and contrasting the way that science is being deployed in these controversies with the connections between scientific race-thinking and antiquity in the 19th and early 20th century that we have read about and discussed in class. Your response will consider not only the discourse about race, science, and antiquity stayed the same, but also what ways it has changed from the 19th and early 20th centuries to now.
 
 A satisfactory assignment will:
+- Be 500 - 600 words in length
+- Compare and contrast the discourse of race, science, and classics in the 19th and early 20th centuries with that of early 21st century
+- Make use of direct quotations and citations from sources assigned above as well as those that we have read for class to make your argument
+- Reflect on the larger significance of your comparison for this course
 
 ***
 
