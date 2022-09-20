@@ -38,7 +38,7 @@ This schedule links to the readings and assignments that you will have throughou
 - **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation as a historical process.
 - **Optional Response #1**: Write a 3-2-1 response (3 key points - 2 things that were unclear - 1 question) on the Omi and Winant chapter in your response journal and share it with me.
 
-### Wednesday, September 7 
+### Wednesday, September 7 ([slides](https://docs.google.com/presentation/d/1MfdAZMy8zelURxPwjVUHusDTejHL5WCwEw888O41NzM/edit))
 - Key Concepts: Racecraft
 - **Reading (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their conception of racecraft.
 - **Optional Response #2**: Write a 3-2-1 response on the Fields and Fields chapter in your response journal.
@@ -49,12 +49,12 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 3
 
-### Monday, September 12 
+### Monday, September 12 ([slides](https://docs.google.com/presentation/d/1KvphJaq2s-0jXIgG9L9VpQjr4N0o_dNVACdLLLMzdTw/edit))
 - Key Concepts: Critical Race Theory
 - **Reading (due before class)**: Read the following [excerpt](https://drive.google.com/file/d/1Hix2-2TwHr7Unk0Pd02Im6E-iGy_lq13/view?usp=sharing) from Delgado and Stefancic on the key tenets of critical race theory.
 - **Optional Response #3**: Write a 3-2-1 response on the Delgado and Stefancic reading in your response journal.
 
-### Wednesday, September 14 
+### Wednesday, September 14 ([slides](https://docs.google.com/presentation/d/1ONfiV90i9jKaujLXysaUlA-qPoxFYgio4yJGBDaHPOk/edit#slide=id.p))
 - Key Concepts: Whiteness
 - **Reading (due before class)**: Read the [introduction](https://drive.google.com/file/d/1lm8d4Vpnded7eNV_hLoOQK9A69Ga2nob/view?usp=sharing) of Alcoff's book on whiteness.
 - **Optional Response #4**: Write a 3-2-1 response on the Alcoff reading in your response journal.
@@ -65,7 +65,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 4
 
-### Monday, September 19 
+### Monday, September 19 ([slides](https://docs.google.com/presentation/d/1j6nrJcoMjNLqnwfQOWkwBsQ52QUOjOuYvD4xiToGE9k/edit))
 - A Brief History of Racism
 - **NB**: No homework due today. Work on Creative Project #1 (due Wednesday, September 21).
 - **Optional Reading**: [The Historical Foundations of Race](https://nmaahc.si.edu/learn/talking-about-race/topics/historical-foundations-race)
