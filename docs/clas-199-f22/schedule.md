@@ -167,3 +167,40 @@ This schedule links to the readings and assignments that you will have throughou
 - **NB**: Prof. Sarah Klotz will be leading class today!
 - **Reading (due before class)**: Read the [article](https://drive.google.com/file/d/1iSqea6egr759mqeg_X8XgcgK4n0lMHKH/view?usp=sharing) by Williams on the use of Latin by indigenous writers.
 - **Optional Response #13**: Reflect on how indigenous usages of the classical past differ from the way that we have seen other cultures and peoples use antiquity.
+
+### Wednesday, November 9
+- Blackness in Antiquity: Modern Visions, Ancient Problems 
+- **Reading (due before class)**: Read the following [article](hhttps://aeon.co/essays/how-does-an-ancient-greek-cup-challenge-anti-black-racism) and [chapter](link coming) by Sarah Derbew on how modern understanding of Blackness shaped our interpretation of Blackness in the ancient world.
+- **Optional Response #14**: Reflect on how modern understanding of Blackness continue to frame how we study ancient art featuring people from Africa. 
+
+[Back to top.](#top)
+
+***
+
+## Week 11
+
+### Monday, November 14
+- Slavery, Race Science, and the Birth of Classics in America
+- **Reading (due before class)**: Read Denise McCoskey's [article](https://drive.google.com/file/d/1Gs6ZmY5bL_jjdtMtezkJTSFu9m1Gdu-q/view?usp=sharing) on the role of slavery and race science in the works of Gildersleeve and Scott.
+- **Optional Response #15**: Reflect on how racialized narratives that were emergent in the United States influenced the early study of classics in the United States.
+
+### Wednesday, November 16
+- Anti-Blackness, Resistance, and Classics 
+- **Reading (due before class)**: Read the chapters by [Malamud](link coming) and [Haley](link coming) on the study of classics by African Americans in the late nineteenth century.
+- **Optional Response #16**: Reflect on the ways in which racialized ideas shaped the experiences of Black classicists in the aftermath of the Civil War. 
+
+[Back to top.](#top)
+
+***
+
+## Week 12
+
+### Monday, November 21
+- Applying CRT to Classics
+- **Reading (due before class)**: Read Haley's [chapter](https://ms.fortresspress.com/downloads/0800663403_Chapter%20one.pdf) and [article](https://blackclassicismsp18.files.wordpress.com/2018/02/haley_self-definition-community-and-resistance-euripides22-medea22-and-toni-morrisons22-beloved22.pdf) on how CRT can help us to gain better understanding of classical texts.
+- **Optional Response #17**: Reflect on what Haley's use of CRT reveals about the blind spots of classics as a field due to its particular racial characteristics.
+
+
+[Back to top.](#top)
+
+***
