@@ -123,6 +123,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Morphology and Vocabulary (to be completed before class)**: Review the rules of noun-adjective agreement and refresh your knowledge of the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-nouns) and [adjectives](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
 - **Further Practice**: Try your hand at the following exercise on [noun-adjective agreement](https://observablehq.com/@dominicmachado/noun-adjective-agreement-supply-the-matching-form).
 
+[Back to top.](#top)
+
 ***
 
 ## Week 5 (9/26 - 9/30)
@@ -147,6 +149,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Morphology and Vocabulary (to be completed before class)**: Memorize the [imperfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#imperfect-active-indicative) and [perfect](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/#perfect-active-indicative) of the verb *sum* in 3rd person singular and plural amd memorize the dictionary entries for [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn101-f21-unit-1-vocabulary-conjunctions-adverbs).
 - **Review**: Review the formation of noun-adjective pairs in all cases by doing [these exercises](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) and try your hand at [adjective dictionary entries](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/adj-type/) and [noun declension](https://lingualatina.github.io/textbook/exercises/01-nouns-adjs-pron/dictionary-nouns/) identification as well.
 
+[Back to top.](#top)
+
 ***
 
 ## Week 6 (10/3 - 10/7)
@@ -162,6 +166,65 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - **Assessment (to be completed before class)**: Complete [Translation #1](https://docs.google.com/document/d/1FkHv_2zkcwAV2-rCrWA4C5DN5GuWUcEmhE75zYLdRTE/edit).
 
 ### Friday, October 7
-- CBL questions
+- Expressions of place and time
+- Prepositional phrases
 - **Assessment (to be completed before class)**: Complete [Composition #1](https://docs.google.com/document/d/1iUN1cLtUrNO34YJvrPz4ITHmsWGdxznKqQEYk_DjMFk/edit).
+
+[Back to top.](#top)
+
+***
+
+## Fall Break: 10/10 - 10/14
+
+***
+
+## Week 7 (10/17 - 10/21)
+
+### Monday, October 17
+- Present indicative
+- **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](link) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/) for Daily Check-in #10.
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*.
+
+### Wednesday, October 19
+- Irregular Verbs: *fero* and *eo*
+- **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#irregular-verbss).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](link) in the vocabulary list for Unit 2 vocabulary list as well as the [present active and passive of *fero* and *eo*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) for Daily Check-in #11.
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
+
+### Friday, October 21
+- Intensifying pronouns (*ipse, ipsa, ipsum*)
+- Reflexive pronouns (*sui, sibi, se, se*)
+-  **Reading (to be completed before class)**: Watch from 11:25 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read the sections on [intensifying pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns).
+-  **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of [*ipse, ipsa, ipsum*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns). In addition, memorize the [nouns](link) in your vocabulary list.
+
+[Back to top.](#top)
+
+***
+
+## Week 8 (10/24 - 10/28)
+
+### Monday, October 24
+- Review
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives] and [prepositions and conjunctions](link here) in for Unit 2.
+- **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises).
+
+### Wednesday, October 26
+- Review
+- **Assessment**: Mastery Quiz #2
+
+### Friday, October 28
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #2 due](https://docs.google.com/document/d/1B6IAwBZurPllczl3WmuLpa_TdIZad-wpsDPU_3VkHpQ/edit).
+
+[Back to top.](#top)
+
+***
+
+## Week 9 (10/31 - 11/4)
+
+### Monday, October 31
+- Dependent clauses
+- Temporal clauses with the indicative
+- **Assessment (to be completed before class)**: [Composition #2 due](https://docs.google.com/document/d/1dAoDfJ_NXic0SjKUZ-Ai9BuF47WeYY7MMvMGei5kPUw/edit).
 
