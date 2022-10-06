@@ -206,7 +206,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, October 24
 - Review
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives] and [prepositions and conjunctions](link here) in for Unit 2.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](link here) and [prepositions and conjunctions](link here) in for Unit 2.
 - **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises).
 
 ### Wednesday, October 26
