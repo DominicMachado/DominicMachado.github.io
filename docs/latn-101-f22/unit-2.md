@@ -21,7 +21,7 @@ has_children: true
 
 In Unit 1, we learned how verbs and nouns conjugate and decline to create meaning and structure in Latin sentences. In Unit 2, we will continue to practice these skills in the context of more complicated syntax, with a particular focus on the different ways that Latin expresses time and place.
 
-We will begin by learning about [prepositional phrases](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#prepositional-phrases) and how they can add meaning to Latin verbal expressions. We will build directly on this by looking how Latin uses these and other constructions to express [place]([https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#expressions-of-time)
+We will begin by learning about [prepositional phrases](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#prepositional-phrases) and how they can add meaning to Latin verbal expressions. We will build directly on this by looking how Latin uses these and other constructions to express [place](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/2021-2022/03-place-and-time/#expressions-of-time)
 
 We will then move on to look in more detail at pronouns, learning about their [intensive](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [reflexive](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns) forms. 
 
