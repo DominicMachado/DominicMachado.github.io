@@ -183,14 +183,14 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Monday, October 17
 - Present indicative
 - **Reading (to be completed before class)**: Read the section on the [present indicative](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](link) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/) for Daily Check-in #10.
-- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo* in Unit 2. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the first eight [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) in the vocabulary list for Unit 2 (up to and including affero) and study the formation of [present active and passive indicative](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/) for Daily Check-in #10.
+- **Practice (to be completed before class)**: Form the 3rd person singular and plural present indicative forms in both the active and passive voice for *conucumbo*, *cresco*, *do*, *reddo*. Additionally, determine the person, number, tense, voice, mood of the following verbal forms: *concumbebant*, *crescitur*, and *data sunt*. If you have time, try these [exercises](https://observablehq.com/@dominicmachado/imperfect-and-perfect-active-and-passive-forms) to review imperfect and perfect forms.
 
 ### Wednesday, October 19
 - Irregular Verbs: *fero* and *eo*
 - **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#irregular-verbss).
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](link) in the vocabulary list for Unit 2 vocabulary list as well as the [present active and passive of *fero* and *eo*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) for Daily Check-in #11.
-- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the last six [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) in the vocabulary list for Unit 2 vocabulary list as well as the [present active and passive of *fero* and *eo*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) for Daily Check-in #11.
+- **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation/2).
 
 ### Friday, October 21
 - Intensifying pronouns (*ipse, ipsa, ipsum*)
@@ -206,7 +206,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, October 24
 - Review
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](link here) and [prepositions and conjunctions](link here) in for Unit 2.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](link here) and [prepositions and conjunctions](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#prepositions-and-conjunctions) in for Unit 2.
 - **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises).
 
 ### Wednesday, October 26
