@@ -58,9 +58,9 @@ A satisfactory assignment will:
 
 **Opusculum #3: Race and Antiquity Talks** 
 
-For this opusculum, you will attend two (out of a possible three) talks hosted by the Classics Department related to race and antiquity and write a short summary and analysis (300 words) on each talk and reflect how the two talks related to topics that we discussed in class (150 words each).
+For this opusculum, you will need to attend two (out of a possible three) talks hosted by the Classics Department related to race and antiquity. After attending these two talks, you write a short summary and analysis of each talk (300 words for each lecture) and reflect how the two talks related to topics that we discussed in class (300 words). Because there will be some time between each talk and you might not remember all the details, I encourage you to write up your summary and reflection shortly after these lectures finish.
 
-Below you will find a list of the three talks that you can attend to complete this opusculu,:
+Below you will find a list of the three talks that you can attend to complete this opusculum:
 
 - 5:30 pm Thursday, Oct. 27 - Smith Labs 154 - Yonatan Binyam on race and race-making in Early Christianity
 - 5:30 pm Tuesday, Nov. 8 - Smith Labs 154 - Najee Olya on the visual representations of African individuals on Athenian ceramics
