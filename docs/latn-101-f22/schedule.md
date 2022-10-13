@@ -196,7 +196,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Intensifying pronouns (*ipse, ipsa, ipsum*)
 - Reflexive pronouns (*sui, sibi, se, se*)
 -  **Reading (to be completed before class)**: Watch from 11:25 onwards of my short video on [pronouns](https://www.youtube.com/watch?v=Ko88xi01AMY) and read the sections on [intensifying pronouns](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns).
--  **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of [*ipse, ipsa, ipsum*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns). In addition, memorize the [nouns](link) in your vocabulary list.
+-  **Morphology and Vocabulary (to be completed before class)**: Memorize the declension of [*ipse, ipsa, ipsum*](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/pronouns/#intensives) and [*sui, sibi, se, se*](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#reflexive-pronouns). In addition, memorize the [nouns](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#nouns) in your vocabulary list.
 
 [Back to top.](#top)
 
@@ -206,8 +206,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Monday, October 24
 - Review
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](link here) and [prepositions and conjunctions](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#prepositions-and-conjunctions) in for Unit 2.
-- **Practice** Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). 
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [adjectives](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#adjectives) and [prepositions and conjunctions](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#prepositions-and-conjunctions) for Unit 2 and begin reviewing for Unit 2 mastery quiz.
+- **Practice** Try your hand at some of these review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f21-unit-2#practice-exercises). 
 
 ### Wednesday, October 26
 - Review
