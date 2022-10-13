@@ -36,12 +36,38 @@ has_children: false
 ### Nouns
 &nbsp;
 
+- annus, anni m: year
+- dies, diei m (5th declension): day
+- draco, draconis m: serpent, dragon
+- flumen, fluminis n: river
+- homo, hominis m: human being
+- infans, infantis m or f: infant, small child
+- insula, insulae f: island
+- locus, loci m: place
+- mare, maris n: sea
+- mons, montis m: mountain
+- nox, noctis f.: night
+- rex, regis m: king
+- tempus, temporis n: time
+
 ***
 
 ### Pronouns
 &nbsp;
 - ipse, ipsa, ipsum (intensifying pronoun): *he himself*, *she herself*
 - sui, sibi, se, se (reflexive pronoun): *himself*, *herself*
+
+***
+
+### Adjectives
+&nbsp;
+
+- duo, duae, duo (irregular): *two*
+- duodecim (indeclinable): *twelve*
+- multus, multa, multum: *many*
+- novem (indeclinable): *nine*
+- primus, prima, primum: *first*
+- septem (indeclinable): *seven*
 
 ***
 
