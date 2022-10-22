@@ -243,7 +243,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Friday, November 4
 - Review
-- **Practice**: Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f22-unit-2#practice-exercises).
+- **Practice**: Practice with the review exercises for [Unit 2](https://dominicmachado.github.io/schedule-latn101-f22-unit-2#practice-exercises](https://dominicmachado.github.io/latn101-f22-unit-2-practice-exercises).
 
 ***
 
