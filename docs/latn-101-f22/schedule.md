@@ -213,14 +213,14 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Dependent clauses
 - Temporal clauses with the indicative
 - **Reading (to be completed before class)**: Read the sections on [dependent](https://lingualatina.github.io/textbook/2021-2022/08-temporal-clauses/#dependent-clauses) and [temporal](https://lingualatina.github.io/textbook/2021-2022/08-temporal-clauses/#temporal-clauses) clauses.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the [conjunctions](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#prepositions-and-conjunctions) for Unit 2 for Daily Check-in #11.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the [conjunctions](https://github.com/DominicMachado/DominicMachado.github.io/blob/master/docs/latn-101-f22/unit-2-vocabulary.md#conjunctions) for Unit 2 for Daily Check-in #11.
 
 
 ### Friday, October 28
 - Temporal clauses with the subjunctive
 - Imperfect subjunctive
 - **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and reread the sections on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
-- **Assessment (to be completed before class)**:  Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#imperfect-subjunctive) and review the first for Daily Check-in #12. 
+- **Assessment (to be completed before class)**:  Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#imperfect-subjunctive) and review the first 8 [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) of Unit 2 for Daily Check-in #12. 
 
 [Back to top.](#top)
 
@@ -232,14 +232,14 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Pluperfect subjunctive
 - Sequence of tenses
 - **Reading (to be completed before class)**: Read the sections on [sequence of tenses](https://lingualatina.github.io/textbook/2021-2022/08-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses) in our textbook.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#pluperfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive and review the second for Daily Check-in #13.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of the [pluperfect active](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#pluperfect-active-subjunctive) and [passive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive) subjunctive and review the second 8 [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) of Unit 2 for Daily Check-in #13.
 - **Practice**: Try your hand at the following exercise the formation of the [imperfect and pluperfect subjunctive](https://observablehq.com/@dominicmachado/imperfect-and-pluperfect-subjunctive-active-and-passive-f).
 
 ### Wednesday, November 2
 - Review
 - Expressions of time and place
 - **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
-- **Morphology and Vocabulary (to be completed before class)**: Study prepositions and different cases that they take in the [vocabulary](https://dominicmachado.github.io/schedule-latn101-f21-unit-2-vocabulary-prepositions) for Daily Check-in #14.
+- **Morphology and Vocabulary (to be completed before class)**: Study prepositions and different cases that they take in the [vocabulary](https://github.com/DominicMachado/DominicMachado.github.io/blob/master/docs/latn-101-f22/unit-2-vocabulary.md#prepositions) for Daily Check-in #14.
 
 ### Friday, November 4
 - Review
