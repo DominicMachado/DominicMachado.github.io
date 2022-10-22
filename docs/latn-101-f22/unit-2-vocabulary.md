@@ -71,7 +71,7 @@ has_children: false
 
 ***
 
-### Prepositions and Conjunctions
+### Prepositions
 &nbsp;
 - ad + *acc*: *towards*, *against*
 - apud + *acc*: *at*, *with*, *by*, *near*
@@ -80,9 +80,22 @@ has_children: false
 - in + *acc*: *into*
 - per + *acc*: *through*
 - super + *acc*: *above*, *on top of*
+
+***
+
+### Conjunctions
+&nbsp;
 - ac/atque: and, and besides, and even
 - nam: for
 - neque/nec: not, and not, also not
 - sive: or
+- cum + ind - when
+- cum + subj - when, since, although
+- dum - while
+- quia - since
+- quod - because
+- quoniam - since
+- ubi - where, when
+- unde - from where
 
 ***
