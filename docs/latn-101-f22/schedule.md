@@ -229,7 +229,6 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ## Week 9 (10/31 - 11/4)
 
 ### Monday, October 31
-- Temporal clauses with the subjunctive
 - Pluperfect subjunctive
 - Sequence of tenses
 - **Reading (to be completed before class)**: Read the sections on [sequence of tenses](https://lingualatina.github.io/textbook/2021-2022/08-temporal-clauses/#subjunctive-verbs-and-the-sequence-of-tenses) in our textbook.
