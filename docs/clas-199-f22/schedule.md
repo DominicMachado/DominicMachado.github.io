@@ -81,12 +81,12 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 5
 
-### Monday, September 26 ([slides](https://docs.google.com/presentation/d/1TzCqffZtOiwnjK981OiY5WNldVHIvvpdpWLIlitrx68/edit?usp=sharing) 
+### Monday, September 26 ([slides](https://docs.google.com/presentation/d/1TzCqffZtOiwnjK981OiY5WNldVHIvvpdpWLIlitrx68/edit?usp=sharing)) 
 - Antiquity and Origin Stories: The White Perspective
 - **Reading (due before class)**: Read Park's [article](https://drive.google.com/file/d/1YVIff5gQ0MuYMkG49OXCNf37M_91b1fW/view?usp=sharing) on the use of the story of Ham to justify racial hiearchies.
 - **Optional Response #5**: Reflect on how ancient texts are used by white antebellum writers to construct the argument for white superiority.
 
-### Wednesday, September 28 ([slides](https://docs.google.com/presentation/d/1R4OBDVeBvlkhTOyxIKdIlEw_hFVIcx9HTlaO6b75VsQ/edit?usp=sharing)
+### Wednesday, September 28 ([slides](https://docs.google.com/presentation/d/1R4OBDVeBvlkhTOyxIKdIlEw_hFVIcx9HTlaO6b75VsQ/edit?usp=sharing))
 - Antiquity and Origin Stories: The Black Perspective
 - **Reading (due before class)**: Read Glaude's [chapter](https://drive.google.com/file/d/1Nyd7iF1oK1zhMOq316WcQzjhAjYniwF5/view?usp=sharing) on Black uses of the Exodus story in the 19th century alongside Garnet's 1843 [*Address to Slaves of the United States*](https://www.blackpast.org/african-american-history/1843-henry-highland-garnet-address-slaves-united-states/).
 - **Optional Response #6**: Compare and contrast Black uses of the story of Exodus with the way that white writers used the curse of Ham and other stories.
@@ -97,7 +97,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 6
 
-### Monday, October 3 ([slides](https://docs.google.com/presentation/d/13jZA7K6OlmkE6eVGP4ODCJmbd5poDM2-nZ4tlP2Ez7E/edit?usp=sharing)
+### Monday, October 3 ([slides](https://docs.google.com/presentation/d/13jZA7K6OlmkE6eVGP4ODCJmbd5poDM2-nZ4tlP2Ez7E/edit?usp=sharing))
 - Antiquity and the Development of Scientific Racism
 - **Reading (due before class)**: Read Dain's [chapter](https://drive.google.com/file/d/1l6M3EdC9Y3Xti5SVSn_xpINPq7fRA75-/view?usp=sharing) on the role that ancient Egypt played in the development of race science.
 - **Optional Response #7**: Reflect on why ancient Egypt was of interest to those who were trying to rationalize racial fiction through science.
@@ -114,12 +114,12 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 7
 
-### Monday, October 17 ([slides](https://docs.google.com/presentation/d/1Ds2ixyYFGxO1kCjHznIJSdG_yiTL-6IvX3GcLuH-5QY/edit?usp=sharing)
+### Monday, October 17 ([slides](https://docs.google.com/presentation/d/1Ds2ixyYFGxO1kCjHznIJSdG_yiTL-6IvX3GcLuH-5QY/edit?usp=sharing))
 - Antiquity and the Defense of Slavery
 - **Reading (due before class)**: Read Sepulveda's 1544 [*Democrates Alter*](http://www.columbia.edu/acis/ets/CCREAD/sepulved.htm) as well as Monoson's [chapter](https://drive.google.com/file/d/1mYJrHPmrTTn7bI-Toeg9b41XiR1oCyIX/view?usp=sharing) on the use of Aristotle to defend slavery in antebellum South.
 - **Optional Response #9**: Reflect on what specific aspects of Aristotle's argument in defense of slavery in the Politics that appeals to defenders of slavery in particular.
 
-### Wednesday, October 19 ([slides](https://docs.google.com/presentation/d/1SRAh-ow8LOVzhdrfsn3_cP9XCcAkXfe-aW01596tIcg/edit?usp=sharing)
+### Wednesday, October 19 ([slides](https://docs.google.com/presentation/d/1SRAh-ow8LOVzhdrfsn3_cP9XCcAkXfe-aW01596tIcg/edit?usp=sharing))
 - Antiquity and Abolition
 - **Reading (due before class)**: Read the Preamble, Article I, and Article II of Walker's [*Appeal to the Colored Citizens of the World*](https://docsouth.unc.edu/nc/walker/walker.html).
 - **Optional Response #10**: Reflect on the different ways that different cultures from antiquity figures in Walker's rhetorical efforts.
@@ -130,7 +130,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ## Week 8
 
-### Monday, October 24 
+### Monday, October 24 ([slides](https://docs.google.com/presentation/d/1ptVTAY65buCbQbcP8hutNSlUAYE8SGJRVezywD0TKt4/edit?usp=sharing))
 - Antiquity and the Invention of Western Civilization: The Narrative
 - **Reading (due before class)**: Read Kennedy's [piece](https://rfkclassics.blogspot.com/2019/04/on-history-of-western-civilization-part.html) on the development of the discourse of "Western Civilization" in the wake of the abolition of slavery.
 - **Optional Response #11**: Reflect on how the use of antiquity in propagating the narrative of Western Civilization differs from the way that it was used to justify slavery.
