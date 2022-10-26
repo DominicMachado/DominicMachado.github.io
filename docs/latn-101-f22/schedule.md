@@ -220,7 +220,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - Temporal clauses with the subjunctive
 - Imperfect subjunctive
 - **Reading (to be completed before class)**: Watch Prof. Joseph's [video](https://www.youtube.com/watch?v=p6ivXrCNn4o) on dependent clauses and reread the sections on [temporal clauses](https://lingualatina.github.io/textbook/presentation/08-temporal-clauses/#temporal-clauses) in our textbook.
-- **Assessment (to be completed before class)**:  Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#imperfect-subjunctive) and review the first 8 [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) of Unit 2 for Daily Check-in #12. 
+- **Assessment (to be completed before class)**:  Memorize the formation of the [imperfect subjunctive](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#imperfect-subjunctive) and review the first 8 [verbs](https://dominicmachado.github.io/latn101-f22-unit-2-vocabulary#verbs) of Unit 2 for Daily Check-in #12. 
 
 [Back to top.](#top)
 
