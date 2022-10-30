@@ -136,7 +136,7 @@ This schedule links to the readings and assignments that you will have throughou
 - **Optional Response #11**: Reflect on how the use of antiquity in propagating the narrative of Western Civilization differs from the way that it was used to justify slavery.
 
 ### Wednesday, October 26
-- Antiquity and the Invention of Western Civilization: The Artwork
+- NO CLASS
 - **Reading (due before class)**: Read the articles by [Hinds](https://www.thejugaadproject.pub/home/hercules-in-white-classical-reception-art-and-myth) and [Monteiro](https://intersectionist.medium.com/american-power-structures-white-columns-white-marble-white-supremacy-d43aa091b5f9) on whiteness and ancient art.
 - **Optional Response #12**: Reflect on how the perceived whiteness of ancient art has served the purposes of white supremacy.
 
@@ -147,14 +147,12 @@ This schedule links to the readings and assignments that you will have throughou
 ## Week 9
 
 ### Monday, October 31
-- Antiquity and the Rise of Nationalism: Greece and Israel
-- **NB**: No homework due today. Work on Creative Project #1 (due Wednesday, November 2).
-- **Optional Reading**: [Archaeology, Nation, and Race: Chapter 1](link coming)
+- Antiquity and the Invention of Western Civilization: The Artwork
+- **NB**: No homework! Work on Creative Project #2!
 
 ### Wednesday, November 2
-- Antiquity and the Rise of Nationalism: The Caribbean 
+- Antiquity and the Rise of Nationalism Outside of America
 - **Assessment (due before class)**: Complete and share Creative Project #2!
-- **Optional Reading**: [Athens and Sparta of the New World: The Classical Passions of Santo Domingo](link coming)
 
 [Back to top.](#top)
 
