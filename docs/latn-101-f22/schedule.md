@@ -255,7 +255,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Wednesday, November 9
 - Composition workshop
-- **Assessment**: Translation #2 due
+- **Assessment**: [Translation #2 due](https://docs.google.com/document/d/1uEiAmZ7JfDqUfyOPhdI7QYQ4sCugLj9XWaKgoDZmmHY/edit?usp=sharing)
 
 
 ### Friday, November 11
