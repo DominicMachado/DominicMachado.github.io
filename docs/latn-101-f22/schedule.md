@@ -260,7 +260,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Friday, November 11
 - Present and perfect subjunctive
-- **Assessment**: Composition #2 due.
+- **Assessment**: [Composition #2 due](https://docs.google.com/document/d/1tupHiP6fFAPp7wZ-XcprJPhPxV6SmBHiAwvbtfQ4gz4/edit?usp=sharing)
 
 ***
 
