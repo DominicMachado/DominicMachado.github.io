@@ -168,7 +168,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, November 9
 - Blackness in Antiquity: Modern Visions, Ancient Problems 
-- **Reading (due before class)**: Read the following [article](hhttps://aeon.co/essays/how-does-an-ancient-greek-cup-challenge-anti-black-racism) by Sarah Derbew on how modern understanding of Blackness shaped our interpretation of Blackness in the ancient world.
+- **Reading (due before class)**: Read the following [article](https://aeon.co/essays/how-does-an-ancient-greek-cup-challenge-anti-black-racism) by Sarah Derbew on how modern understanding of Blackness shaped our interpretation of Blackness in the ancient world.
 - **Optional Response #14**: Reflect on how modern understanding of Blackness continue to frame how we study ancient art featuring people from Africa. 
 
 [Back to top.](#top)
