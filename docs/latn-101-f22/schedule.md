@@ -238,7 +238,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Wednesday, November 2
 - Review
 - Expressions of time and place
-- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#prepositional-phrases), expressions of [place](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/presentation/03-place-and-time/#expressions-of-time).
+- **Reading (to be completed before class)**: Read the sections on [prepositional phrases](https://lingualatina.github.io/textbook/topics/unit2/time-prepositions/#prepositions-and-time-expressions), expressions of [place](https://lingualatina.github.io/textbook/topics/unit2/time-prepositions/#expressions-of-place) and [time](https://lingualatina.github.io/textbook/topics/unit2/time-prepositions/#expressions-of-time).
 - **Morphology and Vocabulary (to be completed before class)**: Study prepositions and different cases that they take in the [vocabulary](https://github.com/DominicMachado/DominicMachado.github.io/blob/master/docs/latn-101-f22/unit-2-vocabulary.md#prepositions) for Daily Check-in #13.
 
 ### Friday, November 4
