@@ -269,21 +269,21 @@ Identify the declensions that the list of nouns in my video belong to and form t
 - *possum, posse, potui*
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [infinitives](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/infinitives/) and their usages.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/infinitives/) and study the principal parts of the first seven [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in Unit 3 for Daily Check-in #14.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/infinitives/) and study the principal parts of the first eight [verbs](https://dominicmachado.github.io/latn101-f22-unit-3-vocabulary#verbs) in Unit 3 for Daily Check-in #14.
 - **Practice (to be completed before class)**: Try your hand at forming the [present and perfect infinitives](https://observablehq.com/@dominicmachado/infinitive-forms).
 
 ### Wednesday, November 16
 - *volo* and *nolo*
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [irregular verbs](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#irregular-verbs), focusing in particular on *volo* and *nolo*.
-- **Morphology and Vocabulary (to be completed before class)**: Memorize the 3rd person singular and plural forms of [*volo* and *nolo*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) in the present and imperfect active indicative and study the last seven [verbs](https://dominicmachado.github.io/schedule-latn101-f21-unit-4-vocabulary-verbs) and study the principal parts of the second five [verb](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-verbs) in Unit 3 for Daily Check-in #15.
+- **Morphology and Vocabulary (to be completed before class)**: Memorize the 3rd person singular and plural forms of [*volo* and *nolo*](https://lingualatina.github.io/textbook/reference/irregular-verbs-paradigms/) in the present and imperfect active indicative and study the last eight [verbs](https://dominicmachado.github.io/latn101-f22-unit-3-vocabulary#verbs) in Unit 3 for Daily Check-in #15.
 - **Practice (to be completed before class)**: Try your hand at the following exercise on the formation of [irregular verbs](https://observablehq.com/@dominicmachado/irregular-verb-formation).
 
 ### Friday, November 18
 - Indirect statement
 - Infinitives
 - **Reading (to be completed before class)**: Read the section on [indirect statement](https://lingualatina.github.io/textbook/2021-2022/06-indirect-statement/).
-- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and study the [nouns](https://dominicmachado.github.io/schedule-latn101-f21-unit-3-vocabulary-nouns) in the Unit 3 vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)**: Review the formation of different forms of the [infinitive](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/infinitives/#infinitives) and study the [nouns](https://dominicmachado.github.io/latn101-f22-unit-3-vocabulary#nouns) in the Unit 3 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand at translating and identifying the central parts of an [indirect statements](https://observablehq.com/@dominicmachado/indirect-statement).
 
 ***
@@ -293,7 +293,7 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Monday, November 21
 - Deponent and semi-deponent verbs 
 - **Reading (to be completed before class)**: Read the section on [deponent](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#deponent-verbs) and [semi-deponent](https://lingualatina.github.io/textbook/2021-2022/09-pron-dep-irreg/#semi-deponents) verbs.
-- **Morphology and Vocabulary (to be completed before class)**: Study the [prepositions](link) and [conjunctions](link) in the Unit 3 vocabulary list.
+- **Morphology and Vocabulary (to be completed before class)**: Study the [prepositions](https://dominicmachado.github.io/latn101-f22-unit-3-vocabulary#prepositions) and [adjectives](https://dominicmachado.github.io/latn101-f22-unit-3-vocabulary#adjectives) in the Unit 3 vocabulary list.
 
 ***
 
