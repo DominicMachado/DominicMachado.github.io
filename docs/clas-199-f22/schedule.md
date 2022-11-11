@@ -208,13 +208,14 @@ This schedule links to the readings and assignments that you will have throughou
 ### Monday, November 28
 - Slavery and the Teaching of Greek and Latin
 - **NB**: Prof. Kelly Dugan will be leading class today!
-- **Reading (due before class)**: Read Dugan's [article](https://drive.google.com/file/d/1Gs6ZmY5bL_jjdtMtezkJTSFu9m1Gdu-q/view?usp=sharing) on how ideas about slavery shaped
-- **Optional Response #18**: Reflect on how slavery.
+- **Reading (due before class)**: Read Dugan's [article](https://drive.google.com/file/d/1inANjrSRcwHJq8OYk5TLdfSsOtAY9njF/view?usp=share_link) on how ideas about slavery has shaped and continues to shape the teaching of Latin throughout the world.
+- **Optional Response #18**: Discuss the ways in which the teaching of Latin continues to reproduce certain racial project and reflect on the broader effects that this has on the study of the ancient world.
 
 ### Wednesday, November 30
-- Anti-Blackness, Resistance, and Classics 
-- **Reading (due before class)**: Read the chapter by [Malamud](https://drive.google.com/file/d/1nmzaNagXSqvH71cYMIQYAQlfTiVoJWyX/view?usp=sharing) on the study of classics by African Americans in the late nineteenth century.
-- **Optional Response #19**: Reflect on the ways in which racialized ideas shaped the experiences of Black classicists in the aftermath of the Civil War. 
+- Asian and Asian-American Readings of Antiquity
+- **NB**: Prof. Benny Liew will be leading class today!
+- **Reading (due before class)**: Read the chapters by [Yamada](https://drive.google.com/file/d/1ju5ioqSQc26SF5Txgo0Yw3jXE42OJikS/view?usp=share_link) and [Yee](https://drive.google.com/file/d/1nA3Mw2FWFpoFVfaU9TD2PzcPC3CTb5Wu/view?usp=share_link) on Asian and Asian American interpretations of biblical stories.
+- **Optional Response #19**: Reflect on how Asians and Asian Americans used their own racialized experiences to chart a new course for the study of the ancient world. 
 
 [Back to top.](#top)
 
