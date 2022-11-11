@@ -184,7 +184,7 @@ This schedule links to the readings and assignments that you will have throughou
 
 ### Wednesday, November 16
 - Anti-Blackness, Resistance, and Classics 
-- **Reading (due before class)**: Read the chapters by [Malamud](link coming) and [Haley](link coming) on the study of classics by African Americans in the late nineteenth century.
+- **Reading (due before class)**: Read the chapter by [Malamud](https://drive.google.com/file/d/1nmzaNagXSqvH71cYMIQYAQlfTiVoJWyX/view?usp=sharing) on the study of classics by African Americans in the late nineteenth century.
 - **Optional Response #16**: Reflect on the ways in which racialized ideas shaped the experiences of Black classicists in the aftermath of the Civil War. 
 
 [Back to top.](#top)
@@ -198,6 +198,23 @@ This schedule links to the readings and assignments that you will have throughou
 - **Reading (due before class)**: Read Haley's [chapter](https://ms.fortresspress.com/downloads/0800663403_Chapter%20one.pdf) and [article](https://blackclassicismsp18.files.wordpress.com/2018/02/haley_self-definition-community-and-resistance-euripides22-medea22-and-toni-morrisons22-beloved22.pdf) on how CRT can help us to gain better understanding of classical texts.
 - **Optional Response #17**: Reflect on what Haley's use of CRT reveals about the blind spots of classics as a field due to its particular racial characteristics.
 
+
+[Back to top.](#top)
+
+***
+
+## Week 13
+
+### Monday, November 28
+- Slavery and the Teaching of Greek and Latin
+- **NB**: Prof. Kelly Dugan will be leading class today!
+- **Reading (due before class)**: Read Dugan's [article](https://drive.google.com/file/d/1Gs6ZmY5bL_jjdtMtezkJTSFu9m1Gdu-q/view?usp=sharing) on how ideas about slavery shaped
+- **Optional Response #18**: Reflect on how slavery.
+
+### Wednesday, November 30
+- Anti-Blackness, Resistance, and Classics 
+- **Reading (due before class)**: Read the chapter by [Malamud](https://drive.google.com/file/d/1nmzaNagXSqvH71cYMIQYAQlfTiVoJWyX/view?usp=sharing) on the study of classics by African Americans in the late nineteenth century.
+- **Optional Response #19**: Reflect on the ways in which racialized ideas shaped the experiences of Black classicists in the aftermath of the Civil War. 
 
 [Back to top.](#top)
 
