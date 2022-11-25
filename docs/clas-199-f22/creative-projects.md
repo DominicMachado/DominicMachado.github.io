@@ -77,11 +77,31 @@ A satisfactory project will:
 
 **Details**
 
-- Due: December 9, 3 PM EST (share the link with me)
-- Format: Tiki Toki
- 
+- Due: December 17, 5 PM EST (share with me via TikiToki)
+- Length: 25 events
+- Format: TikiToki
+
 **Assignment**
 
-Coming soon...
+For your third creative project, you will create a dynamic and interactive timeline that encapsulates what you think are the main takeaways from our class. The point of this project is to have you go over and reflect on all the different things that we have read and learned about in class. It will help you to synthesize the various strains of thought that we have examined and come away with some clear takeaways from our class.
+
+In terms of specifics, your timeline will feature 25 “events” (think broadly here - they can be historical moments, dates for speeches, intellectual movements, or publications of certain books or articles) that we have learned or read about in class that you feel like clearly articulate the complexities of the relationship between race and antiquity that we have learned about in class. Some examples might include the publication of Morton’s Crania Aegyptica in 1838 or Frederick Douglass’ 1854 speech against scientific racism. Please note that the events do not have to have a specific date - you can specify a date range or an approximate range for something like the Curse of Ham. There is no restriction on the range of events that you include in your timeline, you can select both ancient and modern events depending on what you want to emphasize.
+
+Each “event” that you put on the timeline will feature a brief reflection (70 - 100 words) laying out its broader significance in the study of race and antiquity. You will also include an appropriate image (a picture, meme, collage) or video that represents the event you have chosen. For example, an entry on Shelley Haley’s “Be Not Afraid of Dark” (2009) might read as follows:
+
+*Haley’s work applying CRT to ancient texts reveals two key insights. First, it shows how racialized forms of thinking has shaped the way that we read ancient texts, building in numerous misconceptions into the academic study of the past. Second, it reveals how CRT and its tenets can open up new and rich avenues for the study of the ancient world that bring about a complex understanding of the past. As such, it charts a new way forward to building a more robust and dynamic field of classics in the future.*
+
+In addition to coming up with your set of events, you will need to come with a title for your timeline and provide a short introduction to it as well. The short introduction (100 - 150 words) should highlight the key themes related to race and antiquity that your events highlight and summarize your takeaways from the class.
+
+In order to build your dynamic timeline, you will use [TikiToki](https://www.tiki-toki.com/), an online platform for building interactive timelines. You will need to make a free account for the site in order to create your timeline. You can find linked here a useful [tutorial](https://www.youtube.com/watch?v=4e97aGI4zOA) on how to sign up for TikiToki as well as how to build a timeline with the site. Once you have finished building your time, please share it with me.
+
+**Assessment**
+
+A satisfactory project will:
+- Be shared with me via TikiToki by 5 pm EST on December 17
+- Consist of 25 events
+- Provide a short description (70 - 100 words) of each event highlighting its significance to the study of race and antiquity
+- Include an image or video that pertains to each event
+- Feature a short introduction (100 - 150 words) that summarizes the key themes of your timeline and your essential takeaways from the class
 
 ***
