@@ -19,7 +19,7 @@ Below is the rubric for course grades:
 |      | A | A- | B+ | B | B- | C | D |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Creative Projects | 3 | 3 | 3 | 3 | 3 | 2 | 1 |
-| Response Journal  | 20 | 19 | 18 | 17 | 16 | 14 | 12 |
+| Response Journal  | 18 | 17 | 16 | 15 | 14 | 12 | 10 |
 | Opuscula | 4 | 3 | 2 | 1 | 0 | 0 | 0 |
 
 To achieve a certain grade level, students must complete the listed number of satisfactory assignments from each of the three different categories (i.e. students who want to earn a B must satisfactorily complete 17 response journal entries, three creative projects, and one opuscula). When students have completed the minimum number of satisfactory assignments for their desired final grade, they do not need to submit any more assignments of that type.
