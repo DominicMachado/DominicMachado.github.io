@@ -220,3 +220,17 @@ This schedule links to the readings and assignments that you will have throughou
 [Back to top.](#top)
 
 ***
+
+## Week 14
+
+### Monday, December 5
+- Modern Immigration, Race, and Greek Tragedy
+- **NB**: Prof. Katherine Hsu will be leading class today!
+- **Reading (due before class)**: Read this short [article](https://www.unhcr.org/news/stories/2015/12/56ec1ebde/2015-year-europes-refugee-crisis.html) about the refugee crisis by UN Refugee Agency as well as this [reflection](https://theconversation.com/if-only-we-could-ask-euripides-about-refugees-48352) on what ancient tragedy can teach us about modern migration.
+
+### Wednesday, December 7
+- Course wrap-up and reflections
+
+[Back to top.](#top)
+
+***
