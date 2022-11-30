@@ -318,8 +318,8 @@ Identify the declensions that the list of nouns in my video belong to and form t
 
 ### Wednesday, December 7
 - Composition workshop
-- **Assessment**: Translation #3 due
+- **Assessment**: [Translation #3 due](https://docs.google.com/document/d/1CppF5yP-ZsXJjNXj0_Xq8caFSzEfIpOp9zTiq7u5va4/edit?usp=sharing)
 
 ### Friday, December 9
 - Looking ahead
-- **Assessment**: Composition #3 due
+- **Assessment**: [Composition #3 due](https://docs.google.com/document/d/1p1EdLKvlGAqdJdpuB19npCdIpaBd4sPD8myRsdvbERs/edit?usp=sharing)
