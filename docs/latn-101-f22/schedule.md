@@ -323,3 +323,18 @@ Identify the declensions that the list of nouns in my video belong to and form t
 ### Friday, December 9
 - Looking ahead
 - **Assessment**: [Composition #3 due](https://docs.google.com/document/d/1p1EdLKvlGAqdJdpuB19npCdIpaBd4sPD8myRsdvbERs/edit?usp=sharing)
+
+***
+
+## Final
+
+Submit a final reflection of 300-500 words on your experience in community-based learning this semester. Address the following questions in your reflection:
+
+- What teaching and planning techniques have worked well this semester? What haven’t worked well? Why?
+- What have you learned about how language can be used to give or take power from particular people and groups?
+- How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences?
+- How do you plan to continue to build on your learning experience this semester? What goals do you have for CBL for the spring semester?
+
+Please submit the reflection, as a Google doc shared with me, by Saturday, December 17 at 11:59 PM.
+
+***
