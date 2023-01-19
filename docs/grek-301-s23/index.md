@@ -22,9 +22,9 @@ has_children: true
 - **Student Hours**: T 2-3 PM; W 3-5 PM, Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-The Greek historian Herodotus of Halicarnassus lived in the 5th century BCE and wrote his Histories in the context of the contemporaneous rise of the Athenian Empire. Composed in nine books, the Histories did not chronicle contemporaneous events, but rather provided his readers with a fascinating portrait of people, places, and the events all across the Mediterranean. Ending with an enthralling account of the Persian War (490 - 479 BCE), Herodotus sets out to tell about the thaumata (marvels) that he has discovered in his investigation of the ancient Mediterranean past.
+The Greek historian Herodotus of Halicarnassus lived in the 5th century BCE and wrote his *Histories* in the context of the contemporaneous rise of the Athenian Empire. Composed in nine books, the Histories did not chronicle contemporaneous events, but rather provided his readers with a fascinating portrait of people, places, and the events all across the Mediterranean. Ending with an enthralling account of the Persian War (490 - 479 BCE), Herodotus sets out to tell about the *thaumata* (marvels) that he has discovered in his investigation of the ancient Mediterranean past.
 
-In this course, we will read excerpts 
+In this course, we will read excerpts from the first four books of the *Histories* in hopes of exploring how Herodotus understood and constructed difference between different groups of people in the ancient Mediterranean world. We will do so using the lens of race and ethnicity to think critically about how Herodotus operates and to meditate on differences and similarities between the ancient Mediterranean and the world we inhabit today.
 
 [Back to top.](#top)
 
@@ -32,10 +32,19 @@ In this course, we will read excerpts
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-latn399-s22), [course policies](https://dominicmachado.github.io/course-policies-latn399-s22), [assessment](https://dominicmachado.github.io/assessment-latn399-s22), and our [full course schedule](https://dominicmachado.github.io/schedule-latn399-s22).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-grek301-s23), [course policies](https://dominicmachado.github.io/course-policies-grek301-s23), [assessment](https://dominicmachado.github.io/assessment-grek301-s23), and our [full course schedule](https://dominicmachado.github.io/schedule-grek301-s23).
 
-In terms of books, you will not need any physical books. Below are a list of resources for you to use in the course:
-- 
+In terms of books, you will not need any physical books. Below are a list of general resources you can use in the course:
+- [An online LSJ](http://folio2.furman.edu/lsj/)
+- [Smyth's Greek grammar](https://drive.google.com/file/d/1OUoFcKnkzot1-8I7Jc04MTEOUtdNCYGG/view?usp=share_link)
+- Book 1 [text](link coming) and [commentary](link coming)
+- Book 2 [text](link coming) and [commentary](link coming)
+- Book 3 [text](link coming) and [commentary](link coming)
+- Book 4 [text](link coming) and [commentary](link coming)
+- [An older commentary on all of Herodotus](https://drive.google.com/file/d/1nZz51mXSfKszCKd4v3pBFdVeLIhz7iUg/view?usp=share_link)
+- [A translation of all of Herodotus](https://drive.google.com/file/d/19DO07bo2wQT_60W2cZqrWGIuK_sETc6a/view?usp=share_link)
+- [Sourcebook on race and ethnicity in the ancient world](https://drive.google.com/file/d/1W2mDquBzVIO9CS8zONornrroleLJhrCd/view?usp=share_link)
+- [Classics resource guide](https://libguides.holycross.edu/classics)
 
 [Back to top.](#top)
 
@@ -48,14 +57,16 @@ In terms of books, you will not need any physical books. Below are a list of res
 
 ***
 
-## Week 9 (3/28 - 4/1)
+## Week 1 (1/23 - 1/27)
 
-### Tuesday, March 29
-- Encolpius catches on
-- **Homework (due before class)**: Translate sections 53 - 55.3 and read Beck's article on the nature of [Encolpius' narrative at the *Cena*](https://drive.google.com/file/d/1_RQ9W8ZXkeQaztVSJ5bY5AwG5ZgljYYC/view?usp=sharing). Commonplace book opportunity #14.
+### Tuesday, January 24
+- Course introduction
+- Introduction to Herodotus
+- Preface
+- **Homework (due before class)**: Have a look through the course website and read our [course objectives](https://dominicmachado.github.io/course-objectives-grek301-s23), [course policies](https://dominicmachado.github.io/course-policies-grek301-s23), [assessment](https://dominicmachado.github.io/assessment-grek301-s23), and [full course schedule](https://dominicmachado.github.io/schedule-grek301-s23). Bring any questions that you have to class.
 
-### Thursday, March 31
-- Werewolves!
-- **Homework (due before class)**: Read sections 55.4 - 61 in [English](https://www.poetryintranslation.com/PITBR/Latin/PetroniusSatyriconPartIII.php#anchor_Toc506115100) and then translate sections 61.5 - 62. Commonplace book opportunity #15.
+### Thursday, January 26
+- Introduction to race and ethnicity
+- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and Herodotus 8.144 on the definition of *ethne*.
 
 [Back to top.](#top)
