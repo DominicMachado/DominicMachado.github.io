@@ -19,6 +19,7 @@ By the end of this course, you will be able to:
 - Talk about Herodotus and the cultural context in which the *Histories* were written
 - Discuss how different aspects of identity are culturally constructed
 - Analyze how race and ethnicity can be used to better understand the ancient world
+- Reflect on the applicability of modern theoretical frameworks to the past
 
 ***
 
