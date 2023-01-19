@@ -3,6 +3,7 @@ layout: page
 title: Course Objectives
 permalink: course-objectives-grek301-s23
 parent: GREK 301 - S23
+has children: no
 nav_order: 5
 ---
 ***
