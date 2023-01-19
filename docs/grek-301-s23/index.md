@@ -66,7 +66,7 @@ In terms of books, you will not need any physical books. Below are a list of gen
 
 ### Thursday, January 26
 - Introduction to race and ethnicity
-- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and Herodotus 8.144 on the definition of *ethne*.
+- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and Herodotus 8.144 on the definition of *ethnos*.
 
 [Back to top.](#top)
 
