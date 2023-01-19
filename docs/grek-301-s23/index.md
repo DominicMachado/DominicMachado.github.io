@@ -53,7 +53,7 @@ In terms of books, you will not need any physical books. Below are a list of gen
 ### This Week at a Glance
 &nbsp;  
 
-![Trimalchio](https://s3.amazonaws.com/media.harvardartmuseums.org/production/file_uploads/Events/images/000/000/293/hero/Tyranny-of-bad-taste_calendarFINAL.jpg)
+![Herodotus](https://www.worldhistory.org/img/r/p/500x600/6501.jpg?v=1645500602)
 
 ***
 
