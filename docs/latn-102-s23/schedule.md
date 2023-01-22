@@ -79,41 +79,34 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Morphology (to be completed before class)**: Memorize the morphology of the first and second person for the [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) indicative and [imperfect](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-subjunctive) subjunctive for **Daily Check-in #4**.
 - **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
 
-### Wednesday, February 8 ([Slides](https://docs.google.com/presentation/d/1eRtSdAKz5amm5Kmn5Zn44OslOs154Z_3pFpmZmE35pA/edit#slide=id.p))
+### Wednesday, February 8 
 - Perfect active system verbs review
 - 1st and 2nd person forms 
 - **Morphology (to be completed before class)**: Review the morphology of the [perfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. 
-
-- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
-
-
-- Perfect passive system verbs (review)
-- Pluperfect indicative
-- 1st and 2nd person forms 
-- **Morphology (to be completed before class)**: Review the morphology of the [perfect passive indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/#perfect-passive) as well as the [perfect and pluperfect passive](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-and-pluperfect-passive-subjunctive). In addition, please read the section on the formation of the [pluperfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/pluperfect-and-future-perfect/#the-pluperfect-tense)
 - **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
-- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology.
+- **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology (excluding the pluperfect forms).
 
-### Wednesday, February 9
+### Friday, February 10 
 - Verbal system review
-- **Morphology (to be completed before class)**: Review verbal morphology, with a particular focus on the 1st and 2nd person forms. 
+- **Morphology (to be completed before class)**: Memorize the morphology of the first and second person for the [perfect](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) indicative and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive for **Daily Check-in #5**.
 - **Vocabulary (to be completed before class)**: Review Unit 1 vocabulary.
-- **Practice (to be completed before class)**: Try your hand at some verbal synopses for the [1st singular](https://observablehq.com/@dominicmachado/1st-person-singular-synopsis), [1st plural](https://observablehq.com/@dominicmachado/1st-person-plural-synopsis), [2nd singular](https://observablehq.com/@dominicmachado/2nd-person-singular-synopsis), and [2nd plural](https://observablehq.com/@dominicmachado/2nd-plural-singular-synopsis) verbal forms.
-
-### Friday, February 11
-- Mastery quiz #1
-- **Assessment**: Review morphology and vocabulary for mastery quiz #1!
-
 
 [Back to top.](#top)
 
 ***
 
-## Week 4 (2/14 - 2/18)
+## Week 4 (2/13 - 2/17)
 
-### Monday, February 14
+### Monday, February 13
+- Mastery quiz #1
+- **Assessment**: Review for **Mastery Quiz #1**.
+
+### Wednesday, February 15
 - Composition workshop
 - **Assessment (to be completed before class)**: [Translation #1](https://docs.google.com/document/d/1th7RNRk0rUIWkJbEQjAr82Y1JeR1eVCa4-8Wtagr0w0/edit) due.
 
+### Friday, February 17 
+- Relative pronouns
+- **Assessment (to be completed before class)**: [Composition #1](https://docs.google.com/document/d/1OPS4IbHtb_iTJFA6ZCY1p4mg9HaFZDKN0ACvz4_6Xrk/edit) due
 
 [Back to top.](#top)
