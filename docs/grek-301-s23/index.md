@@ -26,6 +26,8 @@ The Greek historian Herodotus of Halicarnassus lived in the 5th century BCE and 
 
 In this course, we will read excerpts from the first four books of the *Histories* in hopes of exploring how Herodotus understood and constructed difference between different groups of people in the ancient Mediterranean world. We will do so using the lens of race and ethnicity to think critically about how Herodotus operates and to meditate on differences and similarities between the ancient Mediterranean and the world we inhabit today.
 
+A special aspect of this course (and a first at Holy Cross!) is that we will have a number of joint meetings with Prof. Seider's LATN 301 class over the course of the semester. They will be reading the Roman historian Livy and focusing on how gender and sexuality are constructed. Our joint meetings will give you an opportunity to learn about this topic as well as consider the different ways in which identity is socially configured. Your final project (a podcast) for the course will involve a collaboration with students from LATN 301.
+
 [Back to top.](#top)
 
 ***
