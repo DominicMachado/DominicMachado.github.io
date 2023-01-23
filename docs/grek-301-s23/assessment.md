@@ -21,7 +21,7 @@ Below you will find a summary of all the major assessments for this course.
 ***
 
 ## Participation (250 points)
-&nbsp; 
+&nbsp;  
 Participation is a key part of this course. Because there are only six of us in our class, it will be important for each of us to be prepared for class and willing to ask and answer one another's questions.
 
 Plot twist: I will not be grading your participation; you will be! You will set your own goals for participation and grade how well you accomplished those goals over the course of the semester. You will define your own goals for participation this semester (in addition to the bare minimum of attending class daily and being prepared to ask and answer questions relevant to the day’s material). Through a series of writing exercises, you will reflect on your participation goals, refine your goals, check in on your progress, and assign yourself a participation grade for the semester.
