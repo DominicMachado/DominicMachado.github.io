@@ -12,11 +12,19 @@ has_children: true
 
 ***
 
-[Grammatical Commentary](#grammatical-commentary) \| [Race and Ethnicity Commentary](#race-ethnicity-commentary) \| [Passage Comparison](#passage-comparison) \| [Podcast Project](#podcast-project) \|
+[Participation](#participation) \| [Grammatical Commentary](#grammatical-commentary) \| [Race and Ethnicity Commentary](#race-ethnicity-commentary) \| [Passage Comparison](#passage-comparison) \| [Podcast Project](#podcast-project) \|
 
 ***
 
 Below you will find a summary of all the major assessments for this course. 
+
+***
+
+## Participation (250 points)
+&nbsp;
+Participation is a key part of this course. Because there are only six of us in our class, it will be important for each of us to be prepared for class and willing to ask and answer one another's questions.
+
+Plot twist: I will not be grading your participation; you will be! You will set your own goals for participation and grade how well you accomplished those goals over the course of the semester. You will define your own goals for participation this semester (in addition to the bare minimum of attending class daily and being prepared to ask and answer questions relevant to the day’s material). Through a series of writing exercises, you will reflect on your participation goals, refine your goals, check in on your progress, and assign yourself a participation grade for the semester.
 
 ***
 
@@ -44,7 +52,7 @@ Further details on the grammatical commentary  assignment can be found [here](li
 
 ***
 
-## Passage Comparison (250 points; due April )
+## Passage Comparison (200 points; due April )
 &nbsp;  
 In this project, you will select and analyze three passages that we have read for class that you see as being closely connected to Herodotus' definition of Greekness in the passage from Book 8. 
 
@@ -56,7 +64,7 @@ Further details on the passage comparison assignment can be found [here](link).
 
 ***
 
-## Final Podcast Project (400 points; due May )
+## Final Podcast Project (200 points; due May )
 &nbsp;  
 For the final podcast project, you will pair with students from LATN 301 to create a podcast in which you will discuss at length two of the three passages from your passage comparison project. This will offer you a chance to share your ideas with other Classics majors at Holy Cross and to think deeply about the social construction of identity in the past and present.
 
