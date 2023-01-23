@@ -22,7 +22,7 @@ nav_order: 1
 
 - Due: February 14, 12:30 PM 
 - Format: Google Docs (share with me via email)
-- Possible Points: 200
+- Possible Points: 150
 
 Over the course of this semester, we will be working on a series of commentaries on an important passage from Book 8 of Herodotus’ Histories in which the historian defines what it means to be Greek. The point of doing these various commentaries on 8.144 is to investigate different aspects - grammatical, historical, contextual, and cultural - of the passage in order to dig deeper into its meaning.
 
