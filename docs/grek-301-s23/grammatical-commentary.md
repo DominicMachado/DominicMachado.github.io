@@ -13,7 +13,7 @@ nav_order: 1
 ***
 
 ## Grammatical Commentary
-&nbsp;
+&nbsp;  
 ![Herodotus](https://pictures.abebooks.com/isbn/9780521575713-us.jpg)
 
 ***
