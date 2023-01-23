@@ -28,7 +28,7 @@ Plot twist: I will not be grading your participation; you will be! You will set 
 
 ***
 
-## Grammatical Commentary (150 points; due February )
+## Grammatical Commentary (150 points; due February 14)
 &nbsp;  
 This project will ask you to develop a grammatical commentary on a short passage from Book 8 of Herodotus in which the historian speaks about what it means to be Greek. 
 
@@ -40,7 +40,7 @@ Further details on the grammatical commentary  assignment can be found [here](li
 
 ***
 
-## Race and Ethnicity Commentary (200 points; due March )
+## Race and Ethnicity Commentary (200 points; due March 16)
 &nbsp;  
 In this project, you will comment on how the ideas in the same passage from Book 8 of Herodotus relates to other ancient and modern perspectives on race and ethnicty. 
 
@@ -52,7 +52,7 @@ Further details on the grammatical commentary  assignment can be found [here](li
 
 ***
 
-## Passage Comparison (200 points; due April )
+## Passage Comparison (200 points; due April 13)
 &nbsp;  
 In this project, you will select and analyze three passages that we have read for class that you see as being closely connected to Herodotus' definition of Greekness in the passage from Book 8. 
 
@@ -64,7 +64,7 @@ Further details on the passage comparison assignment can be found [here](link).
 
 ***
 
-## Final Podcast Project (200 points; due May )
+## Final Podcast Project (200 points; due May 2)
 &nbsp;  
 For the final podcast project, you will pair with students from LATN 301 to create a podcast in which you will discuss at length two of the three passages from your passage comparison project. This will offer you a chance to share your ideas with other Classics majors at Holy Cross and to think deeply about the social construction of identity in the past and present.
 
