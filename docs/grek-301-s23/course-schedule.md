@@ -47,7 +47,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, January 31
 - Race and ethnicity in antiquity
 - Herodotus on Egypt
-- **Homework (due before class)**: Read McCoskey on [race and ethnicity in the ancient world] and Herodotus 2.1-4 in English and 2.35-37 in Greek.
+- **Homework (due before class)**: Read McCoskey on [race and ethnicity in the ancient world](link) and Herodotus 2.1-4 in English and 2.35-37 in Greek.
 
 ### Thursday, February 2
 - Herodotus on Egypt (cont'd)
