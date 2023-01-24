@@ -68,7 +68,8 @@ In terms of books, you will not need any physical books. Below are a list of gen
 
 ### Thursday, January 26
 - Introduction to race and ethnicity
-- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and Herodotus 8.144 on the definition of *ethnos*.
+- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and translate [Herodotus 8.144](https://drive.google.com/file/d/1PVSDuQmnTE9UYzarp-8rzzBMSUzrAzrr/view?usp=share_link). 
+- **Assessment (due before class)**: In addition to this reading, you will write one or two paragraphs that reflect on a) what it means to you to participate in a class; b) how you have participated in past classes; c) what area of participation you would like to build on in this class and why; and d) what your goals are for group work, class discussion, and students hours, and share it with me via Google Docs.
 
 [Back to top.](#top)
 
