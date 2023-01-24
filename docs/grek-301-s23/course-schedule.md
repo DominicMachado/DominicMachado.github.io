@@ -34,7 +34,15 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, January 26
 - Introduction to race and ethnicity
-- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and Herodotus 8.144 on the definition of *ethne*.
+- **Homework (due before class)**: 
+1) Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) 
+2) Translate [Herodotus 8.144](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D144)
+3) Write one or two paragraphs that reflect on the following questions:
+- what it means to you to participate in a class
+- how you have participated in past classes
+- what area of participation you would like to build on in this class and why
+- what your goals are for group work, class discussion, and students hours
+
 
 [Back to top.](#top)
 
