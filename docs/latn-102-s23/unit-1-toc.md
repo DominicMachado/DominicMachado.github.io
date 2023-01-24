@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grammar
-permalink: latn102-s23-unit-1-grammar
+title: TOC
+permalink: latn102-s23-unit-1-toc
 parent: Unit 1
 grand_parent: LATN 102 - S23
 nav_order: 1
@@ -10,7 +10,7 @@ has_children: false
 
 ***
 
-## Unit 1 - Grammar
+## Unit 1 - Table of Contents
 
 ***
 
