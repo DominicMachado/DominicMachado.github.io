@@ -2,7 +2,7 @@
 layout: page
 title: LATN 102 - S23
 permalink: latn102-s23
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 ***
