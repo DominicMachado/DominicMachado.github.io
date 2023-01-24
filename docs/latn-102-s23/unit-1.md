@@ -2,9 +2,8 @@
 layout: page
 title: Unit 1
 permalink: latn102-s23-unit-1
-parent: Schedule
-grand_parent: LATN 102 - S23
-nav_order: 1
+parent: LATN 102 - S23
+nav_order: 5
 has_children: true
 ---
 ***
