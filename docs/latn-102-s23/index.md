@@ -49,15 +49,18 @@ Finally, I should note that the Department of Classics and the Classics Departme
 ## Week 1 (1/23 - 1/27)
 
 ### Wednesday, January 25
-- Course intro
-- CBL intro
-- **Reading (to be completed before class)**:
+- Introduction to the course
+- Introduction to CBL
+- Review
+- **Reading (due before class)**: Read the [course objectives](https://dominicmachado.github.io/course-objectives-latn102-s23), [expectations and tips](https://dominicmachado.github.io/expectation-and-tips-latn-102-s23), and [assessment](https://dominicmachado.github.io/assessment-latn102-s23) pages on the website.
+
 
 ### Friday, January 27
-- Adjective (review)
-- Comparatives and superlatives
-- Irregular comparatives and superlatives
-- **Reading (to be completed before class)**: 
+- Adjective review
+- Intro to comparatives and superlatives
+- **Morphology and vocabulary (to be completed before class)**: Review the different types of [adjectives](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/adjectives/) as well as the declension of those different types of adjectives for **Daily Check-in #1**.
+- **Vocabulary (to be completed before class)**: Study the [adjectives](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#adjectives) in the Unit 1 vocabulary list.
+- **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
 
 
 [Back to top.](#top)
