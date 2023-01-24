@@ -4,7 +4,7 @@ title: Schedule
 permalink: schedule-latn102-s23
 parent: LATN 102 - S23
 nav_order: 4
-has_children: true
+has_children: false
 ---
 ***
 
@@ -37,7 +37,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Adjective review
 - Intro to comparatives and superlatives
 - **Morphology and vocabulary (to be completed before class)**: Review the different types of [adjectives](https://lingualatina.github.io/textbook/2021-2022/01-nouns-adjs-pron/adjectives/) as well as the declension of those different types of adjectives for **Daily Check-in #1**.
-- **Vocabulary (to be completed before class)**: Study the [adjectives](https://dominicmachado.github.io/schedule-latn102-s23-unit-1-vocabulary-adjectives) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the [adjectives](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#adjectives) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-decelnsion) on noun-adjective agreement.
 
 [Back to top.](#top)
@@ -50,20 +50,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Comparatives and superlatives
 - Noun review
 - **Morphology (to be completed before class)**: Read and study the sections on [comparative](https://lingualatina.github.io/textbook/2021-2022/20-degree/comp-adjs/) and [superlative](https://lingualatina.github.io/textbook/2021-2022/20-degree/superl-adjs/) adjectives and memorize their formation for **Daily Check-in #2**.
-- **Vocabulary (to be completed before class)**: Study the first eight [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the first eight [nouns](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#nouns) in the Unit 1 vocabulary list.
 
 ### Wednesday, February 1
 - Noun review
 - 4th and 5th declension nouns
 - **Morphology (to be completed before class)**: Study the morphology of 4th declension [masculine and feminine](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-masculinefeminine) and [neuter](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fourth-declension-neuter) nouns as well [5th declenion nouns](https://lingualatina.github.io/textbook/reference/nouns-paradigms/#fifth-declension-masculinefeminine) for **Daily Check-in #3**.
-- **Vocabulary (to be completed before class)**: Study the last seven [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-nouns) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the last seven [nouns](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#nouns) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the [following exercise](https://observablehq.com/@dominicmachado/noun-adjective-declension-4th-and-5th-declension-nouns) on 4th and 5th declension nouns.
 
 ### Friday, February 3
 - Present system verbs review
 - 1st and 2nd person forms
 - **Morphology (to be completed before class)**: Review the morphology of the [present](https://lingualatina.github.io/textbook/2021-2022/02-verbs/present/), [imperfect](https://lingualatina.github.io/textbook/2021-2022/02-verbs/imperfect/) indicative as well as the [present](https://lingualatina.github.io/textbook/2021-2022/07-subjunctive/#present-subjunctive) and [imperfect](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-subjunctive) subjunctive.
-- **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the first eight [verbs](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#verbs) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/verb-review) on present system verb morphology (excluding the future).
 
 
@@ -77,13 +77,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Perfect active system verbs review
 - 1st and 2nd person forms
 - **Morphology (to be completed before class)**: Memorize the morphology of the first and second person for the [imperfect](https://lingualatina.github.io/textbook/presentation/02-verbs/imperfect/) indicative and [imperfect](https://lingualatina.github.io/textbook/reference/verbs-paradigms/#imperfect-active-subjunctive) subjunctive for **Daily Check-in #4**.
-- **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-verbs) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#verbs) in the Unit 1 vocabulary list.
 
 ### Wednesday, February 8 
 - Perfect active system verbs review
 - 1st and 2nd person forms 
 - **Morphology (to be completed before class)**: Review the morphology of the [perfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. 
-- **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-1-vocabulary-pronouns) in the Unit 1 vocabulary list.
+- **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#pronouns) in the Unit 1 vocabulary list.
 - **Practice (to be completed before class)**: Complete the following review [exercise](https://observablehq.com/@dominicmachado/perfect-system-verb-review) on perfect system verb morphology (excluding the pluperfect forms).
 
 ### Friday, February 10 
