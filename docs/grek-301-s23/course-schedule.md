@@ -12,7 +12,7 @@ has_children: false
 
 ***
 
-This schedule links  to the notes and charts that you'll need throughout the semester. Your homework assignment for almost every class period is to read the notes and charts sections in advance of the class meeting; then, review those concepts again after the class meeting. Use the practice opportunities throughout the notes to improve your skills.
+This schedule links  to the notes and charts that you'll need throughout the semester. 
 
 ***
 
@@ -34,14 +34,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, January 26
 - Introduction to race and ethnicity
-- **Homework (due before class)**: 
-1) Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) 
-2) Translate [Herodotus 8.144](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D144)
-3) Write one or two paragraphs that reflect on the following questions:
-- what it means to you to participate in a class
-- how you have participated in past classes
-- what area of participation you would like to build on in this class and why
-- what your goals are for group work, class discussion, and students hours
+- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and translate [Herodotus 8.144](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0125%3Abook%3D8%3Achapter%3D144). 
+- **Assessment (due before class)**: In addition to this reading, you will write one or two paragraphs that reflect on a) what it means to you to participate in a class; b) how you have participated in past classes; c) what area of participation you would like to build on in this class and why; and d) what your goals are for group work, class discussion, and students hours, and share it with me via Google Docs.
 
 
 [Back to top.](#top)
@@ -53,12 +47,55 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, January 31
 - Race and ethnicity in antiquity
 - Herodotus on Egypt
-- **Homework (due before class)**: Read McCoskey on [race and ethnicity in the ancient world] and Herodotus 2.1-4 (in English) and 2.35-37 (in Greek).
+- **Homework (due before class)**: Read McCoskey on [race and ethnicity in the ancient world] and Herodotus 2.1-4 in English and 2.35-37 in Greek.
 
 ### Thursday, February 2
 - Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.42-55 (in English) and 2.64-66 (in Greek). 
+- **Homework (due before class)**: Read Book 2.42-55 in English and 2.64-66 in Greek. 
 
 [Back to top.](#top)
+
+***
+
+## Week 3 (2/6 - 2/10)
+
+### Tuesday, February 7
+- Visit to the Chertsey Exhibition
+- **NB**: We will meet at Cantor Art Gallery in Prior Center for the Performing Arts for joint session with LATN 301.
+- **Homework (due before class)**: Read Luyster's [introduction](https://drive.google.com/file/d/1dQE_b7jaf65EHw3NkTU4ckwuEku6xLwI/view?usp=share_link) to the exhibit as well as the pieces by [Leson](https://drive.google.com/file/d/1lA9swq0wxPnKr_9PLFpC-3fp9p87p3uj/view?usp=share_link) and [Mourad](https://drive.google.com/file/d/1zzSqCd6m_NK3bc8jJF4wXT-MY-6jHNCi/view?usp=share_link) on the construction of different aspects of identity in the art on display. 
+
+### Thursday, February 9
+- Herodotus on Egypt (cont'd)
+- **Homework (due before class)**: Read Book 2.77-79 in Greek and 2.80-90 in English. 
+
+[Back to top.](#top)
+
+***
+
+## Week 4 (2/13 - 2/17)
+
+### Tuesday, February 14
+- Herodotus on Egypt (cont'd)
+- **Homework (due before class)**: Read Book 2.104-106 in Greek.
+- **Assessment (due before class)**: [Grammatical commentary](https://dominicmachado.github.io/grammatical-commentary) due.
+
+### Thursday, February 16
+- Herodotus on Ethiopia
+- Blackness in antiquity
+- **Homework (due before class)**: Read Book 3.17-18 in Greek as well as Tristan Samuels' [article](https://drive.google.com/file/d/196DOo3DZQvh64VGexPprjIOmph28KxbF/view?usp=share_link) on Black bodies in Herodotus.
+
+[Back to top.](#top)
+
+***
+
+## Week 5 (2/20 - 2/24)
+
+### Tuesday, February 21
+- Herodotus on Ethiopia (cont'd)
+- Blackness in antiquity
+- **Homework (due before class)**: Read Book 3.22-24 in Greek and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](link coming) on Herodotus' account of the Ethiopians.
+
+### Thursday, February 23
+- Joint meeting with LATN 301
 
 ***
