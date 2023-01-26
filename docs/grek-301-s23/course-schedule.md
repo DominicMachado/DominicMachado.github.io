@@ -51,7 +51,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, February 2
 - Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.42-55 in English and 2.64-66 ([text](https://drive.google.com/file/d/1IcbTl1BV2w4Y_9GfYqS6PleuF4unx8ax/view?usp=share_link); [commentary](https://drive.google.com/file/d/1xX0s_QL27n81L7TORPnv3WPqy0vASd3L/view?usp=share_link) in Greek. 
+- **Homework (due before class)**: Read Book 2.42-55 in English and 2.64-66 ([text](https://drive.google.com/file/d/1IcbTl1BV2w4Y_9GfYqS6PleuF4unx8ax/view?usp=share_link); [commentary](https://drive.google.com/file/d/1xX0s_QL27n81L7TORPnv3WPqy0vASd3L/view?usp=share_link)) in Greek. 
 
 [Back to top.](#top)
 
@@ -66,7 +66,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Thursday, February 9
 - Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.77-79 in Greek and 2.80-90 in English. 
+- **Homework (due before class)**: Read Book 2.77-79 in Greek ([text](https://drive.google.com/file/d/1I_ZSPyQ_ykGFfKux7nQJbrjBbs1kNAEt/view?usp=share_link); [commentary](https://drive.google.com/file/d/1kunnLGecdqKI4TcU3aTIY-5K3KgNvRNm/view?usp=share_link)) and 2.80-90 in English. 
 
 [Back to top.](#top)
 
@@ -76,7 +76,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Tuesday, February 14
 - Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.104-106 in Greek.
+- **Homework (due before class)**: Read Book 2.104-106 ([text](https://drive.google.com/file/d/1JpPUzZ1gryXSOZxfNOyeXtgxN48ms2iQ/view?usp=share_link); [commentary](https://drive.google.com/file/d/1trWMVcCS7qyOJTuUYLB1sPrU5g_5HXYL/view?usp=share_link)) in Greek.
 - **Assessment (due before class)**: [Grammatical commentary](https://dominicmachado.github.io/grammatical-commentary) due.
 
 ### Thursday, February 16
@@ -93,7 +93,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 21
 - Herodotus on Ethiopia (cont'd)
 - Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.22-24 in Greek and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](link coming) on Herodotus' account of the Ethiopians.
+- **Homework (due before class)**: Read Book 3.22-24 in Greek and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
 
 ### Thursday, February 23
 - Joint meeting with LATN 301
