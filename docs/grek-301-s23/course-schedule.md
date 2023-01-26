@@ -82,7 +82,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Thursday, February 16
 - Herodotus on Ethiopia
 - Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.17-18 in Greek as well as Tristan Samuels' [article](https://drive.google.com/file/d/196DOo3DZQvh64VGexPprjIOmph28KxbF/view?usp=share_link) on Black bodies in Herodotus.
+- **Homework (due before class)**: Read Book 3.17-18 in Greek ([text](https://drive.google.com/file/d/1mD-RxaKZ3y6-1CkVXLsEDjWuHGPg0_FV/view?usp=share_link)) as well as Tristan Samuels' [article](https://drive.google.com/file/d/196DOo3DZQvh64VGexPprjIOmph28KxbF/view?usp=share_link) on Black bodies in Herodotus.
 
 [Back to top.](#top)
 
@@ -93,7 +93,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Tuesday, February 21
 - Herodotus on Ethiopia (cont'd)
 - Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.22-24 in Greek and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
+- **Homework (due before class)**: Read Book 3.22-24 in Greek ([text](https://drive.google.com/file/d/1OQm-atXzI2fI_s3lq-8BhHAEWgHz1cOF/view?usp=share_link)) and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
 
 ### Thursday, February 23
 - Joint meeting with LATN 301
