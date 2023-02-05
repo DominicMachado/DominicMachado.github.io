@@ -80,7 +80,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Vocabulary (to be completed before class)**: Study the second seven [verbs](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#verbs) in the Unit 1 vocabulary list.
 
 ### Wednesday, February 8 
-- Perfect active system verbs review
+- Perfect passive system verbs review
 - 1st and 2nd person forms 
 - **Morphology (to be completed before class)**: Review the morphology of the [perfect indicative](https://lingualatina.github.io/textbook/presentation/02-verbs/perfect/) as well as the [perfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#perfect-active-subjunctive) and [pluperfect](https://lingualatina.github.io/textbook/presentation/07-subjunctive/#pluperfect-active-subjunctive) subjunctive. 
 - **Vocabulary (to be completed before class)**: Study the [pronouns](https://dominicmachado.github.io/latn102-s23-unit-1-vocabulary#pronouns) in the Unit 1 vocabulary list.
