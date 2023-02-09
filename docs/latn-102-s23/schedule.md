@@ -117,8 +117,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, February 20
 - Relative pronouns
-- **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/presentation/11-relative-clauses/pronoun-and-antecedent/).
-- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative) as well as the first [eight verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+- **Reading (to be completed before class)**: Read this [overview of relative clauses](https://lingualatina.github.io/textbook/2021-2022/11-relative-clauses/overview/) as well as the section on [locating antecedents of relative clauses](https://lingualatina.github.io/textbook/2021-2022/11-relative-clauses/pronoun-and-antecedent/).
+- **Morphology (to be completed before class)**: Memorize the declension of the [relative pronoun](https://lingualatina.github.io/textbook/reference/pronouns-paradigms/#relative) as well as the first [eight verbs](https://dominicmachado.github.io/schedule-latn102-s23-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand at the following [exercise](https://observablehq.com/@dominicmachado/relative-clause-practice) on analyzing relative clauses.
 
 ### Wednesday, February 22 
@@ -126,8 +126,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, February 24 
 - Participles
-- **Reading (to be completed before class)**: Read this [overview of participles](https://lingualatina.github.io/textbook/presentation/10-participles/overview/) as well as the primer on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles as well the second [eight verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
+- **Reading (to be completed before class)**: Read this [overview of participles](https://lingualatina.github.io/textbook/2021-2022/10-participles/overview/) as well as the primer on [translating participles](https://lingualatina.github.io/textbook/2021-2022/10-participles/tense-and-translation/).
+- **Morphology**: Memorize the formation of the [present active](https://lingualatina.github.io/textbook/presentation/10-participles/present-active/) and [perfect passive](https://lingualatina.github.io/textbook/presentation/10-participles/perfect-passive/) participles as well the second [eight verbs](https://dominicmachado.github.io/schedule-latn102-s23-unit-2-vocabulary-verbs) in our Unit 2 vocabulary list.
 
 [Back to top.](#top)
 
@@ -138,19 +138,19 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, February 27
 - Participles (cont'd)
 - Ablative absolutes
-- **Reading (to be completed before class)**: Read the section on [ablative absolutions](https://lingualatina.github.io/textbook/presentation/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/presentation/10-participles/tense-and-translation/#relative-tense-and-translating-participles/).
-- **Morphology**: Memorize the formation of the [future active participle](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) as well the first [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
+- **Reading (to be completed before class)**: Read the section on [ablative absolutes](https://lingualatina.github.io/textbook/2021-2022/10-participles/ablative-absolute/) as and re-read the section on [translating participles](https://lingualatina.github.io/textbook/2021-2022/10-participles/tense-and-translation).
+- **Morphology**: Memorize the formation of the [future active participle](https://lingualatina.github.io/textbook/presentation/10-participles/future-participles/#future-active-participle) as well the first [seven nouns](https://dominicmachado.github.io/schedule-latn102-s23-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
 - **Practice**: Try your hand at the following exercise on the [formation of participles](https://observablehq.com/@dominicmachado/participle-formation-practice).
 
 ### Wednesday, March 1 
 - Gerunds and gerundives
-- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-- **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
+- **Reading (to be completed before class)**: Read the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Morphology**: Memorize the formation of the [gerunds and gerundives](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/) as well the second [seven nouns](https://dominicmachado.github.io/schedule-latn102-s23-unit-2-vocabulary-nouns) in our Unit 2 vocabulary list.
 
 ### Friday, March 3
 - Gerunds and gerundives (cont'd)
-- **Reading (to be completed before class)**: Review the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/presentation/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
-- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-2-vocabulary-adjectives) in our Unit 2 vocabulary list.
+- **Reading (to be completed before class)**: Review the section on [gerunds and gerundives](https://lingualatina.github.io/textbook/2021-2022/04-verbal-nouns-and-adjectives/gerunds-and-gerundives/).
+- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s23-unit-2-vocabulary-adjectives) in our Unit 2 vocabulary list.
 - **Assessment**: Review for the retake of Mastery Quiz #1.
 
 [Back to top.](#top)
