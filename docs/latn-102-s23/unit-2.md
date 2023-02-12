@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit 1
+title: Unit 2
 permalink: latn102-s23-unit-2
 parent: LATN 102 - S23
 nav_order: 6
