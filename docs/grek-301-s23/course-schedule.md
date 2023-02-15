@@ -91,11 +91,28 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 5 (2/20 - 2/24)
 
 ### Tuesday, February 21
+NO CLASS - Prof. Machado out of town!
+
+### Thursday, February 23
+- Joint meeting with LATN 301
+- **Homework (due before class)**: Read [Livy 22.60.5-27](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2) on the Battle of Cannae as well as this short entry from the Oxford Classical Dictionary on [Livy](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2).
+- **Assessment (due before class)**: Update your participation goals document that you submitted on January 26 by writing a short reflection in which you will consider the feasibility of your goals, your progress towards meeting them, if you want to replace any of them, and how you plan to assess whether you have achieved these goals or not.
+
+***
+
+## Week 6 (2/27 - 3/3)
+
+### Tuesday, February 28
+- Joint meeting with LATN 301
+- **Homework (due before class)**: Read the exceprts from [Goldberg](link here) and [Barker](link here) on gender in the ancient and modern worlds.
+
+### Thursday, March 2
 - Herodotus on Ethiopia (cont'd)
 - Blackness in antiquity
 - **Homework (due before class)**: Read Book 3.22-24 in Greek ([text](https://drive.google.com/file/d/1OQm-atXzI2fI_s3lq-8BhHAEWgHz1cOF/view?usp=share_link)) and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
 
-### Thursday, February 23
-- Joint meeting with LATN 301
+***
+
+## SPRING BREAK (3/4 - 3/12)
 
 ***
