@@ -104,7 +104,7 @@ NO CLASS - Prof. Machado out of town!
 
 ### Tuesday, February 28
 - Joint meeting with LATN 301
-- **Homework (due before class)**: Read the exceprts from [Goldberg](link here) and [Barker](link here) on gender in the ancient and modern worlds.
+- **Homework (due before class)**: Read the exceprts from [Goldberg](https://drive.google.com/file/d/1Z5EM8vfrqhELHZ3l7luHiRfRY8Hfe0fK/view?usp=share_link) and [Barker](https://drive.google.com/file/d/1CQQjx1j1Oen4e_l8dpd43Mr7Pbjv-66x/view?usp=share_link) on gender in the ancient and modern worlds.
 
 ### Thursday, March 2
 - Herodotus on Ethiopia (cont'd)
