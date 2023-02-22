@@ -95,7 +95,7 @@ NO CLASS - Prof. Machado out of town!
 
 ### Thursday, February 23
 - Joint meeting with LATN 301
-- **Homework (due before class)**: Read [Livy 22.60.5-27](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2) on the Battle of Cannae as well as this short entry from the Oxford Classical Dictionary on [Livy](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2).
+- **Homework (due before class)**: Read [Livy 22.60.5-27](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2) on the Battle of Cannae as well as this short entry from the Oxford Classical Dictionary on [Livy](https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-3744?rskey=FHIUb4&result=1).
 - **Assessment (due before class)**: Update your participation goals document that you submitted on January 26 by writing a short reflection in which you will consider the feasibility of your goals, your progress towards meeting them, if you want to replace any of them, and how you plan to assess whether you have achieved these goals or not.
 
 ***
