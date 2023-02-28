@@ -103,16 +103,41 @@ NO CLASS - Prof. Machado out of town!
 ## Week 6 (2/27 - 3/3)
 
 ### Tuesday, February 28
-- Joint meeting with LATN 301
-- **Homework (due before class)**: Read the exceprts from [Goldberg](https://drive.google.com/file/d/1Z5EM8vfrqhELHZ3l7luHiRfRY8Hfe0fK/view?usp=share_link) and [Barker](https://drive.google.com/file/d/1CQQjx1j1Oen4e_l8dpd43Mr7Pbjv-66x/view?usp=share_link) on gender in the ancient and modern worlds.
+SNOW DAY
 
 ### Thursday, March 2
-- Herodotus on Ethiopia (cont'd)
-- Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.22-24 in Greek ([text](https://drive.google.com/file/d/1OQm-atXzI2fI_s3lq-8BhHAEWgHz1cOF/view?usp=share_link)) and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
+- Joint meeting with LATN 301
+- **Homework (due before class)**: Read the exceprts from [Goldberg](https://drive.google.com/file/d/1Z5EM8vfrqhELHZ3l7luHiRfRY8Hfe0fK/view?usp=share_link) and [Barker](https://drive.google.com/file/d/1CQQjx1j1Oen4e_l8dpd43Mr7Pbjv-66x/view?usp=share_link) on gender in the ancient and modern worlds.
 
 ***
 
 ## SPRING BREAK (3/4 - 3/12)
+
+***
+
+## Week 7 (3/13 - 3/17)
+
+### Tuesday, March 14
+- Herodotus on Ethiopia
+- Blackness in antiquity
+- **Homework (due before class)**: Read Book 3.22-24 in Greek ([text](https://drive.google.com/file/d/1OQm-atXzI2fI_s3lq-8BhHAEWgHz1cOF/view?usp=share_link)) and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
+
+### Thursday, March 16
+- Herodotus on Ethiopia and India
+- Blackness in antiquity
+- **Homework (due before class)**: Read Book 3.99-101 in Greek ([text](link); [commentary](link)) and 3.99, 102-105 in English.
+
+***
+
+## Week 8 (3/20 - 3/24)
+
+### Tuesday, March 21
+- Herodotus on Scythia
+- **Homework (due before class)**: Read Book 4.3-4 in Greek ([text](link; [commentary](link)) and 4.1-2 in English
+- **Assessment (due before class)**: [Race and ethnicity commentary](https://dominicmachado.github.io/race-and-ethnicity-commentary) due.
+
+### Thursday, March 23
+- Herodotus on Scythia (cont'd)
+- **Homework (due before class)**: Read Book 4.9-10 in Greek ([text](link; [commentary](link)) and 4.5-8 in English.
 
 ***
