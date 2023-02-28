@@ -34,19 +34,19 @@ This project will ask you to develop a grammatical commentary on a short passage
 
 You will comment on any relevant grammatical constructions, morphological oddities, or lexicographical difficulties that you feel would be helpful to students who are looking at this for the first time. In addition, you will also provide your own translation of this passage.
 
-Further details on the grammatical commentary  assignment can be found [here](link).
+Further details on the grammatical commentary assignment can be found [here](link).
 
 [Back to top.](#top)
 
 ***
 
-## Race and Ethnicity Commentary (200 points; due March 16)
+## Race and Ethnicity Commentary (200 points; due March 21)
 &nbsp;  
 In this project, you will comment on how the ideas in the same passage from Book 8 of Herodotus relates to other ancient and modern perspectives on race and ethnicty. 
 
 Your goal will be to highlight similarities and differences between the vision of Greekness articulated in this passage and other views of group difference. The goal here is to produce a commentary that gives a college student further insight into how race and ethnicity should be understood in the ancient world. 
 
-Further details on the grammatical commentary  assignment can be found [here](link).
+Further details on the race and ethnicity commentary assignment can be found [here](https://dominicmachado.github.io/race-and-ethnicity-commentary).
 
 [Back to top.](#top)
 
