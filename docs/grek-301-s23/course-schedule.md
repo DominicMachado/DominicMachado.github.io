@@ -133,11 +133,11 @@ SNOW DAY
 
 ### Tuesday, March 21
 - Herodotus on Scythia
-- **Homework (due before class)**: Read Book 4.3-4 in Greek ([text](link; [commentary](link)) and 4.1-2 in English
+- **Homework (due before class)**: Read Book 4.3-4 in Greek ([text](link); [commentary](link)) and 4.1-2 in English
 - **Assessment (due before class)**: [Race and ethnicity commentary](https://dominicmachado.github.io/race-and-ethnicity-commentary) due.
 
 ### Thursday, March 23
 - Herodotus on Scythia (cont'd)
-- **Homework (due before class)**: Read Book 4.9-10 in Greek ([text](link; [commentary](link)) and 4.5-8 in English.
+- **Homework (due before class)**: Read Book 4.9-10 in Greek ([text](link); [commentary](link)) and 4.5-8 in English.
 
 ***
