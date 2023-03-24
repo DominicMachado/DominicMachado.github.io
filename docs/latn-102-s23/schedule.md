@@ -207,7 +207,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Monday, March 27
 - Result clauses
 - Fear clauses
-- **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#expressions-of-purpose),[result clauses](https://lingualatina.github.io/textbook/presentation/13-result/), and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
+- **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/2021-2022/12-purpose/#expressions-of-purpose),[result clauses](https://lingualatina.github.io/textbook/2021-2022/13-result/), and [fear clauses](https://lingualatina.github.io/textbook/2021-2022/15-proviso-fear/fear/).
 - **Morphology**: Memorize the [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adverbs-conjunctions) in our Unit 3 vocabulary list.
 - **Practice (to be completed before class)**: Try your hand the this [worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
 
@@ -220,7 +220,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Friday, March 31
 - Indicative conditions
 - Subjunctive conditions
-- **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
+- **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/2021-2022/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/2021-2022/19-conditions/subjunctive/) conditions.
 - **Morphology**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
 
 [Back to top.](#top)
