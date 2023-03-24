@@ -201,3 +201,28 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 [Back to top.](#top)
 
 ***
+
+## Week 8 (3/27 - 3/31)
+
+### Monday, March 27
+- Result clauses
+- Fear clauses
+- **Reading (to be completed before class)**: Read the sections on [expressions of purpose](https://lingualatina.github.io/textbook/presentation/12-purpose/#expressions-of-purpose),[result clauses](https://lingualatina.github.io/textbook/presentation/13-result/), and [fear clauses](https://lingualatina.github.io/textbook/presentation/15-proviso-fear/fear/).
+- **Morphology**: Memorize the [adverbs and conjunctions](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adverbs-conjunctions) in our Unit 3 vocabulary list.
+- **Practice (to be completed before class)**: Try your hand the this [worksheet](https://docs.google.com/document/d/1eauBqmbO_9RiX7Hl_0H6RQB9cZS0sBqOy9LwmMtXkyg/edit?usp=sharing) on expressions of purpose, result clauses, and fear clauses.
+
+### Wednesday, March 29
+- Future tenses
+- **Reading (to be completed before class)**: Read the sections on the [future](https://lingualatina.github.io/textbook/2021-2022/02-verbs/future/) and [future perfect](https://lingualatina.github.io/textbook/2021-2022/02-verbs/pluperfect-and-future-perfect/#the-future-perfect-tense) tenses.
+- **Morphology**: Memorize the [verbs](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-verbs) in our Unit 3 vocabulary list and the formation of the [future](https://lingualatina.github.io/textbook/2021-2022/02-verbs/future/) and [future perfect](https://lingualatina.github.io/textbook/2021-2022/02-verbs/pluperfect-and-future-perfect/#the-future-perfect-tense) tenses for Daily Check-in #10. 
+
+
+### Friday, March 31
+- Indicative conditions
+- Subjunctive conditions
+- **Reading (to be completed before class)**: Read the sections on [indicative](https://lingualatina.github.io/textbook/presentation/19-conditions/indicative/) and [subjunctive](https://lingualatina.github.io/textbook/presentation/19-conditions/subjunctive/) conditions.
+- **Morphology**: Memorize the [nouns](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-nouns) in our Unit 3 vocabulary list.
+
+[Back to top.](#top)
+
+***
