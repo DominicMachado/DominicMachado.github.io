@@ -142,8 +142,25 @@ SNOW DAY (to be made up soon!)
 - **Assessment (due before class)**: [Race and ethnicity commentary](https://dominicmachado.github.io/race-and-ethnicity-commentary) due.
 
 ***
+
 ## Week 8 (3/27 - 3/31)
 
 ### Tuesday, March 28
 - Herodotus on Scythia (cont'd)
 - **Homework (due before class)**: Read Book 4.9-10 in Greek ([text](https://drive.google.com/file/d/1QAfmAEafr-vP77ZAwlm12QQv4GINI8hD/view?usp=share_link); [commentary](https://drive.google.com/file/d/1AEvLF07QVWo8Wx9jNC01vZeIbc3lwDpe/view?usp=share_link)) and 4.5-8 in English.
+
+### Thursday, March 30
+- Intersectionality in the ancient world
+- **NB**: We are meeting together with Prof. Seider's class today!
+- **Homework (due before class)**: Reread Book 3.101 in Greek ([text](https://drive.google.com/file/d/157H5-42bkS6kVILeGEr3E7LC-MX-HuA6/view?usp=share_link); [commentary](https://drive.google.com/file/d/1kiJX35qFlY0PdkElXp2f9UlJNjyRfZTO/view?usp=share_link)) and 3.99-102 in English and read Shelley Haley's [chapter](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=share_link) on race and gender in antiquity.
+
+***
+
+## Week 9 (4/3 - 4/7)
+
+### Tuesday, April 3
+- Intersectionality in the ancient world (cont'd)
+- **NB**: We are meeting together with Prof. Seider's class today!
+- **Homework (due before class)**: Read [Livy 22.13](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.233.xml) in advance of class, thinking about the racial narratives in it.
+
+***
