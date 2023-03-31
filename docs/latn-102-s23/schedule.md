@@ -202,7 +202,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 8 (3/27 - 3/31)
+## Week 9 (3/27 - 3/31)
 
 ### Monday, March 27
 - Result clauses
@@ -226,3 +226,40 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 [Back to top.](#top)
 
 ***
+
+## Week 10 (4/3 - 4/7)
+
+### Monday, April 3
+- Causal and concessive clauses
+- Review
+- **Reading (to be completed before class)**: Read the sections on [causal](https://lingualatina.github.io/textbook/2021-2022/14-causal-concessive/causal/) and [concessive](https://lingualatina.github.io/textbook/2021-2022/14-causal-concessive/concessive/) clauses.
+- **Morphology**: Memorize the [adjectives](https://dominicmachado.github.io/schedule-latn102-s22-unit-3-vocabulary-adjectives-conjunctions) in our Unit 3 vocabulary list.
+
+### Wednesday, April 5
+- Reading practice
+
+***
+
+## Week 11 (4/10 - 4/14)
+
+### Wednesday, April 12
+- Review
+- **Practice (to be completed before class)**: Try your hand the this [review worksheet](https://docs.google.com/document/d/1luCb-LCRaiN_-IeZNSJDAyBD888njxuze0U1TtcTkwk/edit?usp=sharing) for Unit 3.
+
+### Friday, April 14
+- Review
+- Mastery quiz #3
+- **Assessment**: Review grammar and vocabulary from Unit 3 for mastery quiz #3.
+
+***
+
+## Week 12 (4/17 - 4/21)
+
+### Monday, April 17
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #3](https://docs.google.com/document/d/1K1_HirwKu5mGzIMWy6A4jglrB_rfN6GR7Hn6P5EUTUI/edit?usp=sharing) due.
+
+### Wednesday, April 19
+- Reading practice
+- **Assessment (to be completed before class)**: [Composition #3](https://docs.google.com/document/d/1JoZjqEsh1ZnWL3AWXa72J77g7ye_SY50yDLa4x72NvQ/edit?usp=sharing) due.
+
