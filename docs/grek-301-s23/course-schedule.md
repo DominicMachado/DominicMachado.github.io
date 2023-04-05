@@ -143,7 +143,7 @@ SNOW DAY (to be made up soon!)
 
 ***
 
-## Week 8 (3/27 - 3/31)
+## Week 9 (3/27 - 3/31)
 
 ### Tuesday, March 28
 - Herodotus on Scythia (cont'd)
@@ -156,11 +156,43 @@ SNOW DAY (to be made up soon!)
 
 ***
 
-## Week 9 (4/3 - 4/7)
+## Week 10 (4/3 - 4/7)
 
-### Tuesday, April 3
+### Tuesday, April 4
 - Intersectionality in the ancient world (cont'd)
 - **NB**: We are meeting together with Prof. Seider's class today!
 - **Homework (due before class)**: Read [Livy 22.13](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.233.xml) in advance of class, thinking about the racial narratives in it.
+
+***
+
+## Week 11 (4/10 - 4/14)
+
+### Tuesday, April 11
+- Herodotus on Scythia
+- **Homework (due before class)**: Read Book 4.59-63 in English and 4.64-67 in Greek ([text](https://drive.google.com/file/d/1GEF-Ra2-Mtar3BWgPDe4bU37lV8PJxnf/view?usp=share_link); [commentary](https://drive.google.com/file/d/1FCtxpPcaYk4A26tbZagGwLQYy9VUVgTe/view?usp=share_link)).
+
+### Thursday, April 13
+- Herodotus on Scythia (cont'd)
+- **Homework (due before class)**: Read Book 4.68-75 in English and 4.76-77 in Greek ([text](https://drive.google.com/file/d/1FYboGLbPDrW9HeoBj_QepyG4fIaI38Rr/view?usp=share_link); [commentary](to come)).
+
+***
+
+## Week 12 (4/17 - 4/21)
+
+### Tuesday, April 18
+- Herodotus on Persia
+- **Homework (due before class)**: Read Book 1.131-133 in Greek ([text](https://drive.google.com/file/d/14Db-zO1ieMSokzs0U4ju3RJx-XgM4adQ/view?usp=share_link); [commentary](to come)).
+
+### Thursday, April 20
+- Herodotus on Persia (cont'd)
+- **Homework (due before class)**: Read Book 1.134-135, 137 in Greek ([text](https://drive.google.com/file/d/1z-MPz5fu928r2y_U_oYUDdbiS2Esnr99/view?usp=share_link); [commentary](to come)) and 1.136, 138-140 in English.
+
+***
+
+## Week 13 (4/24 - 4/28)
+
+### Tuesday, April 25
+- Herodotus on Persia (cont'd)
+- **Homework (due before class)**: Read Book 3.12, 16 in Greek ([text](https://drive.google.com/file/d/1CewxWxFoWUjML91b35L1I8HGoF6babHm/view?usp=share_link); [commentary](to come)).
 
 ***
