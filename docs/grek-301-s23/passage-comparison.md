@@ -1,3 +1,4 @@
+---
 layout: page
 title: Passage Comparison
 permalink: passage-comparison
