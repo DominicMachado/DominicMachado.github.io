@@ -30,7 +30,7 @@ While your first two commentaries aimed to bring out key features of Herodotus 8
 
 In your commentary, you will discuss on how these passages draw from, build on, and challenge Herodotus’ conception of Greekness presented in Book 8, paying close attention to the terminology and ideology that are used in these passages. In addition, you will also reflect on how these passages relate to key ancient ideas as well as more modern conceptions of race and ethnicity.
 
-For further information about alternative ancient theories of race and ethnicity, the readings from McCoskey, Murray, and Haley will be useful references, as will be the following sourcebook on race and ethnicity in the ancient world.
+For further information about alternative ancient theories of race and ethnicity, the readings from [McCoskey](https://drive.google.com/file/d/1hK7_b3P49EEeJtc5HdBwdePIXWbR5X9t/view?usp=share_link), [Murray](https://drive.google.com/file/d/1HmxhimZtQe35tZnqBd0ZQB04ge8RPEgD/view?usp=share_link), and [Haley](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=share_link) will be useful references, as will Kennedy et al.'s [sourcebook on race and ethnicity in the ancient world](https://drive.google.com/drive/u/2/folders/1YL8SbBzje13m_ttzMJkoHVsK1qShQQTE).
 
 In terms of nuts and bolts of what you will need to submit, please include in the Google Doc that you submit a) the three passages in Greek; b) your discussion of these three passages (roughly 3 paragraphs each) with in-text citations; c) a works cited below the commentary. 
 
