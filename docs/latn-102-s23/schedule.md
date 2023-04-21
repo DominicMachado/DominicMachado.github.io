@@ -260,6 +260,59 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Assessment (to be completed before class)**: [Translation #3](https://docs.google.com/document/d/1K1_HirwKu5mGzIMWy6A4jglrB_rfN6GR7Hn6P5EUTUI/edit?usp=sharing) due.
 
 ### Wednesday, April 19
-- Reading practice
+- Chat GPT Composition
 - **Assessment (to be completed before class)**: [Composition #3](https://docs.google.com/document/d/1JoZjqEsh1ZnWL3AWXa72J77g7ye_SY50yDLa4x72NvQ/edit?usp=sharing) due.
 
+### Friday, April 21
+- Reading practice (no homework)
+
+***
+
+## Week 13 (4/24 - 4/28)
+
+### Monday, April 24
+- eCEFs
+- Reading practice
+- **Practice (to be completed before class)**: Try your hand at the marking out and translating the following [passage](https://docs.google.com/document/d/1zGIhhnAoI6BQngYcnj8OTIIu4W9RnG6YW70dnB6EVn4/edit?usp=sharing).
+
+### Wednesday, April 26
+- NO CLASS (ACADEMIC CONFERENCE)
+
+### Friday, April 28
+- Reading practice 
+
+***
+
+## Week 14 (5/1 - 5/5)
+
+### Monday, May 1
+- Reading practice
+
+### Wednesday, May 3
+- Reading practice
+
+### Friday, May 5
+- Composition workshop
+- **Assessment (to be completed before class)**: [Translation #4](link to come) due.
+
+***
+
+## Week 15 (5/8 - 5/12)
+- Course wrap up
+- **Assessment (to be completed before class)**: [Composition #4](link to come) due.
+
+***
+
+## Final
+
+Submit a final reflection of 500 words on your experience in community-based learning this year. Address the following questions in your reflection:
+ 
+1. What teaching and planning techniques have worked well this semester? What haven’t worked well? Why?
+2. What have you learned about how language can be used to give or take power from particular people and groups? 
+3. How can Latin and the study of ancient languages and cultures become more accessible to a larger array of individuals and groups? What have you been doing to make this material more accessible in your teaching it to younger audiences? 
+
+Please submit the reflection, as a Google doc shared with me, by Wednesday, May 17 at 11:59 PM. 
+
+[Back to top.](#top)
+
+***
