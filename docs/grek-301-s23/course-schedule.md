@@ -197,6 +197,7 @@ SNOW DAY (to be made up soon!)
 
 ### Thursday, April 27
 - Herodotus on Persia (cont'd)
-- **Homework (due before class)**: Read Book 7.150-151 in Greek ([text](to come); [commentary](to come)). and Seth's [article on the origins of race](https://drive.google.com/file/d/1Q252DnDLIMvOKVEX1y9gV62RaJV1W3hm/view?usp=share_link).
+- **Homework (due before class)**: Read Seth's [article on the origins of race](https://drive.google.com/file/d/1Q252DnDLIMvOKVEX1y9gV62RaJV1W3hm/view?usp=share_link).
+- **Assessment (due before class)**: Share your annotated script for your podcast project with me and Prof. Seider.
 
 ***
