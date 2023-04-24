@@ -201,3 +201,15 @@ SNOW DAY (to be made up soon!)
 - **Assessment (due before class)**: Share your annotated script for your podcast project with me and Prof. Seider.
 
 ***
+
+## Week 14 (5/1 - 5/5)
+
+### Tuesday, May 2
+- Race and gender and the study of classics
+- **Homework (due before class)**: Read the following pieces on race, classics, and gender by [Gillies](https://eidolon.pub/the-body-in-question-d28045d23714),[Kenty](https://eidolon.pub/avenging-lucretia-dd14e936840c), and [Padilla Peralta](https://drive.google.com/file/d/129ialUEY6ppcMU-m0G6Kz4HXLaJJ9up3/view?usp=share_link).
+
+### Thursday, May 4
+- Podcast day
+- **Assessment (due before class)**: Podcast project due today!
+
+***
