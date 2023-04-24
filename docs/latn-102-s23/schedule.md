@@ -280,6 +280,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, April 28
 - Reading practice 
+- **Practice (to be completed before class)**: Try your hand at the marking out and translating the following [passage](https://docs.google.com/document/d/188KgOFuzyaElDWP-NqYho0NryOdt9xi7r9YYx08jSlE/edit?usp=sharing).
 
 ***
 
