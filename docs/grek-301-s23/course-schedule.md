@@ -195,4 +195,8 @@ SNOW DAY (to be made up soon!)
 - Herodotus on Persia (cont'd)
 - **Homework (due before class)**: Read Book 3.12, 16 in Greek ([text](https://drive.google.com/file/d/1CewxWxFoWUjML91b35L1I8HGoF6babHm/view?usp=share_link); [commentary](to come)).
 
+### Thursday, April 27
+- Herodotus on Persia (cont'd)
+- **Homework (due before class)**: Read Book 7.150-151 in Greek ([text](to come); [commentary](to come)). and Seth's [article on the origins of race](https://drive.google.com/file/d/1Q252DnDLIMvOKVEX1y9gV62RaJV1W3hm/view?usp=share_link).
+
 ***
