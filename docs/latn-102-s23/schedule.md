@@ -290,7 +290,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Reading practice
 
 ### Wednesday, May 3
-- Reading practice
+- CBL reflection in class
 
 ### Friday, May 5
 - Composition workshop
