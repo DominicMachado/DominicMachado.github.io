@@ -294,11 +294,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Friday, May 5
 - Composition workshop
-- **Assessment (to be completed before class)**: [Translation #4](link to come) due.
+- **Assessment (to be completed before class)**: [Translation #4](https://docs.google.com/document/d/1lHJIf_2-UqEnNt6pr9g_rP567lykaG4dXZdD_2U9HvQ/edit?usp=sharing) due.
 
 ***
 
 ## Week 15 (5/8 - 5/12)
+
+### Monday, May 8
 - Course wrap up
 - **Assessment (to be completed before class)**: [Composition #4](link to come) due.
 
