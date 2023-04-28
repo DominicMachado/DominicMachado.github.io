@@ -210,6 +210,6 @@ SNOW DAY (to be made up soon!)
 
 ### Thursday, May 4
 - Podcast day
-- **Assessment (due before class)**: Podcast project due today!
+- **Assessment (due before class)**: 1) Podcast project due today! 2) Grade your own participation based on the goals and points you set earlier. Write 1-2 paragraphs that reflect on what you learned about yourself as a student in regard to participation this semester and share it with me via Google Docs.
 
 ***
