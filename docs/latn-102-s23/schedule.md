@@ -302,7 +302,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, May 8
 - Course wrap up
-- **Assessment (to be completed before class)**: [Composition #4](link to come) due.
+- **Assessment (to be completed before class)**: [Composition #4](https://docs.google.com/document/d/1RYqrXVK3Ep9ovcle8qjExkWVx-qp7IwOPVGAKB6iM0Q/edit) or [Chat GPT Assignment](https://docs.google.com/document/d/1z4PWPtIOSxSkWw1yLMJCNEsWvgPWFAxXISQsAzkHk6U/edit?usp=sharing) due.
 
 ***
 
