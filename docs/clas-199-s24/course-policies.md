@@ -11,7 +11,7 @@ nav_order: 2
 
 ***
 
-[Attendance and Absences](#attendance-and-absences) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \| [Remote Access and Recording of Class Sessions](#remote-access-and-recording-of-class-sessions) \|
+[Attendance and Absences](#attendance-and-absences) \| [Academic Integrity](#academic-integrity) \| [Accommodations](#accommodations) \| [Statement of Diversity and Inclusivity](#statement-of-diversity-and-inclusivity) \|
 
 ## Course policies
 &nbsp;  
@@ -19,15 +19,15 @@ Below you will find all of my official policies as well as relevant links to the
 
 ### Attendance and Absences
 &nbsp;  
-With regard to attendance, this course will abide by Holy Cross' [attendance policy](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext). 
-
-If you miss or are going to miss class, please e-mail me as soon as possible to let me know what is going on. That way we can work together to ensure that you can stay up-to-date with what’s going on with the class. Should your absence fall under the college’s policy on excused absence, as described [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#coursepoliciestext), you will have an opportunity to make up any missed assessments.
+If you miss or are going to miss class, please email to let me know what is going on. That way we can work together to ensure that you can stay up-to-date with what’s going on with the class. Should your absence fall under the college’s policy on excused absence, as described [here](https://www.holycross.edu/sites/default/files/files/registrar/excused_absence_policy.pdf), you will have an opportunity to make up any missed assessments.
 
 In the event that I have to miss class for any reason, I will contact you all as soon as I am able.
 
 ### Academic Integrity
 &nbsp;  
-You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://catalog.holycross.edu/requirements-policies/academic-policies/#academicintegritytext). Breaches of this policy will result in penalties ranging from a failure on the specific assignment or quiz to failure for the entire course. If you have any questions at all about any aspects of this policy and how they apply to the work required in this course, please do not hesitate to talk with me about it!
+You are expected to abide by Holy Cross’ Academic Integrity Policy, posted [here](https://www.holycross.edu/media/214411/download). If you have any questions about academic honesty and what it entails, do not hesitate to ask me. 
+
+NB: The library also has a useful [guide](https://libguides.holycross.edu/academichonesty) about the nuances around academic honesty.
 
 ### Accommodations
 &nbsp;  
