@@ -31,20 +31,14 @@ NB: The library also has a useful [guide](https://libguides.holycross.edu/academ
 
 ### Accommodations
 &nbsp;  
-The College of the Holy Cross is committed “to providing students with disabilities equal access to the educational opportunities and programs available at Holy Cross in accordance with the Americans with Disabilities Act of 1990 as amended, Section 504 of the Rehabilitation Act of 1973, and Massachusetts laws.” Any student who feels the need for accommodation based on the impact of a disability should contact the [Office of Accessibility Services](https://www.holycross.edu/health-wellness-and-access/office-accessibility-services) to discuss support services available. Once the office receives documentation supporting the request for accommodation, the student would meet
-privately with the office to discuss reasonable and appropriate accommodations. The office can be reached by calling 508-793-3693.
+We all learn differently, and I am committed to making class as accessible as possible for all students. If there is anything I can do to facilitate your learning, please email or speak with me. 
 
-If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to me in a timely fashion. 
+Officially, students in need of special accommodations must register with the [Office of Accessibility Services](https://www.holycross.edu/office-student-accessibility-services). Once the office receives documentation supporting the request for accommodation, the student would meet privately with Accessibility Services to discuss reasonable and appropriate accommodations. The office can be reached by calling 508-793-3693 or by visiting Hogan Campus Center, room 505. 
 
-Since it is my goal to create a learning environment that is beneficial for all students, I want to also make myself available to you for discussions along these lines. So please do not hesistate to talk with me about what I can do to facilitate your learning!  
+If you are already registered with Accessibility Services, please be sure to get your accommodation letters and deliver them to your instructors in a timely fashion. Please note that, consistent with applicable federal and state law, this course may be video and/or audio recorded as an accommodation only with permission from the Office of Accessibility Services.  
 
 ### Statement of Diversity and Inclusivity
 &nbsp;  
 It is my intent that students from all backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
-
-### Remote Access and Recording of Class Sessions
-&nbsp;  
-I do not plan on recording class sessions, but please note that, consistent with applicable federal and state law, this course may
-be video/audio recorded as an accommodation only with permission from the Office of Accessibility Services.
 
 ***
