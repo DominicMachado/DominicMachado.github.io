@@ -2,7 +2,7 @@
 layout: page
 title: Assessment
 permalink: assessment-clas199-s24
-parent: CLAS199 - S24
+parent: CLAS 199 - S24
 nav_order: 3
 has_children: true
 ---
