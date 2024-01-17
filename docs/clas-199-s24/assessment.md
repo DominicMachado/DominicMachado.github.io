@@ -22,6 +22,11 @@ Below you will find a summary of all the major assessments for this course. For 
 
 ## Attendance and Engagement
 &nbsp;  
+Attendance, reading, and active participation are essential to achieving our course goals. I expect everyone to be active and engaged contributors in class. This means that we all prepare fully ahead of time, and during class we work to facilitate and promote a stimulating conversation in which no single voice dominates, and all voices are heard.
+
+Further details on the commonplace book assignment and grading criteria can be found [here]().
+
+[Back to top.](#top)
 
 ***
 
