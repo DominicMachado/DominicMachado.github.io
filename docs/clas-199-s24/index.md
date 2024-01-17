@@ -9,24 +9,21 @@ has_children: true
 ## Welcome to CLAS 199 - Race in Antiquity - Spring 2024
 &nbsp;
 
-![Herodotus](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kaulbach%2C_Wilhelm_von_-_Die_Seeschlacht_bei_Salamis_-_1868.JPG/1200px-Kaulbach%2C_Wilhelm_von_-_Die_Seeschlacht_bei_Salamis_-_1868.JPG)
+![Kantharos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-M2k4azqI-PP-7FR7jek6b_IpW8RAEClADwfd9DKd52JAYJWnTGNuoKzGupm-DKX5U0R1yEhifG1uvIIYcoopsDfIlHfFnowm_jUjMSqlvmTKCTVe1VPgCpyIOXFjRJQTNGGMMxPK1OIArijwJsqvr_PSViqJ4N6Q0MVRAAmFXGgBkOmHyP_GHA/s320/Princeton%20Art%20Museum--Janiform%20Kantharos.png)
 
 ***
 
 ### Course Information
 &nbsp;  
-- **Meeting Time:** T, Th 12:30 - 1:45 PM
-- **Meeting Place:** Fenwick 420
-- **Standing Zoom Link:** 
+- **Meeting Time:** M, W 3:00 - 4:15 PM
+- **Meeting Place:** Stein 118B
 - **Instructor** Prof. Machado
-- **Student Hours**: T 2-3 PM; W 3-5 PM, Fenwick 413
+- **Student Hours**: Tu 2:30 – 4 PM, Th 1 - 2:30 PM, Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
-The Greek historian Herodotus of Halicarnassus lived in the 5th century BCE and wrote his *Histories* in the context of the contemporaneous rise of the Athenian Empire. Composed in nine books, the Histories did not chronicle contemporaneous events, but rather provided his readers with a fascinating portrait of people, places, and the events all across the Mediterranean. Ending with an enthralling account of the Persian War (490 - 479 BCE), Herodotus sets out to tell about the *thaumata* (marvels) that he has discovered in his investigation of the ancient Mediterranean past.
+When we think about race in 21st century America, our minds immediately think of its epidermic manifestation: skin color. Indeed, due to the realities of the transatlantic slave trade and the colonization of the Americas, our perception of race revolves around the dichotomy between Blackness and whiteness. But race, as scholars over the last half century have shown, is not simply reducible to skin color - it is malleable, mercurial technology that serves to distribute power abd privilege within society.
 
-In this course, we will read excerpts from the first four books of the *Histories* in hopes of exploring how Herodotus understood and constructed difference between different groups of people in the ancient Mediterranean world. We will do so using the lens of race and ethnicity to think critically about how Herodotus operates and to meditate on differences and similarities between the ancient Mediterranean and the world we inhabit today.
-
-A special aspect of this course (and a first at Holy Cross!) is that we will have a number of joint meetings with Prof. Seider's LATN 301 class over the course of the semester. They will be reading the Roman historian Livy and focusing on how gender and sexuality are constructed. Our joint meetings will give you an opportunity to learn about this topic as well as consider the different ways in which identity is socially configured. Your final project (a podcast) for the course will involve a collaboration with students from LATN 301.
+In this course, we will study how race functioned in a society - the ancient Mediterranean world - where skin color was not a primary marker of difference. We will examine the different ways in which the people of the ancient Mediterranean world constructed racial difference to create social and political hierarchies as well as how this thinking was shaped by the unique historical circumstances of the period. My hope is that our examination will unveil what  is at the heart of what we refer to as race and, in the process, reveal much about the way the ancient and modern worlds work.
 
 [Back to top.](#top)
 
@@ -34,17 +31,9 @@ A special aspect of this course (and a first at Holy Cross!) is that we will hav
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-grek301-s23), [course policies](https://dominicmachado.github.io/course-policies-grek301-s23), [assessment](https://dominicmachado.github.io/assessment-grek301-s23), and our [full course schedule](https://dominicmachado.github.io/schedule-grek301-s23).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and our [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24).
 
-In terms of books, you will not need any physical books. Below are a list of general resources you can use in the course:
-- [An online LSJ](http://folio2.furman.edu/lsj/)
-- [Smyth's Greek grammar](https://drive.google.com/file/d/1OUoFcKnkzot1-8I7Jc04MTEOUtdNCYGG/view?usp=share_link)
-- Book 1 [text](link coming) and [commentary](link coming)
-- Book 2 [text](link coming) and [commentary](link coming)
-- Book 3 [text](link coming) and [commentary](link coming)
-- Book 4 [text](link coming) and [commentary](link coming)
-- [An older commentary on all of Herodotus](https://drive.google.com/file/d/1nZz51mXSfKszCKd4v3pBFdVeLIhz7iUg/view?usp=share_link)
-- [A translation of all of Herodotus](https://drive.google.com/file/d/19DO07bo2wQT_60W2cZqrWGIuK_sETc6a/view?usp=share_link)
+
 - [Sourcebook on race and ethnicity in the ancient world](https://drive.google.com/file/d/1W2mDquBzVIO9CS8zONornrroleLJhrCd/view?usp=share_link)
 - [Classics resource guide](https://libguides.holycross.edu/classics)
 
