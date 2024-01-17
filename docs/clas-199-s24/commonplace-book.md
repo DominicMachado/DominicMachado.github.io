@@ -55,7 +55,5 @@ A satisfactory commonplace book entry should:
 - Reflect on why the sentence(s) you chose were particularly meaningful for you
 - Correctly cite primary and secondary sources that you refer to in your entries
 
-[Back to top.](#top)
-
 ***
 
