@@ -16,7 +16,7 @@ has_children: true
 
 ***
 
-Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-clas199-f22) page.
+Below you will find a summary of all the major assessments for this course. For the grading schema for course, see the [specifications grading](https://dominicmachado.github.io/specification-grading-clas199-s24) page.
 
 ***
 
