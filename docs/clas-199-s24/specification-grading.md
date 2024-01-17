@@ -22,17 +22,17 @@ I want to create a class environment that bucks these trends. I want to encourag
 
 So how do I plan to manage to accomplish all this, while still giving you an end of semester grade? I plan to adopt a version of specification grading, an assessment system in which assignments are graded on a satisfactory/unsatisfactory scale. Each assignment will have a pre-circulated rubric for achieving a satisfactory grade. Semester grades will be assigned based on the number and type of satisfactory assignments completed. In this system, grades are not arbitrarily assigned – they are earned by the work that you do. Further, you get to decide exactly how much time and energy you want to commit to the course in order to achieve the grade you desire.
 
-How Specification Grading Works
+## How Specification Grading Works
 
-We want to be clear that no letter/number grade on your assignments does not mean no feedback on them. We will respond to your work, and our hope is that my feedback will be more meaningful to you when a letter or number grade is not present to divert your attention.
+I want to be clear that no letter/number grade on your assignments does not mean no feedback on them. I will respond to your work, and my hope is that my feedback will be more meaningful to you when a letter or number grade is not present to divert your attention.
 
 Specifications grading also does not mean there are no standards for your work. For each
-assignment, we will provide detailed guidelines. Your work must meet both the specific details
-and the spirit of those parameters in order for the assignment to count as satisfactory. The basis for these specifications is based on the expectations and spirit of the work to be done. Since the focus is on your learning, the spirit of each assignment is that you are attempting to grow in your skills in critical reading, in your understanding of resistance as a cultural phenomenon, and the context of Jewish life in the Hellenistic world, in your writing skills, and in your academic practices and habits, including curiosity, critical generosity, intellectual courage, intellectual honesty and integrity, and intellectual thoroughness.
+assignment, I will provide detailed guidelines. Your work must meet both the specific details
+and the spirit of those parameters in order for the assignment to count as satisfactory. The basis for these specifications is based on the expectations and spirit of the work to be done. Since the focus is on your learning, the spirit of each assignment is that you are attempting to grow in your skills in critical reading, in your understanding of race as a historical phenomenon, and the contexts of ancient Mediterranean world, in your writing skills, and in your academic practices and habits, including curiosity, critical generosity, intellectual courage, intellectual honesty and integrity, and intellectual thoroughness.
 
-We also believe that revision is an important part of the learning process. If you earn an unsatisfactory grade on an assignment, you will have ten days upon receipt of our comments to submit a revised version and earn full credit for it. 
+I also believe that revision is an important part of the learning process. If you earn an unsatisfactory grade on an assignment, you will have ten days upon receipt of our comments to submit a revised version and earn full credit for it. 
 
-Our Grading Rubric
+## Our Grading Rubric
 
 There are a set of core responsibilities for the course, all of which will have specific guidelines for each one. Completing these responsibilities successfully satisfies the specifications for the standard grade in the course of B+. That is, if you complete these endeavors according to the specified guidelines and the spirit of learning they embody, your course grade will be a B+. It will be lower than that only if you do not complete one or more of the core requirements according to the specifications.
 
