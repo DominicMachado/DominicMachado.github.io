@@ -12,7 +12,7 @@ nav_order: 1
 
 ***
 
-## Our “Grading” System
+## The “Grading” System
 
 Learning is what we are here for. I hope you are, too—you will have to make that determination. 
 
@@ -32,32 +32,32 @@ and the spirit of those parameters in order for the assignment to count as satis
 
 I also believe that revision is an important part of the learning process. If you earn an unsatisfactory grade on an assignment, you will have ten days upon receipt of our comments to submit a revised version and earn full credit for it. 
 
-## Our Grading Rubric
+## The Grading Rubric
 
 There are a set of core responsibilities for the course, all of which will have specific guidelines for each one. Completing these responsibilities successfully satisfies the specifications for the standard grade in the course of B+. That is, if you complete these endeavors according to the specified guidelines and the spirit of learning they embody, your course grade will be a B+. It will be lower than that only if you do not complete one or more of the core requirements according to the specifications.
 
-We are making a B+ the standard grade because it is a grade that reflects strong effort and learning. Meeting the requirements for the standard grade will involve your intellectual engagement with the readings and assignments at a fairly high level.
+I am making a B+ the standard grade because it is a grade that reflects strong effort and learning. Meeting the requirements for the standard grade will involve your intellectual engagement with the readings and assignments at a fairly high level.
 
 The opportunity to earn a grade of A will involve additional labor. The additional labor will ask
-you to work more intentionally with theoretical approaches to resistance throughout the semester and to make an independent contribution to the course with your own example of reception of the texts we are reading. We value this additional labor as reflecting learning on a deeper level.
+you to work more intentionally with theoretical approaches to race throughout the semester and to consider with modern misappropriation of race in the ancient world. I value this additional labor as reflecting learning on a deeper level.
 
 Below is a summary of the quantity and, more importantly, quality of work required to achieve each course grade.
 
-Course Grade of B+ (standard grade)
+**Course Grade of B+ (standard grade)**:
 All of the core responsibilities listed below must be successfully satisfied. Written work is submitted on-time and completed according to the specifications and spirit of each endeavor. Class attendance and participation is engaged and contributes to the class community, with no unexcused absences (see below for more details on engagement).  
-Class attendance and engagement
-10 commonplace book entries
-Close reading paper
-Aspects of resistance project
-Oral exam
+- Class attendance and engagement
+- 10 commonplace book entries
+- Creative project #1
+- Creative project #2
+- Oral exam
 
-Course Grade of A
+**Course Grade of A**
 All of the core responsibilities are satisfied as above. The additional labor required for an A will be the successful completion of the following:
-3 additional commonplace book entries on theoretical approaches to resistance in the ancient world (readings and due dates to be chosen in consultation with Profs. Fleckman and Machado)
-A short paper about a work of modern reception related to the one of the texts we are reading (requires a successful proposal by Feb X and must be turned in by Apr X)
+- 3 additional commonplace book entries on theoretical approaches to the study of race (readings and due dates to be chosen in consultation with Profs. Machado)
+- A short analysis of a modern misappropriation of ancient ideas about race (requires a successful proposal by Feb X and must be turned in by Apr X)
 
-Course Grade of B-
-One of the core responsibilities is not completed on-time or not completed according to the
+**Course Grade of B-**
+One of the core responsibilities (apart from attendance and engagement) is not completed on-time or not completed according to the
 guidelines or spirit of the assignment.
 
 Course Grade of C
