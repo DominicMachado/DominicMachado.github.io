@@ -31,9 +31,9 @@ In this course, we will study how race functioned in a society - the ancient Med
 
 ### Important Links
 &nbsp;  
-Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and our [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24).
+Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and our [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24). 
 
-
+We will not but using a physical textbook, but rather an online textbook created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use.
 - [Sourcebook on race and ethnicity in the ancient world](https://drive.google.com/file/d/1W2mDquBzVIO9CS8zONornrroleLJhrCd/view?usp=share_link)
 - [Classics resource guide](https://libguides.holycross.edu/classics)
 
@@ -44,21 +44,15 @@ Everything that you need to know about this course is on this website. You can f
 ### This Week at a Glance
 &nbsp;  
 
-![Herodotus](https://www.worldhistory.org/img/r/p/500x600/6501.jpg?v=1645500602)
+![CRT](https://www.publicsource.org/wp-content/uploads/2022/02/AdobeStock_463610029-scaled.jpeg)
 
 ***
 ## Week 1 (1/23 - 1/27)
 
-### Tuesday, January 24
+### Wednesday, January 24
 - Course introduction
-- Introduction to Herodotus
-- Preface
-- **Homework (due before class)**: Have a look through the course website and read our [course objectives](https://dominicmachado.github.io/course-objectives-grek301-s23), [course policies](https://dominicmachado.github.io/course-policies-grek301-s23), [assessment](https://dominicmachado.github.io/assessment-grek301-s23), and [full course schedule](https://dominicmachado.github.io/schedule-grek301-s23). Bring any questions that you have to class.
-
-### Thursday, January 26
-- Introduction to race and ethnicity
-- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and translate [Herodotus 8.144](https://drive.google.com/file/d/1PVSDuQmnTE9UYzarp-8rzzBMSUzrAzrr/view?usp=share_link). 
-- **Assessment (due before class)**: In addition to this reading, you will write one or two paragraphs that reflect on a) what it means to you to participate in a class; b) how you have participated in past classes; c) what area of participation you would like to build on in this class and why; and d) what your goals are for group work, class discussion, and students hours, and share it with me via Google Docs.
+- Learning about race
+- **Homework (due before class)**: Have a look through the course website and read our [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24). Bring any questions that you have to class.
 
 [Back to top.](#top)
 
