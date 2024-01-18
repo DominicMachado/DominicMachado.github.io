@@ -83,22 +83,26 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Defining Difference: Environmental Factors
 - **Homework (due before class)**: Read the selections from [Chapter 3](https://drive.google.com/file/d/1KNdvCPgRVsFTdyVAs7uQcbG-xnEED2jH/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
-### Tuesday, February 21
-NO CLASS - Prof. Machado out of town!.
+### Wednesday, February 21
+- Defining Difference: "Genetic" Factors
+- **Homework (due before class)**: Read the selections from [Chapter 4](https://drive.google.com/file/d/15NjkV6PILNORXt_9qnKq1CsXFaNoOy1H/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #3 due.
 
 ***
 
-## Week 6 (2/27 - 3/3)
+## Week 6 (2/26 - 3/1)
 
-### Tuesday, February 28
-SNOW DAY
+### Monday, February 26
+- Defining Difference: Custom and Culture
+- **Homework (due before class)**: Read the selections from [Chapter 5](https://drive.google.com/file/d/1_5KPvN8sDvy7efzHjbBXHV-z5t6pYl-Y/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
-### Thursday, March 2
-- Joint meeting with LATN 301
-- **Homework (due before class)**: Read the exceprts from [Goldberg](https://drive.google.com/file/d/1Z5EM8vfrqhELHZ3l7luHiRfRY8Hfe0fK/view?usp=share_link) and [Barker](https://drive.google.com/file/d/1CQQjx1j1Oen4e_l8dpd43Mr7Pbjv-66x/view?usp=share_link) on gender in the ancient and modern worlds.
+### Wednesday, February 28
+- Defining Difference: Origin Stories
+- **Homework (due before class)**: Read the selections from [Chapter 2](https://drive.google.com/file/d/1_5KPvN8sDvy7efzHjbBXHV-z5t6pYl-Y/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #4 due.
 
 ***
 
-## SPRING BREAK (3/4 - 3/12)
+## SPRING BREAK (3/2 - 3/10)
 
 ***
