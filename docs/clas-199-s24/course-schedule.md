@@ -52,7 +52,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, February 5
 - Key Concepts: Race as Technology
-- **Reading (due before class)**: Read Sheth's [article]() on race as a technology.
+- **Reading (due before class)**: Read Sheth's [article](https://drive.google.com/file/d/1CTB1Tgsj4iMD5MSBWioE1vHzW-evsicW/view?usp=sharing) on race as a technology.
 
 ### Wednesday, February 7
 - Race in the Ancient Mediterranean World, Part 1
