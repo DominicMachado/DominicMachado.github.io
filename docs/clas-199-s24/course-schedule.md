@@ -28,11 +28,6 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Learning about race
 - **Homework (due before class)**: Have a look through the course website and read our [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-class199-s24), and [course schedule](https://dominicmachado.github.io/schedule-clas199-s24). Bring any questions that you have to class.
 
-### Thursday, January 26
-- Introduction to race and ethnicity
-- **Homework (due before class)**: Read Omi and Winant on [racial formation](https://drive.google.com/file/d/1dkCJArlD5o_jCSzmcF0cWt9g574TaG-g/view?usp=share_link) and translate [Herodotus 8.144](https://drive.google.com/file/d/1PVSDuQmnTE9UYzarp-8rzzBMSUzrAzrr/view?usp=share_link). 
-- **Assessment (due before class)**: In addition to this reading, you will write one or two paragraphs that reflect on a) what it means to you to participate in a class; b) how you have participated in past classes; c) what area of participation you would like to build on in this class and why; and d) what your goals are for group work, class discussion, and students hours, and share it with me via Google Docs.
-
 
 [Back to top.](#top)
 
@@ -40,14 +35,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 2 (1/30 - 2/3)
 
-### Tuesday, January 31
-- Race and ethnicity in antiquity
-- Herodotus on Egypt
-- **Homework (due before class)**: Read McCoskey on [race and ethnicity in the ancient world](https://drive.google.com/file/d/1hK7_b3P49EEeJtc5HdBwdePIXWbR5X9t/view?usp=share_link) and Herodotus 2.1-4 in English and 2.35-37 ([text](https://drive.google.com/file/d/1XiIorXw8wZF4L3j1iKEAV39IzUFzF-ED/view?usp=share_link); [commentary](https://drive.google.com/file/d/1p3rKdw6reR6ADyrOX_Cd-ClRUrzIB3iR/view?usp=share_link)) in Greek.
+### Monday, January 29
+- Key Concepts: Race and Racism
+- **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation as a historical process.
 
-### Thursday, February 2
-- Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.42-55 in English and 2.64-66 ([text](https://drive.google.com/file/d/1IcbTl1BV2w4Y_9GfYqS6PleuF4unx8ax/view?usp=share_link); [commentary](https://drive.google.com/file/d/1xX0s_QL27n81L7TORPnv3WPqy0vASd3L/view?usp=share_link)) in Greek. 
+### Wednesday, January 31
+- Key Concepts: Racecraft
+- **Reading (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their conception of racecraft.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #1 due. Please share your commonplace book with me via Google Docs prior to class.
 
 [Back to top.](#top)
 
