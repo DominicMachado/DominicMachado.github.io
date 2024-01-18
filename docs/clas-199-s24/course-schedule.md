@@ -55,7 +55,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Reading (due before class)**: Read Sheth's [article]() on race as a technology.
 
 ### Wednesday, February 7
-- Race in the Ancient World, Part 1
+- Race in the Ancient Mediterranean World, Part 1
 - **Reading (due before class)**: Read selections from McCoskey's [chapter](https://drive.google.com/file/d/1mJuEFHLU3w69p4y7H1bf2eT4OC7B1tSV/view?usp=sharing) on race in antiquity and give a listen to her [podcast](https://www.khameleonproductions.org/race-in-antiquity) on the same topic.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #2 due. 
 
@@ -63,31 +63,28 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 4 (2/13 - 2/17)
+## Week 4 (2/12 - 2/16)
 
-### Tuesday, February 14
-- Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.104-106 ([text](https://drive.google.com/file/d/1JpPUzZ1gryXSOZxfNOyeXtgxN48ms2iQ/view?usp=share_link); [commentary](https://drive.google.com/file/d/1trWMVcCS7qyOJTuUYLB1sPrU5g_5HXYL/view?usp=share_link)) in Greek.
-- **Assessment (due before class)**: [Grammatical commentary](https://dominicmachado.github.io/grammatical-commentary) due.
-
-### Thursday, February 16
-- Herodotus on Ethiopia
-- Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.17-18 in Greek ([text](https://drive.google.com/file/d/1mD-RxaKZ3y6-1CkVXLsEDjWuHGPg0_FV/view?usp=share_link)) as well as Tristan Samuels' [article](https://drive.google.com/file/d/196DOo3DZQvh64VGexPprjIOmph28KxbF/view?usp=share_link) on Black bodies in Herodotus.
+### Monday, February 12
+- Race in the Ancient Mediterranean World, Part 2
+- **Homework (due before class)**: Listen to the [conversation](https://www.youtube.com/watch?v=sdOlrsBNU2I) between Jackie Murray and Rebecca Futo Kennedy, focusing in particular on the bit from 18:00 - 38:00.
+  
+### Wednesday, February 14
+- Reading Ancient Sources: A Primer
+- **Assessment (due before class)**: [Creative project #1]() due between 2/14 and 2/18.
 
 [Back to top.](#top)
 
 ***
 
-## Week 5 (2/20 - 2/24)
+## Week 5 (2/19 - 2/23)
+
+### Monday, February 19
+- Defining Difference: Environmental Factors
+- **Homework (due before class)**: Read the selections from [Chapter 3](https://drive.google.com/file/d/1KNdvCPgRVsFTdyVAs7uQcbG-xnEED2jH/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
 ### Tuesday, February 21
-NO CLASS - Prof. Machado out of town!
-
-### Thursday, February 23
-- Joint meeting with LATN 301
-- **Homework (due before class)**: Read [Livy 22.60.5-27](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.193.xml?rskey=avCQlP&result=2) on the Battle of Cannae as well as this short entry from the Oxford Classical Dictionary on [Livy](https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-3744?rskey=FHIUb4&result=1).
-- **Assessment (due before class)**: Update your participation goals document that you submitted on January 26 by writing a short reflection in which you will consider the feasibility of your goals, your progress towards meeting them, if you want to replace any of them, and how you plan to assess whether you have achieved these goals or not.
+NO CLASS - Prof. Machado out of town!.
 
 ***
 
