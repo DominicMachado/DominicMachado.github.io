@@ -33,7 +33,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 2 (1/30 - 2/3)
+## Week 2 (1/29 - 2/2)
 
 ### Monday, January 29
 - Key Concepts: Race and Racism
@@ -48,16 +48,16 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 3 (2/6 - 2/10)
+## Week 3 (2/5 - 2/9)
 
-### Tuesday, February 7
-- Visit to the Chertsey Exhibition
-- **NB**: We will meet at Cantor Art Gallery in Prior Center for the Performing Arts for joint session with LATN 301.
-- **Homework (due before class)**: Read Luyster's [introduction](https://drive.google.com/file/d/1dQE_b7jaf65EHw3NkTU4ckwuEku6xLwI/view?usp=share_link) to the exhibit as well as the pieces by [Leson](https://drive.google.com/file/d/1lA9swq0wxPnKr_9PLFpC-3fp9p87p3uj/view?usp=share_link) and [Mourad](https://drive.google.com/file/d/1zzSqCd6m_NK3bc8jJF4wXT-MY-6jHNCi/view?usp=share_link) on the construction of different aspects of identity in the art on display. 
+### Monday, February 5
+- Key Concepts: Race as Technology
+- **Reading (due before class)**: Read Sheth's [article]() on race as a technology.
 
-### Thursday, February 9
-- Herodotus on Egypt (cont'd)
-- **Homework (due before class)**: Read Book 2.77-79 in Greek ([text](https://drive.google.com/file/d/1I_ZSPyQ_ykGFfKux7nQJbrjBbs1kNAEt/view?usp=share_link); [commentary](https://drive.google.com/file/d/1kunnLGecdqKI4TcU3aTIY-5K3KgNvRNm/view?usp=share_link)) and 2.80-90 in English. 
+### Wednesday, February 7
+- Race in the Ancient World, Part 1
+- **Reading (due before class)**: Read selections from McCoskey's [chapter](https://drive.google.com/file/d/1mJuEFHLU3w69p4y7H1bf2eT4OC7B1tSV/view?usp=sharing) on race in antiquity and give a listen to her [podcast](https://www.khameleonproductions.org/race-in-antiquity) on the same topic.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #2 due. 
 
 [Back to top.](#top)
 
@@ -103,104 +103,5 @@ SNOW DAY
 ***
 
 ## SPRING BREAK (3/4 - 3/12)
-
-***
-
-## Week 7 (3/13 - 3/17)
-
-### Tuesday, March 14
-SNOW DAY (to be made up soon!)
-
-### Thursday, March 16
-- Herodotus on Ethiopia
-- Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.22-24 in Greek ([text](https://drive.google.com/file/d/1OQm-atXzI2fI_s3lq-8BhHAEWgHz1cOF/view?usp=share_link)) and 3.19-21, 25-26 in English as well as Sarah Debrew's [chapter](https://drive.google.com/file/d/1yaj-5m4SmIPlHK8JDxqxfz29RSZqfiuC/view?usp=share_link) on Herodotus' account of the Ethiopians.
-
-
-
-***
-
-## Week 8 (3/20 - 3/24)
-
-### Tuesday, March 21
-- Herodotus on Ethiopia and India
-- Blackness in antiquity
-- **Homework (due before class)**: Read Book 3.99-101 in Greek ([text](https://drive.google.com/file/d/157H5-42bkS6kVILeGEr3E7LC-MX-HuA6/view?usp=share_link); [commentary](https://drive.google.com/file/d/1kiJX35qFlY0PdkElXp2f9UlJNjyRfZTO/view?usp=share_link)) and 3.99, 102-105 in English.
-
-### Thursday, March 23
-- Herodotus on Scythia
-- **Homework (due before class)**: Read Book 4.3-4 in Greek ([text](https://drive.google.com/file/d/16-XPAwRC7liddFBuYV_VjjPA2aYGWmbi/view?usp=share_link); [commentary](https://drive.google.com/file/d/1zlgK3hP6bbdIdvTgUclEt4JM-Jsw3x9K/view?usp=share_link)) and 4.1-2 in English.
-- **Assessment (due before class)**: [Race and ethnicity commentary](https://dominicmachado.github.io/race-and-ethnicity-commentary) due.
-
-***
-
-## Week 9 (3/27 - 3/31)
-
-### Tuesday, March 28
-- Herodotus on Scythia (cont'd)
-- **Homework (due before class)**: Read Book 4.9-10 in Greek ([text](https://drive.google.com/file/d/1QAfmAEafr-vP77ZAwlm12QQv4GINI8hD/view?usp=share_link); [commentary](https://drive.google.com/file/d/1AEvLF07QVWo8Wx9jNC01vZeIbc3lwDpe/view?usp=share_link)) and 4.5-8 in English.
-
-### Thursday, March 30
-- Intersectionality in the ancient world
-- **NB**: We are meeting together with Prof. Seider's class today!
-- **Homework (due before class)**: Reread Book 3.101 in Greek ([text](https://drive.google.com/file/d/157H5-42bkS6kVILeGEr3E7LC-MX-HuA6/view?usp=share_link); [commentary](https://drive.google.com/file/d/1kiJX35qFlY0PdkElXp2f9UlJNjyRfZTO/view?usp=share_link)) and 3.99-102 in English and read Shelley Haley's [chapter](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=share_link) on race and gender in antiquity.
-
-***
-
-## Week 10 (4/3 - 4/7)
-
-### Tuesday, April 4
-- Intersectionality in the ancient world (cont'd)
-- **NB**: We are meeting together with Prof. Seider's class today!
-- **Homework (due before class)**: Read [Livy 22.13](https://www.loebclassics.com/view/livy-history_rome_22/2019/pb_LCL233.233.xml) in advance of class, thinking about the racial narratives in it.
-
-***
-
-## Week 11 (4/10 - 4/14)
-
-### Tuesday, April 11
-- Herodotus on Scythia
-- **Homework (due before class)**: Read Book 4.59-63 in English and 4.64-67 in Greek ([text](https://drive.google.com/file/d/1GEF-Ra2-Mtar3BWgPDe4bU37lV8PJxnf/view?usp=share_link); [commentary](https://drive.google.com/file/d/1FCtxpPcaYk4A26tbZagGwLQYy9VUVgTe/view?usp=share_link)).
-
-### Thursday, April 13
-- Herodotus on Scythia (cont'd)
-- **Homework (due before class)**: Read Book 4.68-75 in English and 4.76-77 in Greek ([text](https://drive.google.com/file/d/1FYboGLbPDrW9HeoBj_QepyG4fIaI38Rr/view?usp=share_link); [commentary](to come)).
-
-***
-
-## Week 12 (4/17 - 4/21)
-
-### Tuesday, April 18
-- Herodotus on Persia
-- **Homework (due before class)**: Read Book 1.131-133 in Greek ([text](https://drive.google.com/file/d/14Db-zO1ieMSokzs0U4ju3RJx-XgM4adQ/view?usp=share_link); [commentary](to come)).
-
-### Thursday, April 20
-- Herodotus on Persia (cont'd)
-- **Homework (due before class)**: Read Book 1.134-135, 137 in Greek ([text](https://drive.google.com/file/d/1z-MPz5fu928r2y_U_oYUDdbiS2Esnr99/view?usp=share_link); [commentary](to come)) and 1.136, 138-140 in English.
-
-***
-
-## Week 13 (4/24 - 4/28)
-
-### Tuesday, April 25
-- Herodotus on Persia (cont'd)
-- **Homework (due before class)**: Read Book 3.12, 16 in Greek ([text](https://drive.google.com/file/d/1CewxWxFoWUjML91b35L1I8HGoF6babHm/view?usp=share_link); [commentary](to come)).
-
-### Thursday, April 27
-- Herodotus on Persia (cont'd)
-- **Homework (due before class)**: Read Seth's [article on the origins of race](https://drive.google.com/file/d/1Q252DnDLIMvOKVEX1y9gV62RaJV1W3hm/view?usp=share_link).
-- **Assessment (due before class)**: Share your annotated script for your podcast project with me and Prof. Seider.
-
-***
-
-## Week 14 (5/1 - 5/5)
-
-### Tuesday, May 2
-- Race and gender and the study of classics
-- **Homework (due before class)**: Read the following pieces on race, classics, and gender by [Gillies](https://eidolon.pub/the-body-in-question-d28045d23714), [Kenty](https://eidolon.pub/avenging-lucretia-dd14e936840c), and [Padilla Peralta](https://drive.google.com/file/d/129ialUEY6ppcMU-m0G6Kz4HXLaJJ9up3/view?usp=share_link).
-
-### Thursday, May 4
-- Podcast day
-- **Assessment (due before class)**: 1) Podcast project due today! 2) Grade your own participation based on the goals and points you set earlier. Write 1-2 paragraphs that reflect on what you learned about yourself as a student in regard to participation this semester and share it with me via Google Docs.
 
 ***
