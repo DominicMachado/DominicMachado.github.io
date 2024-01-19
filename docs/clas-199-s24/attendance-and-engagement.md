@@ -13,7 +13,7 @@ nav_order: 3
 ***
 
 ## Guidelines
-
+&nbsp; 
 Attendance, reading, and active participation are essential to achieving our course goals. Please be sure to bring a copy of the assigned reading to class, whether printed out or on a device. 
 
 I expect everyone to be active and engaged contributors in class. This means that we all prepare fully ahead of time, and during class we work to facilitate and promote a stimulating conversation in which no single voice dominates, and all voices are heard. In our classroom, each person is valued and respected. 
@@ -23,7 +23,7 @@ Simultaneously, our classroom is a space where we can push, critique, and probe 
 ***
 
 ## Assessment
-
+&nbsp; 
 You can receive up to two engagement points per class (48 total possible points). To earn a satisfactory grade for class participation, you must earn 45 out of the possible 48 participation points.  
 
 You will receive one point by showing up and demonstrating ongoing attentiveness and active listening. You will receive the second point by participating meaningfully. Here are some guidelines for meaningful class participation:
