@@ -40,7 +40,7 @@ Further details on the commonplace book assignment and grading criteria can be f
 
 ## Creative Projects (due Feb 14-17; due Apr 8-11)
 &nbsp;  
-Throughout the course, you will have the opportunity to complete two creative projects [NAME] related to different aspects of our course content. These projects are intended to get you thinking in new and creative ways about our course material and encourage you to bring your different talents and perspectives to the work that we are doing together.
+Throughout the course, you will have the opportunity to complete two creative projects related to different aspects of our course content. These projects are intended to get you thinking in new and creative ways about our course material and encourage you to bring your different talents and perspectives to the work that we are doing together.
 
 Further details on each of the assignments can be found [here](https://dominicmachado.github.io/creative-projects-clas199-s24).
 
