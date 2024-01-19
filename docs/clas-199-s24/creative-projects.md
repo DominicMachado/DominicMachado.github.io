@@ -16,6 +16,7 @@ nav_order: 4
 ## Creative Project #1: Make a Youtube Video!
 &nbsp;
 
+**Details**
 - Due: February 14-17 (share with me via email)
 - Length: 10 - 12 minutes
 - Format: .mov/.wmv
