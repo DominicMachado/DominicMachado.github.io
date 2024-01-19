@@ -4,7 +4,7 @@ title: Creative Projects
 permalink: creative-projects-clas199-s24
 parent: Assessment
 grand_parent: CLAS 199 - S24
-nav_order: 2
+nav_order: 4
 ---
 ***
 
