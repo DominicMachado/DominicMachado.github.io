@@ -22,9 +22,11 @@ Simultaneously, our classroom is a space where we can push, critique, and probe 
 
 ***
 
-## Assessment Criteria
+## Assessment
 
-You can receive up to two engagement points per class (48 total possible points). You will receive one point by showing up and demonstrating ongoing attentiveness and active listening. You will receive the second point by participating meaningfully. Here are some guidelines for meaningful class participation:
+You can receive up to two engagement points per class (48 total possible points). To earn a satisfactory grade for class participation, you must earn 45 out of the possible 48 participation points.  
+
+You will receive one point by showing up and demonstrating ongoing attentiveness and active listening. You will receive the second point by participating meaningfully. Here are some guidelines for meaningful class participation:
  
 - Ask a question or make a comment about something we’re discussing in class.
 - Ask a question or make a comment about one of the readings.
@@ -37,7 +39,5 @@ You can receive up to two engagement points per class (48 total possible points)
 - Find a way to express appreciation for the enlightenment you have gained from the discussion.  Try to be specific about what it was that helped you understand something better.
  
 If you are a “quiet learner,” make sure to come talk with me. There are alternative ways to have your voice heard, from reflective emails after class to meeting with me during student hours to discuss your ideas.
-
-To earn a satisfactory grade for class participation, you must earn 45 out of the possible 48 participation points.  
 
 ***
