@@ -10,6 +10,7 @@ nav_order: 4
 
 # Creative Projects - CLAS 199 - S24
 &nbsp;
+
 ***
 
 ## Creative Project #1: Make a Youtube Video!
@@ -19,7 +20,9 @@ nav_order: 4
 - Due: February 14-17 (share with me via email)
 - Length: 10 - 12 minutes
 - Format: .mov/.wmv
- 
+
+***
+
 ## Assignment
 &nbsp;
 
@@ -30,6 +33,8 @@ Your video lesson (10 -12 minutes) should 1) define three key terms - race, raci
 You may use the Media Suites of the Multimedia Resource Center in Stein 324 OR the Production Studio of Digital Media Services in Stein 104. They have great equipment and services, including a green screen, professional lighting, professional cameras, and post-production work like titles, overlays, etc. If you are interested in using their services, you need to organize a meeting with them ASAP.
 
 Most importantly, have fun!!!!
+
+***
 
 ## Assessment Criteria
 &nbsp;
