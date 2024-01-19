@@ -74,3 +74,6 @@ Two of the core responsibilities are not completed on-time or not completed acco
 Not completing three or more of the core responsibilities on-time or not completing them
 according to the guidelines or spirit of the assignment will result in a failing grade.
  
+[Back to top.](#top)
+
+***
