@@ -23,6 +23,8 @@ I want to create a class environment that bucks these trends. I want to encourag
 
 So how do I plan to manage to accomplish all this, while still giving you an end of semester grade? I plan to adopt a version of specification grading, an assessment system in which assignments are graded on a satisfactory/unsatisfactory scale. Each assignment will have a pre-circulated rubric for achieving a satisfactory grade. Semester grades will be assigned based on the number and type of satisfactory assignments completed. In this system, grades are not arbitrarily assigned – they are earned by the work that you do. Further, you get to decide exactly how much time and energy you want to commit to the course in order to achieve the grade you desire.
 
+***
+
 ## How Specification Grading Works
 &nbsp;
 
@@ -33,6 +35,8 @@ assignment, I will provide detailed guidelines. Your work must meet both the spe
 and the spirit of those parameters in order for the assignment to count as satisfactory. The basis for these specifications is based on the expectations and spirit of the work to be done. Since the focus is on your learning, the spirit of each assignment is that you are attempting to grow in your skills in critical reading, in your understanding of race as a historical phenomenon, and the contexts of ancient Mediterranean world, in your writing skills, and in your academic practices and habits, including curiosity, critical generosity, intellectual courage, intellectual honesty and integrity, and intellectual thoroughness.
 
 I also believe that revision is an important part of the learning process. If you earn an unsatisfactory grade on an assignment, you will have ten days upon receipt of our comments to submit a revised version and earn full credit for it. 
+
+***
 
 ## The Grading Rubric
 &nbsp;
