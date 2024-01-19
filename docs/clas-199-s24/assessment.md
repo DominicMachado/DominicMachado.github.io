@@ -34,13 +34,13 @@ Further details on the commonplace book assignment and grading criteria can be f
 &nbsp;  
 Throughout the course, you will keep a commonplace book, in which you will respond to and reflect on assigned readings. These responses, which are due on a weekly basis, are intended help you engage more deeply with the readings and will offer us a starting point for in-class discussion.
 
-Further details on the commonplace book assignment and grading criteria can be found [here]().
+Further details on the commonplace book assignment and grading criteria can be found [here](https://dominicmachado.github.io/commonplace-book-clas199-s24).
 
 [Back to top.](#top)
 
 ***
 
-## Creative Projects (due X)
+## Creative Projects (due X-Y; due X-Y)
 &nbsp;  
 Throughout the course, you will have the opportunity to complete two creative projects [NAME] related to different aspects of our course content. These projects are intended to get you thinking in new and creative ways about our course material and encourage you to bring your different talents and perspectives to the work that we are doing together.
 
