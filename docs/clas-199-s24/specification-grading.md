@@ -13,6 +13,7 @@ nav_order: 1
 ***
 
 ## The “Grading” System
+&nbsp;
 
 Learning is what we are here for. I hope you are, too—you will have to make that determination. 
 
@@ -23,6 +24,7 @@ I want to create a class environment that bucks these trends. I want to encourag
 So how do I plan to manage to accomplish all this, while still giving you an end of semester grade? I plan to adopt a version of specification grading, an assessment system in which assignments are graded on a satisfactory/unsatisfactory scale. Each assignment will have a pre-circulated rubric for achieving a satisfactory grade. Semester grades will be assigned based on the number and type of satisfactory assignments completed. In this system, grades are not arbitrarily assigned – they are earned by the work that you do. Further, you get to decide exactly how much time and energy you want to commit to the course in order to achieve the grade you desire.
 
 ## How Specification Grading Works
+&nbsp;
 
 I want to be clear that no letter/number grade on your assignments does not mean no feedback on them. I will respond to your work, and my hope is that my feedback will be more meaningful to you when a letter or number grade is not present to divert your attention.
 
@@ -33,6 +35,7 @@ and the spirit of those parameters in order for the assignment to count as satis
 I also believe that revision is an important part of the learning process. If you earn an unsatisfactory grade on an assignment, you will have ten days upon receipt of our comments to submit a revised version and earn full credit for it. 
 
 ## The Grading Rubric
+&nbsp;
 
 There are a set of core responsibilities for the course, all of which will have specific guidelines for each one. Completing these responsibilities successfully satisfies the specifications for the standard grade in the course of B+. That is, if you complete these endeavors according to the specified guidelines and the spirit of learning they embody, your course grade will be a B+. It will be lower than that only if you do not complete one or more of the core requirements according to the specifications.
 
@@ -43,7 +46,8 @@ you to work more intentionally with theoretical approaches to race throughout th
 
 Below is a summary of the quantity and, more importantly, quality of work required to achieve each course grade.
 
-**Course Grade of B+ (standard grade)**:
+**Course Grade of B+ (standard grade):**
+
 All of the core responsibilities listed below must be successfully satisfied. Written work is submitted on-time and completed according to the specifications and spirit of each endeavor. Class attendance and participation is engaged and contributes to the class community, with no unexcused absences (see below for more details on engagement).  
 - Class attendance and engagement
 - 10 commonplace book entries
@@ -51,20 +55,22 @@ All of the core responsibilities listed below must be successfully satisfied. Wr
 - Creative project #2
 - Oral exam
 
-**Course Grade of A**
-All of the core responsibilities are satisfied as above. The additional labor required for an A will be the successful completion of the following:
+**Course Grade of A:**
+
+All of the core responsibilities are satisfied as above. The additional labor required for an A will be the successful completion of both of the following:
 - 3 additional commonplace book entries on theoretical approaches to the study of race (readings and due dates to be chosen in consultation with Profs. Machado)
-- A short analysis of a modern misappropriation of ancient ideas about race (requires a successful proposal by Feb X and must be turned in by Apr X)
+- A short analysis of a modern misappropriation of ancient ideas about race (requires a successful proposal by Mar 16 and must be turned in by Apr 27)
 
-**Course Grade of B-**
-One of the core responsibilities (apart from attendance and engagement) is not completed on-time or not completed according to the
-guidelines or spirit of the assignment.
+**Course Grade of B**:
 
-Course Grade of C
-Two of the core responsibilities are not completed on-time or not completed according to the
-guidelines or spirit of the assignment.
+One of the core responsibilities is not completed on-time or not completed according to the guidelines or spirit of the assignment.
 
-Course Grade of F
+**Course Grade of C**:
+
+Two of the core responsibilities are not completed on-time or not completed according to the guidelines or spirit of the assignment.
+
+**Course Grade of F**:
+
 Not completing three or more of the core responsibilities on-time or not completing them
 according to the guidelines or spirit of the assignment will result in a failing grade.
  
