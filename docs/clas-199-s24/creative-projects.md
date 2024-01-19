@@ -14,13 +14,13 @@ nav_order: 4
 
 ## Creative Project #1: Make a Youtube Video!
 &nbsp;
-**Details**
 
+**Details**
 - Due: February 14-17 (share with me via email)
 - Length: 10 - 12 minutes
 - Format: .mov/.wmv
  
-**Assignment**
+## Assignment
 &nbsp;
 
 Over the last few weeks, we have been delving into the study of race as an ideological and historical concept. We have looked into how it has been theorized, different approaches to studying it, and its applications in the ancient Mediterranean world. This project asks you to create a short video lesson for future Holy Cross students summarizing and reflecting what we have learned about so far in the class in a discrete and digestible format.
@@ -31,7 +31,7 @@ You may use the Media Suites of the Multimedia Resource Center in Stein 324 OR t
 
 Most importantly, have fun!!!!
 
-**Assessment Criteria**
+## Assessment Criteria
 &nbsp;
 
 A satisfactory project will:
