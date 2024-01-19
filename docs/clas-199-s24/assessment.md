@@ -26,8 +26,6 @@ Attendance, reading, and active participation are essential to achieving our cou
 
 Further details on the grading criteria for attendance and engagement can be found [here](https://dominicmachado.github.io/attendance-engagement-clas199-s24).
 
-[Back to top.](#top)
-
 ***
 
 ## Commonplace Book
