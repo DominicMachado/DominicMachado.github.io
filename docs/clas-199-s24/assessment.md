@@ -40,21 +40,21 @@ Further details on the commonplace book assignment and grading criteria can be f
 
 ***
 
-## Creative Projects (due X-Y; due X-Y)
+## Creative Projects (due Feb 14-17; due Apr 8-11)
 &nbsp;  
 Throughout the course, you will have the opportunity to complete two creative projects [NAME] related to different aspects of our course content. These projects are intended to get you thinking in new and creative ways about our course material and encourage you to bring your different talents and perspectives to the work that we are doing together.
 
-Further details on each of the assignments can be found [here]().
+Further details on each of the assignments can be found [here](https://dominicmachado.github.io/creative-projects-clas199-s24).
 
 [Back to top.](#top)
 
 ***
 
-## Oral Exam (due by x)
+## Oral Exam (due May 10)
 &nbsp;  
 The final exam for the course will be an in-person conversation between the two of us in which you will demonstrate your learning this semester and your engagement with the key topics discussed in this course. The  will be a way for us to discuss key ideas
 
-Further details on each of the assignments can be found [here]().
+Further details on each of the assignments can be found [here](https://dominicmachado.github.io/oral-exam-clas199-s24).
 
 [Back to top.](#top)
 
