@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Commonplace Book
-permalink: commonplace-book-clas199-s24
+permalink: attendance-engagement-clas199-s24
 parent: Assessment
 grand_parent: CLAS 199 - S24
 nav_order: 3
