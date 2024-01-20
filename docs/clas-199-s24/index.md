@@ -33,9 +33,11 @@ In this course, we will study how race functioned in a society - the ancient Med
 &nbsp;  
 Everything that you need to know about this course is on this website. You can find out about [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and our [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24). 
 
-We will not but using a physical textbook, but rather an online textbook created by myself and several other colleagues in our department. Here you can find all sorts of useful readings, exercises, and resources to use.
-- [Sourcebook on race and ethnicity in the ancient world](https://drive.google.com/file/d/1W2mDquBzVIO9CS8zONornrroleLJhrCd/view?usp=share_link)
-- [Classics resource guide](https://libguides.holycross.edu/classics)
+There is no textbook for this course. You will be able to find all readings for this course linked our course schedule. If you want to learn more about anything we are discussing in class, feel free to check out the resources below:
+- [Kennedy, Roy, and Goldman's sourcebook on race and ethnicity in the ancient world](https://drive.google.com/file/d/1W2mDquBzVIO9CS8zONornrroleLJhrCd/view?usp=share_link)
+- [Race and Ethnicity in the Ancient Mediterranean World: Methods, Sources, and Assessments from Barnard College](https://classics.barnard.edu/race-and-ethnicity-ancient-mediterranean-world-methods-sources-and-assessments)
+- [Resources for Teaching Race and Ethnicity, Immigration, and Marginality in Classical Antiquity](https://rfkclassics.blogspot.com/p/teaching-race-and-ethnicity.html)
+- [Holy Cross Classics resource guide](https://libguides.holycross.edu/classics)
 
 [Back to top.](#top)
 
