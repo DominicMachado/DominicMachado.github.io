@@ -18,7 +18,7 @@ has_children: true
 - **Meeting Time:** M, W 3:00 - 4:15 PM
 - **Meeting Place:** Stein 118B
 - **Instructor** Prof. Machado
-- **Student Hours**: Tu 2:30 – 4 PM, Th 1 - 2:30 PM, Fenwick 413
+- **Student Hours**: Tu 1 – 2:30 PM, Th 2:30 – 4 PM, Fenwick 413
 - **E-mail**: dmachado@holycross.edu
 
 When we think about race in 21st century America, our minds immediately think of its epidermic manifestation: skin color. Indeed, due to the realities of the transatlantic slave trade and the colonization of the Americas, our perception of race revolves around the dichotomy between Blackness and whiteness. But race, as scholars over the last half century have shown, is not simply reducible to skin color - it is malleable, mercurial technology that serves to distribute power abd privilege within society.
@@ -46,15 +46,20 @@ There is no textbook for this course. You will be able to find all readings for 
 ### This Week at a Glance
 &nbsp;  
 
-![CRT](https://www.publicsource.org/wp-content/uploads/2022/02/AdobeStock_463610029-scaled.jpeg)
+![Racecraft](https://m.media-amazon.com/images/I/71OBfT25mzL._AC_UF1000,1000_QL80_.jpg)
 
 ***
-## Week 1 (1/23 - 1/27)
 
-### Wednesday, January 24
-- Course introduction
-- Learning about race
-- **Homework (due before class)**: Have a look through the course website and read our [course objectives](https://dominicmachado.github.io/course-objectives-clas199-s24), [course policies](https://dominicmachado.github.io/course-policies-clas199-s24), [assessment](https://dominicmachado.github.io/assessment-clas199-s24), and [full course schedule](https://dominicmachado.github.io/schedule-clas199-s24). Bring any questions that you have to class.
+## Week 2 (1/29 - 2/2)
+
+### Monday, January 29
+- Key Concepts: Race and Racism
+- **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation as a historical process.
+
+### Wednesday, January 31
+- Key Concepts: Racecraft
+- **Reading (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their conception of racecraft.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #1 due. Please share your commonplace book with me via Google Docs prior to class.
 
 [Back to top.](#top)
 
