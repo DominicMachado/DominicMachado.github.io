@@ -65,6 +65,12 @@ All of the core responsibilities are satisfied as above. The additional labor re
 - 3 additional commonplace book entries on theoretical approaches to the study of race (readings and due dates to be chosen in consultation with Prof. Machado)
 - A short analysis of a modern misappropriation of ancient ideas about race (requires a successful proposal by March 16 and must be turned in by April 27)
 
+**Course Grade of A-:**
+
+All of the core responsibilities are satisfied as above. The additional labor required for an A- will be the successful completion of one of the following:
+- 3 additional commonplace book entries on theoretical approaches to the study of race (readings and due dates to be chosen in consultation with Prof. Machado)
+- A short analysis of a modern misappropriation of ancient ideas about race (requires a successful proposal by March 16 and must be turned in by April 27)
+
 **Course Grade of B**:
 
 One of the core responsibilities is not completed on-time or not completed according to the guidelines or spirit of the assignment.
