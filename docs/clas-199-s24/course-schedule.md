@@ -35,11 +35,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 2 (1/29 - 2/2)
 
-### Monday, January 29 ([slides](https://docs.google.com/presentation/d/1aQZcgMO_1mT4KC5Bv0tXyGFDxo5pJGXzbN5E08wopQk/edit?usp=sharing)
+### Monday, January 29 ([slides](https://docs.google.com/presentation/d/1aQZcgMO_1mT4KC5Bv0tXyGFDxo5pJGXzbN5E08wopQk/edit?usp=sharing))
 - Key Concepts: Race and Racism
 - **Reading (due before class)**: Read Omi and Winant's [chapter](https://drive.google.com/file/d/1uj6EmKqOXzZGAGGzOslUlK5fEmDOkr0C/view?usp=sharing) on racial formation as a historical process.
 
-### Wednesday, January 31 ([slides](https://docs.google.com/presentation/d/1MfdAZMy8zelURxPwjVUHusDTejHL5WCwEw888O41NzM/edit?usp=sharing)
+### Wednesday, January 31 ([slides](https://docs.google.com/presentation/d/1MfdAZMy8zelURxPwjVUHusDTejHL5WCwEw888O41NzM/edit?usp=sharing))
 - Key Concepts: Racecraft
 - **Reading (due before class)**: Read Fields and Fields' [chapter](https://drive.google.com/file/d/1zJxdAji6VcV4AEcZJMFSdoQ0NZgOZuXe/view?usp=sharing) on their conception of racecraft.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #1 due. Please share your commonplace book with me via Google Docs prior to class.
