@@ -50,7 +50,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 3 (2/5 - 2/9)
 
-### Monday, February 5
+### Monday, February 5 ([slides](https://docs.google.com/presentation/d/1ENJyup7qc-J0uoSjaWVOK0EZrX5OADRAPmHS9yCC-2U/edit?usp=sharing))
 - Key Concepts: Race as Technology
 - **Reading (due before class)**: Read Sheth's [article](https://drive.google.com/file/d/1CTB1Tgsj4iMD5MSBWioE1vHzW-evsicW/view?usp=sharing) on race as a technology.
 
