@@ -56,7 +56,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, February 7
 - Race in the Ancient Mediterranean World, Part 1
-- **Reading (due before class)**: Read selections from McCoskey's [chapter](https://drive.google.com/file/d/1mJuEFHLU3w69p4y7H1bf2eT4OC7B1tSV/view?usp=sharing) on race in antiquity and give a listen to her [podcast](https://www.khameleonproductions.org/race-in-antiquity) on the same topic.
+- **Reading (due before class)**: Read selections from McCoskey's [chapter](https://drive.google.com/file/d/1mJuEFHLU3w69p4y7H1bf2eT4OC7B1tSV/view?usp=sharing) on race in antiquity and give a listen to her [podcast](https://www.listennotes.com/da/podcasts/khameleon-classics/race-in-antiquity-with--vBuQjfIRCo/#google_vignette) on the same topic.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #2 due. 
 
 [Back to top.](#top)
