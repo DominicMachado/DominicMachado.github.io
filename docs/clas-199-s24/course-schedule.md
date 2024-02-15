@@ -54,7 +54,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Key Concepts: Race as Technology
 - **Reading (due before class)**: Read Sheth's [article](https://drive.google.com/file/d/1CTB1Tgsj4iMD5MSBWioE1vHzW-evsicW/view?usp=sharing) on race as a technology.
 
-### Wednesday, February 7
+### Wednesday, February 7 ([slides](https://docs.google.com/presentation/d/1F3jFglpXhWeUT3Wh_D6hAg0zmyxOSw22KAqRN8yyBi0/edit?usp=sharing))
 - Race in the Ancient Mediterranean World, Part 1
 - **Reading (due before class)**: Read selections from McCoskey's [chapter](https://drive.google.com/file/d/1mJuEFHLU3w69p4y7H1bf2eT4OC7B1tSV/view?usp=sharing) on race in antiquity and give a listen to her [podcast](https://www.listennotes.com/da/podcasts/khameleon-classics/race-in-antiquity-with--vBuQjfIRCo/#google_vignette) on the same topic.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #2 due. 
@@ -65,11 +65,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 4 (2/12 - 2/16)
 
-### Monday, February 12
+### Monday, February 12 ([slides](https://docs.google.com/presentation/d/1qSLWodhe8g6aBIruZvA5j3wUPAcLSq7PGMQDyXfq64I/edit?usp=sharing))
 - Race in the Ancient Mediterranean World, Part 2
 - **Homework (due before class)**: Listen to the [conversation](https://www.youtube.com/watch?v=sdOlrsBNU2I) between Jackie Murray and Rebecca Futo Kennedy, focusing in particular on the bit from 18:00 - 38:00.
   
-### Wednesday, February 14
+### Wednesday, February 14 ([slides](https://docs.google.com/presentation/d/1j5I23OHU6_kccwCWY2-wUZOOlZhi2CBX8locFpsfRS4/edit?usp=sharing)
 - Reading Ancient Sources: A Primer
 - **Assessment (due before class)**: [Creative project #1]() due between 2/14 and 2/18.
 
