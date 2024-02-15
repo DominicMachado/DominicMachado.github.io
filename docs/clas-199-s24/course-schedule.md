@@ -69,7 +69,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - Race in the Ancient Mediterranean World, Part 2
 - **Homework (due before class)**: Listen to the [conversation](https://www.youtube.com/watch?v=sdOlrsBNU2I) between Jackie Murray and Rebecca Futo Kennedy, focusing in particular on the bit from 18:00 - 38:00.
   
-### Wednesday, February 14 ([slides](https://docs.google.com/presentation/d/1j5I23OHU6_kccwCWY2-wUZOOlZhi2CBX8locFpsfRS4/edit?usp=sharing)
+### Wednesday, February 14 ([slides](https://docs.google.com/presentation/d/1j5I23OHU6_kccwCWY2-wUZOOlZhi2CBX8locFpsfRS4/edit?usp=sharing))
 - Reading Ancient Sources: A Primer
 - **Assessment (due before class)**: [Creative project #1]() due between 2/14 and 2/18.
 
