@@ -97,8 +97,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Homework (due before class)**: Read the selections from [Chapter 5](https://drive.google.com/file/d/1_5KPvN8sDvy7efzHjbBXHV-z5t6pYl-Y/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
 ### Wednesday, February 28
-- Defining Difference: Origin Stories
-- **Homework (due before class)**: Read the selections from [Chapter 2](https://drive.google.com/file/d/1_5KPvN8sDvy7efzHjbBXHV-z5t6pYl-Y/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
+- Defining Difference: Plato's Noble Lie
+- **Homework (due before class)**: Read Plato's Republic on the [noble lie](https://drive.google.com/file/d/1lt9lRVa69rfYG-UvZjqJYtqppLm0A28a/view?usp=drive_link)
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #4 due.
 
 ***
