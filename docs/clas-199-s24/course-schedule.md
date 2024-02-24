@@ -98,7 +98,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Wednesday, February 28
 - Defining Difference: "Divine" Difference
-- **Homework (due before class)**: Read the following [passage](https://drive.google.com/file/d/1lt9lRVa69rfYG-UvZjqJYtqppLm0A28a/view?usp=drive_link) from Plato's Republic on the noble lie.
+- **Homework (due before class)**: Read Hesiod's [myth of ages](https://drive.google.com/file/d/18mlGcXeVs2MCP9grJauNCz9pPBgvcU2A/view?usp=drive_link) and Plato's [noble lie](https://drive.google.com/file/d/1lt9lRVa69rfYG-UvZjqJYtqppLm0A28a/view?usp=drive_link).
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #4 due.
 
 ***
