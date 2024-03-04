@@ -119,3 +119,18 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #5 due.
 
 ***
+
+## Week 8 (3/18 - 3/23)
+
+### Monday, March 18
+- Race and Slavery: Aristotle's Politics
+- **Homework (due before class)**: Read the following selections from [Aristotle's *Politics*](https://drive.google.com/file/d/1RL9BHDKR0tv9b-9b6NzH5Uwn04wH1QU1/view?usp=sharing).
+  
+### Wednesday, March 20
+- Race and Warfare: Rome and Gaul
+- **Homework (due before class)**: Read the following selections from [Livy](https://drive.google.com/file/d/1FU3D2h2AGc4cYd3jNIdQa3dNhB6iKn4M/view?usp=sharing) and [Cicero](https://docs.google.com/document/d/1sTuUgGjx9y9Fsj9o__LjdOgXtOTXEIfObXB8oBjNY0E/edit?usp=sharing) about the Gauls.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #5 due.
+
+***
+
+
