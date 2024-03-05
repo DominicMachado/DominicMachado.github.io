@@ -18,7 +18,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 [Week 1: 1/22 - 1/26](#week-1) \| [Week 2: 1/29 - 2/2](#week-2) \| [Week 3: 2/5 - 2/9](#week-3) \|
 [Week 4: 2/12 - 2/16](#week-4) \| [Week 5: 2/19 - 2/23](#week-5) \| [Week 6: 2/26 - 3/1](#week-6) \| [Week 7: 3/11 - 3/15](#week-7) \| [Week 8: 3/18 - 3/22](#week-8) \| [Week 9: 3/25 - 3/29](#week-9) \|
-[Week 10: 4/1 - 4/5](#week-10) \| [Week 11: 4/8 - 4/12](#week-11) \| [Week 6: 4/15 - 4/19](#week-12) \|
+[Week 10: 4/1 - 4/5](#week-10) \| [Week 11: 4/8 - 4/12](#week-11) \| [Week 12: 4/15 - 4/19](#week-12) \| [Week 13: 4/22 - 4/26](#week-13) \| [Week 14: 4/29 - 5/3](#week-14) \| [Week 15: 5/6 - 5/10](#week-15) \|
 
 ***
 
@@ -162,7 +162,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Assessment**: [Creative project #2] due between 4/5 and 4/9.
   
 ### Wednesday, April 10
-- Race and Religion: Racializing Jews and Christians
+- Race and Religion: The Ancient Origins of Anti-Semitism
 - **Homework (due before class)**: 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
@@ -171,7 +171,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/15 - 4/19)
 
 ### Monday, April 15
-- Race and Religion: Christianity and Racialization
+- Race and Religion: Racialization and the Birth of Christianity
 - **Homework (due before class)**: 
   
 ### Wednesday, April 17
@@ -198,6 +198,14 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ### Wednesday, May 1
 - Color Prejudice in the Ancient World
 - **Homework (due before class)**: 
-- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #10 due.
+
+***
+
+## Week 15 (5/6 - 5/10)
+
+### Monday, May 6
+- Concluding Thoughts
+- **Assessment**: Sign up and prepare for your final oral exam.
 
 ***
