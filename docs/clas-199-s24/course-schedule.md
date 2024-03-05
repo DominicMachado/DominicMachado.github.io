@@ -71,7 +71,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, February 14 ([slides](https://docs.google.com/presentation/d/1j5I23OHU6_kccwCWY2-wUZOOlZhi2CBX8locFpsfRS4/edit?usp=sharing))
 - Reading Ancient Sources: A Primer
-- **Assessment (due before class)**: [Creative project #1]() due between 2/14 and 2/18.
+- **Assessment**: [Creative project #1]() due between 2/14 and 2/18.
 
 [Back to top.](#top)
 
@@ -150,6 +150,19 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, April 3
 - Race and Empire: Becoming Roman
-- **Homework (due before class)**: Read .
+- **Homework (due before class)**: Read Greg Woolf's article on [becoming Roman](https://drive.google.com/file/d/1bUbpBz6p58P75VYul8u_XfDKYSCDnwkS/view?usp=sharing).
+
+***
+
+## Week 11 (4/8 - 4/12)
+
+### Monday, April 8
+- Race and Immigration: Barbarians Inside the Gate
+- **Assessment**: [Creative project #2] due between 4/5 and 4/9.
+  
+### Wednesday, April 10
+- Race and Immigration: Barbarians Inside the Gate
+- **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
 ***
