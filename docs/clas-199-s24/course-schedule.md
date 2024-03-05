@@ -17,7 +17,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ***
 
 [Week 1: 1/22 - 1/26](#week-1) \| [Week 2: 1/29 - 2/2](#week-2) \| [Week 3: 2/5 - 2/9](#week-3) \|
-[Week 4: 2/12 - 2/16](#week-4) \| [Week 5: 2/19 - 2/23](#week-5) \| [Week 6: 2/26 - 3/1](#week-6) \|
+[Week 4: 2/12 - 2/16](#week-4) \| [Week 5: 2/19 - 2/23](#week-5) \| [Week 6: 2/26 - 3/1](#week-6) \| [Week 7: 3/11 - 3/15](#week-7) \| [Week 8: 3/18 - 3/22](#week-8) \| [Week 9: 3/25 - 3/29](#week-9) \|
+[Week 10: 4/1 - 4/5](#week-10) \| [Week 11: 4/8 - 4/12](#week-11) \| [Week 6: 4/15 - 4/19](#week-12) \|
 
 ***
 
@@ -120,7 +121,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 8 (3/18 - 3/23)
+## Week 8 (3/18 - 3/22)
 
 ### Monday, March 18
 - Race and Slavery: The Slave Trade and the Rise of Ethnography
@@ -133,7 +134,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ***
 
-## Week 9 (3/25 - 3/30)
+## Week 9 (3/25 - 3/29)
 
 ### Monday, March 25
 - Race and Empire: Carthage
@@ -149,20 +150,54 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/1 - 4/5)
   
 ### Wednesday, April 3
-- Race and Empire: Becoming Roman
-- **Homework (due before class)**: Read Greg Woolf's article on [becoming Roman](https://drive.google.com/file/d/1bUbpBz6p58P75VYul8u_XfDKYSCDnwkS/view?usp=sharing).
+- Race and Immigration: Barbarians Inside the Roman Gates
+- **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
 
 ***
 
 ## Week 11 (4/8 - 4/12)
 
 ### Monday, April 8
-- Race and Immigration: Barbarians Inside the Gate
+- Race and Gender: Intersectionality in the Greco-Roman World
 - **Assessment**: [Creative project #2] due between 4/5 and 4/9.
   
 ### Wednesday, April 10
-- Race and Immigration: Barbarians Inside the Gate
-- **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
+- Race and Religion: Racializing Jews and Christians
+- **Homework (due before class)**: 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
+
+***
+
+## Week 12 (4/15 - 4/19)
+
+### Monday, April 15
+- Race and Religion: Christianity and Racialization
+- **Homework (due before class)**: 
+  
+### Wednesday, April 17
+- Color Prejudice in the Ancient World
+- **Homework (due before class)**: 
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
+
+***
+
+## Week 13 (4/22 - 4/26)
+
+### Monday, April 22
+- Blackness
+- **Homework (due before class)**: 
+
+***
+
+## Week 14 (4/29 - 5/3)
+
+### Monday, April 29
+- Race and Religion: Christianity and Racialization
+- **Homework (due before class)**: 
+  
+### Wednesday, May 1
+- Color Prejudice in the Ancient World
+- **Homework (due before class)**: 
+- **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
 ***
