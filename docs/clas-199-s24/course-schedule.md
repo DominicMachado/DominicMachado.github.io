@@ -129,7 +129,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, March 20
 - Race and Slavery: Aristotle's Politics
-- **Homework (due before class)**: Read the following selections from [Aristotle's *Politics*](https://drive.google.com/file/d/1RL9BHDKR0tv9b-9b6NzH5Uwn04wH1QU1/view?usp=sharing).
+- **Homework (due before class)**: Read the following selections from [Aristotle's *Politics*](https://drive.google.com/file/d/1RL9BHDKR0tv9b-9b6NzH5Uwn04wH1QU1/view?usp=sharing) on natural slavery.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #6 due.
 
 ***
@@ -152,7 +152,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, April 3
 - Race and Empire: Ptolemaic Egypt
-- **Homework (due before class)**: Read McCoskey's chapter on [Ptolemaic Egypt](https://drive.google.com/file/d/1iL_gFlgXu9ws-IDHpWPwv7NYwZoxiN1G/view?usp=sharing).
+- **Homework (due before class)**: Read McCoskey's [chapter](https://drive.google.com/file/d/1iL_gFlgXu9ws-IDHpWPwv7NYwZoxiN1G/view?usp=sharing) on the racial dynamics and practices of Ptolemaic Egypt.
 
 ***
 
@@ -163,8 +163,8 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Assessment**: [Creative project #2] due between 4/5 and 4/9.
   
 ### Wednesday, April 10
- - Race and Gender: Intersectionality in the Greco-Roman World
-    **Homework (due before class)**:
+- Race and Gender: Intersectionality in the Greco-Roman World
+- **Homework (due before class)**: Read Shelley Haley's [chapter](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=sharing) on the intersection of race and gender in the Greco-Roman world.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
 ***
