@@ -137,12 +137,13 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 9 (3/25 - 3/29)
 
 ### Monday, March 25
-- Race and Empire: Carthage
-- **Homework (due before class)**: Read my co-authored [article](https://drive.google.com/file/d/1n6Yc727KR6yTZK0ax04kllBywr9Qw1AK/view?usp=sharing) on Carthage, empire, and racecraft. 
+- Race and Immigration: Barbarians Inside the Roman Gates
+- **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
+. 
   
 ### Wednesday, March 27
-- Race and Empire: Ptolemaic Egypt
-- **Homework (due before class)**: Read McCoskey's chapter on [Ptolemaic Egypt](https://drive.google.com/file/d/1iL_gFlgXu9ws-IDHpWPwv7NYwZoxiN1G/view?usp=sharing).
+- Race and Empire: Becoming Roman
+- **Homework (due before class)**: Read Woolf's article on [becoming Roman](https://drive.google.com/file/d/1bUbpBz6p58P75VYul8u_XfDKYSCDnwkS/view?usp=drive_link) while staying Greek.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #7 due.
 
 ***
@@ -150,20 +151,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 10 (4/1 - 4/5)
   
 ### Wednesday, April 3
-- Race and Immigration: Barbarians Inside the Roman Gates
-- **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
+- Race and Empire: Ptolemaic Egypt
+- **Homework (due before class)**: Read McCoskey's chapter on [Ptolemaic Egypt](https://drive.google.com/file/d/1iL_gFlgXu9ws-IDHpWPwv7NYwZoxiN1G/view?usp=sharing).
 
 ***
 
 ## Week 11 (4/8 - 4/12)
 
 ### Monday, April 8
-- Race and Gender: Intersectionality in the Greco-Roman World
+- Race and Empire: Carthage
 - **Assessment**: [Creative project #2] due between 4/5 and 4/9.
   
 ### Wednesday, April 10
-- Race and Religion: The Ancient Origins of Anti-Semitism
-- **Homework (due before class)**: 
+ - Race and Gender: Intersectionality in the Greco-Roman World
+    **Homework (due before class)**:
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
 ***
@@ -171,11 +172,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/15 - 4/19)
 
 ### Monday, April 15
-- Race and Religion: Racialization and the Birth of Christianity
-- **Homework (due before class)**: 
+- Race and Religion: The Ancient Origins of Anti-Semitism
+- **Homework (due before class)**:
   
 ### Wednesday, April 17
-- Color Prejudice in the Ancient World
+- Race and Religion: Racialization and the Birth of Christianity
 - **Homework (due before class)**: 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
@@ -184,20 +185,20 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/22 - 4/26)
 
 ### Monday, April 22
-- Blackness
-- **Homework (due before class)**: 
+- Color Prejudice in the Ancient World: Whiteness Reconsidered
+- **Homework (due before class)**: Read James Dee's [article](https://drive.google.com/file/d/1ICSEPKuPBpjm-tlve4KgbmyBqgtzh63S/view?usp=sharing) on the invention of whiteness. 
 
 ***
 
 ## Week 14 (4/29 - 5/3)
 
 ### Monday, April 29
-- Race and Religion: Christianity and Racialization
-- **Homework (due before class)**: 
+- Color Prejudice in the Ancient World: Blackness Reconsidered, Part 1
+- **Homework (due before class)**: Read Shelley Haley's [article](https://drive.google.com/file/d/1iU32VSUU0ekve0jq0ZDxrtJ-y8agne_f/view?usp=sharing) on the ways in which modern Blackness shapes our readings of ancient color. 
   
 ### Wednesday, May 1
-- Color Prejudice in the Ancient World
-- **Homework (due before class)**: 
+- Color Prejudice in the Ancient World: Blackness Reconsidered, Part 2
+- **Homework (due before class)**: Read Sarah Derbrew's [chapter](https://drive.google.com/file/d/17lHLBrr0HpMPy0q5fOUGgzfJJwAF3syT/view?usp=sharing) on Blackness in ancient art. 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #10 due.
 
 ***
