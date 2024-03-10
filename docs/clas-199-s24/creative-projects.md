@@ -51,3 +51,25 @@ A satisfactory project will:
 -	Include a list of any pictures or visual media that you use in your video with hyperlinks to their provenance
 
 ***
+
+## Creative Project #2: Deep Engagement!
+&nbsp;
+
+**Details**
+- Due: April 5-9 (share with me via email or in person)
+- Length: One creative engagement and an artist's statement (400 words)k
+
+***
+
+## Assignment
+&nbsp;
+
+Over the last few weeks, we have been studying how people in the ancient Mediterranean engaged in racial thinking and put it to use for political purpose. The purpose of this second project is to respond to these ideas, show how you have assimilated it, and add your own insight and perspective on it. 
+
+This will take one of two forms: a creative reenvisioning of an ancient text that we have read for class or a scholarly paper that compares and contrasts two ancient passages and their conceptions of race.
+
+For the creative reenvisioning, it will center around a theme or aspect of race in the ancient world that we have discussed in class, drawing specifically on at least one text we’ve read in this course. You could reinterpret your passage/theme through a piece of “Fan Fiction,” a short story, a set of poems, a song, or by creating visual imagery. You could rewrite or write your own version of a passage for performance, translate it for online format, or record a podcast. There are numerous options!
+
+All creative projects must be submitted with a title and Artist’s Statement. The Artist’s Statement must be at least 400 words: describe how you chose your topic, text(s), and approach; what artistic choices you made in your creative adaptation and what you hoped to express in this adaptation; and what you intended to capture and/or change from the original. Then comment on what you found enjoyable about the project, what was challenging, and what you learned from making it.
+Your project must show evidence that you have taken the artistic process seriously with several hours of effort/investment, in addition to the Artist’s Statement.
+Your project must be turned in on Canvas no later than April 21 at 11:59 pm.
