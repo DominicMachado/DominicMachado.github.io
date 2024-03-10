@@ -86,12 +86,12 @@ A satisfactory project will:
 
 ***
 
-## Creative Project #2: Deep Engagement (Option A)
+## Creative Project #2: Deep Engagement (Option B)
 &nbsp;
 
 **Details**
-- Due: April 5-9 (share with me via email or in person)
-- Length: One creative engagement and an artist's statement (400 words)
+- Due: April 5-9 (share with me via email)
+- Length: 1200 - 1500 words, including a 200 word self-assessment
 
 ***
 
@@ -100,9 +100,11 @@ A satisfactory project will:
 
 Over the last few weeks, we have been studying how people in the ancient Mediterranean engaged in racial thinking and put it to use for political purpose. The purpose of this second project is to respond to these ideas, show how you have assimilated it, and add your own insight and perspective on it. 
 
-Your creative reenvisioning will center around a theme or aspect of race in the ancient world that we have discussed in class, drawing specifically on at least one ancient text we’ve read in this course. You could reinterpret your passage/theme through a piece of “Fan Fiction,” a short story, a set of poems, a song, or by creating visual imagery. You could rewrite or write your own version of a passage for performance, translate it for online format, or record a podcast. There are numerous options!
+Your scholarly paper (4-5 pages) will compare and contrast the ways in which two short passages that we have read engage with the idea of race. You might discuss, for example, the theories of race that they engage with, the historical context in which they were written, the larger ideas they reflect, or even their modern consequences. Your paper must use two texts and at least two scholarly secondary sources. For secondary sources, you can use articles assigned in the course, but they must first be cleared by me. Wikipedia, general encyclopedia entries, etc. do not count.
 
-All creative projects must be submitted with a title and Artist’s Statement. The Artist’s Statement must be at least 400 words and describe how you chose your topic, text(s), and approach. It should address the artistic choices you made in your creative adaptation and what you hoped to express in this adaptation; and what you intended to capture and/or change from the original. Then comment on what you found enjoyable about the project, what was challenging, and what you learned from making it.
+Your paper should have a strong and persuasive thesis, an argument that marshals evidence and expresses a clear interpretation of the evidence, and an introduction and conclusion. Your argument should be broken up into paragraph-sized chunks (4-6 sentences) with a topic sentence.
+
+Finally, you must include a 200 word self-assessment that discusses the following: why you chose the specific passages for your paper, what you hoped to express or do in the paper that was new or noteworthy, what you felt went well, what was challenging, and what you learned in the process.
 
 ***
 
@@ -110,12 +112,12 @@ All creative projects must be submitted with a title and Artist’s Statement. T
 &nbsp;
 
 A satisfactory project will:
-- Be shared via email with me or handed in between April 5 and 9
--	Engage with a specific theme related to the ancient world
--	Draw on one ancient text that we have read for class
--	Include an artist statement of at least 400 words long
--	Discuss how you got to your topic, chose your text, and your artistic choices
--	Share what you found enjoyable and frustrating about the project
--	Highlight what you learned from this engagement
+- Be shared via email with me in between April 5 and 9
+-	Be 1200-1500 words in length
+-	Compare and contrast how two passages that you have read for class engage with race
+-	Cite and engage with two secondary sources
+-	Have a strong and persuasive thesis that makes an argument
+-	Be broken into paragraphs, including an introduction and conclusion
+-	Have a 200-word self-assessment that discusses your choice of passage, your successes and failures, and what you learned in the process
 
 ***
