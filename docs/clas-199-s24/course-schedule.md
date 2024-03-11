@@ -111,7 +111,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 7 (3/11 - 3/15)
 
 ### Monday, March 11
-- Race and Warfare: The Case of Athens
+- Race and Warfare: Greeks and Persians
 - **Homework (due before class)**: No homework! Enjoy your break!
 
 ### Wednesday, March 13
