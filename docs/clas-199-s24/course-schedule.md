@@ -80,11 +80,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 5 (2/19 - 2/23)
 
-### Monday, February 19
+### Monday, February 19 ([slides](https://docs.google.com/presentation/d/1VXxn-mMmHU69U_3Ge1hcJS9TO6Eu876eD7UHX6P4wck/edit?usp=sharing))
 - Defining Difference: Environmental Factors
 - **Homework (due before class)**: Read the selections from [Chapter 3](https://drive.google.com/file/d/1KNdvCPgRVsFTdyVAs7uQcbG-xnEED2jH/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
-### Wednesday, February 21
+### Wednesday, February 21 ([slides](https://docs.google.com/presentation/d/1sG7-ENw0Ri2M3Mo27hqv1YSR2noXAoVHfrRLwcoXwAk/edit?usp=sharing))
 - Defining Difference: "Genetic" Factors
 - **Homework (due before class)**: Read the selections from [Chapter 4](https://drive.google.com/file/d/15NjkV6PILNORXt_9qnKq1CsXFaNoOy1H/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #3 due.
@@ -93,11 +93,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 6 (2/26 - 3/1)
 
-### Monday, February 26
+### Monday, February 26 
 - Defining Difference: Custom and Culture
 - **Homework (due before class)**: Read the selections from [Chapter 5](https://drive.google.com/file/d/1_5KPvN8sDvy7efzHjbBXHV-z5t6pYl-Y/view?usp=sharing) from Kennedy, Roy, and Goldman's race and ethnicity sourcebook.
 
-### Wednesday, February 28
+### Wednesday, February 28 ([slides](https://docs.google.com/presentation/d/1AF0XsO7GWA3aJbvovsRwTtsUMfE5NxGvzDGx-YS-Zqc/edit?usp=sharing))
 - Defining Difference: "Divine" Difference
 - **Homework (due before class)**: Read Hesiod's [myth of ages](https://drive.google.com/file/d/18mlGcXeVs2MCP9grJauNCz9pPBgvcU2A/view?usp=drive_link) and Plato's [noble lie](https://drive.google.com/file/d/1lt9lRVa69rfYG-UvZjqJYtqppLm0A28a/view?usp=drive_link).
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #4 due.
@@ -110,11 +110,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 7 (3/11 - 3/15)
 
-### Monday, March 11
+### Monday, March 11 ([slides](https://docs.google.com/presentation/d/1dI9_AycIQgBZYwkzrIaHj1dzSfdBDzCRvjYq_elphRY/edit?usp=sharing))
 - Race and Warfare: Greeks and Persians
 - **Homework (due before class)**: No homework! Enjoy your break!
 
-### Wednesday, March 13
+### Wednesday, March 13 ([slides](https://docs.google.com/presentation/d/1-iaRWfF75R2Yi4-XIBpWxstALQJLZUwG-sj-7JlNczI/edit?usp=sharing))
 - Race and Warfare: Rome and Gaul
 - **Homework (due before class)**: Read the following selections from [Livy](https://drive.google.com/file/d/1FU3D2h2AGc4cYd3jNIdQa3dNhB6iKn4M/view?usp=sharing) and [Cicero](https://docs.google.com/document/d/1sTuUgGjx9y9Fsj9o__LjdOgXtOTXEIfObXB8oBjNY0E/edit?usp=sharing) about the Gauls.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #5 due.
