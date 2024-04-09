@@ -177,7 +177,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, April 17
 - Race and Religion: The Origins of Anti-Semitism in the Ancient World
-- **Homework (due before class)**: Read the excerpts from Kennedy, Roy, and Goldman on
+- **Homework (due before class)**: Read the [excerpts](https://drive.google.com/file/d/1V_4H5Oan2YzAhFGWcI7Al1MCBlJVPj9W/view?usp=drive_link) from Kennedy, Roy, and Goldman on Jews in tna
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
 ***
