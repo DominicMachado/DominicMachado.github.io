@@ -186,7 +186,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, April 22
 - Race and Religion: Racializing Christians in the Ancient World
-- **Homework (due before class)**:  
+- **Homework (due before class)**: Read the following [excerpts](https://docs.google.com/document/d/1orlxNpzVZIuEeRY1APvd5V6Gq2x1T7wu9bwDvpd5jrA/edit?usp=sharing) from Minucius Felix's defense of Christianity in antiquity. 
 
 ***
 
