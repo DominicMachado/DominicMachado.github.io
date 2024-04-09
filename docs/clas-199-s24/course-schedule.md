@@ -177,7 +177,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
   
 ### Wednesday, April 17
 - Race and Religion: The Origins of Anti-Semitism in the Ancient World
-- **Homework (due before class)**: Read the [excerpts](https://drive.google.com/file/d/1V_4H5Oan2YzAhFGWcI7Al1MCBlJVPj9W/view?usp=drive_link) from Kennedy, Roy, and Goldman on Jews in tna
+- **Homework (due before class)**: Read the [excerpts](https://drive.google.com/file/d/1V_4H5Oan2YzAhFGWcI7Al1MCBlJVPj9W/view?usp=drive_link) from Kennedy, Roy, and Goldman on depictions of Jews in antiquity.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
 ***
@@ -194,11 +194,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ### Monday, April 29
 - Color Prejudice in the Ancient World: Whiteness and Blackness, Part 1
-- **Homework (due before class)**: Read James Dee's [article](https://drive.google.com/file/d/1ICSEPKuPBpjm-tlve4KgbmyBqgtzh63S/view?usp=sharing) on the invention of whiteness. 
+- **Homework (due before class)**: Read Sarah Debrew's [chapter](https://drive.google.com/file/d/17lHLBrr0HpMPy0q5fOUGgzfJJwAF3syT/view?usp=sharing) on the depiction of Blackness in art. 
   
 ### Wednesday, May 1
 - Color Prejudice in the Ancient World: Whiteness and Blackness, Part 2
-- **Homework (due before class)**: Read Sarah Derbrew's [chapter](https://drive.google.com/file/d/17lHLBrr0HpMPy0q5fOUGgzfJJwAF3syT/view?usp=sharing) on Blackness in ancient art. 
+- **Homework (due before class)**: Listen to Shelley Haley's [podcast](https://peoplingthepast.com/2024/03/19/podcast-season-3-episode-12-the-queens-gambits-rethinking-cleopatra-with-dr-shelley-haley/) on Cleopatra. 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #10 due.
 
 ***
