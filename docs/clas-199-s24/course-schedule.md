@@ -123,11 +123,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 8 (3/18 - 3/22)
 
-### Monday, March 18
+### Monday, March 18 ([slides](https://docs.google.com/presentation/d/1K3VVrmAZKMPUyKNeRQHCls6Hg8UiFIpUinYiNE2dTXQ/edit?usp=sharing))
 - Race and Slavery: The Slave Trade and the Rise of Ethnography
 - **Homework (due before class)**: Read Harrison's [article](https://drive.google.com/file/d/1NYAoY4JzMPOBJ_vnm5p3kl7CtAmUr7K7/view?usp=sharing) on the interconnection of Greek ethnography and the slave trade.
   
-### Wednesday, March 20
+### Wednesday, March 20 ([slides](https://docs.google.com/presentation/d/1W5g-nuDXtJf73MbJwEOmdLzGrjJEY0Sxt1p9oOXyBmY/edit?usp=sharing))
 - Race and Slavery: Aristotle's Politics
 - **Homework (due before class)**: Read the following selections from [Aristotle's *Politics*](https://drive.google.com/file/d/1RL9BHDKR0tv9b-9b6NzH5Uwn04wH1QU1/view?usp=sharing) on natural slavery.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #6 due.
@@ -136,12 +136,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 9 (3/25 - 3/29)
 
-### Monday, March 25
+### Monday, March 25 ([slides](https://docs.google.com/presentation/d/1LXLhQIqt4YyQSZvuQgrCWBAwj8ZTVu0_0063AXmfApA/edit?usp=sharing))
 - Race and Immigration: Barbarians Inside the Roman Gates
 - **Homework (due before class)**: Read Juvenal's [third Satire](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires3.php) and Dan-el Padilla Peralta's [article](https://eidolon.pub/barbarians-inside-the-gate-part-i-c175057b340f) on Roman immigration fears.
 . 
   
-### Wednesday, March 27
+### Wednesday, March 27 ([slides](https://docs.google.com/presentation/d/1Ttt7-KsxCE2gqFF5rwMfrRLVQVqux5L4FxjxNratX-w/edit?usp=sharing))
 - Race and Empire: Becoming Roman
 - **Homework (due before class)**: Read Woolf's article on [becoming Roman](https://drive.google.com/file/d/1bUbpBz6p58P75VYul8u_XfDKYSCDnwkS/view?usp=drive_link) while staying Greek.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #7 due.
@@ -150,7 +150,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 10 (4/1 - 4/5)
   
-### Wednesday, April 3
+### Wednesday, April 3 ([slides](https://docs.google.com/presentation/d/1mY2Tl_jg7DWOVcIN7SNPJQBXqqG-k6PEQVrQy7YZaXQ/edit?usp=sharing))
 - Race and Empire: Ptolemaic Egypt
 - **Homework (due before class)**: Read McCoskey's [chapter](https://drive.google.com/file/d/1iL_gFlgXu9ws-IDHpWPwv7NYwZoxiN1G/view?usp=sharing) on the racial dynamics and practices of Ptolemaic Egypt.
 
@@ -158,12 +158,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 
 ## Week 11 (4/8 - 4/12)
 
-### Monday, April 8
+### Monday, April 8 ([slides](https://docs.google.com/presentation/d/1908VrdyJPH_Aj9NgCgrVYWwyhOnktCuVJJeF8uwlkhY/edit?usp=sharing))
 - Race and Empire: Carthage
-- **Assessment**: [Creative project #2] due between 4/5 and 4/9.
+- **Assessment**: [Creative project #2](https://dominicmachado.github.io/creative-projects-clas199-s24#creative-project-2-deep-engagement-option-a) due between 4/5 and 4/9.
   
 ### Wednesday, April 10
-- Race and Gender: Intersectionality in the Greco-Roman World
+- Race and Gender: Intersectionality in the Greco-Roman World (Part 1)
 - **Homework (due before class)**: Read Shelley Haley's [chapter](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=sharing) on the intersection of race and gender in the Greco-Roman world.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
@@ -172,12 +172,12 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/15 - 4/19)
 
 ### Monday, April 15
-- Race and Religion: The Ancient Origins of Anti-Semitism
-- **Homework (due before class)**:
+- Race and Gender: Intersectionality in the Greco-Roman World (Part 2)
+- **Homework (due before class)**: Read Shelley Haley's [chapter](https://ms.fortresspress.com/downloads/0800663403_Chapter%20one.pdf) on the application of critical race theory to studies of race and gender in the Greco-Roman world.
   
 ### Wednesday, April 17
-- Race and Religion: Racialization and the Birth of Christianity
-- **Homework (due before class)**: 
+- Race and Religion: The Origins of Anti-Semitism in the Ancient World
+- **Homework (due before class)**: Read the excerpts from Kennedy, Roy, and Goldman on
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
 ***
@@ -185,19 +185,19 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/22 - 4/26)
 
 ### Monday, April 22
-- Color Prejudice in the Ancient World: Whiteness Reconsidered
-- **Homework (due before class)**: Read James Dee's [article](https://drive.google.com/file/d/1ICSEPKuPBpjm-tlve4KgbmyBqgtzh63S/view?usp=sharing) on the invention of whiteness. 
+- Race and Religion: Racializing Christians in the Ancient World
+- **Homework (due before class)**:  
 
 ***
 
 ## Week 14 (4/29 - 5/3)
 
 ### Monday, April 29
-- Color Prejudice in the Ancient World: Blackness Reconsidered, Part 1
-- **Homework (due before class)**: Read Shelley Haley's [article](https://drive.google.com/file/d/1iU32VSUU0ekve0jq0ZDxrtJ-y8agne_f/view?usp=sharing) on the ways in which modern Blackness shapes our readings of ancient color. 
+- Color Prejudice in the Ancient World: Whiteness and Blackness, Part 1
+- **Homework (due before class)**: Read James Dee's [article](https://drive.google.com/file/d/1ICSEPKuPBpjm-tlve4KgbmyBqgtzh63S/view?usp=sharing) on the invention of whiteness. 
   
 ### Wednesday, May 1
-- Color Prejudice in the Ancient World: Blackness Reconsidered, Part 2
+- Color Prejudice in the Ancient World: Whiteness and Blackness, Part 2
 - **Homework (due before class)**: Read Sarah Derbrew's [chapter](https://drive.google.com/file/d/17lHLBrr0HpMPy0q5fOUGgzfJJwAF3syT/view?usp=sharing) on Blackness in ancient art. 
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #10 due.
 
