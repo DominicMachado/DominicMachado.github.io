@@ -9,7 +9,6 @@ nav_order: 5
 ***
 
 # Final Exam - CLAS 199 - S24
-&nbsp;
 
 ***
 
