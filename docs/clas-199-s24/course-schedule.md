@@ -163,7 +163,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 - **Assessment**: [Creative project #2](https://dominicmachado.github.io/creative-projects-clas199-s24#creative-project-2-deep-engagement-option-a) due between 4/5 and 4/9.
   
 ### Wednesday, April 10
-- Race and Gender: Intersectionality in the Greco-Roman World (Part 1)
+- Race and Gender: Intersectionality in the Greco-Roman World (Part 1) ([slides](https://docs.google.com/presentation/d/1eTm-tqZ0pkTtNsDJ1yfxZkBT1yxHXLF7VBNAh6s48Yc/edit?usp=sharing))
 - **Homework (due before class)**: Read Shelley Haley's [chapter](https://drive.google.com/file/d/1w4VLTuGErdsmS7Xon8PveBIr0GmRIrAn/view?usp=sharing) on the intersection of race and gender in the Greco-Roman world.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #8 due.
 
@@ -172,11 +172,11 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 12 (4/15 - 4/19)
 
 ### Monday, April 15
-- Race and Gender: Intersectionality in the Greco-Roman World (Part 2)
+- Race and Gender: Intersectionality in the Greco-Roman World (Part 2) ([slides](https://docs.google.com/presentation/d/1mTehCbZPODh35PKq6MZnGTBnJp3B5BUL9CFZgWdd-FE/edit?usp=sharing))
 - **Homework (due before class)**: Read Shelley Haley's [chapter](https://ms.fortresspress.com/downloads/0800663403_Chapter%20one.pdf) on the application of critical race theory to studies of race and gender in the Greco-Roman world.
   
 ### Wednesday, April 17
-- Race and Religion: The Origins of Anti-Semitism in the Ancient World
+- Race and Religion: The Origins of Anti-Semitism in the Ancient World ([slides](https://docs.google.com/presentation/d/1GQxl85U_rEoqEvxztexFuOfwMKjrPmi4wSqo6Hdwb4Q/edit?usp=sharing))
 - **Homework (due before class)**: Read the [excerpts](https://drive.google.com/file/d/1V_4H5Oan2YzAhFGWcI7Al1MCBlJVPj9W/view?usp=drive_link) from Kennedy, Roy, and Goldman on depictions of Jews in antiquity.
 - **Assessment**: [Commonplace Book](https://dominicmachado.github.io/commonplace-book-clas199-s24) entry #9 due.
 
@@ -185,7 +185,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 13 (4/22 - 4/26)
 
 ### Monday, April 22
-- Race and Religion: Racializing Christians in the Ancient World
+- Race and Religion: Racializing Christians in the Ancient World ([slides](https://docs.google.com/presentation/d/1rZwCYcyDduLf2ws1zbMVpoE1v8snoLhkx3q9F8FGc1w/edit?usp=sharing))
 - **Homework (due before class)**: Read the following [excerpts](https://docs.google.com/document/d/1orlxNpzVZIuEeRY1APvd5V6Gq2x1T7wu9bwDvpd5jrA/edit?usp=sharing) from Minucius Felix's defense of Christianity in antiquity. 
 
 ***
@@ -193,7 +193,7 @@ This schedule links  to the notes and charts that you'll need throughout the sem
 ## Week 14 (4/29 - 5/3)
 
 ### Monday, April 29
-- Color Prejudice in the Ancient World: Whiteness and Blackness, Part 1
+- Color Prejudice in the Ancient World: Whiteness and Blackness, Part 1 ([slides](https://docs.google.com/presentation/d/1tNH9rMpEk1wwyR9wEBt8eDdfbsHF1WJJ4KHtRwd45U4/edit?usp=sharing))
 - **Homework (due before class)**: Read Sarah Debrew's [chapter](https://drive.google.com/file/d/17lHLBrr0HpMPy0q5fOUGgzfJJwAF3syT/view?usp=sharing) on the depiction of Blackness in art. 
   
 ### Wednesday, May 1
